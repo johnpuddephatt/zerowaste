@@ -99,7 +99,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.fallbackWidth = 540;
 
   const createMarkup = (path, alt, className, width, height, sizes, resize) => {
-    const src = `//res.cloudinary.com/${ eleventyConfig.cloudinary }/image/fetch/${ width ? 'w_' + width : '' }${ height ? ',h_' + height : '' }${process.env.URL + path.split(" ").join("%20")}`;
+    const src = `//res.cloudinary.com/${ eleventyConfig.cloudinary }/image/fetch/${ width ? 'w_' + width : '' }${ height ? ',h_' + height : '' },q_80/${process.env.URL + path.split(" ").join("%20")}`;
     const srcset = eleventyConfig.srcsetWidths.map(w => {
       return `//res.cloudinary.com/${ eleventyConfig.cloudinary }/image/fetch/${ w ? 'w_' + w : '' }${ (height && width) ? ',h_' + Math.floor(height/width * w) : '' },q_80/${process.env.URL + path.split(" ").join("%20")} ${w}w`;
     }).join(', ');
