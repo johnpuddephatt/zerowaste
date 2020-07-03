@@ -1,0 +1,8 @@
+<div class="funders--grid">
+{% for supporter in supporters.supporters %}
+<div class="funders--item">
+{% srcset supporter.logo, "Funders’ logo", "funders--item--image", 240, 240, "(min-width: 1120px) 200px, 30vw" %}
+<h3 class="funders--item--title">{{ supporter.name }}</h3>
+</div>
+{% endfor %}
+</div>

@@ -1,0 +1,35 @@
+---
+layout: /layouts/base.njk
+---
+<div class="page-content">
+
+  <div class="page-header">
+    <div class="container">
+      {% if image %}
+        <div class="page-image-container">
+          {% srcset image, image_alt, "post__image", 640, 360, "(min-width: 1120px) 1120px, 100vw" %}
+        </div>
+      {% endif %}
+      <div>
+        {% if tags %}<p class="pre-title">{{ tags | first | capitalize }}</p>{% endif %}
+        <h1 class="page-title">{{ title }}</h1>
+        
+      </div>
+    </div>
+  </div>
+
+  <div class="page-body container container__narrow">
+    {{ content | safe }}
+
+    {% if ideas_link %}
+      <a href="{{ ideas_link }}" class="button_alt ideas-link" target="_blank">Add your idea to our planning document</a>
+    {% endif %}
+  </div>
+
+
+  <div class="page-comments container container__narrow">
+    <div id="commento"></div>
+    <script src="https://commento.letsdance.agency/js/commento.js"></script>
+  </div>
+
+</div>

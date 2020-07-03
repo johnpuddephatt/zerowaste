@@ -1,0 +1,54 @@
+// Screen sizes
+$medium-screen: 720px;
+$large-screen: 1120px;
+$xl-screen: 1400px;
+
+// Typography
+$max-line-length: 45rem;
+$base-font-family: 'Nunito Sans', sans-serif;
+$heading-font-family: 'Grilled Cheese', $base-font-family;
+$base-letter-spacing: 0.015em;
+$heading-letter-spacing: 0em;
+
+// Line height
+$base-line-height: 1.6;
+$heading-line-height: 1.25;
+
+// Other Sizes
+$base-border-radius: 3px;
+$base-spacing: 1.5rem;
+$small-spacing: $base-spacing / 2;
+$base-z-index: 0;
+
+// Colors
+$blue: #377780;
+$dark-blue: #2B686D;
+$lightblue: #A2CFE4;
+$orange: #f89d33;
+$gray: #D3DBDC;
+$dark-gray: #686867;
+$black: #000000;
+$pink: #F8BDD4;
+
+// Font Colors
+$base-font-color: $black;
+$action-color: $blue;
+
+// Border
+$base-border-color: $gray;
+$base-border: 1px solid $base-border-color;
+
+$base-box-shadow: 0 0.5em 1em -0.125em rgba($black, 0.1), 0 0px 0 1px rgba($black, 0.02);
+
+// Background Colors
+$viewport-background-color: #fff;
+
+// Focus
+$focus-outline-color: transparentize($action-color, 0.4);
+$focus-outline-width: 3px;
+$focus-outline: $focus-outline-width solid $focus-outline-color;
+$focus-outline-offset: 2px;
+
+// Animations
+$base-duration: 150ms;
+$base-timing: ease;

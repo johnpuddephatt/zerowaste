@@ -1,0 +1,4 @@
+{
+  "permalink": "/tag/{{ slug }}/index.html",
+  "layout" : "layouts/tag.njk"
+}

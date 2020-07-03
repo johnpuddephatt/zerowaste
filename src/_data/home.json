@@ -1,0 +1,72 @@
+{
+  "blog": {
+    "title": "Our thinking",
+    "subtitle": "Our latest thoughts on current issues"
+  },
+  "join": {
+    "title": "Join our movement",
+    "description": "Every step of our journey we’re uncovering more people in Leeds who are curious, serious or passionate about reducing their waste. If you’re one of those people, join us."
+  },
+  "intro": {
+    "title": "Our projects",
+    "subtitle": "What we’re currently working on",
+    "headline": "Recycling on-the-go",
+    "description": "[\\#LeedsByExample on-the-go recycling](https://www.zerowasteleeds.org.uk/tips/recycling-whilst-youre-out-and-about-in-leeds-city-centre/) is back! In lockdown we focused on [StayAtHome waste reduction](https://www.zerowasteleeds.org.uk/posts/how-can-we-build-back-better-together/) but as our city opens up again, we're back promoting the benefits of recycling coffee cups, cans and plastic bottles.  \n\n[Leeds truly leads the way](https://www.zerowasteleeds.org.uk/posts/leedsbyexample-on-the-go-recycling/) on this - recycling rates tripled from 17% to 49% and it's being rolled out to other UK cities. We'll be building on that success, as well as adapting to reflect the times by providing practical support to people and businesses to help them waste less.   See regular updates on [Facebook](https://www.facebook.com/zerowasteleeds/), [Twitter](https://twitter.com/ZeroWasteLeeds) and [Instagram](https://www.instagram.com/zerowasteleeds/)."
+  },
+  "get_involved": {
+    "title": "Get involved",
+    "subtitle": "Issues we’re currently looking into in Leeds"
+  },
+  "hire": {
+    "title": "Need help? \n Hire us!",
+    "description": "We know lots of organisations in Leeds want to reduce their waste or help the people they work with reduce theirs.\n\n **That’s where we help** – supporting businesses, events, schools and communities work towards zero waste.",
+    "link": {
+      "text": "Talk to us",
+      "url": "mailto:info@zerowasteleeds.org.uk"
+    }
+  },
+  "supporters": {
+    "title": "Our supporters",
+    "description": "We’re building a movement. That means everything we do is collaborative and in partnership with others. See who we’re partnering with and who’s helping fund our work here.",
+    "link": {
+      "text": "Read more",
+      "url": "/pages/supporters/"
+    }
+  },
+  "tips": {
+    "title": "Our top tips",
+    "subtitle": "Ways to start reducing your waste"
+  },
+  "projects": [
+    {
+      "title": "Zero Waste Fashion",
+      "description": "We launched Zero Waste Fashion to help make it easier for people to recycle, reuse and repair clothing and textiles.  We want to reduce the amount of clothing that ends of up in household bins -  currently 4000 tonnes per year.  See our map of all the textile banks, charity shops, repair shops, sewing classes and clothes exchanges in Leeds.",
+      "link": {
+        "text": "See our Zero Waste Fashion website",
+        "url": "https://zerowastefashion.fashion.blog/"
+      }
+    },
+    {
+      "title": "School uniform re-use",
+      "description": "Wasting good quality school uniform makes no sense.  It's bad for the environment and in a city with 33,000 children living in poverty, school uniform is an added expense that many can't afford. This is the starting point for our uniform reuse project.",
+      "link": {
+        "url": "https://www.zerowasteleeds.org.uk/pipeline/school-uniform/",
+        "text": "Want to get involved?"
+      }
+    }
+  ],
+  "hero": {
+    "link": {
+      "text": "See the latest updates on bins, waste and recycling",
+      "url": "#home-intro"
+    }
+  },
+  "ideas": {
+    "title": "Got an idea?",
+    "description": "All the work we do begins with an idea. If there’s an issue in Leeds you think we should look into, tell us about it.",
+    "link": {
+      "text": "Let us know!",
+      "url": "mailto:info@zerowasteleeds.org.uk"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "supporters": [
+    {
+      "name": "Hubbub",
+      "logo": "/uploads/hubbub.jpg"
+    },
+    {
+      "name": "University of Leeds",
+      "logo": "/uploads/UniversityOfLeedsLogo.png"
+    },
+    {
+      "name": "RSA",
+      "logo": "/uploads/RSALogo.png"
+    },
+    {
+      "name": "Leeds City Council",
+      "logo": "/uploads/LeedsCityCouncilLogo.png"
+    },
+    {
+      "name": "Esmee Fairbairn Foundation",
+      "logo": "/uploads/EsmeeFairbairnLogo.jpg"
+    },
+    {
+      "name": "True North TV",
+      "logo": "/uploads/TrueNorthLogo.png"
+    }
+  ]
+}

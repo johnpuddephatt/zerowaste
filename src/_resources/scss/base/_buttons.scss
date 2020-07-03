@@ -1,0 +1,92 @@
+$_button-background-color: $action-color;
+$_button-background-color-hover: shade($action-color, 20%);
+
+.button_alt {
+  border: 0.1em solid $pink;
+  border-radius: $base-border-radius;
+  font-weight: 900;
+  padding: 0.5em 1em;
+  color: $black;
+  text-decoration: none;
+  text-transform: lowercase;
+  transition: background-color $base-duration $base-timing, color $base-duration $base-timing;
+
+  &__large {
+    font-size: modular-scale(2);
+  }
+
+  &:hover {
+    background-color: $pink;
+    color: $black;
+  }
+}
+
+#{$all-buttons} {
+  clip-path: polygon(1% 6%, 97% 0%, 100% 100%, 1% 92%);
+  &.type-2 {
+    clip-path: polygon(2% 1%, 98% 2%, 99% 95%, 0% 92%);
+  }
+  &.type-3 {
+    clip-path: polygon(4% 8%, 97% 0%, 100% 95%, 2% 98%);
+  }
+  &.type-4 {
+    clip-path: polygon(1% 1%, 92% 1%, 98% 97%, 2% 100%);
+  }
+  &.type-5 {
+    clip-path: polygon(3% 5%, 99% 2%, 95% 95%, 5% 95%);
+  }
+  appearance: none;
+  background-color: $black;
+  border: 0;
+  color: white;
+  cursor: pointer;
+  display: inline-block;
+  font-family: $base-font-family;
+  font-size: modular-scale(0);
+  -webkit-font-smoothing: antialiased;
+  font-weight: 600;
+  line-height: 1;
+  padding: $small-spacing/2 $base-spacing/2;
+  text-align: center;
+  text-decoration: none;
+  text-transform: lowercase;
+  transition: background-color $base-duration $base-timing;
+  user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+
+  &:hover {
+    background-color: $_button-background-color-hover;
+    color: contrast-switch($_button-background-color-hover);
+  }
+
+  &:focus {
+    outline: $focus-outline;
+    outline-offset: $focus-outline-offset;
+  }
+
+  &:disabled {
+    cursor: not-allowed;
+    opacity: 0.5;
+
+    &:hover {
+      background-color: $_button-background-color;
+    }
+  }
+}
+
+.button__large {
+  font-size: modular-scale(1);
+  font-family: $heading-font-family;
+  padding: $small-spacing $base-spacing;
+  text-transform: uppercase;
+}
+
+.button__inverted {
+  background-color: white;
+  color: $black;
+}
+
+.button__read-more {
+  margin: 2 * $base-spacing auto 0;
+}

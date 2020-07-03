@@ -1,0 +1,104 @@
+.section__home-thinking {
+  padding: 4 * $base-spacing 0;
+  @media screen and (min-width: $large-screen) {
+    padding: 6 * $base-spacing 0;
+  }
+  .section-title,
+  .section-subtitle {
+    text-align: center;
+  }
+  .container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 2 * $base-spacing;
+    margin-bottom: 3 * $base-spacing;
+    @media screen and (min-width: $medium-screen) {
+      flex-direction: row;
+      justify-content: space-between;
+    }
+  }
+}
+
+.thinking__featured-item {
+  flex: 0 0 50%;
+  transition: box-shadow 0.5s, transform 0.5s;
+  padding: $base-spacing;
+  border-radius: $base-border-radius;
+
+  &:hover {
+    color: inherit;
+    box-shadow: $base-box-shadow;
+    transform: translateY(-$small-spacing/2);
+  }
+
+  @media screen and (min-width: $medium-screen) {
+    margin-left: -$base-spacing;
+  }
+  .thinking__item__image {
+    margin-bottom: $small-spacing;
+    img {
+      width: 100%;
+    }
+  }
+  p {
+    color: $dark-gray;
+  }
+}
+
+.thinking__sidebar {
+  flex: 0 0 47.5%;
+  .thinking__item {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 0;
+    transition: box-shadow 0.5s, transform 0.5s;
+    padding: $base-spacing;
+    border-radius: $base-border-radius;
+
+    &:hover {
+      color: inherit;
+      box-shadow: $base-box-shadow;
+      transform: translateY(-$small-spacing/2);
+    }
+
+    p {
+      color: $dark-gray;
+      font-size: modular-scale(-1);
+      margin-bottom: $small-spacing;
+    }
+  }
+  .thinking__item__image {
+    display: none;
+    @media screen and (min-width: $medium-screen) {
+      display: block;
+      flex: 0 0 30%;
+    }
+  }
+  .thinking__item__text {
+    flex: 1 0 70%;
+    @media screen and (min-width: $medium-screen) {
+      padding-left: $base-spacing;
+    }
+  }
+
+  .thinking__item__title {
+    font-size: modular-scale(1);
+    @media screen and (min-width: $medium-screen) {
+      font-size: modular-scale(0);
+    }
+  }
+
+
+}
+
+.thinking__item__title {
+  font-family: $base-font-family;
+  letter-spacing: 0;
+  text-transform: none;
+  font-size: modular-scale(2);
+  margin-bottom: $small-spacing/2;
+  @media screen and (min-width: $medium-screen) {
+    font-size: modular-scale(1);
+  }
+}
+

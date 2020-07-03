@@ -1,0 +1,14 @@
+<ul class="social-accounts">
+    {% if social.twitter %}
+      <li><a title="Twitter" href="//twitter.com/{{ social.twitter}}" target="_blank">{% include "icons/twitter.svg" %}</a></li>
+    {% endif %}
+    {% if social.facebook %}
+      <li><a title="Facebook" href="//facebook.com/{{ social.facebook}}" target="_blank">{% include "icons/facebook.svg" %}</a></li>
+    {% endif %}
+    {% if social.linkedin %}
+      <li><a title="LinkedIn" href="//linkedin.com/company/{{ social.linkedin}}" target="_blank">{% include "icons/linkedin.svg" %}</a></li>
+    {% endif %}
+    {% if social.instagram %}
+      <li><a title="Instagram" href="//instagram.com/{{ social.instagram}}" target="_blank">{% include "icons/instagram.svg" %}</a></li>
+    {% endif %}
+</ul>

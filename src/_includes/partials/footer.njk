@@ -1,0 +1,18 @@
+<section class="section__home-join">
+  <div class="container footer--primary">
+    {% include "join.svg" %}
+    <div class="join__text">
+      <h2 class="section-title">{{ home.join.title | nl2br | safe }}</h2>
+      {{ home.join.description | markdownify | safe }}
+      <form method="GET" action="https://facebook.us12.list-manage.com/subscribe?u=1cd16eceafaf236854a3cf974&id=b25aefdbd9" class="join__form">
+        <input type="text" name="MERGE0" placeholder="Enter your email">
+        <input type="hidden" name="u" value="1cd16eceafaf236854a3cf974">
+        <input type="hidden" name="id" value="b25aefdbd9">
+        <input type="submit" value="Join us" class="button button__large type-4" href="mailto:info@zerowasteleeds.org.uk">
+      </form>
+    </div>
+  </div>
+  <div class="container footer--secondary">
+    <p>Zero Waste Leeds is a project by <a href="http://www.socialbusinessbrokers.co.uk/">Social Business Brokers CIC</a> - a registered company in England and Wales 07272068.</p>
+  </div>
+</section>

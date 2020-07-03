@@ -1,0 +1,19 @@
+figure {
+  margin: $base-spacing 0;
+}
+
+img,
+picture {
+  margin: 0;
+  max-width: 100%;
+}
+
+img + figcaption {
+  background-color: $gray;
+  padding: $small-spacing/2 $base-spacing;
+  text-align: center;
+}
+
+figure img {
+  margin-bottom: 0 !important;
+}

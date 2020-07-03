@@ -1,0 +1,51 @@
+.section__home-ideas {
+  padding: 2 * $base-spacing 0 4 * $base-spacing;
+  @media screen and (min-width: $medium-screen) {
+    padding: 4 * $base-spacing 0;
+  }
+  background-color: $lightblue;
+  text-align: center;
+  @media screen and (min-width: $medium-screen) {
+    text-align: left;
+  }
+  svg {
+    flex: 0 0 33%;
+    max-width: 15em;
+    align-self: flex-start;
+    @media screen and (min-width: $medium-screen) {
+      // align-self: initial;
+      max-width: 20em;
+    }
+  }
+  .container {
+    @media screen and (min-width: $medium-screen) {
+      display: flex;
+      align-items: center;
+      flex-direction: row;
+    }
+    max-width: .8 * $large-screen;
+  }
+  .section-title {
+    @media screen and (min-width: $medium-screen) {
+      text-align: left;
+    }
+    padding: 0;
+    margin-bottom: $small-spacing;
+  }
+  p {
+    max-width: 30em;
+    display: none;
+    @media screen and (min-width: $medium-screen) {
+      display: block;
+    }
+  }
+  .button {
+    margin-top: $base-spacing;
+  }
+}
+
+.ideas__text {
+  @media screen and (min-width: $medium-screen) {
+    margin-left: 2 * $base-spacing;
+  }
+}

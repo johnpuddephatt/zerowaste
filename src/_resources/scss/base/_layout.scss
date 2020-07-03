@@ -1,0 +1,40 @@
+html {
+  background-color: $viewport-background-color;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+}
+
+
+%container {
+  padding: 0 $base-spacing;
+  max-width: $large-screen;
+  margin: 0 auto;
+}
+
+.container {
+  @extend %container;
+
+  &__wide {
+    max-width: none;
+  }
+  &__narrow {
+    max-width: $max-line-length;
+  }
+}
+
+.align-center {
+  text-align: center;
+}

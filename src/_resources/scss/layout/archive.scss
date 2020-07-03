@@ -1,0 +1,121 @@
+.section__archive {
+  padding: 4 * $base-spacing 0;
+  .archive--wrapper {
+    margin-left: -$base-spacing;
+    margin-right: -$base-spacing;
+    display: flex;
+    flex-direction: column;
+    @media screen and (min-width: $medium-screen) {
+      flex-direction: row;
+    }
+    flex-wrap: wrap;
+  }
+  .section-header {
+    margin-bottom: 3 * $base-spacing;
+
+    &__tag {
+      .container {
+        text-align: left;
+        display: flex;
+        flex-direction: column-reverse;
+        @media screen and (min-width: $medium-screen) {
+          flex-direction: row;
+        }
+      }
+
+      .page-title {
+        text-align: left;
+        margin-top: $small-spacing;
+        margin-bottom: $base-spacing;
+        padding-bottom: 0;
+        &::after {
+          content: none;
+        }
+      }
+      .section-subtitle {
+        text-align: left;
+      }
+    }
+
+    &--text {
+      flex: 0 0 50%;
+      // margin-right: 2 * $base-spacing;
+    }
+
+    &--image {
+      flex: 1;
+      position: relative;
+      margin-bottom: $base-spacing;
+
+      @media screen and (min-width: $medium-screen) {
+        margin-bottom: 0;
+        margin-left: $base-spacing;
+      }
+
+      .main-image {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+    }
+  }
+}
+
+
+.section-header--icon {
+  position: absolute;
+  width: 4 * $base-spacing;
+  height: auto;
+  top: -1.5 * $small-spacing;
+  right: -$small-spacing;
+  image-rendering: -webkit-optimize-contrast;
+}
+
+.archive__article {
+  display: flex;
+  flex-direction: row;
+  margin: 1.5 * $base-spacing 0 0;
+  padding: $small-spacing;
+  @media screen and (min-width: $medium-screen) {
+    align-items: center;
+    flex: 0 0 calc(25% - #{ $small-spacing});
+    flex-direction: column;
+    margin: 0 $small-spacing/2 3 * $base-spacing;
+  }
+}
+
+.archive__image {
+  flex: 0 0 30%;
+  margin-right: $base-spacing;
+  img {
+    width: 100%;
+  }
+  @media screen and (min-width: $medium-screen) {
+    margin-bottom: $base-spacing;
+    margin-right: 0;
+  }
+}
+
+.archive__text {
+  @media screen and (min-width: $medium-screen) {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    width: 100%;
+    p {
+      color: $dark-gray;
+      font-size: modular-scale(-1);
+    }
+    .read-more {
+      margin-top: auto;
+      margin-right: auto;
+    }
+  }
+}
+
+.archive__title {
+  font-size: modular-scale(1);
+  font-family: $base-font-family;
+  letter-spacing: 0;
+  text-transform: none;
+}

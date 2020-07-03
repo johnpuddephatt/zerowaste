@@ -1,0 +1,36 @@
+.site-header {
+  svg path {
+    fill: $action-color;
+  }
+  body.index & {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    svg path {
+      fill: white
+    }
+  }
+  padding-top: $base-spacing;
+  padding-bottom: $base-spacing;
+
+  .container {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+  }
+
+  .social-accounts {
+    display: flex;
+    flex-direction: row;
+
+    li {
+      margin-right: $small-spacing;
+    }
+
+    svg {
+      width: 1.75 * $base-spacing;
+      height: 1.75 * $base-spacing;
+      display: inline-block;
+    }
+  }
+}

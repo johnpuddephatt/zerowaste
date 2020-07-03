@@ -1,0 +1,31 @@
+---
+layout: /layouts/base.njk
+---
+<section class="section__archive">
+
+  <header class="section-header">
+    <div class="container">
+      <h2 class="page-title">{{ title }}</h2>
+      {% if subtitle %}<p class="section-subtitle">{{ subtitle}}</p>{% endif %}
+    </div>
+  </header>
+
+  <div class="container">
+    <div class="archive--wrapper">
+
+      {% for item in collections[collection] | reverse -%}
+      <div class="archive__article">
+        <a href="{{item.url}}" class="archive__image">
+          {% srcset item.data.image, item.data.image_alt, null, 300, 300, "(min-width: 1120px) 300px, 25vw" %}
+        </a>
+        <div class="archive__text">
+          <h3 class="archive__title">{{ item.data.title }}</h3>
+          <p>{{ item.templateContent | striptags | truncate(85) | safe }}</p>
+          <a class="read-more" href="{{ item.url }}">Read more</a>
+        </div>
+      </div>
+      {% endfor %}
+
+    </div>
+  </div>
+</section>

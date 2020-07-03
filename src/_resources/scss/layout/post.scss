@@ -1,0 +1,99 @@
+.page-header {
+  .container {
+    display: flex;
+    flex-direction: column;
+    @media screen and (min-width: $medium-screen) {
+      flex-direction: row;
+    }
+  }
+}
+
+.page-title {
+  font-size: modular-scale(5);
+  margin: 2 * $base-spacing 0 0;
+  padding-bottom: 0.5em;
+  @media screen and (min-width: $medium-screen) {
+    margin: $small-spacing 0;
+  }
+}
+
+.page-content {
+  margin-top: 4 * $base-spacing;
+  margin-bottom: 6 * $base-spacing;
+}
+
+.page-image-container {
+  flex: 0 0 50%;
+  @media screen and (min-width: $medium-screen) {
+    margin-right: $base-spacing;
+  }
+  img {
+    display: block;
+  }
+}
+
+.page-body {
+  margin-top: 3 * $base-spacing;
+  @extend %pretty_links;
+
+  &::before,
+  &::after {
+    display: block;
+    content: '';
+    height: $base-spacing;
+    width: 60%;
+    margin: 1.5 * $base-spacing auto;
+    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="495.3" height="12.8" viewBox="0 0 495.3 12.8"><path d="M7.7 7.9c41.7-3.4 83.8.7 125.8.5 41.5-.1 83 1.4 124.4.9C297 9 336.2 14 375.2 12.5c35-1.4 69.8-3.2 104.9-3.1 3.8 0 22.7-6.2 12-6.8-3.7-.1-7.4-.4-11.1-.5-4.6-.3-24.9 6.2-14.4 6.8 3.7.1 7.4.4 11.1.5 4-2.3 8-4.5 12-6.8-35.1-.4-69.7 1.6-104.8 3-41.3 1.6-83-3.4-124.5-3-41.3.4-82.7-.9-124.1-.9C94.7 1.6 53.5-1.9 12 1.5c-8.7.6-19.7 7.7-4.3 6.4z"/></svg>');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  img {
+    display: block;
+    margin: 2 * $base-spacing auto;
+    max-width: 70%;
+  }
+  iframe {
+    display: block;
+    margin: 2 * $base-spacing auto;
+    width: calc(100% + #{2 * $base-spacing});
+    margin-left: -$base-spacing;
+  }
+  p:first-child {
+    font-size: modular-scale(1);
+    margin: $base-spacing 0;
+    font-weight: 900;
+  }
+  h2, h3 {
+    margin-top: 2 * $base-spacing;
+    margin-bottom: $base-spacing;
+  }
+  h2 {
+    font-size: modular-scale(2);
+  }
+  h3 {
+    font-family: $base-font-family;
+    font-weight: 700;
+    text-transform: none;
+  }
+  ul,ol {
+    margin: $base-spacing 0;
+  }
+  li {
+    list-style-type: disc;
+    margin-left: 1.5 * $base-spacing;
+  }
+  ol li {
+    list-style-type: decimal;
+  }
+  li + li {
+    margin-top: $small-spacing;
+  }
+
+}
+
+.ideas-link {
+  margin-top: $base-spacing;
+  background-color: $blue;
+}

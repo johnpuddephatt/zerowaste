@@ -1,0 +1,41 @@
+{% extends "extends/html5boilerplate.njk" %}
+
+{% set title = (title + " - " + site.title) if title else (site.title + " - " + site.description) %}
+{% set description = (description) if description else (site.description) %}
+{% set lang = lang | default(site.lang) %}
+
+{% block headStyles %}
+    {% include "partials/styles.njk" %}
+{% endblock %}
+
+{% block headMisc %}
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="apple-touch-icon" href="/assets/img/icon.png">
+
+    <meta property="og:title" content="{{ title }}" />
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+
+    {% if image %}
+      <meta property="og:image" content="{{ site.url }}{{ image }}" />
+    {% else %}
+      <meta property="og:image" content="{{ site.url }}/assets/images/default-og.jpg" />
+    {% endif %}
+
+    <meta property="og:description" content="{{ description }}" />
+
+{% endblock %}
+
+{% block body %}
+    {% include "partials/header.njk" %}
+
+    {{ super() }}
+
+    {{ content | safe }}
+
+    {% include "partials/footer.njk" %}
+{% endblock %}
+
+{% block bodyScripts %}
+    {% include "partials/scripts.njk" %}
+{% endblock %}
