@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Our partners and funders
-intro: "Everything we do is collaborative and in partnership with others."
+intro: Everything we do is collaborative and in partnership with others.
 date: 2020-03-01T23:00:00.000Z
 ---
 We’re building a movement to help make Leeds a zero waste city by 2030.  We do this by starting conversations, listening to and sharing people’s ideas, and testing new solutions.
@@ -12,7 +12,7 @@ Everything we do is collaborative and in partnership with others.
 
 ## Our partners and funders
 
-We’re proud to have partnered with these local and national organisations on one or more of our projects.
+We’re proud to have partnered with these local and national organisations on one or more of our projects:
 
 {% include widgets/supporters %}
 
