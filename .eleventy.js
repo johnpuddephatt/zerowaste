@@ -125,7 +125,7 @@ module.exports = function(eleventyConfig) {
   const updateImage = async imgElem => {
     let path = imgElem.src;
     let imageExtension = path.split('.').pop();
-    if(imageExtension != 'svg' && path.startsWith("/")) {
+    if(imageExtension != 'svg' && !path.startsWith("http")) {
       let alt = imgElem.alt | '';
       let className = 'post-image';
       let sizes = `(min-width: ${ eleventyConfig.fallbackWidth || 800 }px) ${ eleventyConfig.fallbackWidth || 800 }px, 100vw`;
