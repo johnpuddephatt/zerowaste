@@ -124,14 +124,14 @@ module.exports = function(eleventyConfig) {
 
   const updateImage = async imgElem => {
     let path = imgElem.src;
-    let alt = imgElem.alt | '';
-    let className = 'post-image';
-    let sizes = `(min-width: ${ eleventyConfig.fallbackWidth || 800 }px) ${ eleventyConfig.fallbackWidth || 800 }px, 100vw`;
-    let resize = eleventyConfig.autoResizeMode || 'fit';
     let imageExtension = path.split('.').pop();
-    let height = eleventyConfig.fallbackHeight || null;
-    let width = eleventyConfig.fallbackWidth || 800;
-    if(imageExtension != 'svg') {
+    if(imageExtension != 'svg' && path.startsWith("/")) {
+      let alt = imgElem.alt | '';
+      let className = 'post-image';
+      let sizes = `(min-width: ${ eleventyConfig.fallbackWidth || 800 }px) ${ eleventyConfig.fallbackWidth || 800 }px, 100vw`;
+      let resize = eleventyConfig.autoResizeMode || 'fit';
+      let height = eleventyConfig.fallbackHeight || null;
+      let width = eleventyConfig.fallbackWidth || 800;
       let newMarkup = createMarkup(path, alt, className, width, height, sizes, resize);
       imgElem.insertAdjacentHTML('afterend', newMarkup);
       imgElem.remove();
