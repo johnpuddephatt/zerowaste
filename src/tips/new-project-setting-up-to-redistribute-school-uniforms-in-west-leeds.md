@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: New project setting up to redistribute school uniforms in west Leeds
+title: New project to redistribute school uniforms in west Leeds
 date: 2020-07-10T10:59:47.973Z
 tags: stuff
 image: /uploads/schooluniformprojectiimage1.png
