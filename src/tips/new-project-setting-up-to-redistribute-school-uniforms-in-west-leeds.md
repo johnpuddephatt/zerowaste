@@ -22,7 +22,7 @@ Families will then be able to request uniform via the project's website - with u
 
 More information on all of this will be available in the coming weeks.
 
-We love the sound of all of this - particularly the involvement of local schools, and key community organisations.  
+We love the sound of all of this - particularly the involvement of local schools, and key community organisations.  It's great too to tap into the desire that local people have to do something practical where they live. 
 
 We're also hopeful that this could provide a model for other people to learn from in other parts of the city - our aim is to encourage projects to set up all over Leeds - some run by schools, some by parents, and some by people and organisations in the local community.  
 
