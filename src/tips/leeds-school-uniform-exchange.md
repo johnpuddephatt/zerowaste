@@ -4,6 +4,7 @@ title: Leeds School Uniform Exchange
 date: 2020-07-17T14:00:24.464Z
 tags: stuff
 image: /uploads/untitled-design-10-.png
+image_alt: School uniform
 ---
 We’re building a movement to help Leeds become a Zero Waste City by 2030. As part of that we’re developing a school uniform re-use network to support and map uniform reuse schemes that are already happening across Leeds.
 
