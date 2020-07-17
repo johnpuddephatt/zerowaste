@@ -6,11 +6,11 @@ tags: stuff
 image: /uploads/untitled-design-10-.png
 image_alt: School uniform
 ---
-We’re building a movement to help Leeds become a Zero Waste City by 2030. As part of that we’re developing a school uniform re-use network to support and map uniform reuse schemes that are already up and running across Leeds.
+We’re building a movement to help Leeds become a Zero Waste City by 2030. As part of that we’ve launched a new project to support the development of a network of uniform reuse schemes across Leeds. 
 
-Leeds School Uniform Exchange is a project run by Zero Waste Leeds, with funding from Leeds City Council and [Leeds Community Foundation](https://leedscf.org.uk/)'s Jimbo's Fund.
+We would like to say a massive thank you to Leeds City Council and [Leeds Community Foundation](https://leedscf.org.uk/)'s Jimbo's Fund for their support for this project.
 
-To kick the project off, we have started to pull together a [map of school uniform re-use schemes in Leeds](https://www.google.com/maps/d/u/0/viewer?mid=12f68wxlwJ-MdovH7aQRHCwJyBDkWn-v3&ll=53.79479222009331%2C-1.5229087614461334&z=12), but we need your help! 
+To kick things off, we have started to pull together a [map of school uniform re-use schemes in Leeds](https://www.google.com/maps/d/u/0/viewer?mid=12f68wxlwJ-MdovH7aQRHCwJyBDkWn-v3&ll=53.79479222009331%2C-1.5229087614461334&z=12), but we need your help! 
 
 <iframe src="https://www.google.com/maps/d/embed?mid=12f68wxlwJ-MdovH7aQRHCwJyBDkWn-v3" width="640" height="480"></iframe>
 
