@@ -47,30 +47,32 @@ We are very much about the mainstream.  We're very much into all of this, but ev
 
 So we work hard to be engaging.  High quality, consistent social media content.  Different formats - such as live chats on Facebook with guest speakers.  Information often delivered in bite-size chunks, with a view to people sharing it with friends.  This isn't about dumbing down - but it is about finding ways to keep talking about things in ways that people will find interesting.  
 
-This matters, because we work on a shoestring - and we need our followers - the movement - to share with their friends, neighbours and families.  People are also more likely to trust messages that come from people they know.  All of this helps us to build the movement - from zero just over two years ago, to more than 10,000 social media followers now.
+This matters, because we work on a shoestring - and we need our followers - the *movement* - to share with their friends, neighbours and families.  People are also more likely to trust messages that come from people they know.  All of this helps us to build the movement - from nothing just over two years ago, to more than 10,000 social media followers now.
 
 # Make it easy to get involved, join in, help
 
-This is another key movement-building principle.  This isn't about us - our small under-resourced team at Zero Waste Leeds - doing everything.  Our model is about tapping into other people's desire to get involved - and making it as easy as possible for them to do that.
+This is another key movement-building principle.  This isn't about us - our small under-resourced team at Zero Waste Leeds - doing everything.  Our model is about tapping into other people's desire to get involved - and making it as easy as possible for them to do just that.
 
-Our uniform project is a good example of that.  The work we kicked off (we'd like to do more if any funders are interested) with running clubs was based on the same principle.  What can you do?  And how can we help?  
-
-We believe it's much more powerful if people across Leeds are inspired to set up their own school uniform reuse schemes - rather than us trying to set one big one up ourselves.  
+Our [uniform project](https://www.zerowasteleeds.org.uk/tips/leeds-school-uniform-exchange/?fbclid=IwAR2sAfKuXuFpaXMrFwWXGY04fqApzWmvlnH5BJjd_C5QU2YmMe7w-bcKvb8) is a good example of that.  We're asking:  what can you do?  And how can we help?  Because we believe it's much more powerful if people across Leeds are inspired to set up their own school uniform reuse schemes - rather than us trying to set one big one up ourselves.  
 
 # Share your platform, build ladders all around it
 
-This is a phrase we took from US football turned social justice campaigner Megan Rapinoe.
+This is a phrase we took from US football turned social justice campaigner [Megan Rapinoe](https://www.theguardian.com/football/2019/dec/30/megan-rapinoe-interview-guardian-white-privilege-trump-awards).
 
-We heard her talk about this at an awards ceremony last year.  
+We heard her talk about this at [an awards ceremony last year](https://www.glamour.com/video/watch/women-of-the-year-megan-rapinoe-s-acceptance-speech-2019-women-of-the-year).  
 
-She was talking about the privilege she now enjoys - now that's she's famous - and people listen to her.
 
-She wants to make the most of that platform - and most importantly share that platform with others who may not have that power.
 
-In our own way, we try to do the same.  So much of what we do is about telling good stories of great things happening in our city.  There are lots of individuals, communities, charities, social enterprises and businesses doing good things that can help us to waste less.  A big part of our role is to share the platform we've got - and invite people up.  So again, it's not just about us - it's about all of us.  
+She was talking about the privilege she now enjoys - now that's she's famous. People listen to what she has to say now.
+
+And she wants to make the most of that platform - and most importantly share that platform with others who may not have the same power.
+
+In our own way, we try to do the same.  So much of what we do is about telling good stories of great things happening in our city.  There are lots of individuals, communities, charities, social enterprises and businesses doing good things that can help us to waste less.  A big part of our role is to share the platform we've got - and invite people to join us on that platform.  So again, it's not just about us - it's about *all of us*.  
 
 # What are your thoughts?
 
 So that's more or less what I would have said at the seminar if the technology hadn't failed me.
 
-What do you think?  Is there something in what we're saying here?  Have you spotted other things that we do - that we could perhaps outline as key principles?   Or would you like to challenge anything in our approach - such as the relentless focus on the positive?  We'd love to hear your thoughts - please get in touch on Twitter or Facebook.
+What do you think?  Is there something in what we're saying here?  Have you spotted other things that we do - that we could perhaps include here?   Or would you like to challenge anything in our approach?  
+
+We'd love to hear your thoughts - please get in touch on Twitter or Facebook.
