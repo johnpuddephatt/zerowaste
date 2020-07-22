@@ -61,8 +61,6 @@ This is a phrase we took from US football turned social justice campaigner [Mega
 
 We heard her talk about this at [an awards ceremony last year](https://www.glamour.com/video/watch/women-of-the-year-megan-rapinoe-s-acceptance-speech-2019-women-of-the-year).  
 
-
-
 She was talking about the privilege she now enjoys - now that's she's famous. People listen to what she has to say now.
 
 And she wants to make the most of that platform - and most importantly share that platform with others who may not have the same power.
