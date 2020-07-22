@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Engaging local people in the circular economy
 date: 2020-07-22T12:44:48.848Z
-image: /uploads/carboncopy2.png
+image: /uploads/building-a-movement.jpg
 image_alt: Carbon Copy circular economy event flyer
 ---
 How do you engage mainstream audiences in issues relating to what's often called the "circular economy"?
@@ -12,6 +12,8 @@ This week Rob from Zero Waste Leeds was due to be speaking at an [online seminar
 Unfortunately some mystery technical gremlins scuppered our appearance at the last minute - so we didn't get the chance to give our perspective on this.  
 
 So instead, here's a summary of the main points Rob would have made if we had a fit-for-the-21st-century broadband network....
+
+![Carbon Copy seminar flyer](/uploads/carboncopy2.png "Carbon Copy seminar on the Circular Economy")
 
 # Movement building
 
@@ -47,6 +49,8 @@ We are very much about the mainstream.  We're very much into all of this, but ev
 
 So we work hard to be engaging.  High quality, consistent social media content.  Different formats - such as live chats on Facebook with guest speakers.  Information often delivered in bite-size chunks, with a view to people sharing it with friends.  This isn't about dumbing down - but it is about finding ways to keep talking about things in ways that people will find interesting.  
 
+![Image showing that around a third of what goes in black bins in Leeds is food waste](/uploads/blackbin.png "Food waste social media card")
+
 This matters, because we work on a shoestring - and we need our followers - the *movement* - to share with their friends, neighbours and families.  People are also more likely to trust messages that come from people they know.  All of this helps us to build the movement - from nothing just over two years ago, to more than 10,000 social media followers now.
 
 # Make it easy to get involved, join in, help
@@ -54,6 +58,8 @@ This matters, because we work on a shoestring - and we need our followers - the 
 This is another key movement-building principle.  This isn't about us - our small under-resourced team at Zero Waste Leeds - doing everything.  Our model is about tapping into other people's desire to get involved - and making it as easy as possible for them to do just that.
 
 Our [uniform project](https://www.zerowasteleeds.org.uk/tips/leeds-school-uniform-exchange/?fbclid=IwAR2sAfKuXuFpaXMrFwWXGY04fqApzWmvlnH5BJjd_C5QU2YmMe7w-bcKvb8) is a good example of that.  We're asking:  what can you do?  And how can we help?  Because we believe it's much more powerful if people across Leeds are inspired to set up their own school uniform reuse schemes - rather than us trying to set one big one up ourselves.  
+
+<iframe src="https://www.google.com/maps/d/embed?mid=12f68wxlwJ-MdovH7aQRHCwJyBDkWn-v3" width="640" height="480"></iframe>
 
 # Share your platform, build ladders all around it
 
