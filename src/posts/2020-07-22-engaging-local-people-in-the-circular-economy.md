@@ -25,7 +25,9 @@ We'll help.  We'll support.  We'll cheerlead.  And we'll join the dots.  But thi
 
 # Five key principles
 
-To help to explain how we work (in the seven minutes I had for the talk) I came up with five key principles which sit behind what we do.  These are a bit of a work in progress, and they evolve with each piece of work that we undertake, but I think these are about right:
+To help to explain how we work (in the seven minutes I had for the talk) I came up with five key principles which sit behind what we do.  These are a bit of a work in progress, and they evolve with each piece of work that we undertake, but I think these are about right.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTjayF-apNIAcM4HCizl0TgT8ApK9X26Kml4pznnESL4dxCg_DUKi3PToQGXBO5GhbvBDOEZJHsGfz5/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 # Locally relevant content
 
