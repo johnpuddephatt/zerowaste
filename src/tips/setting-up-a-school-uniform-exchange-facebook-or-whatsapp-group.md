@@ -11,9 +11,9 @@ Both of these options are easy and encourage people to organise the uniform exch
 
 If you have a bit more time to give, you could also use a Facebook page or group to advertise a more hands-on uniform redistribution scheme.
 
-We've created the [inspiration guide](https://www.canva.com/design/DAEEkQESk8Y/view?utm_content=DAEEkQESk8Y&utm_campaign=designshare&utm_medium=embeds&utm_source=link) below to help you get started. Please [get in touch](mailto:info@zerowasteleeds.org.uk) if you need any help getting started.
+We've created the [inspiration guide](https://www.canva.com/design/DAEEkQESk8Y/view?utm_content=DAEEkQESk8Y&utm_campaign=designshare&utm_medium=embeds&utm_source=link) below to help you get started. Please [get in touch](mailto:info@zerowasteleeds.org.uk) if you need any other help in setting up a scheme. There is also the Leeds School Uniform Exchange Facebook group where you can ask for advice or advertise a new scheme.
 
-Before you do set up a new school uniform exchange scheme, it is also worth checking our map [here](https://www.google.com/maps/d/u/1/viewer?hl=en&mid=12f68wxlwJ-MdovH7aQRHCwJyBDkWn-v3&ll=0%2C0&z=11) and also asking the school and PTA if they are aware of a school uniform reuse scheme already in place. If you find a scheme that is not already on our map, please let us know using this [form](https://forms.gle/TbbcxuSpPPgczCth8).
+Before you go ahead and set up a new school uniform exchange scheme, it is also worth checking our map [here](https://www.google.com/maps/d/u/1/viewer?hl=en&mid=12f68wxlwJ-MdovH7aQRHCwJyBDkWn-v3&ll=0%2C0&z=11) and also asking the school and PTA if they are aware of a school uniform reuse scheme already in place. If you find a scheme that is not already on our map, please let us know using this [form](https://forms.gle/TbbcxuSpPPgczCth8).
 
 <br>
 
