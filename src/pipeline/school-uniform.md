@@ -35,7 +35,7 @@ We've drafted this [guide](https://www.canva.com/design/DAEEkQESk8Y/view?utm_con
 <script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEEkQESk8Y&#x2F;view?utm_content=DAEEkQESk8Y&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">How to guide - Facebook or WhatsApp</a>
 
-<br>
+<br><br>
 
 So if this is an issue you're involved with - or would like to be - please visit our [Leeds School Uniform Reuse Exchange group](https://www.facebook.com/groups/603050533660854/permalink/605410550091519/?notif_id=1593425728610333&notif_t=group_description_change) on Facebook and add your thoughts, comments and ideas. Or alternatively please comment below or [email us](mailto:info@zerowasteleeds.org.uk).
 
