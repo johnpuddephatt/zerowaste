@@ -1,4 +1,8 @@
 {
+  "hero": {
+    "link_text": "See the latest updates on bins, waste and recycling",
+    "link_url": "#home-intro"
+  },
   "blog": {
     "title": "Our thinking",
     "subtitle": "Our latest thoughts on current issues"
@@ -55,12 +59,6 @@
       }
     }
   ],
-  "hero": {
-    "link": {
-      "text": "See the latest updates on bins, waste and recycling",
-      "url": "#home-intro"
-    }
-  },
   "ideas": {
     "title": "Got an idea?",
     "description": "All the work we do begins with an idea. If there’s an issue in Leeds you think we should look into, tell us about it.",

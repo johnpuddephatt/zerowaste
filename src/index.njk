@@ -6,7 +6,7 @@ layout: layouts/base.njk
     <h1 class="home-hero__title">
       {{ site.description  }}
     </h1>
-    {% if home.hero.link.text %}<div class="home-hero__link"><a class="line" href="{{ home.hero.link.url }}">{{ home.hero.link.text }}</a></div>{% endif %}
+    {% if home.hero.link_text %}<div class="home-hero__link"><a class="line" href="{{ home.hero.link_url }}">{{ home.hero.link_text }}</a></div>{% endif %}
     {% include "zero.svg" %}
   </div>
 </section>

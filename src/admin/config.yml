@@ -17,6 +17,12 @@ collections:
         name: "home"
         file: "/src/_data/home.json"
         fields:
+          - label: Hero section
+            name: hero
+            widget: object
+            fields:
+              - {label: 'Link text', name: 'link_text', widget: 'string', required: false}
+              - {label: 'Link URL', name: 'link_url', widget: 'string', required: false}
           - label: Intro section
             name: intro
             widget: object
@@ -108,7 +114,7 @@ collections:
               - { label: 'Name', name: 'name', widget: 'string' }
               - {label: 'Logo', name: 'logo', widget: 'image' }
   - name: 'pipeline'
-    label: 'In the pipeline'
+    label: 'Get involved'
     folder: 'src/pipeline'
     preview_path: pipeline/{{slug}}
     create: true
