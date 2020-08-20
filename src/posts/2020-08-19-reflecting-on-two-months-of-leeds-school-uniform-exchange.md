@@ -18,8 +18,10 @@ In July, we shared a [map of all the uniform schemes](https://www.google.com/map
 
 Last week, we also shared an initial draft ['how-to' guide](https://www.zerowasteleeds.org.uk/tips/setting-up-a-school-uniform-exchange-facebook-or-whatsapp-group/) for setting up a Facebook or WhatsApp school uniform exchange. Later this year we'll produce an updated version and also how-to guides for other types of uniform reuse scheme.
 
-It's also been a really busy week for uniform reuse in the media. We featured on BBC Look North alongside Fresh Start Community Project, a really successful uniform reuse scheme in Morley. We were also featured in the Yorkshire Evening Post and on [Radio Aire](https://www.youtube.com/watch?v=59beZ1fumgs).
+It's also been a really busy week for uniform reuse in the media. We filmed for an upcoming piece on BBC Look North alongside Fresh Start Community Project, a really successful uniform reuse scheme in Morley. We were also featured in the [Yorkshire Evening Post](https://www.yorkshireeveningpost.co.uk/education/charity-urges-parents-use-second-hand-uniform-cost-clothing-school-children-leeds-estimated-staggering-ps6m-2947326) and on [Radio Aire](https://www.youtube.com/watch?v=59beZ1fumgs).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/59beZ1fumgs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The response so far has been absolutely amazing but we couldn't have done it without all of you. Thank you to everyone who has been involved in any way!
 
-The next steps for the project are to review where there are gaps in Leeds for uniform exchanges, especially in areas of deprivation. We will then work with local partners to see if new schemes can be set up in those areas to ensure that uniform is accessible and affordable to all. Please do [get in touch](mailto:info@zerowasteleeds.org.uk) if you are interested in setting up a scheme or getting involved in any other way.
+The next steps for the project are to review where there are gaps in Leeds for uniform exchanges, especially in areas of Leeds where families could benefit most from good quality second hand school uniform. We will then work with local partners to see if new schemes can be set up in those areas to ensure that uniform is accessible and affordable to all. Please do [get in touch](mailto:info@zerowasteleeds.org.uk) if you are interested in setting up a scheme or getting involved in any other way.
