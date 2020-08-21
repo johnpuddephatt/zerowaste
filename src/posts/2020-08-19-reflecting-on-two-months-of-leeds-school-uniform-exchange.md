@@ -4,7 +4,7 @@ title: Reflecting on two months of Leeds School Uniform Exchange
 date: 2020-08-19T14:50:36.174Z
 image: /uploads/untitled-design-20-.png
 ---
-With schools starting back soon, we've seen a rush of people interested second-hand school uniform. We launched Leeds School Uniform Exchange two months ago so what better time to reflect on some of the successes of the project to date.
+With schools starting back soon, we've seen a rush of people interested in second-hand school uniform. We launched Leeds School Uniform Exchange two months ago so what better time to reflect on some of the successes of the project to date.
 
 ![](/uploads/timeline-4-.png)
 
