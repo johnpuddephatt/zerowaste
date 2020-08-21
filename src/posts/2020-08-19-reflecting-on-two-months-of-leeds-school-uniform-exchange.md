@@ -6,7 +6,7 @@ image: /uploads/untitled-design-20-.png
 ---
 With schools starting back soon, we've seen a rush of people interested second-hand school uniform. We launched Leeds School Uniform Exchange two months ago so what better time to reflect on some of the successes of the project to date.
 
-![](/uploads/timeline-3-.png)
+![](/uploads/timeline-4-.png)
 
 In June this year, we officially launched Leeds School Uniform Exchange. The project aims to develop a school uniform re-use network across Leeds, reducing waste and making school uniform more affordable and accessible. We would like to say a massive thank you to Leeds City Council and [Leeds Community Foundation](https://leedscf.org.uk/) Jimbo's Fund for their support with this project.
 
