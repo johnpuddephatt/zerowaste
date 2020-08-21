@@ -4,7 +4,7 @@ title: Media coverage
 date: 2020-08-21T12:24:36.773Z
 image: /uploads/untitled-design-21-.png
 ---
-Our work is all about building a movement to help Leeds become a zero waste city by 2030. To do this we're constantly trying to find new ways to reach different audiences. So getting any media coverage is always a huge bonus!
+Our work is all about building a movement to help Leeds become a zero waste city by 2030. To do this we're constantly trying to find new ways to reach different audiences. Getting any media coverage is always a huge bonus!
 
 We have featured a lot recently for our work on recycling, waste reduction, and school uniform reuse, including several appearances on BBC Look North, BBC Radio Leeds, Radio Aire and the Yorkshire Evening Post.
 
