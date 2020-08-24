@@ -30,7 +30,7 @@ Gill Coupland from Zero Waste Leeds spoke with BBC Look North's Emma Glasbey abo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bxbHfnY7ftA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 19th December - Zero Waste Christmas
+### 19th December 2019 - Zero Waste Christmas
 
 Gill Coupland from Zero Waste Leeds explores ideas for a [\#ZeroWasteChristmas](https://www.youtube.com/results?search_query=%23ZeroWasteChristmas) on BBC Look North. 
 
@@ -38,7 +38,7 @@ Gill Coupland from Zero Waste Leeds explores ideas for a [\#ZeroWasteChristmas](
 
 ## BBC Radio Leeds
 
-### 6th August 2020
+### 6th August 2020 - LS26 Scheme & Leeds School Uniform Exchange
 
 Alice Hennigan talked on BBC Radio Leeds about the LS26 School Uniform Scheme she set up after struggling to find anywhere local to donate her five-year-old daughter's old school clothes. She also mentions Leeds School Uniform Exchange, and how we have mapped all of the uniform reuse schemes across Leeds.
 
@@ -46,7 +46,7 @@ Alice Hennigan talked on BBC Radio Leeds about the LS26 School Uniform Scheme sh
 
 ## Radio Aire
 
-### 18th August 2020
+### 18th August 2020 - Leeds School Uniform Exchange
 
 Gill from Zero Waste Leeds went on Radio Aire to talk about Leeds School Uniform Exchange and how people can get involved.
 
@@ -54,22 +54,22 @@ Gill from Zero Waste Leeds went on Radio Aire to talk about Leeds School Uniform
 
 ## Yorkshire Evening Post
 
-### 20th August 2020
+20th August 2020 - [Charity urges parents to use second hand uniform as cost of clothing school children in Leeds is estimated at staggering £6m](https://www.yorkshireeveningpost.co.uk/education/charity-urges-parents-use-second-hand-uniform-cost-clothing-school-children-leeds-estimated-staggering-ps6m-2947326)
 
-[Charity urges parents to use second hand uniform as cost of clothing school children in Leeds is estimated at staggering £6m](https://www.yorkshireeveningpost.co.uk/education/charity-urges-parents-use-second-hand-uniform-cost-clothing-school-children-leeds-estimated-staggering-ps6m-2947326)
+4th August 2020 - [Leeds mum sets up free school uniform scheme to help struggling parents and cut down on waste](https://www.yorkshireeveningpost.co.uk/news/people/leeds-mum-sets-free-school-uniform-scheme-help-struggling-parents-and-cut-down-waste-2932717)
 
-### 4th August 2020
+15th July 2020 - [School uniform sharing campaign launched to help struggling families in Leeds](https://www.yorkshireeveningpost.co.uk/news/people/school-uniform-sharing-campaign-launched-help-struggling-families-leeds-2913522)
 
-[Leeds mum sets up free school uniform scheme to help struggling parents and cut down on waste](https://www.yorkshireeveningpost.co.uk/news/people/leeds-mum-sets-free-school-uniform-scheme-help-struggling-parents-and-cut-down-waste-2932717)
+3rd December 2019 - [This is how recycling rates in Leeds city centre have tripled in one year](https://www.yorkshireeveningpost.co.uk/education/how-recycling-rates-leeds-city-centre-have-tripled-one-year-1330165)
 
-### 15th July 2020
+12th June 2019 - [How Leeds bars and clubs are waking up to plastic waste issue](https://www.yorkshireeveningpost.co.uk/news/how-leeds-bars-and-clubs-are-waking-plastic-waste-issue-480190)
 
-[School uniform sharing campaign launched to help struggling families in Leeds](https://www.yorkshireeveningpost.co.uk/news/people/school-uniform-sharing-campaign-launched-help-struggling-families-leeds-2913522)
+## North Leeds Life 
 
-### 3rd December 2019
+23rd June 2020 - [Lockdown has brought some positive outcomes](https://issuu.com/northleedslife/docs/july-2020-web)
 
-[This is how recycling rates in Leeds city centre have tripled in one year](https://www.yorkshireeveningpost.co.uk/education/how-recycling-rates-leeds-city-centre-have-tripled-one-year-1330165)
+17th December 2019 - [Recycling our way to a healthier planet](https://issuu.com/northleedslife/docs/january-area-b-2020)
 
-### 12th June 2019
+## Wellington Place
 
-[How Leeds bars and clubs are waking up to plastic waste issue](https://www.yorkshireeveningpost.co.uk/news/how-leeds-bars-and-clubs-are-waking-plastic-waste-issue-480190)
+12th August 2020 - [5 Super Simple Ways to Reduce Household Waste](https://www.wellingtonplace.co.uk/blog/5-super-simple-ways-to-reduce-household-waste/)
