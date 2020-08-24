@@ -12,6 +12,12 @@ If you are interested in running a story about any of our work, please do [get i
 
 ## BBC Look North
 
+21st June 2020 - Leeds School Uniform Exchange
+
+Gill Coupland from Zero Waste Leeds featured alongside Fresh Start Community Projects on BBC Look North talking about school uniform reuse.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RuyCriaVWlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### 11th June 2020 - Glass recycling
 
 Gill Coupland from Zero Waste Leeds featured in a story on BBC Look North on what happens next to glass that is recycled in Leeds’ 700 glass banks.
@@ -32,7 +38,7 @@ Gill Coupland from Zero Waste Leeds spoke with BBC Look North's Emma Glasbey abo
 
 ### 19th December 2019 - Zero Waste Christmas
 
-Gill Coupland from Zero Waste Leeds explores ideas for a [\#ZeroWasteChristmas](https://www.youtube.com/results?search_query=%23ZeroWasteChristmas) on BBC Look North. 
+Gill Coupland from Zero Waste Leeds shared ideas for a Zero Waste Christmas on BBC Look North. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cJjW-naPrPs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -64,7 +70,7 @@ Gill from Zero Waste Leeds went on Radio Aire to talk about Leeds School Uniform
 
 12th June 2019 - [How Leeds bars and clubs are waking up to plastic waste issue](https://www.yorkshireeveningpost.co.uk/news/how-leeds-bars-and-clubs-are-waking-plastic-waste-issue-480190)
 
-## North Leeds Life 
+## North Leeds Life
 
 23rd June 2020 - [Lockdown has brought some positive outcomes](https://issuu.com/northleedslife/docs/july-2020-web)
 
@@ -73,3 +79,9 @@ Gill from Zero Waste Leeds went on Radio Aire to talk about Leeds School Uniform
 ## Wellington Place
 
 12th August 2020 - [5 Super Simple Ways to Reduce Household Waste](https://www.wellingtonplace.co.uk/blog/5-super-simple-ways-to-reduce-household-waste/)
+
+
+
+## Runner's World (UK)
+
+1st March 2020 - [Eco heroes - campaigns and campaigners - Rob Greenland, Zero Waste Leeds](https://www.pressreader.com/uk/runners-world-uk/20200301/page/62)
