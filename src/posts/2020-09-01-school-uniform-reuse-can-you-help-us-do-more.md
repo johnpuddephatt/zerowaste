@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Can you help us to build an online uniform sharing platform?
+title: Can you help us to build our online uniform sharing platform?
 date: 2020-09-01T12:42:07.505Z
 image: /uploads/leeds-school-exchange-identity.png
 image_alt: "Leeds School Uniform Exchange "
