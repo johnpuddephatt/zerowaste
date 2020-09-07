@@ -33,6 +33,6 @@ Try to take photos with a simple background to help the item stand out. Having c
 
 ## **Do make sure items are in good condition**
 
-Before you offer up uniform, please check that it is in good condition. For example, make sure there are no stains, tears or discolourations. We suggest only putting up items you would be happy to receive. If there is minor damage you could always consider options to repair it or if that is not possible you can recycle the uniform item in one of the textile banks shown on this [map](https://www.google.com/maps/d/u/1/viewer?hl=en&mid=18ktKdUeew3oQpjOnezeTyLtt9pk1KK7w&ll=53.83676365656107%2C-1.5013154999999268&z=11).
+Before you offer uniform items, please check that they are in good condition. For example, make sure there are no stains, tears or discolourations. We suggest only putting up items you would be happy to receive. If there is minor damage you could always consider options to repair it or if that is not possible you can recycle the uniform item in one of the textile banks shown on this [map](https://www.google.com/maps/d/u/1/viewer?hl=en&mid=18ktKdUeew3oQpjOnezeTyLtt9pk1KK7w&ll=53.83676365656107%2C-1.5013154999999268&z=11).
 
 ![](/uploads/trousers.png)
