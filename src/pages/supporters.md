@@ -12,7 +12,7 @@ Everything we do is collaborative and in partnership with others.
 
 ## Our impact
 
-In 2020 so far we've collaborated with around 60 local and national organisations and groups to help us achieve our aim of making Leeds a zero waste by 2030. 
+In 2020 so far we've collaborated with around 60 local and national organisations and groups to help Leeds become a zero waste by 2030. 
 
 In the last six months, we've appeared on [TV, radio and in print ](https://www.zerowasteleeds.org.uk/posts/media-coverage/)14 times sharing positive news stories about ways we can waste less, reuse and recycle more in our city.
 
