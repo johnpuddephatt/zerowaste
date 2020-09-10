@@ -10,9 +10,23 @@ We inhabit the space between local government, business, education, communities 
 
 Everything we do is collaborative and in partnership with others.
 
+## Our impact
+
+In 2020 so far we've collaborated with around 60 local and national organisations and groups to help us achieve our aim of making Leeds a zero waste by 2030. 
+
+In the last six months, we've appeared on [TV, radio and in print ](https://www.zerowasteleeds.org.uk/posts/media-coverage/)14 times sharing positive news stories about ways we can waste less, reuse and recycle more in our city.
+
+The impact of two of our most recent projects - Leeds School Uniform Exchange and Covid 19/Lockdown waste reduction - can be seen here. We're also now leading on phase 3 of #LeedsbyExample on-the-go recycling project, the earlier phases of which saw recycling rates in the city increase by a third.
+
+All our projects and campaigns are about inspiring people to live and work more sustainably, and connecting people to ways they can do that in Leeds.
+
+<!--EndFragment-->
+
+
+
 ## Our partners and funders
 
-We’re proud to have partnered with these local and national organisations on one or more of our projects:
+Here are just some of the local and national organisations we're proud to have partnered with on one or more of our projects:
 
 {% include widgets/supporters %}
 
