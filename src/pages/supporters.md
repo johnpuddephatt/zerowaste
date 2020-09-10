@@ -24,7 +24,7 @@ All our projects and campaigns are about inspiring people to live and work more 
 
 ![](/uploads/school-uniform-impact-cover.jpg)
 
-[Leeds School Uniform Exchange Impact Report ](https://drive.google.com/drive/u/0/folders/17gGJI93eQcfmeQoU30sYUyKtuWXa1rnx)
+[Leeds School Uniform Exchange Impact Report](https://drive.google.com/file/d/1OFN57iEsyWe0gTE3ub8bdnZtnA8bxqZS/view) 
 
 <!--EndFragment-->
 
