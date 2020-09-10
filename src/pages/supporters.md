@@ -22,7 +22,9 @@ We're also now leading on phase 3 of [\#LeedsbyExample on-the-go recycling](http
 
 All our projects and campaigns are about inspiring people to live and work more sustainably, and connecting people to ways they can do that in Leeds.
 
-![https://drive.google.com/drive/u/0/folders/17gGJI93eQcfmeQoU30sYUyKtuWXa1rnx](/uploads/school-uniform-impact-cover.jpg)
+![](/uploads/school-uniform-impact-cover.jpg)
+
+[Leeds School Uniform Exchange Impact Report ](https://drive.google.com/drive/u/0/folders/17gGJI93eQcfmeQoU30sYUyKtuWXa1rnx)
 
 <!--EndFragment-->
 
