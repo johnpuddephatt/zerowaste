@@ -16,13 +16,11 @@ In 2020 so far we've collaborated with around 60 local and national organisation
 
 In the last six months, we've appeared on [TV, radio and in print ](https://www.zerowasteleeds.org.uk/posts/media-coverage/)14 times sharing positive news stories about ways we can waste less, reuse and recycle more in our city.
 
-The impact of two of our most recent projects - Leeds School Uniform Exchange and Covid 19/Lockdown waste reduction - can be seen here. We're also now leading on phase 3 of #LeedsbyExample on-the-go recycling project, the earlier phases of which saw recycling rates in the city increase by a third.
+The impact of two of our most recent projects - [Leeds School Uniform Exchange](https://www.zerowasteleeds.org.uk/posts/reflecting-on-two-months-of-leeds-school-uniform-exchange/) and [Covid 19/Lockdown #Stayathome waste reduction](https://www.zerowasteleeds.org.uk/posts/reflections-on-running-our-social-enterprise-during-covid-19/) - can be seen here. We're also now leading on phase 3 of #LeedsbyExample on-the-go recycling project, the earlier phases of which saw recycling rates in the city increase by a third.
 
 All our projects and campaigns are about inspiring people to live and work more sustainably, and connecting people to ways they can do that in Leeds.
 
 <!--EndFragment-->
-
-
 
 ## Our partners and funders
 
