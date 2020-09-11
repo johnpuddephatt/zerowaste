@@ -44,6 +44,12 @@ Gill Coupland from Zero Waste Leeds shared ideas for a Zero Waste Christmas on B
 
 ## BBC Radio Leeds
 
+### 3rd September 2020 - Leeds School Uniform Exchange
+
+Gill spoke to Stephanie Hirst at BBC Radio Leeds about the success of the Leeds School Uniform project. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eVqZnVf5-do" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### 6th August 2020 - LS26 Scheme & Leeds School Uniform Exchange
 
 Alice Hennigan talked on BBC Radio Leeds about the LS26 School Uniform Scheme she set up after struggling to find anywhere local to donate her five-year-old daughter's old school clothes. She also mentions Leeds School Uniform Exchange, and how we have mapped all of the uniform reuse schemes across Leeds.
@@ -56,7 +62,7 @@ Alice Hennigan talked on BBC Radio Leeds about the LS26 School Uniform Scheme sh
 
 Gill from Zero Waste Leeds went on Radio Aire to talk about Leeds School Uniform Exchange and how people can get involved.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/59beZ1fumgs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/59beZ1fumgs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 ## Yorkshire Evening Post
 
@@ -79,8 +85,6 @@ Gill from Zero Waste Leeds went on Radio Aire to talk about Leeds School Uniform
 ## Wellington Place
 
 12th August 2020 - [5 Super Simple Ways to Reduce Household Waste](https://www.wellingtonplace.co.uk/blog/5-super-simple-ways-to-reduce-household-waste/)
-
-
 
 ## Runner's World (UK)
 
