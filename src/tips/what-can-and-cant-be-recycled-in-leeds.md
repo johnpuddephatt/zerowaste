@@ -9,8 +9,6 @@ If you've ever spent longer than necessary wondering whether the margarine tub, 
 
 We have gathered all the information you need about what can and can't be recycled in Leeds.
 
-![](/uploads/1c.png)
-
 ## Plastics
 
 You CAN recycle:
@@ -19,9 +17,7 @@ You CAN recycle:
 
 \- Other plastic including bags, plastic food containers, drinks bottles, see-through plastic milk containers, cartons (Tetra Paks), margarine tubs and yoghurt pots
 
-![](/uploads/2c.png)
 
-![](/uploads/3c.png)
 
 ## Metals
 
@@ -33,9 +29,7 @@ You CAN recycle:
 
 \- Foil - food containers, take away trays, soft foil (should be clean and scrunched up)
 
-![](/uploads/4c.png)
 
-![](/uploads/5c.png)
 
 ## Card and Paper
 
@@ -45,9 +39,7 @@ You CAN recycle:
 
 \- Cardboard - brown card, glossy printed card, egg boxes, inner tubes from toilet and kitchen rolls
 
-![](/uploads/6c.png)
 
-![](/uploads/7c.png)
 
 ## You can't recycle
 
@@ -83,7 +75,9 @@ You CAN'T recycle (at home in your green bin):
 
 \- Any other household waste
 
-![](/uploads/8c.png)
+
+
+## Other information
 
 Here are some useful links to help make it easier to recycle in Leeds:
 
