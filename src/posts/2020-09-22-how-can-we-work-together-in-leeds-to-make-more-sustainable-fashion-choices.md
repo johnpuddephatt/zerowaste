@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: How can we work together in Leeds to make more sustainable fashion choices?
 date: 2020-09-22T13:05:49.349Z
 image: /uploads/canva-collection-of-colorful-cotton-t-shirts-on-hangers-in-store.jpg
-image_alt: Colourful clothes on hangers
+image_alt: ""
 ---
 What can we do together to reduce the environmental impacts of our wardrobes?
 
