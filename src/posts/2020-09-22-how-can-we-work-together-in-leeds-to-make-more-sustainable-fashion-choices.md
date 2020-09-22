@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: How can we work together in Leeds to make more sustainable fashion choices?
+title: Leeds - how can we make more sustainable fashion choices?
 date: 2020-09-22T13:05:49.349Z
 image: /uploads/canva-minimalist-multicolored-t-shirts-on-hangers.jpg
 image_alt: ""
