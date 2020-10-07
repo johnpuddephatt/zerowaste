@@ -21,7 +21,7 @@ And whilst it's clearly been a very challenging time for schools, plenty of scho
 
 You can find out the latest about the project on our [Leeds School Uniform Exchange Facebook group](https://www.facebook.com/groups/603050533660854/).  
 
-Here's the impact report for the first ten weeks of our project below.
+Here's the impact report for the first ten weeks of our project:
 
 <iframe allowfullscreen allow="fullscreen" style="border:none;width:100%;height:326px;" src="//e.issuu.com/embed.html?d=impact\_report\_-_leeds_school_uniform_exchange&u=zerowasteleeds"></iframe>
 
