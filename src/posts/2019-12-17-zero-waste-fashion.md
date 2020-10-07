@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Zero Waste Fashion
-date: 2019-12-17T14:53:37.629Z
+date: 2020-10-07T15:31:10.328Z
 image: /uploads/fashionhack.jpg
 image_alt: Leeds Community Clothing Exchange
 ---
