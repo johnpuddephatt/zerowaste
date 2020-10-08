@@ -5,13 +5,13 @@ date: 2020-10-08T16:42:43.867Z
 tags: garden-waste
 image: /uploads/leaves2.jpg
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -50,9 +50,9 @@ image: /uploads/leaves2.jpg
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -631,9 +631,9 @@ image: /uploads/leaves2.jpg
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -660,7 +660,7 @@ image: /uploads/leaves2.jpg
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -683,5 +683,13 @@ There are several ways to make it but all of them involve making a big pile of l
 What you do then is leave it for 12 months to 2 years and let nature do the rest. You'll know when it's ready as the colour will be dark brown/black, you can't see leaves any more, it smells earthy and the consistency is like a light soil (a bit like peat).
 
 The end product can then go onto your beds as a mulch, lightly dug in as a soil conditioner or as a base for homemade compost - it makes really good seed compost as it's light and low in nutrients. If you do this every autumn then you'll have a steady supply year after year.
+
+<!--StartFragment-->
+
+<!--EndFragment-->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dhgeVcsc13A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Here our resident Zero Waste Leeds gardener and permaculturist Damian Nicholls talks about leaf mould (the gardener's black gold) and how you know when it's ready, using an example of a mature pile created by Leeds City Council in Roundhay Park
 
 <!--EndFragment-->
