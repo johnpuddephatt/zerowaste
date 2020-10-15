@@ -1,8 +1,8 @@
 ---
 layout: layouts/post.njk
-title: Can you help us to build an online uniform sharing platform?
+title: Can you help us to build our online uniform sharing platform?
 date: 2020-09-01T12:42:07.505Z
-image: /uploads/leeds-school-exchange-identity.png
+image: /uploads/copy-of-school-uniform-facebook-cover-photos-1-.png
 image_alt: "Leeds School Uniform Exchange "
 ---
 We've achieved an enormous amount in the couple of months that we've been working on encouraging more school uniform reuse in Leeds!
