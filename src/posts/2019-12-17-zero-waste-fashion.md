@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Zero Waste Fashion
+title: Leeds Fashion Futures
 date: 2020-10-07T15:31:10.328Z
 image: /uploads/fashionhack.jpg
 image_alt: Leeds Community Clothing Exchange
@@ -13,10 +13,8 @@ You can watch a series of interviews with local designers who are exploring how 
 
 <br><iframe src="https://www.google.com/maps/d/embed?mid=18ktKdUeew3oQpjOnezeTyLtt9pk1KK7w&hl=en" width="640" height="480"></iframe><br><br>
 
-In October we're launching an exciting new project, working alongside [The RSA](https://www.thersa.org/projects/make-fashion-circular) to explore what we can do as a city to minimise the negative impacts of our clothing choices.  We'll be exploring a range of themes, including what influences our choices around clothing, how we buy our clothes, how we look after them, and how we dispose of them.  
+We've recently launched an exciting new project, working alongside [The RSA](https://www.thersa.org/projects/make-fashion-circular) to explore what we can do as a city to minimise the negative impacts of our clothing choices.  We'll be exploring a range of themes, including what influences our choices around clothing, how we buy our clothes, how we look after them, and how we dispose of them.  
 
-To keep in touch, please follow us on social media - [Facebook](https://www.facebook.com/zerowasteleeds/), [Twitter](https://twitter.com/zerowasteleeds?lang=en), or [Instagram](https://www.instagram.com/zerowasteleeds/?hl=en) -  or join our [Zero Waste Fashion Facebook group](https://www.facebook.com/groups/ZeroWasteFashionLeeds).  
-
-
+To keep in touch, please follow us on social media - [Facebook](https://www.facebook.com/zerowasteleeds/), [Twitter](https://twitter.com/zerowasteleeds?lang=en), or [Instagram](https://www.instagram.com/zerowasteleeds/?hl=en) -  or join our [Leeds Fashion Futures Facebook group](https://www.facebook.com/groups/leedsfashionfutures).  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sJjWfEL8k5Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
