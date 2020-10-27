@@ -5,22 +5,22 @@ date: 2020-10-27T17:06:54.315Z
 tags: stuff
 image: /uploads/zero-waste.jpg
 ---
-<!--\\[if !mso]>
+<!--\\\[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
 o\:* {behavior:url(#default#VML);}
 w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -59,9 +59,9 @@ w\:* {behavior:url(#default#VML);}
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -640,9 +640,9 @@ w\:* {behavior:url(#default#VML);}
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -669,7 +669,7 @@ w\:* {behavior:url(#default#VML);}
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -677,13 +677,13 @@ We’re lucky to have so many zero waste shops in Leeds selling products that ar
 
 We want to make it easy for you to support local, sustainable and ethical businesses, so we’ve listed them all here with their locations and links to their social media pages.   
 
- <!--\\[if gte mso 9]><xml>
+ <!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -722,9 +722,9 @@ We want to make it easy for you to support local, sustainable and ethical busine
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -1303,9 +1303,9 @@ We want to make it easy for you to support local, sustainable and ethical busine
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -1332,31 +1332,31 @@ We want to make it easy for you to support local, sustainable and ethical busine
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
-**[Adam & Eco](https://www.instagram.com/adamandeco/)** – ‘The smallest soap shop in Leeds’ based in [Leeds Kirkgate Market](https://www.facebook.com/LeedsMarkets/) (in original 1904 market hall, near the M&S heritage unit) and [online](https://www.adamandeco.com/?fbclid=IwAR3C4-vp-u19KnVo9pojarUieJnRQU423thSxrdUrJBScpY3vXT3aqkPtJc).  One of the best place to buy natural soap, shampoo and conditioner bars. No plastic, no palm oil and no SLS or parabens.   
+**[Adam & Eco](https://www.instagram.com/adamandeco/)** – ‘The smallest soap shop in Leeds’ based in [Leeds Kirkgate Market](https://www.facebook.com/LeedsMarkets/) (in the original 1904 market hall, near the M&S heritage unit) and [online](https://www.adamandeco.com/?fbclid=IwAR3C4-vp-u19KnVo9pojarUieJnRQU423thSxrdUrJBScpY3vXT3aqkPtJc).  One of the best places to buy natural soap, shampoo and conditioner bars. No plastic, no palm oil and no SLS or parabens.   
 
 **[Cleen-Bees Eco Refill Station](https://www.facebook.com/Cleen-Bees-Eco-Refill-Station-103193431482344/?ref=page_internal)** – Located on Town Street in Farsley. A place to refill household, laundry detergents, soaps, shampoos, with bamboo and bee inspired products too.  There’s also a refillable dried food section.
 
 **[EcoTopia](https://www.facebook.com/ecotopialeeds)** – In the heart of Leeds (Unit 8, Central Arcade), Ecotopia was one of the city’s first zero waste shops. Selling dry foods, gluten free foods, pet food, home, health & beauty, reusables. No single use plastics. And If you can’t get into the shop, they also do [online deliveries](https://linktr.ee/ecoTopialeeds).  \
 \
-**[Leeds Refills Zero Waste Shop](https://www.facebook.com/leedsrefills/?hc_location=ufi)** – Ian from The Jar Tree (a favourite amongst zero-wasters) has moved to a new pop-up shop in [Fabrication Crafts](https://shop.fabric-ation.co.uk/leeds-shop-c-70000) on Albion Street in Leeds city centre.  Selling refills of weigh and pay dry foods, toiletries, household cleaners, kitchen and homewares. And when you’re finished, you can pick up some local art made by talented craftspeople at Fabrication.
+**[Leeds Refills Zero Waste Shop](https://www.facebook.com/leedsrefills/?hc_location=ufi)** – Ian from The Jar Tree (a favourite amongst zero-wasters) has moved to a new pop-up shop in [Fabrication Crafts](https://shop.fabric-ation.co.uk/leeds-shop-c-70000) on Albion Street in Leeds city centre.  Selling refills of weigh and pay dry foods, toiletries, household cleaners, kitchen and homewares. And when you’re finished, why not pick up some local art made by talented craftspeople at Fabrication.
 
-**[Like Nana Did](https://www.facebook.com/likenanadid/)** –Orchard Gate, Otley.  A great zero waste shop in the centre of Otley selling plastic-free products and refill groceries - helping the community to reduce waste.\
+**[Like Nana Did](https://www.facebook.com/likenanadid/)** –Orchard Gate, Otley.  A great zero waste shop in the centre of Otley selling plastic-free products and refill groceries - 'helping the community to reduce waste'.\
 \
-**[Out Of This World](https://www.facebook.com/Out-Of-This-World-126153407436304/) –** 20 New Market Street, Leeds centre - a one stop shop for all things healthy, ethical, organic, locally made, and eco-friendly. Huge range of health foods and vegan deli.\
+**[Out Of This World](https://www.facebook.com/Out-Of-This-World-126153407436304/) –** 20 New Market Street, Leeds centre - a one-stop shop for all things healthy, ethical, organic, locally made, and eco-friendly. Huge range of health foods and vegan deli.\
 \
-**[Refill and Go](https://www.facebook.com/RefillandGoGarforth/?hc_location=ufi)** - East Leeds’ first refill (zero waste) store, located in the centre of Garforth. Most products are sourced locally and if not, ethically sourced, ensuring everyone is paid fairly small.  \
+**[Refill and Go](https://www.facebook.com/RefillandGoGarforth/?hc_location=ufi)** - East Leeds’ first refill (zero waste) store, located in the centre of Garforth. Most products are sourced locally and all of them ethically, ensuring everyone is paid fairly.  \
 \
 **[Refills By Seagulls](https://www.facebook.com/seagullsrefills/?hc_location=ufi)** -  Kirkstall Road, Leeds. Stockists of just about every refill product you could want - washing up liquid, laundry liquid, fabric conditioner, surface cleaners, toilet cleaners plus soaps, shower gels, shampoos and conditioners, toothpaste, deodorant and much more.  And when you’re down there, why not pick up some of their amazing [reuse paint](https://seagullsreuse.org.uk/paint/) too.  Who doesn’t love [Seagulls](https://seagullsreuse.org.uk/).  \
 \
-**[Scrap Creative Reuse Art Project](https://www.facebook.com/scrapleeds)** – based at the wonderful [Sunnybank Mills](https://www.sunnybankmills.co.uk/) in Farsley.  Full of inspiring reuse materials for art and play, plus a refill store full of eco-friendly, plastic-free, household cleaning products & toiletries. And they’ve just launched an [online shop](https://scrapstuff.co.uk/shop/) too!
+**[Scrap Creative Reuse Art Project](https://www.facebook.com/scrapleeds)** – based at the wonderful [Sunnybank Mills](https://www.sunnybankmills.co.uk/) in Farsley.  Full of inspiring reuse materials for art and play, plus a refill store with eco-friendly, plastic-free, household cleaning products & toiletries. And they’ve just launched an [online shop](https://scrapstuff.co.uk/shop/) too!
 
 **[The Refilling Station](https://www.facebook.com/refillingstationstore/?hc_location=ufi)** – Chapel Allerton and Harrogate – two lovely zero waste shops selling over 200 refill products. Focused on local suppliers and small independents. Now offering a ['click and collect' ](https://www.refillingstation.co.uk/?fbclid=IwAR08y_7G8NzEOwhsihhmSQAWA83O0BS469Wo4Az5zUQdDcG9m8FV7Tk_l_A)service at the Chapel Allerton shop
 
-**[Waste Not](https://www.wastenotshop.net/?fbclid=IwAR2rsIjRCtFCH1ulBIkxYsW4P-SJa6rLkDdk57q4ekQMvyX0vC0tH7kKQxg)** – Burley in Wharfedale and Ilkely – ‘shop ethically, shop sustainably, shop locally’.  Selling dried food, fruit and veg, bread, cleaning products, household and health and beauty products.  Visit the [Waste Not](https://www.facebook.com/wastenotpopupshop/) Facebook page to find out more.\
+**[Waste Not](https://www.wastenotshop.net/?fbclid=IwAR2rsIjRCtFCH1ulBIkxYsW4P-SJa6rLkDdk57q4ekQMvyX0vC0tH7kKQxg)** – Burley-in-Wharfedale and Ilkely – ‘shop ethically, shop sustainably, shop locally’.  Selling dried food, fruit and veg, bread, cleaning products, household and health and beauty products.  Visit the [Waste Not](https://www.facebook.com/wastenotpopupshop/) Facebook page to find out more.\
 \
 **[Zero Muda](https://www.facebook.com/zeromuda/?hc_location=ufi)** – 85 New Street, Horsforth. [Zero Muda](https://www.zeromuda.co.uk/?fbclid=IwAR3VwTpEc38JRPosAnY85Kp3r-5tzMpv_yNgkk9EEcZtnfkHjklDqxGfRs8) is Horsforth’s first refill store with a mission to channel all profits back into the local community.  Sounds good to us!  
 
