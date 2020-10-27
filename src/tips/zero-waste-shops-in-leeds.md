@@ -5,22 +5,22 @@ date: 2020-10-27T17:06:54.315Z
 tags: stuff
 image: /uploads/zero-waste.jpg
 ---
-<!--\[if !mso]>
+<!--\\[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
 o\:* {behavior:url(#default#VML);}
 w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -59,9 +59,9 @@ w\:* {behavior:url(#default#VML);}
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -640,9 +640,9 @@ w\:* {behavior:url(#default#VML);}
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -669,23 +669,21 @@ w\:* {behavior:url(#default#VML);}
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
 We’re lucky to have so many zero waste shops in Leeds selling products that are gentle on the environment and with sustainability at their heart.
 
- 
+We want to make it easy for you to support local, sustainable and ethical businesses, so we’ve listed them all here with their locations and links to their social media pages.   
 
-We want to make it easy for you to support local and sustainable businesses, so we’ve listed them all here with their locations and links to their social media pages.   
-
- <!--\[if gte mso 9]><xml>
+ <!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -724,9 +722,9 @@ We want to make it easy for you to support local and sustainable businesses, so 
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -1305,9 +1303,9 @@ We want to make it easy for you to support local and sustainable businesses, so 
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -1334,11 +1332,11 @@ We want to make it easy for you to support local and sustainable businesses, so 
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
-**[Adam & Eco](https://www.instagram.com/adamandeco/)** – ‘The smallest soap shop in Leeds’ based in [Leeds Kirkgate Market](https://www.facebook.com/LeedsMarkets/) (in original 1904 market hall, near the M&S heritage unit) and [online](https://www.adamandeco.com/?fbclid=IwAR3C4-vp-u19KnVo9pojarUieJnRQU423thSxrdUrJBScpY3vXT3aqkPtJc).  The best place to buy natural soap, shampoo and conditioner bars. No plastic, no palm oil and no SLS or parabens.   
+**[Adam & Eco](https://www.instagram.com/adamandeco/)** – ‘The smallest soap shop in Leeds’ based in [Leeds Kirkgate Market](https://www.facebook.com/LeedsMarkets/) (in original 1904 market hall, near the M&S heritage unit) and [online](https://www.adamandeco.com/?fbclid=IwAR3C4-vp-u19KnVo9pojarUieJnRQU423thSxrdUrJBScpY3vXT3aqkPtJc).  One of the best place to buy natural soap, shampoo and conditioner bars. No plastic, no palm oil and no SLS or parabens.   
 
 **[Cleen-Bees Eco Refill Station](https://www.facebook.com/Cleen-Bees-Eco-Refill-Station-103193431482344/?ref=page_internal)** – Located on Town Street in Farsley. A place to refill household, laundry detergents, soaps, shampoos, with bamboo and bee inspired products too.  There’s also a refillable dried food section.
 
