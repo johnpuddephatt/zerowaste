@@ -3,24 +3,24 @@ layout: layouts/post.njk
 title: Zero waste shops in Leeds
 date: 2020-10-27T17:06:54.315Z
 tags: stuff
-image: /uploads/zero-waste.jpg
+image: /uploads/122739973_105053164673674_9150732767578615631_n.jpg
 ---
-<!--\\\[if !mso]>
+<!--\\\\[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
 o\:* {behavior:url(#default#VML);}
 w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
-<!\\\[endif]-->
+<!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -59,9 +59,9 @@ w\:* {behavior:url(#default#VML);}
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -640,9 +640,9 @@ w\:* {behavior:url(#default#VML);}
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 10]>
+<!--\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -669,7 +669,7 @@ w\:* {behavior:url(#default#VML);}
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\[endif]-->
+<!\\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -677,13 +677,15 @@ We’re lucky to have so many zero waste shops in Leeds selling products that ar
 
 We want to make it easy for you to support local, sustainable and ethical businesses, so we’ve listed them all here with their locations and links to their social media pages.   
 
- <!--\\\[if gte mso 9]><xml>
+![](/uploads/82696728_775452466285671_4987713811101253632_n.jpg)
+
+ <!--\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -722,9 +724,9 @@ We want to make it easy for you to support local, sustainable and ethical busine
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -1303,9 +1305,9 @@ We want to make it easy for you to support local, sustainable and ethical busine
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 10]>
+<!--\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -1332,7 +1334,7 @@ We want to make it easy for you to support local, sustainable and ethical busine
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\[endif]-->
+<!\\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -1346,7 +1348,11 @@ We want to make it easy for you to support local, sustainable and ethical busine
 
 **[Like Nana Did](https://www.facebook.com/likenanadid/)** –Orchard Gate, Otley.  A great zero waste shop in the centre of Otley selling plastic-free products and refill groceries - 'helping the community to reduce waste'.\
 \
-**[Out Of This World](https://www.facebook.com/Out-Of-This-World-126153407436304/) –** 20 New Market Street, Leeds centre - a one-stop shop for all things healthy, ethical, organic, locally made, and eco-friendly. Huge range of health foods and vegan deli.\
+**[Out Of This World](https://www.facebook.com/Out-Of-This-World-126153407436304/) –** 20 New Market Street, Leeds centre - a one-stop shop for all things healthy, ethical, organic, locally made, and eco-friendly. Huge range of health foods and vegan deli.
+
+![](/uploads/119138103_642830926416840_2838672955284555597_o.jpg)
+
+\
 \
 **[Refill and Go](https://www.facebook.com/RefillandGoGarforth/?hc_location=ufi)** - East Leeds’ first refill (zero waste) store, located in the centre of Garforth. Most products are sourced locally and all of them ethically, ensuring everyone is paid fairly.  \
 \
@@ -1359,5 +1365,7 @@ We want to make it easy for you to support local, sustainable and ethical busine
 **[Waste Not](https://www.wastenotshop.net/?fbclid=IwAR2rsIjRCtFCH1ulBIkxYsW4P-SJa6rLkDdk57q4ekQMvyX0vC0tH7kKQxg)** – Burley-in-Wharfedale and Ilkely – ‘shop ethically, shop sustainably, shop locally’.  Selling dried food, fruit and veg, bread, cleaning products, household and health and beauty products.  Visit the [Waste Not](https://www.facebook.com/wastenotpopupshop/) Facebook page to find out more.\
 \
 **[Zero Muda](https://www.facebook.com/zeromuda/?hc_location=ufi)** – 85 New Street, Horsforth. [Zero Muda](https://www.zeromuda.co.uk/?fbclid=IwAR3VwTpEc38JRPosAnY85Kp3r-5tzMpv_yNgkk9EEcZtnfkHjklDqxGfRs8) is Horsforth’s first refill store with a mission to channel all profits back into the local community.  Sounds good to us!  
+
+![](/uploads/120319415_365501327965876_2721842203023444409_n.jpg)
 
 <!--EndFragment-->
