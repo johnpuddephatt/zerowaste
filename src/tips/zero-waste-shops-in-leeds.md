@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Zero waste shops in Leeds
+title: Support your local Zero waste shop
 date: 2020-10-27T17:06:54.315Z
 tags: stuff
 image: /uploads/120319415_365501327965876_2721842203023444409_n.jpg
