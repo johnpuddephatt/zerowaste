@@ -43,6 +43,12 @@ We have listed all the reuse options we know in Leeds below. Please [get in touc
 
 [Leeds Bike Mill](https://leedsbikemill.org/)
 
+[Meanwood Valley Farm](https://www.mvuf.org.uk/education/bikes/)
+
+[South Leeds Big Bike Fix](https://southleedslife.com/south-leeds-big-bike-fix/)
+
+
+
 ## [](https://leedsbikemill.org/)Paint
 
 [Seagulls Paint](https://seagullsreuse.org.uk/paint/)
