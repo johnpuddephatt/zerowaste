@@ -19,7 +19,7 @@ The idea is pretty simple - you can [donate](https://accesswy.org/donate/) your 
 
 There's more information on what they can accept on [their website](https://accesswy.org/donate/) - in summary they are looking for machines which work, are safe and run a minimum of Windows 7.  Ideally they should be under 5 years old.  If you're unsure whether to donate your laptop or tablet, you can [check with them first](https://accesswy.org/donate/).   
 
-Alongside donating a laptop or tablet, there are other ways to support their work - including by donating to their [crowdfunding campaign](https://accesswy.org/can-you-support-our-gofundme-campaign/) (to support things like buying data plans to help people to get online) - or by [volunteering](https://accesswy.org/volunteer/).
+Alongside donating a laptop or tablet, there are other ways to get involved - including [volunteering](https://accesswy.org/volunteer/).
 
 Or perhaps you could help by collecting a few laptops or tablets from friends, neighbours or work colleagues - like [Stuart Clarke from Leeds Digital Festival did recently](https://twitter.com/DawYorks/status/1271770430567854082)?
 
