@@ -32,7 +32,9 @@ When they reopen, you'll be able to [join for an annual fee](https://pedallers-a
 
 # Buying second hand bikes
 
-There are lots of options for buying second hand bikes in Leeds, including some excellent social enterprises.   You'll need to check opening hours as obviously these are subject to change at the moment - but your options include [Leeds Bike Mill](https://leedsbikemill.org/), [The Bikes College](https://thebikescollege.org/), and [Meanwood Valley Farm](https://www.mvuf.org.uk/education/bikes/).  Other reuse shops and charity shops, such as [Emmaus Leeds](https://emmaus.org.uk/leeds/) and [Revive](http://www.reviveleeds.co.uk/) (at Kirkstall and Seacroft Household Waste Sites) often have bikes for sale too.  Again - all are currently closed - so it's worth checking on their websites for when they reopen.
+There are lots of options for buying second hand bikes in Leeds, including some excellent social enterprises.   You'll need to check opening hours as obviously these may be subject to change at the moment - but your options include [Leeds Bike Mill](https://leedsbikemill.org/), [The Bikes College](https://thebikescollege.org/), and [Meanwood Valley Farm](https://www.mvuf.org.uk/education/bikes/).  Other reuse shops and charity shops, such as [Emmaus Leeds](https://emmaus.org.uk/leeds/) and [Revive](http://www.reviveleeds.co.uk/) (at Kirkstall and Seacroft Household Waste Sites) often have bikes for sale too.  
+
+It's worth checking on their websites whether they are all open during the current lockdown.  The last time we checked [The Bikes College](https://thebikescollege.org/) was open, with limited access, and [Leeds Bike Mill](https://leedsbikemill.org/) had an appointment system in place.  
 
 # More info on cycling in Leeds
 
