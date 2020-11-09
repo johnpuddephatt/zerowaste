@@ -79,5 +79,5 @@ Here's a list of some of the ebay stores run by charity shops that our followers
 * [Jewish Women’s Aid](<*  [https://charity.ebay.co.uk/chari…/Jewish-Women's-Aid/108351…](https://charity.ebay.co.uk/charity/Jewish-Women's-Aid/108351?page=2&size=20&sort=StartTimeNewest&fbclid=IwAR3t5KQstSPnSMuUjmebq9buLritHj9l7DpTHIAJ72FRpyQLoD22yU68KDE)>)
 * [Women’s Aid Federation ](<* [https://www.charity.ebay.co.uk/…/Women's-Aid-Federatio…/9949](https://www.charity.ebay.co.uk/charity/Women's-Aid-Federation-of-England/9949?fbclid=IwAR3qpoHRr7J7zaioL35u9qivQjLhD-yD7I8GojMWGxm5q0GMcJjR3zjJwn4)>)
 * [Age UK](<* https://charity.ebay.co.uk/charity/Age-UK/41580>) 
-* [Leeds Women’s Aid ](<* <https://www.facebook.com/leedswomensaid/?hc_location=ufi>>)
+* [Leeds Women’s Aid ](https://www.ebay.co.uk/itm/174506725310)
 * [Alzheimers Society ](<* https://charity.ebay.co.uk/charity/Alzheimer's-Society/14311>)
