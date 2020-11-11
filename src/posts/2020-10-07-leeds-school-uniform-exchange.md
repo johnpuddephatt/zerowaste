@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Leeds School Uniform Exchange
-date: 2020-10-07T15:50:15.953Z
+date: 2020-11-11T10:23:05.896Z
 image: /uploads/copy-of-school-uniform-facebook-cover-photos.png
 image_alt: Leeds School Uniform Exchange
 ---
