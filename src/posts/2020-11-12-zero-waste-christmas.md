@@ -53,16 +53,6 @@ It’s worth also being aware that any adornments like shiny or glossy materials
 
 An even more sustainable option is to send e-cards! Lots of charities allow you to send these free or for a small donation e.g. [Shelter](https://www.dontsendmeacard.com/select-christmas-card.html), [Marie Curie](https://shop.mariecurie.org.uk/christmas-e-cards), [Alzheimer’s Society](https://shop.alzheimers.org.uk/ecards?page=all), [Friends of the Earth](https://ecogifts.friendsoftheearth.uk/?_ga=2.241079936.2016306772.1605193708-810130541.1605193708), [Card Aid](https://www.cardaid.co.uk/business-christmas-e-cards.html#features/3), [Oxfam](https://onlineshop.oxfam.org.uk/shop/oxfam-unwrapped/ecards), [Macmillan cancer care](https://ecards.macmillan.org.uk/select-an-ecard/christmas/), [WWF](https://support.worldwildlife.org/site/SPageServer?pagename=Holiday_Ecards&s_src=AWE1705OQ18316A01293RX&s_subsource=web_HYCH) and more.
 
-## Christmas Tree
-
-![Fake Tree or Real Tree?](/uploads/fake-tree-or-real-tree_-1-.jpg)
-
-The age-old question - is it more environmental to buy a fake tree or real tree?
-
-According to the [Carbon Trust](https://www.carbontrust.com/news-and-events/news/carbon-trust-christmas-tree-disposal-advice), a real Christmas tree has a significantly lower carbon footprint than an artificial one, especially if it is disposed of properly. By far the best option is a potted tree which, with care, can be replanted after the festive season and re-used year after year.
-
-The advice on artificial trees is that if you’ve already got one, keep using it. It would need to be used for at least 10 years to have a lower environmental impact than a real one. 
-
 ## Decorations
 
 Scrap decorations? No way, we’re not doing that! Ah you mean use scrap for decorations. 
@@ -72,6 +62,18 @@ Artist Alison Gordon specialises in using just about anything she can lay her ha
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C0EW3HJTkPA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L_WPAwpDkNk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+## Christmas Tree
+
+![Fake Tree or Real Tree?](/uploads/fake-tree-or-real-tree_-1-.jpg)
+
+The age-old question - is it more environmental to buy a fake tree or real tree?
+
+According to the [Carbon Trust](https://www.carbontrust.com/news-and-events/news/carbon-trust-christmas-tree-disposal-advice), a real Christmas tree has a significantly lower carbon footprint than an artificial one, especially if it is disposed of properly. By far the best option is a potted tree which, with care, can be replanted after the festive season and re-used year after year.
+
+The advice on artificial trees is that if you’ve already got one, keep using it. It would need to be used for at least 10 years to have a lower environmental impact than a real one. 
 
 ## Food
 
