@@ -20,15 +20,11 @@ Instead of buying new, could you buy something secondhand? Have a look at our [D
 
 Finally, if you are buying new, look to support local businesses that offer ethical produce! We've shared a list of [zero waste shops in Leeds](https://www.zerowasteleeds.org.uk/tips/zero-waste-shops-in-leeds/) to help you get started!
 
-
-
 ## Gift Wrapping
 
 Time to wrap your presents? Luc from EcoTopia tells us how to be a 'wrap star' and not a 'waste maker'. Lots of easy low-cost tips and tricks here! 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HD3PMoq3bUM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 ## Cards
 
@@ -62,11 +58,8 @@ Scrap decorations? No way, we’re not doing that! Ah you mean use scrap for dec
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L_WPAwpDkNk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
-## Food 
+## Food
 
 Did you know that 54 million plates of food get thrown away every Christmas? Leeds chef Anthony O'Shaughnessy gives his top 3 'waste busting' tips. They're good ones too!
 
-\
 <iframe width="560" height="315" src="https://www.youtube.com/embed/msmXKENs6Ow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
