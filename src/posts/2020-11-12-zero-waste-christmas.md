@@ -12,7 +12,7 @@ We've gathered some top tips and videos to help you have a Zero Waste Christmas.
 
 Did you know that on average we waste £4 billion on unwanted gifts every year! This year, instead of giving unwanted gifts, why not use this gift-giving hierarchy as inspiration?   
 
-![](/uploads/zero-waste-christmas.jpg)
+![Zero Waste Christmas Gift Giving Hierarchy](/uploads/zero-waste-christmas.jpg)
 
 Instead of buying presents this year could you plant trees or make a charitable donation? Instead of buying material gifts, could you give your friends and family an experience?
 
@@ -40,7 +40,7 @@ An even more sustainable option is to send e-cards! Lots of charities allow you 
 
 ## Christmas Tree
 
-![](/uploads/fake-tree-or-real-tree_-1-.jpg)
+![Fake Tree or Real Tree?](/uploads/fake-tree-or-real-tree_-1-.jpg)
 
 The age-old question - is it more environmental to buy a fake tree or real tree?
 
