@@ -20,6 +20,10 @@ Instead of buying new, could you buy something secondhand? Have a look at our [D
 
 Finally, if you are buying new, look to support local businesses that offer ethical produce! We've shared a list of [zero waste shops in Leeds](https://www.zerowasteleeds.org.uk/tips/zero-waste-shops-in-leeds/) to help you get started!
 
+Here's one idea for a Zero Waste Christmas gift from Celia at Leeds Bike Mill. Leeds Bike Mill - a not-for-profit community bike recycling and training co-op based on Mabgate Green - is the perfect place to look for an affordable secondhand bike, or to gift new or secondhand accessories. Unfortunately due to Covid-19, this year the vouchers for bike maintenance training courses are not available.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k_5-rejX58A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Gift Wrapping
 
 Did you know that the UK uses around 227,000 miles of wrapping paper each year? That’s enough to wrap around the world more than nine times! Most wrapping paper has also been chemically dyed, laminated and mixed with non-paper material like foil and glitter(which is basically little bits of plastic) making it non-recycleable. And that’s before you add the ribbon, gift tags, cellophane and sticky tape.
