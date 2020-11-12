@@ -22,6 +22,17 @@ Finally, if you are buying new, look to support local businesses that offer ethi
 
 ## Gift Wrapping
 
+Did you know that the UK uses around 227,000 miles of wrapping paper each year? That’s enough to wrap around the world more than nine times! Most wrapping paper has also been chemically dyed, laminated and mixed with non-paper material like foil and glitter(which is basically little bits of plastic) making it non-recycleable. And that’s before you add the ribbon, gift tags, cellophane and sticky tape.
+
+Avoid single-use wrap with these creative ideas:
+
+* Swap tape for twine or Washi tape.
+* Repurpose the kids artwork, use an old newspaper or Rob’s favourite an old map to create wrapping paper.
+* Use untreated plain brown packing paper then decorate with natural elements such as pine cones, holly, twigs, native flora - all of which can be recycled.
+* Turn a clean crisp packet inside out to add some eco-sparkle.
+* Use an old pillow case and tie an old scarf or tea towel off cut around the top.
+* Try the art of Furoshiki, the Japanese art of fabric origami using any unwanted textiles.
+
 Time to wrap your presents? Luc from EcoTopia tells us how to be a 'wrap star' and not a 'waste maker'. Lots of easy low-cost tips and tricks here! 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HD3PMoq3bUM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -52,7 +63,7 @@ The advice on artificial trees is that if you’ve already got one, keep using i
 
 Scrap decorations? No way, we’re not doing that! Ah you mean use scrap for decorations. 
 
- Artist Alison Gordon specialises in using just about anything she can lay her hands on to make the most wonderful creations. She’s back giving some top tips in these videos filmed at Scrap Creative Reuse Art Project in Farsley in 2019. Why not have a look at the [SCRAP website](http://www.scrapstuff.co.uk) for inspiration. 
+Artist Alison Gordon specialises in using just about anything she can lay her hands on to make the most wonderful creations. She’s back giving some top tips in these videos filmed at Scrap Creative Reuse Art Project in Farsley in 2019. Why not have a look at the [SCRAP website](http://www.scrapstuff.co.uk) for inspiration. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C0EW3HJTkPA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
