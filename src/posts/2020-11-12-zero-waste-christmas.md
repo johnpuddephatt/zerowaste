@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Zero Waste Christmas
 date: 2020-11-12T15:00:48.785Z
-image: /uploads/photo5.jpg
+image: /uploads/zero-waste-christmas-photos.jpg
 ---
 Christmas can be a time when so much gets wasted or thrown away - but it doesn't need to be that way!
 
