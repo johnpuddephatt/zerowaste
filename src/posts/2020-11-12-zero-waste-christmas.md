@@ -18,9 +18,9 @@ Instead of buying presents this year could you plant trees or make a charitable 
 
 Instead of buying new, could you buy something secondhand? Have a look at our [Donating and Buying Secondhand](https://www.zerowasteleeds.org.uk/tips/donating-and-buying-secondhand-stuff/) page for inspiration. Could you make a gift yourself? (Hint - baked goodies always go down a treat!)
 
-Finally, if you are buying new, look to support local businesses that offer ethical produce! We've shared a list of [zero waste shops in Leeds](https://www.zerowasteleeds.org.uk/tips/zero-waste-shops-in-leeds/) to help you get started!
+Finally, if you are buying new, look to support local businesses that offer ethical produce! We've shared a list of [zero waste shops in Leeds](https://www.zerowasteleeds.org.uk/tips/zero-waste-shops-in-leeds/) to help you get started! There is also the brilliant [\#BuyLeeds campaign](https://www.supportyourlocalindie.co.uk/directory/Makers%20%26%20Producers), which is a directory of independent ​businesses in Leeds that people might want to buy from this Christmas to support our local economy. It's been put together by a great team of people for free and it's free to advertise your business on there. The Directory makes it so easy for customers to find local independents and to spend money with them. Businesses can register by completing their [online form](https://forms.gle/nyFEUPJCSKeiNuMY8).
 
-Here's one idea for a Zero Waste Christmas gift from Celia at Leeds Bike Mill. Leeds Bike Mill - a not-for-profit community bike recycling and training co-op based on Mabgate Green - is the perfect place to look for an affordable secondhand bike, or to gift new or secondhand accessories. Unfortunately due to Covid-19, this year the vouchers for bike maintenance training courses are not available.
+Here's just one idea for a Zero Waste Christmas gift from Celia at Leeds Bike Mill. Leeds Bike Mill - a not-for-profit community bike recycling and training co-op based on Mabgate Green - is the perfect place to look for an affordable secondhand bike, or to gift new or secondhand accessories. Unfortunately due to Covid-19, this year the vouchers for bike maintenance training courses are not available.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k_5-rejX58A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -62,8 +62,6 @@ Artist Alison Gordon specialises in using just about anything she can lay her ha
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C0EW3HJTkPA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L_WPAwpDkNk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 ## Christmas Tree
 
