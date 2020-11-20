@@ -17,7 +17,9 @@ We also run behaviour change campaigns and projects.  Current ones include [\#L
 
 We have a growing community of over 12,000 followers on [Instagram](https://www.instagram.com/zerowasteleeds/), [Facebook](https://www.facebook.com/zerowasteleeds) and [Twitter](https://twitter.com/ZeroWasteLeeds). You can read more about us here on our [website](https://www.zerowasteleeds.org.uk/). 
 
-#### Who are we looking for? 
+![](/uploads/News items.jpg)
+
+#### Who are we looking for?
 
 We’d love to work with someone who already has an interest in the environment and sustainable living, as well as an awareness of social issues in our city.  
 
@@ -41,7 +43,7 @@ Every day is different but we mainly need support to:
 * Share inspiring stories in creative ways from communities across the city. 
 * Keep an eye on social media trends, undertaking some regular analytics 
 
-#### Working as part of a team 
+#### Working as part of a team
 
 You’d be joining a small friendly team who are committed to making a positive difference.  The hours you volunteer with us are flexible and despite working remotely right now, we regularly check-in with each other online. 
 
