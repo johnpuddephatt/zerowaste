@@ -17,7 +17,7 @@ We also run behaviour change campaigns and projects.  Current ones include [\#L
 
 We have a growing community of over 12,000 followers on [Instagram](https://www.instagram.com/zerowasteleeds/), [Facebook](https://www.facebook.com/zerowasteleeds) and [Twitter](https://twitter.com/ZeroWasteLeeds). You can read more about us here on our [website](https://www.zerowasteleeds.org.uk/). 
 
-![](/uploads/News items.jpg)
+
 
 #### Who are we looking for?
 
@@ -37,7 +37,7 @@ Other desirable skills/experience would include: 
 
 Every day is different but we mainly need support to:
 
-* Keep our Instagram and Facebook pages active and interesting by coming up with new content for our core zero waste work and current projects.  
+* Keep our Instagram and Facebook pages active and interesting by working with us to come up with new content for our core zero waste work and current projects.  
 * Respond to questions/queries from our followers across all platforms
 * Come up with new ideas to help us grow our social media presence and help raise awareness of the work we do and all the great things happening in our city. 
 * Share inspiring stories in creative ways from communities across the city. 
@@ -55,8 +55,10 @@ What this volunteering experience could offer you: 
 
 • Insight into the running of a small organisation including funding bids, communications approaches. 
 
+
+
 We believe this is a great opportunity to make a big difference within a small organisation. 
 
-To find out more, email [info@zerowasteleeds.org.uk](mailto:info@zerowasteleeds.org.uk)  
+To find out more, email [](mailto:info@zerowasteleeds.org.uk)[suzanne@zerowasteleeds.org.uk](<mailto: suzanne@zerowasteleeds.org.uk>)  
 
 <!--EndFragment-->
