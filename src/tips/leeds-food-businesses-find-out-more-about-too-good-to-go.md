@@ -16,11 +16,13 @@ The Magic Bag idea reflects the fact that you'll never know exactly what you'll 
 
 The main rule is that the price of what's in the bag has to be no more than one third of its full retail value - to make sure that potential customers know that they're getting a bargain.
 
-Caroline was joined by Laura, General Manager at one of our favourite coffee shops, North Star Coffee Shop at Leeds Dock.
+Caroline was joined by Laura, General Manager at one of our favourite coffee shops, [North Star Coffee Shop](https://www.northstarroast.com/cafe/) at Leeds Dock.
 
-We know the people behind North Star well and we know that sustainability is very much at the heart of what they do.  And they work hard to not have much food waste in the first place - through careful menu design and preparation of fresh food every day.  But it's inevitable - particularly for bakery products with a one day shelf-life - that there will be some food left over at the end of the day - particularly in the challenging times that food and drink businesses are currently operating in.  So Too Good To Go gives them an easy option for getting rid of any surplus food at the end of the day.  
+We know the people behind North Star well and we know that sustainability is very much at the heart of what they do.  And they work hard to not have much food waste in the first place - through careful menu design and preparation of fresh food every day.  
 
-There are several businesses in Leeds already on the app, including The Real Junk Food Project, Rainbow Junktion, Morrisons, Barburrito, and Caffe Nero - and we'd love to see lots more.
+But it's inevitable - particularly for bakery products with a one day shelf-life - that there will be some food left over at the end of the day - particularly in the challenging times that food and drink businesses are currently operating in.  So Too Good To Go gives them an easy option for getting rid of any surplus food at the end of the day.  
+
+There are several businesses in Leeds already on the app, including [The Real Junk Food Project](https://trjfp.com/), [Rainbow Junktion](http://rainbowjunktion.org.uk/), Morrisons, Barburrito, and Caffe Nero - and we'd love to see lots more.
 
 If you run a business in Leeds and would like to find out more about how to sign up on the Too Good To Go app, you can find get in touch with Caroline at Too Good To Go [here](https://toogoodtogo.co.uk/en-gb/business?utm_source=referral&utm_medium=partnership&utm_campaign=uk_sales_partnership_referral_zerowasteleeds).  
 
