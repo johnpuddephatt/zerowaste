@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Leeds food businesses - find out more about Too Good To Go
+title: Selling surplus food just got easy
 date: 2020-11-24T13:41:09.775Z
 tags: food-waste
 image: /uploads/untitled-design-7-.png
