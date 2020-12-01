@@ -6,15 +6,9 @@ tags: stuff
 image: /uploads/boy-in-christmas-jumper.png
 image_alt: Boy in Christmas jumper
 ---
-
-
 We recently chatted with Lottie Hanson-Lowe, from [Hubbub](https://www.hubbub.org.uk/Listing/Category/campaigns?Take=8) about clothing, fashion and, as it is the season, Christmas jumpers.
 
-
-
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fzerowasteleeds%2Fvideos%2F563605047839000%2F&show_text=true&width=560" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT08OZHBFL8?start=38" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 You may remember we've worked closely with Hubbub in the past, on campaigns including [Leeds By Example](https://www.hubbub.org.uk/leeds-by-example) and [Plastic Pioneers](https://www.zerowasteleeds.org.uk/posts/plastic-pioneers/).
 
