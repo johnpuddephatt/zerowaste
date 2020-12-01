@@ -1,7 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "#GiveLeeds - making it easy to support local community groups and
-  charities this Christmas"
+title: "#GiveLeeds - supporting local community groups and charities "
 intro: Every Christmas we waste £500,000 on unwanted gifts in Leeds.
 date: 2020-12-01T16:18:12.289Z
 image: /uploads/christmas-gift-square.jpg
