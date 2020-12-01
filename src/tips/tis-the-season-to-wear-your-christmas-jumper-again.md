@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: "'Tis the season to wear your Christmas jumper - again!"
 date: 2020-12-01T14:34:27.846Z
 tags: stuff
-image: /uploads/untitled-design-10-.png
+image: /uploads/boy-in-christmas-jumper.png
 image_alt: Boy in Christmas jumper
 ---
 
