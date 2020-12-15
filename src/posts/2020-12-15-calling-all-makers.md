@@ -30,7 +30,7 @@ If this sounds like you, please [get in touch](info@zerowasteleeds.org.uk).
 
 <br>
 
-## Tips for making the videos and how to send them in
+## Tips for making and sending in videos
 
 ### Location
 
