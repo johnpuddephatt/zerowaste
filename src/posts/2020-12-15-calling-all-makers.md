@@ -22,27 +22,29 @@ We are trying to gather a range of tutorials to empower people to learn sewing s
 
   • Create a buttonhole by hand 
 
-If this sounds like you, please [get in touch](info@zerowasteleeds.org.uk).\
-\
----
+If this sounds like you, please [get in touch](info@zerowasteleeds.org.uk).
 
 <br>
 
-# Tips for making the videos and how to send them in
+\---
 
-## Location
+<br>
+
+## Tips for making the videos and how to send them in
+
+### Location
 
 Find a space that is clear of clutter and where there’s nothing in shot that you don’t want people to see.
 
-## Camera position
+### Camera position
 
 Work out where the camera is going to be to film. If you don’t have a clamp for it can you balance it or prop it up on something or get someone with a steady hand to hold it for you?
 
-## Lighting
+### Lighting
 
 Try to light the area you want to capture as well as possible. It helps to have multiple light sources from different angles to avoid hard shadows.
 
-## Content 
+### Content 
 
 Plan what you are going to show and what you want to say about it.
 
@@ -54,27 +56,27 @@ Plan what you are going to show and what you want to say about it.
 
   • Tell us why it is useful in helping to prevent waste.
 
-## Rehearsal
+### Rehearsal
 
 Do a rehearsal to make sure you know what you want to say and do and that you can cover what you need to in the time.
 
-## Equipment 
+### Equipment 
 
 Make sure you have all the things you will need (e.g. fabric, thread, scissors etc.) to hand before you start.
 
-## Action!
+### Action!
 
 Time to film! It might need a couple of takes to get your video the way you want but don’t let that put you off.
 
-## Edit (optional)
+### Edit (optional)
 
 If you are able or know how there are plenty of apps that enable you to edit your clip e.g. iMovie, [](https://play.google.com/store/apps/details?id=com.nexstreaming.app.kinemasterfree&hl=en_GB&gl=US)KineMaster, Filmora, and even add captions.
 
-## Consent 
+### Consent 
 
 By sending in your video you are consenting to it being uploaded and made publicly available by Zero Waste Leeds. We will choose the best of the videos we receive and reserve the right to make minor edits to video and text if needed.
 
-## Send it in
+### Send it in
 
 Send your video to [info@zerowasteleeds.org.uk](mailto:info@zerowasteleeds.org.uk), telling us:
 
