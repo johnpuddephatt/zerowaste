@@ -24,15 +24,27 @@ We are trying to gather a range of tutorials to empower people to learn sewing s
 
 If this sounds like you, please [get in touch](info@zerowasteleeds.org.uk).\
 \
-Here are some tips for making the videos and how to send them in.
+---
 
-1 Location – find a space that is clear of clutter and where there’s nothing in shot that you don’t want people to see.
+<br>
 
-2 Camera position – work out where the camera is going to be to film. If you don’t have a clamp for it can you balance it or prop it up on something or get someone with a steady hand to hold it for you?
+# Tips for making the videos and how to send them in
 
-3 Lighting – try to light the area you want to capture as well as possible. It helps to have multiple light sources from different angles to avoid hard shadows.
+## Location
 
-4 Content – plan what you are going to show and what you want to say about it.
+Find a space that is clear of clutter and where there’s nothing in shot that you don’t want people to see.
+
+## Camera position
+
+Work out where the camera is going to be to film. If you don’t have a clamp for it can you balance it or prop it up on something or get someone with a steady hand to hold it for you?
+
+## Lighting
+
+Try to light the area you want to capture as well as possible. It helps to have multiple light sources from different angles to avoid hard shadows.
+
+## Content 
+
+Plan what you are going to show and what you want to say about it.
 
   • Keep it short.
 
@@ -42,17 +54,29 @@ Here are some tips for making the videos and how to send them in.
 
   • Tell us why it is useful in helping to prevent waste.
 
-5 Rehearsal – do a rehearsal to make sure you know what you want to say and do and that you can cover what you need to in the time.
+## Rehearsal
 
-6 Equipment – make sure you have all the things you will need (e.g. fabric, thread, scissors etc.) to hand before you start.
+Do a rehearsal to make sure you know what you want to say and do and that you can cover what you need to in the time.
 
-7 ACTION! – time to film. It might need a couple of takes to get your video the way you want but don’t let that put you off.
+## Equipment 
 
-8 Edit (optional) - If you are able or know how there are plenty of apps that enable you to edit your clip e.g. iMovie, [](https://play.google.com/store/apps/details?id=com.nexstreaming.app.kinemasterfree&hl=en_GB&gl=US)KineMaster, Filmora, and even add captions.
+Make sure you have all the things you will need (e.g. fabric, thread, scissors etc.) to hand before you start.
 
-9  Consent – by sending in your video you are consenting to it being uploaded and made publicly available by Zero Waste Leeds. We will choose the best of the videos we receive and reserve the right to make minor edits to video and text if needed.
+## Action!
 
-10 Send it in – Send your video to info@zerowasteleeds.org.uk, telling us:
+Time to film! It might need a couple of takes to get your video the way you want but don’t let that put you off.
+
+## Edit (optional)
+
+If you are able or know how there are plenty of apps that enable you to edit your clip e.g. iMovie, [](https://play.google.com/store/apps/details?id=com.nexstreaming.app.kinemasterfree&hl=en_GB&gl=US)KineMaster, Filmora, and even add captions.
+
+## Consent 
+
+By sending in your video you are consenting to it being uploaded and made publicly available by Zero Waste Leeds. We will choose the best of the videos we receive and reserve the right to make minor edits to video and text if needed.
+
+## Send it in
+
+Send your video to [info@zerowasteleeds.org.uk](mailto:info@zerowasteleeds.org.uk), telling us:
 
   • Your name,
 
@@ -61,3 +85,5 @@ Here are some tips for making the videos and how to send them in.
   • How long the activity in the video took you (e.g. if your video is edited or speeded up, how long would it take someone to do what is shown in real time?)
 
   • Something about why you made the video (maybe who taught you the skill, when and how you’ve used it or why you think it’s a useful skill to have and to share).
+
+WeTransfer is a good platform to send the video over on if the file size is too large for email.
