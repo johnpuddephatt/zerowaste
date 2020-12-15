@@ -26,7 +26,7 @@ If this sounds like you, please [get in touch](info@zerowasteleeds.org.uk).
 
 <br>
 
-\---
+<hr>
 
 <br>
 
