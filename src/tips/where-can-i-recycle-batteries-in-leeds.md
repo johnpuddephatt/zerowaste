@@ -19,3 +19,5 @@ Yet only 45% of the batteries we get through are recycled.
 You can recycle batteries at any Household Waste Site - there's more information about their current opening hours and the booking system that is in place [here](https://www.leeds.gov.uk/residents/bins-and-recycling/recycling-sites).  
 
 Plenty of retailers and other venues have battery recycling facilities too - you can find where you can recycle batteries near you [here](https://www.bringbackheavymetal.co.uk/drop-off).
+
+You can now also recycle your batteries at your local Cancer Research UK shop thanks to a recent collaboration between them and Ecosurety. They have pledged to make a financial donation to Cancer Research UK for every tonne of batteries collected through their stores. So not only are you helping the planet but you are providing much needed funds to a worthwhile cause - win win. Find your [nearest Cancer Research UK shop here. ](https://www.cancerresearchuk.org/get-involved/find-a-shop)
