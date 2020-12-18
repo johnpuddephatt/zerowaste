@@ -22,7 +22,7 @@ As part of the [\#LeedsFashionFutures](https://www.zerowasteleeds.org.uk/posts/l
 
   • Create a buttonhole by hand 
 
-If this sounds like you, please [get in touch](info@zerowasteleeds.org.uk). See below for tips on making and sending in the videos.
+If this sounds like you, please [get in touch](mailto:info@zerowasteleeds.org.uk). See below for tips on making and sending in the videos.
 
 <br>
 
