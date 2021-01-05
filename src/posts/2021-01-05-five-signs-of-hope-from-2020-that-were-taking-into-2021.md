@@ -10,11 +10,7 @@ Let's face it.  It can be hard to feel positive at the moment. And it can be har
 
 But with a tough few weeks ahead, on top of a tough old year, we wanted to reflect on some of the good stuff too - and think back to some of the things that we saw as positives in our work at Zero Waste Leeds during 2020 - and which we think we can build on, together, during 2021.  
 
-
-
 # The power of community
-
-
 
 The challenging times we're living through have made many of us more reliant on others for help.
 
@@ -27,8 +23,6 @@ With our support, people from across the city have got organised to sort out swa
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RuyCriaVWlU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 It's a wonderful example of people just getting on and doing stuff.  And a reminder that in tough times, even when we might be struggling ourselves, many of us want to find ways to help others.  This is something that we'll need to do in the coming weeks and months - and the years ahead.  
-
-
 
 # Cutting down on food waste
 
@@ -47,8 +41,6 @@ And with shopping more of a chore than usual, we got into the habit of checking 
 
 Research suggests many of us ended up wasting less food last year as a result of all of this.  There’s every chance that this is a habit that could stick - with benefits for our household finances - alongside environmental benefits.
 
-
-
 # Sharing stuff with neighbours
 
 \
@@ -59,8 +51,6 @@ This was part of a much wider mutual aid movement - with local communities comin
 And as the months went on, more of us used those groups for sharing stuff.  With charity shops closed, the groups gave an easy opportunity to pass things on.  And many WhatsApp groups ended up being used to share stuff too - whether that’s a set of ladders, a drill or a tray for a (downsized) Christmas turkey.
 
 Many of us are fed up of having so much stuff in our lives.  Stuff we often end up using once or twice.  Our neighbourhood WhatsApp groups have given many of us an easy way to share, rather than buying something new.  That’s definitely something we can keep going into 2021 and beyond.
-
-
 
 # Learning to fix stuff
 
@@ -73,11 +63,7 @@ For most of us, this meant something simple like a small repair to an item of cl
 
 You only have to watch [The Repair Shop](https://www.bbc.co.uk/programmes/b08l581p) to understand the joy that fixing things can bring.  And many of us experienced those little moments of joy that can come from mending.  That’s something we can certainly take with us into 2021.
 
-
-
 # Tech for good
-
-
 
 With children and young people learning at home for months last year - and back to it again this month - we’ve become increasingly aware of what’s often called the digital divide - and how many families are struggling to provide opportunities for their children to do their school work at home.
 
@@ -87,10 +73,6 @@ During 2020 local not-for-profit organisations [Tech Angels](https://www.zerowas
 
 This month’s lockdown has reminded us once more how vital it is that people can get online at home - and we’re grateful that there are practical ways that we can all help - by supporting groups like Tech Angels and DAWY.
 
-
-
 # Join us in 2021
 
-
-
-Our online community, across our [Zero Waste Leeds Facebook page](https://www.facebook.com/zerowasteleeds/), [Leeds Zero Waste Living](https://www.facebook.com/groups/zerowasteleeds/about/) Facebook group, [Leeds School Uniform Exchange Facebook group](https://www.facebook.com/groups/603050533660854/), [Leeds Fashion Futures](https://www.facebook.com/groups/leedsfashionfutures/) Facebook group, [Twitter](https://twitter.com/zerowasteleeds?lang=en), Instagram, YouTube and LinkedIn now has over 15000 members.  We'd love you to join us.
+Our online community, across our [Zero Waste Leeds Facebook page](https://www.facebook.com/zerowasteleeds/), [Leeds Zero Waste Living](https://www.facebook.com/groups/zerowasteleeds/about/) Facebook group, [Leeds School Uniform Exchange Facebook group](https://www.facebook.com/groups/603050533660854/), [Leeds Fashion Futures](https://www.facebook.com/groups/leedsfashionfutures/) Facebook group, [Twitter](https://twitter.com/zerowasteleeds?lang=en), [Instagram](https://www.instagram.com/zerowasteleeds/), [YouTube](https://www.youtube.com/channel/UCD4AOnL4OuGUnxHqDi_5ghQ) and [LinkedIn](https://www.linkedin.com/company/56466378/admin/) now has over 15000 members.  We'd love you to get involved.
