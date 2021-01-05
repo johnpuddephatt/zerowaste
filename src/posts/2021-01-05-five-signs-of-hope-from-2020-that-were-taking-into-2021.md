@@ -10,6 +10,10 @@ Let's face it.  It can be hard to feel positive at the moment. And it can be har
 
 But with a difficult few weeks ahead, on top of an incredibly challenging year, we wanted to reflect on some of the good stuff too - and think back to some of the things that we saw as positives in our work at Zero Waste Leeds during 2020 - and which we think we can build on, together, during 2021.  
 
+
+
+
+
 # The power of community
 
 The challenging times we're living through have made many of us more reliant on others for help.
