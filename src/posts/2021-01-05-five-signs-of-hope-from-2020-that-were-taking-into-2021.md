@@ -8,9 +8,7 @@ image_alt: Picture of a heart - placed in a window - made from sweet wrappers,
 ---
 Let's face it.  It can be hard to feel positive at the moment. And it can be hard to think about anything other than Coronavirus, and how we’re going to get through this.  
 
-But with a tough few weeks ahead, on top of a tough old year, we wanted to reflect on some of the good stuff too - and think back to some of the things that we saw as positives in our work at Zero Waste Leeds during 2020 - and which we think we can build on, together, during 2021.  
-
-
+But with a difficult few weeks ahead, on top of an incredibly challenging year, we wanted to reflect on some of the good stuff too - and think back to some of the things that we saw as positives in our work at Zero Waste Leeds during 2020 - and which we think we can build on, together, during 2021.  
 
 # The power of community
 
@@ -27,8 +25,6 @@ With our support, people from across the city have got organised to sort out swa
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RuyCriaVWlU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 It's a wonderful example of people just getting on and doing stuff.  And a reminder that in tough times, even when we might be struggling ourselves, many of us want to find ways to help others.  This is something that we'll need to do in the coming weeks and months - and the years ahead.  
-
-
 
 # Cutting down on food waste
 
@@ -85,5 +81,7 @@ During 2020 local not-for-profit organisations [Tech Angels](https://www.zerowas
 This month’s lockdown has reminded us once more how vital it is that people can get online at home - and we’re grateful that there are practical ways that we can all help - by supporting groups like Tech Angels and DAWY.
 
 # Why not join us in 2021?
+
+
 
 Our online community, across our [Zero Waste Leeds Facebook page](https://www.facebook.com/zerowasteleeds/), [Leeds Zero Waste Living](https://www.facebook.com/groups/zerowasteleeds/about/) Facebook group, [Leeds School Uniform Exchange Facebook group](https://www.facebook.com/groups/603050533660854/), [Leeds Fashion Futures](https://www.facebook.com/groups/leedsfashionfutures/) Facebook group, [Twitter](https://twitter.com/zerowasteleeds?lang=en), [Instagram](https://www.instagram.com/zerowasteleeds/), [YouTube](https://www.youtube.com/channel/UCD4AOnL4OuGUnxHqDi_5ghQ) and [LinkedIn](https://www.linkedin.com/company/56466378/admin/) now has over 15000 members.  We'd love you to get involved.
