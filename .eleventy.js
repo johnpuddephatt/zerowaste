@@ -153,23 +153,3 @@ module.exports = function(eleventyConfig) {
     ]
   };
 };
-
-function extractExcerpt(article) {
-  let excerpt = null;
-
-  const content = article.templateContent || 'foo';
-
-  // The start and end separators to try and match to extract the excerpt
-  const startPosition = content.indexOf('<p>');
-  const endPosition = content.indexOf('</p>');
-  const excerptLength = 100;
-
-  if (startPosition !== -1 && endPosition !== -1) {
-    excerpt = content.substring(startPosition, endPosition).replace(/(<([^>]+)>)/ig,"").trim().substring(0,excerptLength) + '...';
-  }
-  else {
-    excerpt = '';
-  }
-
-  return excerpt;
-}
