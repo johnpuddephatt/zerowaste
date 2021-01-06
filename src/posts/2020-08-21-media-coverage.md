@@ -10,61 +10,51 @@ We have featured a lot recently for our work on recycling, waste reduction, and 
 
 If you are interested in running a story about any of our work, please do [get in touch](mailto:info@zerowasteleeds.org.uk)!
 
-## BBC Look North
 
-21st June 2020 - Leeds School Uniform Exchange
 
-Gill Coupland from Zero Waste Leeds featured alongside Fresh Start Community Projects on BBC Look North talking about school uniform reuse.
+## BBC LOOK NORTH
+
+21st June 2020 - [Leeds School Uniform Exchange](https://youtu.be/RuyCriaVWlU)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RuyCriaVWlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 11th June 2020 - Glass recycling
-
-Gill Coupland from Zero Waste Leeds featured in a story on BBC Look North on what happens next to glass that is recycled in Leeds’ 700 glass banks.
+11th June 2020 - [Glass recycling](https://youtu.be/FHQ9O3dR6hQ)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FHQ9O3dR6hQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 27th May 2020 - Recycling centres & waste reduction
-
-Zero Waste Leeds featured on a BBC Look North story by Tom Ingall about the recycling centres reopening after lockdown. Gill from Zero Waste Leeds explained how she reduces waste by donating good quality second-hand items to charity shops to reuse.
+27th May 2020 - [Recycling centres & waste reduction](https://youtu.be/nWG_sdFUEII)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nWG_sdFUEII" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 15th April 2020 - Reducing waste whilst staying at home - Covid-19
-
-Gill Coupland from Zero Waste Leeds spoke with BBC Look North's Emma Glasbey about ways that people in Leeds can reduce waste whilst they [\#stayathomesavelives](https://www.youtube.com/results?search_query=%23stayathomesavelives) during the [](https://www.youtube.com/results?search_query=%23COVID19)Covid-19 pandemic.
+15th April 2020 - [Reducing waste whilst staying at home - Covid-19](https://youtu.be/bxbHfnY7ftA)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bxbHfnY7ftA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 19th December 2019 - Zero Waste Christmas
-
-Gill Coupland from Zero Waste Leeds shared ideas for a Zero Waste Christmas on BBC Look North. 
+19th December 2019 - [Zero Waste Christmas](https://youtu.be/cJjW-naPrPs)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cJjW-naPrPs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## BBC Radio Leeds
+## BBC RADIO LEEDS
 
-### 3rd September 2020 - Leeds School Uniform Exchange
-
-Gill spoke to Stephanie Hirst at BBC Radio Leeds about the success of the Leeds School Uniform project. 
+3rd September 2020 - [Leeds School Uniform Exchange](https://youtu.be/eVqZnVf5-do)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eVqZnVf5-do" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 6th August 2020 - LS26 Scheme & Leeds School Uniform Exchange
-
-Alice Hennigan talked on BBC Radio Leeds about the LS26 School Uniform Scheme she set up after struggling to find anywhere local to donate her five-year-old daughter's old school clothes. She also mentions Leeds School Uniform Exchange, and how we have mapped all of the uniform reuse schemes across Leeds.
+6th August 2020 - [LS26 Scheme & Leeds School Uniform Exchange](https://youtu.be/3h3CAcXhZ_o)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3h3CAcXhZ_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Radio Aire
+## RADIO AIRE
 
-### 18th August 2020 - Leeds School Uniform Exchange
+18th August 2020 - [Leeds School Uniform Exchange](https://youtu.be/59beZ1fumgs)<iframe width="560" height="315" src="https://www.youtube.com/embed/59beZ1fumgs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-Gill from Zero Waste Leeds went on Radio Aire to talk about Leeds School Uniform Exchange and how people can get involved.
+## YORKSHIRE EVENING POST
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/59beZ1fumgs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+11th December 2020 - [\#GiveLeeds makes it easy for you to support city charities at Christmas](https://www.yorkshireeveningpost.co.uk/news/people/giveleeds-makes-it-easy-you-support-city-charities-christmas-3064257)
 
-## Yorkshire Evening Post
+11th December 2020 - [Time to make a difference at Christmas with #GiveLeeds - the YEP says](https://www.yorkshireeveningpost.co.uk/news/opinion/time-make-difference-christmas-giveleeds-yep-says-3064378)
+
+29th September 2020 - [School uniform recycling project in Leeds has saved more than 3,000 items from being binned in last ten weeks](https://www.yorkshireeveningpost.co.uk/news/people/school-uniform-recycling-project-leeds-has-saved-more-3000-items-being-binned-last-ten-weeks-2985396)
 
 20th August 2020 - [Charity urges parents to use second hand uniform as cost of clothing school children in Leeds is estimated at staggering £6m](https://www.yorkshireeveningpost.co.uk/education/charity-urges-parents-use-second-hand-uniform-cost-clothing-school-children-leeds-estimated-staggering-ps6m-2947326)
 
@@ -72,20 +62,52 @@ Gill from Zero Waste Leeds went on Radio Aire to talk about Leeds School Uniform
 
 15th July 2020 - [School uniform sharing campaign launched to help struggling families in Leeds](https://www.yorkshireeveningpost.co.uk/news/people/school-uniform-sharing-campaign-launched-help-struggling-families-leeds-2913522)
 
+8th July 2020 - ['Huge amount' of litter dumped in Leeds parks since lockdown restrictions eased](https://www.yorkshireeveningpost.co.uk/news/people/huge-amount-litter-dumped-leeds-parks-lockdown-restrictions-eased-2907517)
+
 3rd December 2019 - [This is how recycling rates in Leeds city centre have tripled in one year](https://www.yorkshireeveningpost.co.uk/education/how-recycling-rates-leeds-city-centre-have-tripled-one-year-1330165)
 
 12th June 2019 - [How Leeds bars and clubs are waking up to plastic waste issue](https://www.yorkshireeveningpost.co.uk/news/how-leeds-bars-and-clubs-are-waking-plastic-waste-issue-480190)
 
-## North Leeds Life
+## NORTH LEEDS LIFE
 
 23rd June 2020 - [Lockdown has brought some positive outcomes](https://issuu.com/northleedslife/docs/july-2020-web)
 
 17th December 2019 - [Recycling our way to a healthier planet](https://issuu.com/northleedslife/docs/january-area-b-2020)
 
-## Wellington Place
+## WELLINGTON PLACE
 
 12th August 2020 - [5 Super Simple Ways to Reduce Household Waste](https://www.wellingtonplace.co.uk/blog/5-super-simple-ways-to-reduce-household-waste/)
 
-## Runner's World (UK)
+
+
+## RUNNER'S WORLD (UK)
 
 1st March 2020 - [Eco heroes - campaigns and campaigners - Rob Greenland, Zero Waste Leeds](https://www.pressreader.com/uk/runners-world-uk/20200301/page/62)
+
+## LEEDS LIVE
+
+26th December 2020 - [Leeds residents urged to do 'scrunch test' before throwing away Christmas wrapping paper](https://www.leeds-live.co.uk/news/leeds-news/leeds-residents-urged-scrunch-test-19522780)
+
+
+
+## THE YORKSHIRE POST
+
+4th January 2021 - [How Leeds Tech Angels is helping digitally excluded children get back on track with learning - Barry White](https://www.yorkshirepost.co.uk/news/opinion/columnists/how-leeds-tech-angels-helping-digitally-excluded-children-get-back-track-learning-barry-white-3084001)
+
+
+
+## SOUTH LEEDS LIFE
+
+8th December 2020 - [Easy online giving to local charities with #GiveLeeds](https://southleedslife.com/easy-online-giving-to-local-charities-with-giveleeds/)
+
+5th May 2020 - [Household waste sites may reopen next week](https://southleedslife.com/household-waste-sites-may-reopen-next-week/)
+
+6th May 2020 - [Brown bin and bulky waste collections set to restart](https://southleedslife.com/brown-bin-and-bulky-waste-collections-set-to-restart/)
+
+
+
+## WEST LEEDS DISPATCH
+
+10th December 2020 - [\#GiveLeeds campaign makes donating to local charities easier than ever this Christmas](https://westleedsdispatch.com/giveleeds-campaign-makes-donating-to-local-charities-easier-than-ever-this-christmas/)
+
+3rd September 2020 - [West Leeds: How parents can save cash on expensive school uniforms](https://westleedsdispatch.com/west-leeds-how-parents-can-save-cash-on-expensive-school-uniforms/)
