@@ -36,6 +36,10 @@ If you are interested in running a story about any of our work, please do [get i
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cJjW-naPrPs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+3rd December 2019 - [\#LeedsByExample](https://youtu.be/jtYP-N1x65c)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jtYP-N1x65c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## BBC RADIO LEEDS
 
 3rd September 2020 - [Leeds School Uniform Exchange](https://youtu.be/eVqZnVf5-do)
