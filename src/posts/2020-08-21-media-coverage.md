@@ -10,9 +10,11 @@ We have featured a lot recently for our work on recycling, waste reduction, and 
 
 If you are interested in running a story about any of our work, please do [get in touch](mailto:info@zerowasteleeds.org.uk)!
 
-
-
 ## BBC LOOK NORTH
+
+18th November 2020 - [Making new products from discarded PPE masks](https://youtu.be/eeaKTRlb_qU)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eeaKTRlb_qU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 21st June 2020 - [Leeds School Uniform Exchange](https://youtu.be/RuyCriaVWlU)
 
@@ -78,8 +80,6 @@ If you are interested in running a story about any of our work, please do [get i
 
 12th August 2020 - [5 Super Simple Ways to Reduce Household Waste](https://www.wellingtonplace.co.uk/blog/5-super-simple-ways-to-reduce-household-waste/)
 
-
-
 ## RUNNER'S WORLD (UK)
 
 1st March 2020 - [Eco heroes - campaigns and campaigners - Rob Greenland, Zero Waste Leeds](https://www.pressreader.com/uk/runners-world-uk/20200301/page/62)
@@ -88,13 +88,9 @@ If you are interested in running a story about any of our work, please do [get i
 
 26th December 2020 - [Leeds residents urged to do 'scrunch test' before throwing away Christmas wrapping paper](https://www.leeds-live.co.uk/news/leeds-news/leeds-residents-urged-scrunch-test-19522780)
 
-
-
 ## THE YORKSHIRE POST
 
 4th January 2021 - [How Leeds Tech Angels is helping digitally excluded children get back on track with learning - Barry White](https://www.yorkshirepost.co.uk/news/opinion/columnists/how-leeds-tech-angels-helping-digitally-excluded-children-get-back-track-learning-barry-white-3084001)
-
-
 
 ## SOUTH LEEDS LIFE
 
@@ -103,8 +99,6 @@ If you are interested in running a story about any of our work, please do [get i
 5th May 2020 - [Household waste sites may reopen next week](https://southleedslife.com/household-waste-sites-may-reopen-next-week/)
 
 6th May 2020 - [Brown bin and bulky waste collections set to restart](https://southleedslife.com/brown-bin-and-bulky-waste-collections-set-to-restart/)
-
-
 
 ## WEST LEEDS DISPATCH
 
