@@ -7,8 +7,6 @@ image_alt: 2020 social impact report
 ---
 We're delighted to share our 2020 social impact report - a summary of what we achieved during 2020.
 
-
-
 <iframe allowfullscreen="true" allow="fullscreen" style="border:none;width:100%;height:326px;" src="//e.issuu.com/embed.html?d=2020_impact_report__6_&pageLayout=singlePage&u=zerowasteleeds"></iframe>
 
 2020 was a year that was the most challenging that most of us have ever faced.
@@ -33,11 +31,7 @@ We also worked with [Hubbub](https://www.hubbub.org.uk/) and Cardinal Heenan Cat
 
 And in the summer we set up [Leeds School Uniform Exchange](https://www.zerowasteleeds.org.uk/pipeline/school-uniform/) - probably our most successful project yet.  We worked with communities across Leeds to support them to share school uniform - and make second hand first choice.
 
-
-
 <iframe allowfullscreen="true" allow="fullscreen" style="border:none;width:100%;height:326px;" src="//e.issuu.com/embed.html?d=impact_report_-_leeds_school_uniform_exchange&pageLayout=singlePage&u=zerowasteleeds"></iframe>
-
-
 
 Throughout the year, we had a focus on clothing and fashion - first of all through our [Zero Waste Fashion](https://www.zerowasteleeds.org.uk/posts/leeds-fashion-futures/) project, which centred on a [Zero Waste Fashion Week](https://www.youtube.com/watch?v=msp47VGdgyw&list=PLcImqkHEpk0pY2cBDQoVIoptpDNTNN0-B), and then through [Leeds Fashion Futures](https://www.zerowasteleeds.org.uk/posts/leeds-fashion-futures/), a collaboration with [The RSA](https://www.thersa.org/regenerative-futures) to explore how to take a *place based approach* to reducing the negative impacts of our clothing choices. 
 
@@ -49,7 +43,7 @@ We also enjoyed more local media coverage than ever before - with [several appea
 
 There is so much more we want to do.  But there is so much to look back on in our various projects during 2020 that gives us hope - [a theme that we explore more here](https://www.zerowasteleeds.org.uk/posts/five-signs-of-hope-from-2020-that-we're-taking-into-2021/).  
 
-We'd like to thank all of our funders who have made our work possible this year - Leeds City Council, Leeds Community Foundation, Jimbo's Fund, Hubbub, The RSA, and the ESRC.   
+We'd like to thank all of our funders who have made our work possible this year - [Leeds City Council](https://www.leeds.gov.uk/), [Leeds Community Foundation](https://leedscf.org.uk/), [Jimbo's Fund](https://leedscf.org.uk/what-we-have-funded/), [Hubbub](https://www.hubbub.org.uk/), [The RSA](https://www.thersa.org/), the [ESRC](https://esrc.ukri.org/) and the [University of Leeds](https://www.leeds.ac.uk/).   
 
 And we'd also like to thank everyone who has contributed to making Zero Waste Leeds such a success this year.  We are part of such a generous community of people in Leeds who share our desire to find practical ways to waste less in our daily lives - and we are grateful to everyone who takes the time to share ideas, ask questions or get involved as a volunteer.
 
