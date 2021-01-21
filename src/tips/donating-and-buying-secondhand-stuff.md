@@ -65,8 +65,6 @@ NB: When donating your secondhand stuff, please consider the quality of your ite
 
 Here's a list of some of the ebay stores run by charity shops that our followers have shared with us: 
 
-
-
 * St Gemma’s Hospice Shop [https://www.ebay.co.uk/str/stgemmashospiceshop](https://www.ebay.co.uk/str/stgemmashospiceshop?fbclid=IwAR0GxzL1t1sYDaBDo-h0oY0WL0aTdSWLgpsypJpXydi22nINDu0WIR9bhW4)
 * Martin House [https://www.charity.ebay.co.uk/charity/Martin-House/19347](https://www.charity.ebay.co.uk/charity/Martin-House/19347?fbclid=IwAR0icxU7UHk9pfrUBTGSNEO2oPKanWV05ccLbQjm7MqrZRcc13SsAsmGeXk)
 * Emmaus Leeds [https://www.ebay.co.uk/str/emmausleeds](https://www.ebay.co.uk/str/emmausleeds?fbclid=IwAR3iMe9X9hwTNWoWs3r2NgKNWNX4aDlpyGz42zd1hOuT4qhVU9PSaJyumz0)
@@ -83,6 +81,13 @@ Here's a list of some of the ebay stores run by charity shops that our followers
 * Age UK - [https://charity.ebay.co.uk/charity/Age-UK/41580](<* https://charity.ebay.co.uk/charity/Age-UK/41580>)
 * Leeds Women’s Aid <https://www.facebook.com/leedswomensaid/?hc_location=ufi>
 * Alzheimers Society [https://charity.ebay.co.uk/charity/Alzheimer's-Society/14311](<* https://charity.ebay.co.uk/charity/Alzheimer's-Society/14311>)
+* RSPCA Leeds and Wakefield [](<* https://charity.ebay.co.uk/charity/Alzheimer's-Society/14311>)[https://ebay.co.uk/str/​rspcaleedswakefield](http://www.ebay.co.uk/str/rspcaleedswakefield) 
+
+
+
+
+
+
 
 [](<* https://charity.ebay.co.uk/charity/Alzheimer's-Society/14311>)
 
