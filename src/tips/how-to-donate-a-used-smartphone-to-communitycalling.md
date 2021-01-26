@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: "How to donate your old smartphone to #CommunityCalling"
 date: 2021-01-26T14:10:35.449Z
 tags: stuff
-image: /uploads/a69a0196.jpg
+image: /uploads/screen-shot-2021-01-26-at-14.33.40.png
 ---
 If you've got a spare, working smartphone sat gathering dust in a kitchen drawer, you're far from alone!
 
