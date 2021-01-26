@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "How to donate a used smartphone to #CommunityCalling"
+title: "How to donate your old smartphone to #CommunityCalling"
 date: 2021-01-26T14:10:35.449Z
 tags: stuff
 image: /uploads/a69a0196.jpg
