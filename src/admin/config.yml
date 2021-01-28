@@ -125,6 +125,13 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Introduction', name: 'intro', widget: 'string' }
       - { label: 'Date', name: 'date', widget: 'datetime', dateFormat: 'Do MMM YYYY', timeFormat: false }
+      - label: "Tag"
+        name: "tags"
+        widget: "relation"
+        collection: "tags"
+        searchFields: ["title"]
+        valueField: "slug"
+        displayFields: ["title"]
       - { label: 'Image', name: 'image', widget: 'image' }
       - { label: 'Image alt text', name: 'image_alt', widget: 'string', required: false}
       - { label: 'Description', name: 'body', widget: 'markdown'}
@@ -164,6 +171,13 @@ collections:
       - { name: 'layout', widget: 'hidden', default: 'layouts/post.njk' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Date', name: 'date', widget: 'datetime', dateFormat: 'Do MMM YYYY', timeFormat: false }
+      - label: "Tag"
+        name: "tags"
+        widget: "relation"
+        collection: "tags"
+        searchFields: ["title"]
+        valueField: "slug"
+        displayFields: ["title"]
       - { label: 'Image', name: 'image', widget: 'image' }
       - { label: 'Image alt text', name: 'image_alt', widget: 'string', required: false}
       - { label: 'Description', name: 'body', widget: 'markdown'}
@@ -190,3 +204,64 @@ collections:
       - { label: 'Intro', name: 'intro', widget: 'text', hint: 'This text will be shown on the homepage.'}
       - { label: 'Photo', name: 'image', widget: 'image', required: false }
       - { label: 'Description', name: 'body', widget: 'markdown', hint: 'If provided, this information will be shown on the tag page, otherwise the intro will be shown.', required: false }
+  - name: 'projects'
+    label: 'Projects'
+    folder: 'src/projects'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - label: "Colour"
+        name: "colour"
+        widget: "select"
+        options:
+          - { label: "Blue", value: "#377780" }
+          - { label: "Orange", value: "#f89d33" }
+          - { label: "Pink", value: "#F8BDD4" }
+          - { label: "Green", value: "#87ddcd" }
+        default: "Blue"
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Subtitle', name: 'subtitle', widget: 'text', required: false}
+      - { label: 'Image', name: 'image', widget: 'image', required: false }
+      - label: Intro
+        name: intro
+        widget: list
+        max: 4
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - {label: 'Content', name: 'content', widget: 'markdown' }
+      - label: Related posts
+        name: posts
+        widget: object
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string', required: false }
+          - { label: 'Subtitle', name: 'subtitle', widget: 'string', required: false }
+          - label: "Tag"
+            name: "tag"
+            widget: "relation"
+            collection: "tags"
+            searchFields: ["title"]
+            valueField: "slug"
+            displayFields: ["title"]
+      - label: Map/Embed
+        name: map
+        widget: object
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string', required: false }
+          - { label: 'Embed code', name: 'iframe', widget: 'text', required: false }
+      - label: Facts
+        name: facts
+        widget: list
+        max: 3
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Description', name: 'description', widget: 'markdown' }
+          - { label: 'Image', name: 'image', widget: 'image', required: false }
+      - label: Video playlist
+        name: Videos
+        widget: object
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string', required: false }
+          - { label: 'Subtitle', name: 'subtitle', widget: 'string', required: false }
+          - { label: 'YouTube playlist ID', name: 'playlist', widget: 'string', required: false }
+      - { label: 'Custom CSS', name: 'custom_css', widget: 'text', required: false}
