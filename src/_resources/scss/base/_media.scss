@@ -17,3 +17,25 @@ img + figcaption {
 figure img {
   margin-bottom: 0 !important;
 }
+
+.is-16x9,
+.is-square {
+  position: relative;
+  padding-top: 56.25%;
+
+  img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+}
+
+.is-square {
+  padding-top: 100%;
+}

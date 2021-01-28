@@ -1,17 +1,20 @@
 .section__home-thinking {
   padding: 4 * $base-spacing 0;
+
   @media screen and (min-width: $large-screen) {
     padding: 6 * $base-spacing 0;
   }
+
   .section-title,
   .section-subtitle {
     text-align: center;
   }
+
   .container {
     display: flex;
     flex-direction: column;
     margin-top: 2 * $base-spacing;
-    margin-bottom: 3 * $base-spacing;
+
     @media screen and (min-width: $medium-screen) {
       flex-direction: row;
       justify-content: space-between;
@@ -34,12 +37,23 @@
   @media screen and (min-width: $medium-screen) {
     margin-left: -$base-spacing;
   }
+
   .thinking__item__image {
     margin-bottom: $small-spacing;
+    position: relative;
+
     img {
       width: 100%;
     }
+
+    &__play-button {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%,-50%);
+    }
   }
+
   p {
     color: $dark-gray;
   }
@@ -47,6 +61,7 @@
 
 .thinking__sidebar {
   flex: 0 0 47.5%;
+
   .thinking__item {
     display: flex;
     flex-direction: row;
@@ -67,15 +82,30 @@
       margin-bottom: $small-spacing;
     }
   }
+
   .thinking__item__image {
     display: none;
+    position: relative;
+    margin-bottom: auto;
+
     @media screen and (min-width: $medium-screen) {
       display: block;
       flex: 0 0 30%;
     }
+
+    &__play-button {
+      width: 2 * $base-spacing;
+      height: 2 * $base-spacing;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%,-50%);
+    }
   }
+
   .thinking__item__text {
     flex: 1 0 70%;
+
     @media screen and (min-width: $medium-screen) {
       padding-left: $base-spacing;
     }
@@ -83,12 +113,11 @@
 
   .thinking__item__title {
     font-size: modular-scale(1);
+
     @media screen and (min-width: $medium-screen) {
       font-size: modular-scale(0);
     }
   }
-
-
 }
 
 .thinking__item__title {
@@ -97,8 +126,8 @@
   text-transform: none;
   font-size: modular-scale(2);
   margin-bottom: $small-spacing/2;
+
   @media screen and (min-width: $medium-screen) {
     font-size: modular-scale(1);
   }
 }
-
