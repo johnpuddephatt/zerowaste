@@ -1,8 +1,5 @@
 "use strict";
-
-// const nunjucks = require('nunjucks');
-// const html5Boilerplate = require('_includes/extends/html5boilerplate.njk');
-// console.log(nunjucks.render('/src/_includes/extends/html5boilerplate.njk'))
+import 'alpinejs'
 
 require('./_splittype.js');
 
@@ -18,14 +15,20 @@ window.addEventListener('DOMContentLoaded', ()=>{
   document.documentElement.classList.add('ready');
 });
 
-// window.addEventListener('resize', ()=>{
-//   if(heroSplit) {
-//     heroSplit.revert();
-//   }
-//   if(projectsSplit) {
-//     projectsSplit.revert();
-//   }
-//
-//   new SplitType('.home-hero__title', { split: 'lines', tagName: 'span' });
-//   new SplitType('.project__title', { split: 'lines', tagName: 'span' });
-// });
+window.youtubePlaylist = function(playlistId) {
+  return {
+    number: 4,
+    apiKey: "AIzaSyDH-EwjbWxGwqpEtpR2NGvtfTiX23qtJtg",
+    videos: null,
+    isLoading: false,
+    fetchPlaylist() {
+      this.isLoading = true;
+      fetch(`https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=${this.number}&playlistId=${playlistId}&key=${this.apiKey}`)
+        .then(res => res.json())
+        .then(data => {
+          this.isLoading = false;
+          this.videos = data.items;
+        });
+    }
+  };
+}
