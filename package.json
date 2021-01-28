@@ -39,6 +39,7 @@
   },
   "dependencies": {
     "@borisschapira/eleventy-plugin-better-slug": "^1.0.1",
+    "alpinejs": "^2.8.0",
     "eleventy-plugin-respimg": "^0.1.2",
     "eleventy-plugin-srcset": "^0.1.15"
   }
