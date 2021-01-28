@@ -91,7 +91,7 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addNunjucksFilter("markdownify", markdownString => md.render(markdownString));
-
+  eleventyConfig.addNunjucksFilter("markdowninline", markdownString => md.renderInline(markdownString));
 
   eleventyConfig.cloudinary = 'letsdance';
   eleventyConfig.srcsetWidths = [ 320, 540, 960, 1280, 1600, 1920, 2240, 2560 ];
