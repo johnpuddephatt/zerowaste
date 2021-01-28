@@ -38,6 +38,7 @@
     "vue-template-compiler": "^2.6.11"
   },
   "dependencies": {
+    "@borisschapira/eleventy-plugin-better-slug": "^1.0.1",
     "eleventy-plugin-respimg": "^0.1.2",
     "eleventy-plugin-srcset": "^0.1.15"
   }

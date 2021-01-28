@@ -1,6 +1,7 @@
 const path = require('path');
 const svgContents = require("eleventy-plugin-svg-contents");
 const { JSDOM } = require('jsdom');
+const pluginBetterSlug = require("@borisschapira/eleventy-plugin-better-slug");
 
 module.exports = function(eleventyConfig) {
 
@@ -9,6 +10,7 @@ module.exports = function(eleventyConfig) {
 
   // Plugins
   // eleventyConfig.addPlugin( pluginSrcsetImg );
+  eleventyConfig.addPlugin(pluginBetterSlug);
   eleventyConfig.addPlugin(svgContents);
 
   // Copy files
@@ -39,6 +41,10 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addCollection('pages', collection => {
     return collection.getFilteredByGlob('./src/pages/*.md');
+  });
+
+  eleventyConfig.addCollection('projects', collection => {
+    return collection.getFilteredByGlob('./src/projects/*.md');
   });
 
   eleventyConfig.addLayoutAlias('supporters', 'partials/supporters.html');
