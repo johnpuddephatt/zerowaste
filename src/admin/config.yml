@@ -258,7 +258,7 @@ collections:
           - { label: 'Description', name: 'description', widget: 'markdown' }
           - { label: 'Image', name: 'image', widget: 'image', required: false }
       - label: Video playlist
-        name: Videos
+        name: videos
         widget: object
         fields:
           - { label: 'Title', name: 'title', widget: 'string', required: false }
