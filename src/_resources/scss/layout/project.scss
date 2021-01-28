@@ -1,0 +1,160 @@
+.projects {
+  .site-header {
+    background-color: $blue;
+    background-color: var(--main-color);
+
+    path {
+      fill: white;
+    }
+  }
+
+  &--header {
+    position: relative;
+    padding-top: $base-spacing;
+    padding-bottom: 3 * $base-spacing;
+    background-color: $blue;
+    background-color: var(--main-color);
+    .container {
+
+      @media screen and (min-width: $medium-screen) {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+      }
+    }
+
+    &--text {
+      position: relative;
+      flex: 0 0 50%;
+    }
+
+    &--image {
+      position: relative;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+  }
+
+  &--title {
+    font-size: modular-scale(7);
+    line-height: 1.1;
+
+    strong {
+      color: white;
+    }
+
+    em {
+      display: inline-block;
+      font-style: normal;
+      position: relative;
+      &::after {
+        content: '';
+        display: block;
+        width: 3 * $base-spacing;
+        height: 3 * $base-spacing;
+        right: -1.5 * $base-spacing;
+        top: -$base-spacing;
+        position: absolute;
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjcuNzY2IiBoZWlnaHQ9Ijk5LjAxOCIgdmlld0JveD0iMCAwIDMzLjgwNSAyNi4xOTgiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xOS4yMDkgMS40MDljLS43NTcgMS42NjQtMS4yNSAyLjkyOS0xLjkxMyA0LjA5Ni0uMjA3LjM2Mi0uODgxLjQ1Ny0xLjM0Mi42NzQtLjA3MS0uNTEzLS4zMzMtMS4wOTUtLjE4LTEuNTI5LjQxNi0xLjE3NSAxLjAxNC0yLjI4MyAxLjUyNC0zLjQyNC4yOTQtLjY1OC41My0xLjU3MSAxLjQ2LTEuMDkyLjM2My4xODUuMzggMS4wNTMuNDUgMS4yNzV6TTQuNzQ3IDUuNDYyYy0uNjY1LS4wMzQtMS4zNzYuMTQzLTEuNjI4LS4xMTlDMi4wMzIgNC4yMDggMS4wNDIgMi45NjcuMTAzIDEuNzAzLS4wNzQgMS40NjItLjAxLjc5NS4yMDEuNTg2Yy4xOTgtLjE5OC45Mi0uMjIgMS4xLS4wMjYgMS4xMDcgMS4xODUgMi4xMzggMi40NDQgMy4xNiAzLjcwNi4xNTMuMTkuMTMyLjUyNy4yODYgMS4xOTZ6TTMyLjExMiAxMC41MDNjLS4yMjUuMjQ2LS4zNzMuNTIzLS42MDYuNjQ4LTEuMzEyLjcwNC0yLjYyNCAxLjQyLTMuOTkgMi4wMTYtLjMxNC4xMzgtLjgyOC0uMTg1LTEuMjUtLjI5NC4xNjgtLjQ0Mi4yMTMtMS4xLjUzLTEuMjg4IDEuMjgxLS43NTQgMi42MzMtMS4zOTUgMy45OTMtMi4wMDMuMjgtLjEyNC43NDQtLjAxIDEuMDQzLjE0NS4xNzUuMDk2LjE4OC40OTMuMjguNzc2ek0zMC41NjIgMjUuNTM2Yy0uNjktLjIxNC0xLjQyLS4zNTQtMi4wNTktLjY3NC0uMzQ0LS4xNzUtLjUyOS0uNjYtLjc4OC0xLjAwMy4zODQtLjIzMy44MzMtLjcyOCAxLjEzOC0uNjUxIDEuNTQuMzg5IDMuMDU4Ljg4OSA0LjU0MyAxLjQ1Mi4yNDYuMDkzLjQ5Ljc3LjM4MyAxLjA0OC0uMDk4LjI2Mi0uNjgyLjUzNS0xLjAwMy40ODQtLjc0OC0uMTE5LTEuNDc2LS40MjYtMi4yMTQtLjY1NnoiLz48L3N2Zz4=');
+      }
+    }
+  }
+
+  &--intro {
+    margin-top: 3 * $base-spacing;
+    margin-bottom: 3 * $base-spacing;
+
+    @media screen and (min-width: $medium-screen) {
+      display: flex;
+      flex-direction: row-reverse;
+    }
+
+    &--item {
+      + .projects--intro--item {
+        margin-top: 1.5 * $base-spacing;
+      }
+    }
+
+    &--menu {
+      margin-bottom: 3 * $base-spacing;
+
+      @media screen and (min-width: $medium-screen) {
+        margin-bottom: 0;
+        margin-left: 6 * $base-spacing;
+        flex: 0 0 30%;
+      }
+
+      @extend %pretty_links;
+
+      li {
+        margin-bottom: $small-spacing;
+      }
+    }
+  }
+
+  &__fact {
+    padding: 2 * $base-spacing 0 4 * $base-spacing;
+    background-color: $blue;
+    background-color: var(--main-color);
+    text-align: center;
+
+    @media screen and (min-width: $medium-screen) {
+      padding: 4 * $base-spacing 0;
+      text-align: left;
+    }
+
+    &__image {
+      flex: 0 0 33%;
+      max-width: 15em;
+      align-self: flex-start;
+
+      @media screen and (min-width: $medium-screen) {
+        max-width: 20em;
+      }
+    }
+
+    &__container {
+
+      @media screen and (min-width: $medium-screen) {
+        display: flex;
+        align-items: center;
+        flex-direction: row;
+      }
+
+    }
+    &__title {
+      text-align: inherit;
+      padding: 0;
+      margin-bottom: $small-spacing;
+
+      strong {
+        color: white;
+      }
+    }
+    p {
+      max-width: 30em;
+      display: none;
+      @media screen and (min-width: $medium-screen) {
+        display: block;
+      }
+    }
+
+    &__text {
+      @media screen and (min-width: $medium-screen) {
+        margin-left: 2 * $base-spacing;
+      }
+
+      &__title {
+        margin-bottom: $base-spacing;
+      }
+
+      &__button {
+        margin-top: $base-spacing;
+      }
+    }
+  }
+}

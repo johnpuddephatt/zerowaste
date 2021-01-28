@@ -1,0 +1,156 @@
+---
+layout: /layouts/base.njk
+---
+{% set related_posts_count = collections[posts.tag] | length %}
+{% set number_of_facts = facts | length %}
+
+<style>
+  {% if color %}
+  :root{
+    --main-color: {{ color }};
+  }
+  {% endif %}
+  {{ custom_css | striptags | safe }}
+</style>
+
+
+  <div class="projects--header">
+    <div class="container">
+      <div class="projects--header--text">
+        <h1 class="projects--title">{{ title | markdowninline | safe }}</h1>
+        {{ subtitle | markdowninline | safe }}
+      </div>
+      <img class="projects--header--image" src="{{ image }}">
+    </div>
+  </div>
+
+  <div class="container projects--intro">
+
+    <nav class="projects--intro--menu">
+      <h3>Jump to</h3>
+      <ul>
+        {% for section in intro %}
+          <li><a href="#intro-{{section.title | slug }}">{{section.title}}</a></li>
+        {% endfor %}
+        {% if map.iframe %}
+          <li><a href="#map">{{ map.title or "Map" }}</a></li>
+        {% endif %}
+        {% if posts.tag and related_posts_count %}
+          <li><a href="#related-posts">{{ posts.title or "Latest posts" }}</a></li>
+        {% endif %}
+        {% if videos.playlist %}
+          <li><a href="#project-videos">{{ videos.title or "Videos" }}</a></li>
+        {% endif %}
+      </ul>
+    </nav>
+
+    <div>
+      {% for section in intro %}
+        <div class="projects--intro--item" id="intro-{{section.title | slug }}">
+          <h3>{{ section.title }}</h3>
+          {{ section.content | markdownify | safe }}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+
+{% if number_of_facts >= 1 %}
+  <section class="projects__fact">
+    <div class="container projects__fact__container">
+      <img src="{{ facts[0].image }}">
+      <div class="projects__fact__text">
+        <h2 class="projects__fact__title section-title">{{ facts[0].title | markdowninline | safe }}</h2>
+        {{ facts[0].description | markdownify | safe}}
+      </div>
+    </div>
+  </section>
+{% endif %}
+
+{% if map %}
+  <section id="map">
+    {{ map.iframe | safe }}
+  </section>
+{% endif %}
+
+{% if posts.tag and related_posts_count %}
+  <section class="section__home-pipeline" id="related-posts">
+
+    <h2 class="section-title section-title__large">{{ posts.title or "Latest posts" }}</h2>
+    {% if home.get_involved.subtitle %}<p class="section-subtitle">{{ posts.subtitle or "Relevant articles" }}</p>{% endif %}
+
+    <div class="container">
+      {% for pipeline in collections[posts.tag] | reverse | limit(3) -%}
+        <a href="{{ pipeline.url }}" class="pipeline__item">
+          <div class="pipeline__image">
+            {% srcset pipeline.data.image, collections.pipeline[0].data.image_alt, "thinking__item__image", 360, 202, "(min-width: 1120px) 310px, 30vw" %}
+          </div>
+          <div class="pipeline__text">
+            <h3 class="pipeline__title">{{ pipeline.data.title }}</h3>
+            <p>{{ pipeline.templateContent | striptags | truncate(80) | safe }}</p>
+            <div class="pipeline__footer">
+              <span class="read-more" href="{{ pipeline.url }}">Read more</span>
+            </div>
+          </div>
+        </a>
+      {% endfor %}
+    </div>
+    <div class="align-center">
+      <a href="/tag/fashion/" class="button_alt button_alt__large">See more of our thinking</a>
+    </div>
+  </section>
+{% endif %}
+
+{% if number_of_facts >= 2 %}
+  <section class="projects__fact">
+    <div class="container projects__fact__container">
+      <img src="{{ facts[1].image }}">
+      <div class="projects__fact__text">
+        <h2 class="projects__fact__title section-title">{{ facts[1].title | markdowninline | safe }}</h2>
+        {{ facts[1].description | markdownify | safe}}
+      </div>
+    </div>
+  </section>
+{% endif %}
+
+
+<script>window.playlistId = '{{ videos.playlist }}'</script>
+
+<section class="section__home-thinking" id="project-videos">
+  <h2 class="section-title section-title__large">{{ videos.title or "Videos"}}</h2>
+  {% if home.blog.subtitle %}<p class="section-subtitle">{{ videos.subtitle or "Related videos"}}</p>{% endif %}
+
+  <div x-data="youtubePlaylist('{{ videos.playlist }}')" x-init="fetchPlaylist()" class="container">
+    <template x-if="videos">
+        <a :href="`https://www.youtube.com/watch?v=${videos[0].snippet.resourceId.videoId}&list=${playlistId}`" class="thinking__featured-item">
+          <div class="thinking__item__image is-16x9">
+            <img :src="videos[0].snippet.thumbnails.standard.url">
+            <svg class="thinking__item__image__play-button" xmlns="http://www.w3.org/2000/svg" width="108.76" height="108.76" viewBox="0 0 28.776 28.776"><g transform="translate(-91.445 -133.779)"><circle class="st1" cx="105.833" cy="148.167" r="14.388" fill="#87ddcd"/><path class="st7" d="M100.838 148.03v-4.097c0-1.685 1.826-2.738 3.283-1.897l3.546 2.048 3.545 2.048c1.46.844 1.46 2.95 0 3.791l-3.545 2.048-3.546 2.048c-1.46.844-3.283-.211-3.283-1.897z" fill="#010100"/></g></svg>
+          </div>
+          <h3 class="thinking__item__title" x-text="videos[0].snippet.title"></h3>
+          <p x-text="videos[0].snippet.description"></p>
+          <span class="read-more">Learn more</span>
+        </a>
+        <div class="thinking__sidebar">
+          <template x-for="video in videos.slice(1)">
+              <a :key="video.id" :href="`https://www.youtube.com/watch?v=${video.snippet.resourceId.videoId}&list=${playlistId}`" class="thinking__item">
+                <div class="thinking__item__image">
+                  <div class="is-square">
+                    <img :src="video.snippet.thumbnails.medium.url">
+                    <svg class="thinking__item__image__play-button" xmlns="http://www.w3.org/2000/svg" width="108.76" height="108.76" viewBox="0 0 28.776 28.776"><g transform="translate(-91.445 -133.779)"><circle class="st1" cx="105.833" cy="148.167" r="14.388" fill="#87ddcd"/><path class="st7" d="M100.838 148.03v-4.097c0-1.685 1.826-2.738 3.283-1.897l3.546 2.048 3.545 2.048c1.46.844 1.46 2.95 0 3.791l-3.545 2.048-3.546 2.048c-1.46.844-3.283-.211-3.283-1.897z" fill="#010100"/></g></svg>
+                  </div>
+                </div>
+                <div class="thinking__item__text">
+                  <h3 x-text="video.snippet.title" class="thinking__item__title"></h3>
+                  <p x-text="video.snippet.description"></p>
+                  <span class="read-more">Learn more</span>
+                </div>
+              </a>
+          </template>
+        </div>
+    </template>
+  </div>
+  <div class="align-center">
+    <a target="_blank" href="https://www.youtube.com/channel/UCD4AOnL4OuGUnxHqDi_5ghQ" class="button_alt button_alt__large">Watch more of our videos</a>
+  </div>
+</section>
+
