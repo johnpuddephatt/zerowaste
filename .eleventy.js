@@ -31,6 +31,16 @@ module.exports = function(eleventyConfig) {
     });
   });
 
+  eleventyConfig.addCollection('homepage_tags', collection => {
+    return collection.getFilteredByGlob('./src/tags/*.md')
+    .filter((tag) => {
+      return ['food-waste','garden-waste','recycling','stuff'].includes(tag.data.slug);
+    })
+    .sort(function(a, b) {
+      return Number(b.data.order || 0) - Number(a.data.order || 0);
+    });
+  });
+
   eleventyConfig.addCollection('tips', collection => {
     return collection.getFilteredByGlob('./src/tips/*.md');
   });

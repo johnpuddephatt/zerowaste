@@ -63,7 +63,7 @@ layout: layouts/base.njk
   {% if home.tips.subtitle %}<p class="section-subtitle">{{ home.tips.subtitle}}</p>{% endif %}
 
   <div class="container">
-    {%- for tip in collections.tags | reverse | limit(4) -%}
+    {%- for tip in collections.homepage_tags | reverse | limit(4) -%}
     <a class="home-tips__article" href="/tag/{{ tip.data.slug }}">
       <div class="home-tips__image">
         {% srcset tip.data.image, tip.data.image_alt, null, 300, 200, "(min-width: 1120px) 300px, 25vw" %}

@@ -22,12 +22,14 @@ window.youtubePlaylist = function(playlistId) {
     videos: null,
     isLoading: false,
     fetchPlaylist() {
+      console.log('fetching');
       this.isLoading = true;
       fetch(`https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=${this.number}&playlistId=${playlistId}&key=${this.apiKey}`)
         .then(res => res.json())
         .then(data => {
           this.isLoading = false;
           this.videos = data.items;
+          console.log(data.items);
         });
     }
   };

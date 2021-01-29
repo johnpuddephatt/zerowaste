@@ -95,7 +95,7 @@ layout: /layouts/base.njk
       {% endfor %}
     </div>
     <div class="align-center">
-      <a href="/tag/fashion/" class="button_alt button_alt__large">See more of our thinking</a>
+      <a href="/tag/{{ posts.tag }}/" class="button_alt button_alt__large">See more of our thinking</a>
     </div>
   </section>
 {% endif %}
@@ -113,46 +113,44 @@ layout: /layouts/base.njk
 {% endif %}
 
 
-<script>window.playlistId = '{{ videos.playlist }}'</script>
+{% if videos.playlist %}
+  <script>window.playlistId = '{{ videos.playlist }}'</script>
+  <section class="section__home-thinking" id="project-videos" x-data="youtubePlaylist('{{ videos.playlist }}')" x-init="fetchPlaylist()">
+    <h2 class="section-title section-title__large">{{ videos.title or "Videos"}}</h2>
+    {% if home.blog.subtitle %}<p class="section-subtitle">{{ videos.subtitle or "Related videos"}}</p>{% endif %}
 
-<section class="section__home-thinking" id="project-videos">
-  <h2 class="section-title section-title__large">{{ videos.title or "Videos"}}</h2>
-  {% if home.blog.subtitle %}<p class="section-subtitle">{{ videos.subtitle or "Related videos"}}</p>{% endif %}
-
-  <template x-data="youtubePlaylist('{{ videos.playlist }}')" x-init="fetchPlaylist()">
-    <template x-if="videos">
-      <div class="container">
-        <a :href="`https://www.youtube.com/watch?v=${videos[0].snippet.resourceId.videoId}&list=${playlistId}`" class="thinking__featured-item">
-          <div class="thinking__item__image is-16x9">
-            <img :src="videos[0].snippet.thumbnails.standard.url">
-            <svg class="thinking__item__image__play-button" xmlns="http://www.w3.org/2000/svg" width="108.76" height="108.76" viewBox="0 0 28.776 28.776"><g transform="translate(-91.445 -133.779)"><circle class="st1" cx="105.833" cy="148.167" r="14.388" fill="#87ddcd"/><path class="st7" d="M100.838 148.03v-4.097c0-1.685 1.826-2.738 3.283-1.897l3.546 2.048 3.545 2.048c1.46.844 1.46 2.95 0 3.791l-3.545 2.048-3.546 2.048c-1.46.844-3.283-.211-3.283-1.897z" fill="#010100"/></g></svg>
-          </div>
-          <h3 class="thinking__item__title" x-text="videos[0].snippet.title"></h3>
-          <p x-text="videos[0].snippet.description"></p>
-          <span class="read-more">Learn more</span>
-        </a>
-        <div class="thinking__sidebar">
-          <template x-for="video in videos.slice(1)">
-              <a :key="video.id" :href="`https://www.youtube.com/watch?v=${video.snippet.resourceId.videoId}&list=${playlistId}`" class="thinking__item">
-                <div class="thinking__item__image">
-                  <div class="is-square">
-                    <img :src="video.snippet.thumbnails.medium.url">
-                    <svg class="thinking__item__image__play-button" xmlns="http://www.w3.org/2000/svg" width="108.76" height="108.76" viewBox="0 0 28.776 28.776"><g transform="translate(-91.445 -133.779)"><circle class="st1" cx="105.833" cy="148.167" r="14.388" fill="#87ddcd"/><path class="st7" d="M100.838 148.03v-4.097c0-1.685 1.826-2.738 3.283-1.897l3.546 2.048 3.545 2.048c1.46.844 1.46 2.95 0 3.791l-3.545 2.048-3.546 2.048c-1.46.844-3.283-.211-3.283-1.897z" fill="#010100"/></g></svg>
+      <template x-if="videos">
+        <div class="container">
+          <a :href="`https://www.youtube.com/watch?v=${videos[0].snippet.resourceId.videoId}&list=${playlistId}`" class="thinking__featured-item">
+            <div class="thinking__item__image is-16x9">
+              <img :src="videos[0].snippet.thumbnails.standard.url">
+              <svg class="thinking__item__image__play-button" xmlns="http://www.w3.org/2000/svg" width="108.76" height="108.76" viewBox="0 0 28.776 28.776"><g transform="translate(-91.445 -133.779)"><circle class="st1" cx="105.833" cy="148.167" r="14.388" fill="#87ddcd"/><path class="st7" d="M100.838 148.03v-4.097c0-1.685 1.826-2.738 3.283-1.897l3.546 2.048 3.545 2.048c1.46.844 1.46 2.95 0 3.791l-3.545 2.048-3.546 2.048c-1.46.844-3.283-.211-3.283-1.897z" fill="#010100"/></g></svg>
+            </div>
+            <h3 class="thinking__item__title" x-text="videos[0].snippet.title"></h3>
+            <p x-text="videos[0].snippet.description"></p>
+            <span class="read-more">Learn more</span>
+          </a>
+          <div class="thinking__sidebar">
+            <template x-for="video in videos.slice(1)">
+                <a :key="video.id" :href="`https://www.youtube.com/watch?v=${video.snippet.resourceId.videoId}&list=${playlistId}`" class="thinking__item">
+                  <div class="thinking__item__image">
+                    <div class="is-square">
+                      <img :src="video.snippet.thumbnails.medium.url">
+                      <svg class="thinking__item__image__play-button" xmlns="http://www.w3.org/2000/svg" width="108.76" height="108.76" viewBox="0 0 28.776 28.776"><g transform="translate(-91.445 -133.779)"><circle class="st1" cx="105.833" cy="148.167" r="14.388" fill="#87ddcd"/><path class="st7" d="M100.838 148.03v-4.097c0-1.685 1.826-2.738 3.283-1.897l3.546 2.048 3.545 2.048c1.46.844 1.46 2.95 0 3.791l-3.545 2.048-3.546 2.048c-1.46.844-3.283-.211-3.283-1.897z" fill="#010100"/></g></svg>
+                    </div>
                   </div>
-                </div>
-                <div class="thinking__item__text">
-                  <h3 x-text="video.snippet.title" class="thinking__item__title"></h3>
-                  <p x-text="video.snippet.description"></p>
-                  <span class="read-more">Learn more</span>
-                </div>
-              </a>
-          </template>
+                  <div class="thinking__item__text">
+                    <h3 x-text="video.snippet.title" class="thinking__item__title"></h3>
+                    <p x-text="video.snippet.description"></p>
+                    <span class="read-more">Learn more</span>
+                  </div>
+                </a>
+            </template>
+          </div>
         </div>
+      </template>
+      <div class="align-center">
+        <a target="_blank" href="https://www.youtube.com/channel/UCD4AOnL4OuGUnxHqDi_5ghQ" class="button_alt button_alt__large">Watch more of our videos</a>
       </div>
-    </template>
-
-  </template>
-  <div class="align-center">
-    <a target="_blank" href="https://www.youtube.com/channel/UCD4AOnL4OuGUnxHqDi_5ghQ" class="button_alt button_alt__large">Watch more of our videos</a>
-  </div>
-</section>
+  </section>
+{% endif %}
