@@ -2,6 +2,7 @@
 layout: layouts/post.njk
 title: "#LeedsFashionFutures interview with Dr Mark Sumner"
 date: 2021-01-18T15:57:29.227Z
+tags: fashion
 image: /uploads/Fashion photo2.jpg
 ---
 As part of our #LeedsFashionFutures project, we were joined recently on our Facebook page by [Dr Mark Sumner](https://ahc.leeds.ac.uk/design/staff/472/dr-mark-sumner), a lecturer at the [School of Design](https://ahc.leeds.ac.uk/design) at the University of Leeds who specialises in sustainability, clothing and textiles.
