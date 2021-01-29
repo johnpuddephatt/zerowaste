@@ -14,9 +14,12 @@
     padding-bottom: 3 * $base-spacing;
     background-color: $blue;
     background-color: var(--main-color);
+
     .container {
+      text-align: center;
 
       @media screen and (min-width: $medium-screen) {
+        text-align: left;
         display: flex;
         flex-direction: row;
         align-items: center;
@@ -32,6 +35,13 @@
       position: relative;
       margin-left: auto;
       margin-right: auto;
+      max-width: 50vw;
+      margin-top: $base-spacing;
+
+      @media screen and (min-width: $medium-screen) {
+        margin-top: 0;
+      }
+
     }
 
   }
@@ -111,8 +121,10 @@
       flex: 0 0 33%;
       max-width: 15em;
       align-self: flex-start;
+      margin-bottom: $base-spacing;
 
       @media screen and (min-width: $medium-screen) {
+        margin-bottom: 0;
         max-width: 20em;
       }
     }

@@ -57,7 +57,7 @@ layout: /layouts/base.njk
 {% if number_of_facts >= 1 %}
   <section class="projects__fact">
     <div class="container projects__fact__container">
-      <img src="{{ facts[0].image }}">
+      <img class="projects__fact__image" src="{{ facts[0].image }}">
       <div class="projects__fact__text">
         <h2 class="projects__fact__title section-title">{{ facts[0].title | markdowninline | safe }}</h2>
         {{ facts[0].description | markdownify | safe}}
@@ -103,7 +103,7 @@ layout: /layouts/base.njk
 {% if number_of_facts >= 2 %}
   <section class="projects__fact">
     <div class="container projects__fact__container">
-      <img src="{{ facts[1].image }}">
+      <img class="projects__fact__image" src="{{ facts[1].image }}">
       <div class="projects__fact__text">
         <h2 class="projects__fact__title section-title">{{ facts[1].title | markdowninline | safe }}</h2>
         {{ facts[1].description | markdownify | safe}}
@@ -119,8 +119,9 @@ layout: /layouts/base.njk
   <h2 class="section-title section-title__large">{{ videos.title or "Videos"}}</h2>
   {% if home.blog.subtitle %}<p class="section-subtitle">{{ videos.subtitle or "Related videos"}}</p>{% endif %}
 
-  <div x-data="youtubePlaylist('{{ videos.playlist }}')" x-init="fetchPlaylist()" class="container">
+  <template x-data="youtubePlaylist('{{ videos.playlist }}')" x-init="fetchPlaylist()">
     <template x-if="videos">
+      <div class="container">
         <a :href="`https://www.youtube.com/watch?v=${videos[0].snippet.resourceId.videoId}&list=${playlistId}`" class="thinking__featured-item">
           <div class="thinking__item__image is-16x9">
             <img :src="videos[0].snippet.thumbnails.standard.url">
@@ -147,10 +148,11 @@ layout: /layouts/base.njk
               </a>
           </template>
         </div>
+      </div>
     </template>
-  </div>
+
+  </template>
   <div class="align-center">
     <a target="_blank" href="https://www.youtube.com/channel/UCD4AOnL4OuGUnxHqDi_5ghQ" class="button_alt button_alt__large">Watch more of our videos</a>
   </div>
 </section>
-

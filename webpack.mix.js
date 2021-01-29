@@ -16,7 +16,7 @@ mix.js('src/_resources/js/app.js', 'src/assets/')
   .copy('src/_resources/fonts', 'src/assets/fonts')
   .copy('src/_resources/images', 'src/assets/images')
   .browserSync({
-    proxy: 'dist.zwl.localhost',
+    proxy: 'dist.zerowaste.localhost',
     files: [
         "dist/**/*"
     ]
