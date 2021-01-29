@@ -2,6 +2,7 @@
 layout: layouts/post.njk
 title: Calling all makers!
 date: 2020-12-15T10:17:06.501Z
+tags: fashion
 image: /uploads/sewing1.png
 ---
 Love sustainable fashion, live in Leeds and want to help others learn to sew? We are looking for people to help us make short sewing tutorials for things that beginners may need to know.
