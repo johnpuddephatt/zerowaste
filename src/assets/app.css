@@ -1197,6 +1197,7 @@ html.ready .home-hero__link {
 @media screen and (min-width: 720px) {
   .section__home-pipeline .container {
     flex-direction: row;
+    align-items: center;
   }
 }
 

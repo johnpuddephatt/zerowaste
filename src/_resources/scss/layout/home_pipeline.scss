@@ -9,6 +9,7 @@
     flex-direction: column;
     @media screen and (min-width: $medium-screen) {
       flex-direction: row;
+      align-items: center;
     }
   }
   .section-title,
