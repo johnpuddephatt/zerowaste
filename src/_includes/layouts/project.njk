@@ -23,9 +23,8 @@ layout: /layouts/base.njk
       <img class="projects--header--image" src="{{ image }}">
     </div>
   </div>
-
-  <div class="container projects--intro">
-
+<section class="projects--intro"  id="projects--intro">
+  <div class="projects--intro--container container">
     <nav class="projects--intro--menu">
       <h3>Jump to</h3>
       <ul>
@@ -41,6 +40,9 @@ layout: /layouts/base.njk
         {% if videos.playlist %}
           <li><a href="#project-videos">{{ videos.title or "Videos" }}</a></li>
         {% endif %}
+        {% if call_to_action.content %}
+          <li><a href="#project-call-to-action">{{ call_to_action.title or "Get involved" }}</a></li>
+        {% endif %}
       </ul>
     </nav>
 
@@ -53,6 +55,7 @@ layout: /layouts/base.njk
       {% endfor %}
     </div>
   </div>
+</section>
 
 {% if number_of_facts >= 1 %}
   <section class="projects__fact">
@@ -153,4 +156,28 @@ layout: /layouts/base.njk
         <a target="_blank" href="https://www.youtube.com/channel/UCD4AOnL4OuGUnxHqDi_5ghQ" class="button_alt button_alt__large">Watch more of our videos</a>
       </div>
   </section>
+{% endif %}
+
+{% if number_of_facts >= 3 %}
+  <section class="projects__fact">
+    <div class="container projects__fact__container">
+      <img class="projects__fact__image" src="{{ facts[2].image }}">
+      <div class="projects__fact__text">
+        <h2 class="projects__fact__title section-title">{{ facts[2].title | markdowninline | safe }}</h2>
+        {{ facts[2].description | markdownify | safe}}
+      </div>
+    </div>
+  </section>
+{% endif %}
+
+{% if call_to_action.content %}
+<section id="project-call-to-action" class="projects--call-to-action">
+  <div class="container projects--call-to-action--container">
+    <div class="projects--call-to-action--text">
+      <h2 class="projects--call-to-action--title">{{ call_to_action.title or "Get involved" }}</h2>
+      {{ call_to_action.content | markdownify | safe}}
+    </div>
+  </div>
+</section>
+
 {% endif %}

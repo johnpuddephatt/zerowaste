@@ -264,4 +264,10 @@ collections:
           - { label: 'Title', name: 'title', widget: 'string', required: false }
           - { label: 'Subtitle', name: 'subtitle', widget: 'string', required: false }
           - { label: 'YouTube playlist ID', name: 'playlist', widget: 'string', required: false }
+      - label: Call to action
+        name: call_to_action
+        widget: object
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string', required: false }
+          - { label: 'Content', name: 'content', widget: 'text', required: false }
       - { label: 'Custom CSS', name: 'custom_css', widget: 'text', required: false}
