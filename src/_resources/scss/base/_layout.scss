@@ -33,6 +33,10 @@ body {
   &__narrow {
     max-width: $max-line-length;
   }
+
+  + .align-center {
+    margin-top: $base-spacing;
+  }
 }
 
 .align-center {

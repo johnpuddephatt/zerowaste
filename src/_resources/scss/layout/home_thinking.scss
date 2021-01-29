@@ -27,6 +27,7 @@
   transition: box-shadow 0.5s, transform 0.5s;
   padding: $base-spacing;
   border-radius: $base-border-radius;
+  margin-bottom: auto;
 
   &:hover {
     color: inherit;
