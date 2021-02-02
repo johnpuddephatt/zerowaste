@@ -7,7 +7,7 @@ image: /uploads/hpbcdawy.jpg
 image_alt: Stuart Clarke from Leeds Digital Festival donating laptops to DAWY at
   Hyde Park Book Club
 ---
-Earlier this year we chatted to Jack Simpson from [Hyde Park Book Club](https://www.hydeparkbookclub.co.uk/), about [Digital Access West Yorkshire](https://accesswy.org/) - a new project that's he's part of which takes donated laptops and tablets and passes them on to people who need them in Leeds and Bradford.
+We chatted to Jack Simpson from [Hyde Park Book Club](https://www.hydeparkbookclub.co.uk/), about [Digital Access West Yorkshire](https://accesswy.org/) - a new project that's he's part of which takes donated laptops and tablets and passes them on to people who need them in Leeds and Bradford.
 
 You can watch our conversation with Jack here:
 
