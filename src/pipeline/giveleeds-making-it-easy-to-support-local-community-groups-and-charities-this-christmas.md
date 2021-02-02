@@ -3,10 +3,11 @@ layout: layouts/post.njk
 title: "#GiveLeeds - support local community groups and charities "
 intro: Every Christmas we waste £500,000 on unwanted gifts in Leeds.
 date: 2020-12-01T16:18:12.289Z
+tags: stuff
 image: /uploads/screen-shot-2020-12-01-at-16.50.25.png
 image_alt: Give Leeds logo
 ---
-The aim of [our #GiveLeeds campaign](https://giveleeds.org.uk/) is to make it as easy as possible for you to support local charities and community groups this Christmas.
+The aim of [our #GiveLeeds campaign](https://giveleeds.org.uk/) is to make it as easy as possible for you to support local charities and community groups.
 
 One of the positives of an extremely difficult year has been the kindness and generosity shown by individuals, community groups and charities across Leeds.
 
@@ -32,7 +33,7 @@ And as always, we aim to to keep things practical - giving people in Leeds ideas
 
 # So we came up with the idea of #GiveLeeds.
 
-Inspired by [the excellent #BuyLeeds campaign](https://twitter.com/buyleeds) , #GiveLeeds is a month long campaign to make it as easy as possible for you to donate to local charities and community groups during this festive season.  Here's Gill and Rob chatting more about it on our YouTube channel:
+Inspired by [the excellent #BuyLeeds campaign](https://twitter.com/buyleeds) , #GiveLeeds is a campaign to make it as easy as possible for you to donate to local charities and community groups.  Here's Gill and Rob chatting more about it on our YouTube channel:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9mbZrkf1Qyc?start=6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
