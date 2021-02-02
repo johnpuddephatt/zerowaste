@@ -17,7 +17,7 @@ Once your compost heap is up and running all manner of creatures magically find 
 
 Get the kids involved, it can teach them a lot about what goes on in your garden and they can also go bug spotting. Why not have a compost safari?
 
-![](/uploads/compost-safari.png)
+![](/uploads/compost-safari.jpg)
 
 So your heap is a habitat in its own right, which is really important as we face the loss in this country of 1 in 7 of our species, but you’ll also transfer some of those animals into your garden as you use your compost.
 
