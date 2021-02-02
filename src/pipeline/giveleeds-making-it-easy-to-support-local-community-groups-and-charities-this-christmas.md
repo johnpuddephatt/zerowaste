@@ -3,10 +3,11 @@ layout: layouts/post.njk
 title: "#GiveLeeds - support local community groups and charities "
 intro: Every Christmas we waste £500,000 on unwanted gifts in Leeds.
 date: 2020-12-01T16:18:12.289Z
+tags: stuff
 image: /uploads/screen-shot-2020-12-01-at-16.50.25.png
 image_alt: Give Leeds logo
 ---
-The aim of our #GiveLeeds campaign is to make it as easy as possible for you to support local charities and community groups this Christmas.
+The aim of [our #GiveLeeds campaign](https://giveleeds.org.uk/) is to make it as easy as possible for you to support local charities and community groups.
 
 One of the positives of an extremely difficult year has been the kindness and generosity shown by individuals, community groups and charities across Leeds.
 
@@ -32,14 +33,16 @@ And as always, we aim to to keep things practical - giving people in Leeds ideas
 
 # So we came up with the idea of #GiveLeeds.
 
-Inspired by [the excellent #BuyLeeds campaign](https://twitter.com/buyleeds) , #GiveLeeds is a month long campaign to make it as easy as possible for you to donate to local charities and community groups during this festive season.  Here's Gill and Rob chatting more about it on our YouTube channel:
+Inspired by [the excellent #BuyLeeds campaign](https://twitter.com/buyleeds) , #GiveLeeds is a campaign to make it as easy as possible for you to donate to local charities and community groups.  Here's Gill and Rob chatting more about it on our YouTube channel:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9mbZrkf1Qyc?start=6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 With traditional fundraising near-impossible this year, online fundraising matters more than ever.  But sometimes smaller groups and charities don't have the time or resources to promote their campaigns.
 
-That's where we come in.  We're going to share our platform - with over 13,000 social media followers and counting - to tell stories of all the great work happening in Leeds - whilst pointing you to where you can donate directly to charities and community groups that are raising funds in Leeds.
+That's where we come in.  We're [sharing our platform](https://giveleeds.org.uk/) - with over 13,000 social media followers and counting - to tell stories of all the great work happening in Leeds - whilst pointing you to where you can donate directly to charities and community groups that are raising funds in Leeds.
 
 Wouldn't it be great if, instead of wasting that £500,000 on unwanted gifts, we could donate as much to charities and community groups in our city?  
+
+To find out more - and donate - visit [Give Leeds](https://giveleeds.org.uk/).  
 
 # [Twitter](https://twitter.com/giveleeds) [Facebook](https://www.facebook.com/GiveLeeds/)  [Instagram](https://www.instagram.com/giveleeds/)
