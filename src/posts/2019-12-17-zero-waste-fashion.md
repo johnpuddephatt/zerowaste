@@ -2,12 +2,13 @@
 layout: layouts/post.njk
 title: Leeds Fashion Futures
 date: 2020-10-07T15:31:10.328Z
+tags: fashion
 image: /uploads/fashionhack.jpg
 image_alt: Leeds Community Clothing Exchange
 ---
-Throughout this year we've been exploring how we can work together as a city to reduce the negative environmental impacts of our clothing choices. 
+We've been exploring how we can work together as a city to reduce the negative environmental impacts of our clothing choices. 
 
-In April this year we hosted an online [Zero Waste Fashion Week](https://www.zerowasteleeds.org.uk/posts/zero-waste-fashion-week-2020/), and we have also developed a [Zero Waste Fashion website](https://zerowastefashion.fashion.blog/) with tips on where to recycle, reuse, repair and upcycle clothing and textiles in Leeds, including a [map](https://www.google.com/maps/d/u/1/viewer?hl=en&mid=18ktKdUeew3oQpjOnezeTyLtt9pk1KK7w&ll=53.83676365656107%2C-1.5013154999999188&z=11) of all the textile banks, charity shops, repair shops, sewing classes and clothes exchanges in Leeds.
+In April 2020 we hosted an online [Zero Waste Fashion Week](https://www.zerowasteleeds.org.uk/posts/zero-waste-fashion-week-2020/), and we have also developed a [Zero Waste Fashion website](https://zerowastefashion.fashion.blog/) with tips on where to recycle, reuse, repair and upcycle clothing and textiles in Leeds, including a [map](https://www.google.com/maps/d/u/1/viewer?hl=en&mid=18ktKdUeew3oQpjOnezeTyLtt9pk1KK7w&ll=53.83676365656107%2C-1.5013154999999188&z=11) of all the textile banks, charity shops, repair shops, sewing classes and clothes exchanges in Leeds.
 
 You can watch a series of interviews with local designers who are exploring how to be more sustainable [on our YouTube channel](https://www.youtube.com/watch?v=msp47VGdgyw&list=PLcImqkHEpk0pY2cBDQoVIoptpDNTNN0-B).  
 
