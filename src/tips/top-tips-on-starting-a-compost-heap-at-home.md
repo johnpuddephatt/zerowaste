@@ -16,16 +16,16 @@ Where to store - It's completely up to you! Some people choose to go for a simpl
 
 Balance your greens and browns - To avoid a smelly compost heap, it is important to try and balance your greens and browns, ideally like a sandwich you need two layers of browns to one layer of green filling. Browns include - torn up cardboard, hay or pet bedding, dried leaves, straw, wood ash and hedge trimmings or woody stems. Greens include - grass clippings, kitchen vegetable waste, leafy prunings and weeds.
 
-![](/uploads/3b.png)
+![](/uploads/compost-tip2.jpg)
 
 Too wet? Too dry? - Heap look wet and sloppy? Add some browns. Heap look dry? Add some greens and water it. An ideal heap is moist enough so that when squeezed it will stick together but water doesn't run out.
 
-![](/uploads/4b.png)
+![](/uploads/compost-tip3.jpg)
 
 \
 Let it breathe - Your heap needs air to work. Mix it with a fork or spade every couple of weeks. Or if you have two bins you can turn the contents of one into the other.
 
-![](/uploads/5b.png)
+![](/uploads/compost-tip4.jpg)
 
 \
 Let us know how your home composting goes or if you have any other top tips!
