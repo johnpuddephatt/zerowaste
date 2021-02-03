@@ -2,12 +2,11 @@
 layout: layouts/post.njk
 title: We need you!  Share your waste stories!
 date: 2020-03-25T07:30:16.293Z
+tags: garden-waste
 image: /uploads/91413.jpg
 image_alt: Double compost bin
 ---
-Whilst bin collections are inevitably disrupted due to COVID-19, we need your help to share ways we can all reduce waste at home and in the garden.
-
-We're planning to do 2 Facebook Lives a week - one on garden waste and one on food. And plenty of short selfie videos.
+We need your help to share ways we can all reduce waste at home and in the garden.
 
 ## How can you help?
 
