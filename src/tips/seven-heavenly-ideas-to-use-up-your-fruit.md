@@ -15,7 +15,7 @@ image: /uploads/lovefruit.png
 
 When it comes to fruit your freezer is your friend. Soft fruits like blueberries, blackberries and raspberries freeze really well. Citrus fruit freezes brilliantly in slices – use them to flavour a glass of water or add them to cocktails. Apples, peaches, plums, kiwi can be frozen too. In fact, most fruit will be fine frozen, you can even freeze bananas. But the process can make fruit a bit soft so you need to think about how to use them. Frozen fruit makes great smoothies and milkshakes of course but will also make lovely sauces, jams, compote and crumble see below for recipe ideas. Another great idea is to juice your fruit and freeze it to add to smoothies, sauces, dressings, water, soft drinks and cocktails for an instant burst of flavour.
 
-![](/uploads/freeze.png)
+![](/uploads/ideas-to-use-up-your-fruit2.jpg)
 
 ### Blend it
 
