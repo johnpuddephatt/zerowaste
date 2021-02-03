@@ -27,7 +27,7 @@ Fruit past its best will blend beautifully into a smoothie or milkshake. Add a b
 
 Don’t forget to use your citrus zest to add masses of flavour to your cooking, baking, salads or drinks. Zest a lime into a mixture of double cream, cream cheese and icing sugar and top a crushed biscuit base for a delicious and really quick cheesecase. Zest an orange over a salad for the taste of summer. Zest lemon into a gin and tonic - better than adding a slice! 
 
-![](/uploads/zest.png)
+![](/uploads/ideas-to-use-up-your-fruit4.jpg)
 
 ### Juice it
 
