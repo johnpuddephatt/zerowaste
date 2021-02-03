@@ -2,12 +2,13 @@
 layout: layouts/post.njk
 title: How can we build back better, together?
 date: 2020-05-21T11:15:40.006Z
+tags: stuff
 image: /uploads/canva-global-climate-strike-09-20-2019.jpg
 image_alt: Fight today for a better tomorrow Photo by Markus Spiske temporausch.com
 ---
-Ten weeks after first entering lockdown, our thoughts at Zero Waste Leeds are beginning to shift towards what we do next.
+Ten weeks after first entering lockdown, our thoughts at Zero Waste Leeds shifted towards what we do next.
 
-In March we quickly paused most of our work, to focus all of our efforts on supporting people in Leeds with #stayathome waste reduction - working alongside the waste and recycling team at Leeds City Council.
+In March 2020 we quickly paused most of our work, to focus all of our efforts on supporting people in Leeds with #stayathome waste reduction - working alongside the waste and recycling team at Leeds City Council.
 
 We’ve concentrated on the following themes:
 
@@ -16,25 +17,21 @@ We’ve concentrated on the following themes:
 * Keeping hold of [things that you’ve sorted out](https://www.facebook.com/zerowasteleeds/posts/764816744076851?__xts__[0]=68.ARDO03thBatK6hDMxB3ZPuq0hwnJ_UfKW89GMgkzjgqilsfzF6xEp55C8fY7L2HazKFFuscOYgPvRtIkaF6YlXfycsx_ImMM6ZXAOFFDwZ7v7F37UrLSv1Z8HKtp_qzdp9m246mgUO-XMbm5mUxqPo-J5QMIcnmVvU21Kv5e2RwcvPCmGvr1WxW-MsIlG2EZnQ-f4ObxshEi95XoF4M8Ev6JMfmKUJBOug_zS1iHBsE06eoR7_k0pQ4FMnmduW_rtXve8tn_wrfvrBaAtnd5G__sOwGOzXDvqDS3Wi3wLgilvldYyLlnhCyv3OFO-34I-7H_AtCoPKSS2VDcIDEDmLs&__tn__=-R) during a Spring Clean, so that charities can sell them on when their shops re-open
 * [Recycling](https://www.zerowasteleeds.org.uk/tag/recycling/) as much as you can - at a time when we’re all producing a lot more waste at home - as we’re at home more.
 
-We reflected on our first three weeks [here](https://www.zerowasteleeds.org.uk/posts/reflections-on-running-our-social-enterprise-during-covid-19/) - and now, a couple of months on, we’re looking ahead to what we should do next. Here are three things we’re thinking about right now.
-
-
+We reflected on our first three weeks [here](https://www.zerowasteleeds.org.uk/posts/reflections-on-running-our-social-enterprise-during-covid-19/) - and now we’re looking ahead to what we should do next. Here are three things we’re thinking about right now.
 
 # How do we continue to build the movement?
 
-Lots of people have found out about us for the first time in the last 10 weeks. Our [Facebook](https://www.facebook.com/zerowasteleeds/) following has increased by 30% - and across [Twitter](https://twitter.com/zerowasteleeds), Facebook, [Instagram](https://www.instagram.com/zerowasteleeds/) and [YouTube](https://www.youtube.com/channel/UCD4AOnL4OuGUnxHqDi_5ghQ) we now have over 8000 followers.
+Our [Facebook](https://www.facebook.com/zerowasteleeds/) following has increased by 30% - and across [Twitter](https://twitter.com/zerowasteleeds), Facebook, [Instagram](https://www.instagram.com/zerowasteleeds/) and [YouTube](https://www.youtube.com/channel/UCD4AOnL4OuGUnxHqDi_5ghQ) we now have over 14,000 followers.
 
 We want to continue to reach out to new people - so we can really have an impact in our city. Clearly many of us have spent more time online than usual - and we’ve worked hard to share as much as we can on social media - in a range of different ways.
 
-How can we maintain that momentum over the coming weeks and months - continuing to welcome new followers - whilst also staying relevant to people who have been with us for a while?
-
-
+How can we maintain that momentum - continuing to welcome new followers - whilst also staying relevant to people who have been with us for a while?
 
 # How can we make our new habits stick?
 
-It’s been an awful few months - and we’re by no means out of it yet. But it’s important to recognise some of the good things that have come out of a difficult situation.
+It’s been an awful year - and we’re by no means out of it yet. But it’s important to recognise some of the good things that have come out of a difficult situation.
 
-There has been so much positive local community action - with people looking out for eachother on their streets and in their neighbourhoods in ways most of us have not seen in our lifetimes.
+There has been so much positive local community action - with people looking out for each other on their streets and in their neighbourhoods in ways most of us have not seen in our lifetimes.
 
 And when it comes to what we waste - there are positive stories too. Once we settled into lockdown, research suggests that [many of us began to waste far less food](https://www.facebook.com/zerowasteleeds/photos/a.215816082310256/780111369214055/?type=3) - in part because [we got into different habits](https://www.youtube.com/watch?v=lT1Dcg0stJo&t=4s), as we had more time. Shopping to a list, checking our cupboards, using up what we’ve got, planning our meals.
 
@@ -45,8 +42,6 @@ And many of our followers have reported neighbours sharing things on newly-forme
 How do we make sure we don’t just go back to “normal”? If we’ve started composting, will we stick with it? If we’ve got more organised when it comes to food - how do we keep doing the things that make the difference?
 
 We’re keen to explore how we can work with our community of followers to help each other to stick to the good habits we’ve formed - whilst also encouraging more people to join in.
-
-
 
 # How do we #BuildBackBetter?
 
