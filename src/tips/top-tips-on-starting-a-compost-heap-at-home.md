@@ -12,7 +12,7 @@ Many people are put off composting, thinking it’s too difficult or results in 
 
 Where to store - It's completely up to you! Some people choose to go for a simple heap on the ground and others prefer to use some kind of an enclosure. There are lots of shops online that sell different types of compost bins, including Bokashi bins, which are great for using indoors, or wormeries or compost tumblers for outdoors. You can even find tips on how to make a compost bin out of old wooden pallets or wheelie bins.
 
-![](/uploads/2b.png)
+![](/uploads/compost-tip1.jpg)
 
 Balance your greens and browns - To avoid a smelly compost heap, it is important to try and balance your greens and browns, ideally like a sandwich you need two layers of browns to one layer of green filling. Browns include - torn up cardboard, hay or pet bedding, dried leaves, straw, wood ash and hedge trimmings or woody stems. Greens include - grass clippings, kitchen vegetable waste, leafy prunings and weeds.
 
