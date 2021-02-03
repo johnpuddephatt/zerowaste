@@ -39,7 +39,7 @@ Not just to drink. Fruit juice makes a lovely addition to a salad dressing. Add 
 
 Jam, compote or sauce - all variations of the same thing. Mix fruit with sugar and cook down. Serve with ice cream, stir through natural yoghurt, turn into a crumble, use as an accompaniment to a roast dinner or serve with cheese.
 
-![](/uploads/jam.png)
+![](/uploads/ideas-to-use-up-your-fruit6.jpg)
 
 ### Bake with it
 
