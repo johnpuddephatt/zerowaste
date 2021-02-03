@@ -2,12 +2,13 @@
 layout: layouts/post.njk
 title: Engaging local people in the circular economy
 date: 2020-07-22T12:44:48.848Z
+tags: stuff
 image: /uploads/building-a-movement.jpg
 image_alt: Carbon Copy circular economy event flyer
 ---
 How do you engage mainstream audiences in issues relating to what's often called the "circular economy"?
 
-This week Rob from Zero Waste Leeds was due to be speaking at an [online seminar](https://www.bigmarker.com/carbon-copy/REthink-REcover-REgenerate-How-Communities-Can-Enable-the-Circular-Economy3-2020-06-10-01-00-pm) hosted by [Carbon Copy](https://carboncopy.eco/), alongside author and campaigner [Lucy Siegle](https://www.theguardian.com/profile/lucysiegle), Rebecca Burgess from [City To Sea](https://www.citytosea.org.uk/), and Joanna Dainton from [Bristol Waste](https://www.bristolwastecompany.co.uk/).
+Rob from Zero Waste Leeds was due to be speaking at an [online seminar](https://www.bigmarker.com/carbon-copy/REthink-REcover-REgenerate-How-Communities-Can-Enable-the-Circular-Economy3-2020-06-10-01-00-pm) hosted by [Carbon Copy](https://carboncopy.eco/), alongside author and campaigner [Lucy Siegle](https://www.theguardian.com/profile/lucysiegle), Rebecca Burgess from [City To Sea](https://www.citytosea.org.uk/), and Joanna Dainton from [Bristol Waste](https://www.bristolwastecompany.co.uk/).
 
 Unfortunately some mystery technical gremlins scuppered our appearance at the last minute - so we didn't get the chance to give our perspective on this.  
 
