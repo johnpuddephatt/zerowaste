@@ -2,6 +2,7 @@
 layout: layouts/post.njk
 title: Plastic Pioneers
 date: 2019-10-08T13:53:37.629Z
+tags: recycling
 image: /uploads/danwebbeverydayplastic.jpg
 image_alt: Dan Webb Everyday Plastic
 ---
@@ -17,6 +18,6 @@ They’ve also been [working with the school’s caterers](https://twitter.com/C
 
 To help improve people’s understanding of the issues, and to inspire people to do more, they invited [artists and inspirational speakers](https://twitter.com/CHCHSLeeds/status/1197499830765010944?s=20) into school. 
 
-We'll continue to work with Cardinal Heenan during 2020 - and we’d also like to do more work in the future with schools in Leeds.  
+We'll continue to work with Cardinal Heenan - and we’d also like to do more work in the future with schools in Leeds.  
 
 [PLEASE GET IN TOUCH](mailto:rob@zerowasteleeds.org.uk) if you'd like to work with us on this exciting project.
