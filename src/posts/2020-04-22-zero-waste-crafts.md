@@ -2,9 +2,10 @@
 layout: layouts/post.njk
 title: Zero Waste Crafts
 date: 2020-04-22T09:43:14.248Z
+tags: stuff
 image: /uploads/craftcollage.jpg
 ---
-Show us your Zero Waste Crafts! We'll make a collage of all the pictures you send - a nice memory from our coronavirus lockdown 🌈
+Show us your Zero Waste Crafts! 
 
 ![](/uploads/evo0gmwumaankbp.jpeg)
 
@@ -15,8 +16,6 @@ We'd love to see and share what you and your children have made from stuff found
 We are loving all of your pictures so far! Keep them coming in [here](mailto:info@zerowasteleeds.org.uk).
 
 <br>
-
-
 
 ![](/uploads/craft.png)
 
