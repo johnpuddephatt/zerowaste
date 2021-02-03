@@ -2,10 +2,11 @@
 layout: layouts/post.njk
 title: Sustainability in fashion - why and how?
 date: 2020-01-09T20:54:04.958Z
+tags: fashion
 image: /uploads/Fashion photo.jpg
 image_alt: Photo courtesy of Leeds Community Clothes Exchange
 ---
-We’re focusing on fashion, clothing and textiles in 2020. Why? A new [report](https://www.wrap.org.uk/sites/files/wrap/Textiles%20market%20situation%20report%202019.pdf) from waste reduction charity [WRAP](https://www.wrap.org.uk/sustainable-textiles) shows a 10% increase in the amount of clothing that is getting thrown away.  In just two years an extra 36,000 tonnes of clothing ended up in our black bins!
+We’re focusing on fashion, clothing and textiles. Why? A new [report](https://www.wrap.org.uk/sites/files/wrap/Textiles%20market%20situation%20report%202019.pdf) from waste reduction charity [WRAP](https://www.wrap.org.uk/sustainable-textiles) shows a 10% increase in the amount of clothing that is getting thrown away.  In just two years an extra 36,000 tonnes of clothing ended up in our black bins!
 
 Public awareness of the perils of fast fashion on the environment is at an all time high and yet this isn’t translating into the kind of changes we need. The reasons for this will be varied and complex but the rise of consumerist fast fashion certainly plays a big role. 
 
