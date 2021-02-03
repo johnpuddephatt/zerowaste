@@ -33,7 +33,7 @@ Don’t forget to use your citrus zest to add masses of flavour to your cooking,
 
 Not just to drink. Fruit juice makes a lovely addition to a salad dressing. Add lemon or orange juice to olive oil and white wine vinegar, season with salt and pepper. A salmon salad with fresh fennel and an orange salad dressing is a beautiful thing!
 
-![](/uploads/juice.png)
+![](/uploads/ideas-to-use-up-your-fruit5.jpg)
 
 ### Jam it
 
