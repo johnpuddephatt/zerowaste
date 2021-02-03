@@ -51,6 +51,6 @@ Where do we start?! Once you have a fruit compote you’re half way to a trifle,
 
 Pear and apple slices, grapes, kiwi, strawberries and raspberries are gorgeous in a salad, adding sweetness and texture. A goat’s cheese salad with pear, raspberries or both is delicious or try brie with grapes.
 
-![](/uploads/sweetensalad.png)
+![](/uploads/ideas-to-use-up-your-fruit8.jpg)
 
 Let us know your top tips for using up fruit in the comments below!
