@@ -21,7 +21,7 @@ When it comes to fruit your freezer is your friend. Soft fruits like blueberries
 
 Fruit past its best will blend beautifully into a smoothie or milkshake. Add a banana for substance and creamy sweetness and you can’t really go wrong!
 
-![](/uploads/blend.png)
+![](/uploads/ideas-to-use-up-your-fruit3.jpg)
 
 ### Zest it
 
