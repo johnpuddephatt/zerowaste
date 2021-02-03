@@ -45,7 +45,7 @@ Jam, compote or sauce - all variations of the same thing. Mix fruit with sugar a
 
 Where do we start?! Once you have a fruit compote you’re half way to a trifle, pavlova, cheesecake, crumble or a fruity sponge pudding. 
 
-![](/uploads/bake.png)
+![](/uploads/ideas-to-use-up-your-fruit7.jpg)
 
 ### Sweeten your salad
 
