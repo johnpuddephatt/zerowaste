@@ -27,7 +27,7 @@ facts:
   image: /assets/images/heart.svg
 - title: "Every year **over 300,000 tonnes** of clothes go to landfill"
   description: According to WRAP, the UK waste charity, more than 300,000 tonnes of used clothing goes to landfill in the UK every year.
-  image: /assets/images/t-shirt.svg
+  image: /assets/images/machine.svg
 videos:
   title: Watch and learn
   subtitle: Discover our latest fashion-related videos
