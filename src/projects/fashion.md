@@ -11,19 +11,17 @@ intro:
       know where to start. We’ve launched Leeds Fashion Futures in partnership
       with The RSA to explore how as a city we can make it easy to do
       that.  We’ve looked at what makes Leeds unique and spoken to the many
-      people involved in clothing, textiles and fashion. We've mapped out the
-      sustainable choices open to you and set up a platform to share ideas and
-      thoughts.  We're also sharing clothing tips which are good for the
-      environment and your pocket.
+      people involved in clothing, textiles and fashion.  Valuing our clothes
+      was a major theme, plus Leeds' rich textile heritage, and the importance
+      of sewing skills.  Here we share a bit of all of that, plus some practical
+      tips that are good for the environment and your pocket.
   - title: Why we’re doing it
-    content: Our journey started with waste and the discovery that in Leeds we throw
-      away 4000 tonnes of clothing into our household bins every year.   There
-      are much better choices for our clothes at the end of life but waste is
-      just one part of the story.  The textile industry is responsible for 8% of
-      carbon emissions, a massive environmental impact.  With so much
-      greenwashing it can be hard to unpick what is and isn't a sustainable
-      choice.  We're exploring this, plus the value we place on clothing today,
-      the skills that would make it easier to extend the life of our clothes.
+    content: In Leeds we throw away 4000 tonnes of clothing into our household bins
+      every year.  There are much better choices for our clothes at the end of
+      life but waste is just one part of the story.  The textile industry is
+      responsible for 8% of carbon emissions, a massive environmental
+      impact.  With so much greenwashing it can be hard to unpick what is and
+      isn't a sustainable choice.  Leeds Fashion Futures aims to help with that.
 posts:
   title: Fashion articles
   subtitle: Our latest posts about zero waste fashion
