@@ -7,11 +7,11 @@ subtitle: Exploring what we can do as a city to minimise the negative impacts of
 image: /assets/images/fashion.svg
 intro:
   - title: What we’re doing
-    content: Many of us want to make clothing choices that are kinder to the planet
-      but don’t know where to start. We’ve launched Leeds Fashion Futures in
-      partnership with The RSA to explore how as a city we can do that.  We’ve
-      looked at what makes Leeds unique and spoken to the many people involved
-      in clothing, textiles and fashion.  Valuing our clothes was a major theme,
+    content: Many of us want to make more sustainable clothing choices but don’t
+      know where to start. We’ve launched Leeds Fashion Futures in partnership
+      with The RSA to explore how as a city we can do that.  We’ve looked at
+      what makes Leeds unique and spoken to the many people involved in
+      clothing, textiles and fashion.  Valuing our clothes was a major theme,
       plus Leeds' rich textile heritage, and the importance of sewing
       skills.  Here we share a bit of all of that, plus some practical tips and
       ideas.
@@ -20,9 +20,10 @@ intro:
       every year.  There are much better choices for our clothes at the end of
       life but waste is just one part of the story.  The textile industry is
       responsible for 8% of carbon emissions, a massive environmental impact.
-      Knowing what is and isn't sustainable can be hard to unpick.  That's where
-      Leeds Fashion Futures comes in - we want to make it easy for everyone to
-      make the most environmentally friendly choice.
+      Protecting our planet for future generations is important and when it
+      comes to clothes, there's plenty we can all do. Most are fun too like
+      learning how to sew or darn, clothes swapping with friends, or upcycling a
+      favourite item.
 posts:
   title: Fashion articles
   subtitle: Our latest posts about zero waste fashion
