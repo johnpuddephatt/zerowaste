@@ -46,8 +46,8 @@ facts:
       of international flights and shipping combined.
     image: /assets/images/heart.svg
   - title: Every year **over 300,000 tonnes** of clothes go to landfill
-    description: According to WRAP, the UK waste charity, more than 300,000 tonnes
-      of used clothing goes to landfill in the UK every year.
+    description: In Leeds, 4,000 tonnes of textile waste ends up in Leeds' black
+      bins every year.
     image: /assets/images/machine.svg
 videos:
   title: Watch and learn
@@ -57,8 +57,8 @@ call_to_action:
   title: Join the conversation
   content: >
     To find out more about our Leeds Fashion Futures project or to get involved,
-    join our Leeds Fashion Futures Facebook group.  You can follow us on
-    Instagram and Twitter too. 
+    join our Leeds Fashion Futures Facebook group.  You can also follow us on
+    Instagram and Twitter. 
 
 
     If you'd like to support our work or collaborate with us, please get in touch by emailing info@zerowasteleeds.org.uk. 
