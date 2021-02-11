@@ -19,9 +19,10 @@ intro:
     content: In Leeds we throw away 4000 tonnes of clothing into our household bins
       every year.  There are much better choices for our clothes at the end of
       life but waste is just one part of the story.  The textile industry is
-      responsible for 8% of carbon emissions, a massive environmental
-      impact.  With so much greenwashing it can be hard to unpick what is and
-      isn't a sustainable choice.  Leeds Fashion Futures aims to help with that.
+      responsible for 8% of carbon emissions, a massive environmental impact.
+      Knowing what is and isn't sustainable can be hard to unpick.  That's where
+      Leeds Fashion Futures comes in - we want to make it easy for everyone to
+      make the most environmentally friendly choice.
 posts:
   title: Fashion articles
   subtitle: Our latest posts about zero waste fashion
