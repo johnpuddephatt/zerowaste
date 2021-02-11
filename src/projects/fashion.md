@@ -7,14 +7,14 @@ subtitle: Exploring what we can do as a city to minimise the negative impacts of
 image: /assets/images/fashion.svg
 intro:
   - title: What we’re doing
-    content: So many of us want to make more sustainable clothing choices but don’t
-      know where to start. We’ve launched Leeds Fashion Futures in partnership
-      with The RSA to explore how as a city we can make it easy to do
-      that.  We’ve looked at what makes Leeds unique and spoken to the many
-      people involved in clothing, textiles and fashion.  Valuing our clothes
-      was a major theme, plus Leeds' rich textile heritage, and the importance
-      of sewing skills.  Here we share a bit of all of that, plus some practical
-      tips that are good for the environment and your pocket.
+    content: Many of us want to make clothing choices that are kinder to the planet
+      but don’t know where to start. We’ve launched Leeds Fashion Futures in
+      partnership with The RSA to explore how as a city we can do that.  We’ve
+      looked at what makes Leeds unique and spoken to the many people involved
+      in clothing, textiles and fashion.  Valuing our clothes was a major theme,
+      plus Leeds' rich textile heritage, and the importance of sewing
+      skills.  Here we share a bit of all of that, plus some practical tips and
+      ideas.
   - title: Why we’re doing it
     content: In Leeds we throw away 4000 tonnes of clothing into our household bins
       every year.  There are much better choices for our clothes at the end of
@@ -49,7 +49,7 @@ facts:
     image: /assets/images/machine.svg
 videos:
   title: Watch and learn
-  subtitle: "Discover our latest beginners sewing videos "
+  subtitle: "Discover our latest beginner sewing videos "
   playlist: PLcImqkHEpk0r3XKU873sjXTN5apRMMkyO
 call_to_action:
   title: Join the conversation
