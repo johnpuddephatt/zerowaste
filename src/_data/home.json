@@ -10,8 +10,8 @@
   "intro": {
     "title": "Our projects",
     "subtitle": "What we’re currently working on",
-    "headline": "#GiveLeeds",
-    "description": "[](https://www.zerowasteleeds.org.uk/tips/recycling-whilst-youre-out-and-about-in-leeds-city-centre/)In December we're launching an exciting new project - #GiveLeeds.  \n\nWe'll be showcasing opportunities to support grassroots community groups and charities across Leeds - groups that have been there for us like never before during COVID19.  \n\nFollow us on [Facebook](https://www.facebook.com/GiveLeeds), [Twitter](https://twitter.com/giveleeds), or [Instagram](https://www.instagram.com/giveleeds/) for lots of ideas on how to donate to local community groups and charities this Christmas.  \n\nTo find out more, and to donate, visit [Give Leeds](https://giveleeds.org.uk/)  #GiveLeeds"
+    "headline": "Leeds Fashion Futures",
+    "description": "We’ve launched Leeds Fashion Futures to see how as a city we can reduce the environmental impact of our clothing choices. \n\nIn partnership with the RSA, we’ve been exploring this city's unique relationship with clothing and textiles, its rich heritage, and the talent, creativity and knowledge that exists now.  We've discovered a hotbed of activity, from the grassroots groups gathering in communities to share skills, to the mills where world-leading luxury fabrics are created to the young designers committed to working sustainably.  \n\nCould Leeds lead the way in sustainable fashion? We think so.  We're sharing the many ways to recycle, reuse, exchange and repair clothing & textiles, along with top tips and ideas from the many people we're working with on this project."
   },
   "get_involved": {
     "title": "Get involved",
@@ -39,16 +39,16 @@
   },
   "projects": [
     {
-      "title": "Leeds Fashion Futures",
-      "description": "We've launched Leeds Fashion Futures to help make it easier for people to recycle, reuse and repair clothing & textiles.  We want to reduce the amount of clothing that ends of up in Leeds household bins -  estimated at 4000 tonnes per year.  See our map of all the textile banks, charity shops, repair shops, sewing classes and clothes exchanges in Leeds.",
+      "title": "School uniform re-use",
+      "description": "We want to make second-hand school uniform first choice in Leeds.  Our Leeds School Uniform Exchange project is supporting people across the city to swap uniform at their school or in their local community.",
       "link": {
         "text": "Find out more",
-        "url": "https://www.zerowasteleeds.org.uk/posts/leeds-fashion-futures/"
+        "url": "https://www.zerowasteleeds.org.uk/posts/leeds-school-uniform-exchange/"
       }
     },
     {
-      "title": "School uniform re-use",
-      "description": "We want to make second-hand school uniform first choice in Leeds.  Our Leeds School Uniform Exchange project is supporting people across the city to swap uniform at their school or in their local community.",
+      "title": "#LeedsbyExample ",
+      "description": "\\#LeedsbyExample is an award winning campaign that we're extremely proud to be part of.  In it's first year, recycling rates in our city centre tripled from 17% to 49% which led to it being rolled out to other cities in the UK. Leeds truly leading the way.  We're now leading on the next phase.",
       "link": {
         "url": "https://www.zerowasteleeds.org.uk/posts/leeds-school-uniform-exchange/",
         "text": "Find out more"
