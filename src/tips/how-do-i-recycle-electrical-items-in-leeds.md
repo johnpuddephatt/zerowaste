@@ -27,6 +27,10 @@ Leeds City Council have also recently put out some newly refurbished recycling b
 * Bramhope Car Park                        
 * Asda, Killingbeck Drive  
 * Tesco, Garforth
+* Rawdon Library Car Park
+* Cattle Market Street Car Park, Otley
+* Asda, Holt Park
+* Morrisons, Hallfield Lane Car Park, Wetherby
 
 Longer term, there are plans in place to make it easier for you to return small electrical items to the retailer you bought them from. But for now you can either find a small electrical bank on the map, or [book to visit a Household Waste Site](https://www.leeds.gov.uk/residents/bins-and-recycling/recycling-sites).  
 
