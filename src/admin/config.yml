@@ -31,6 +31,13 @@ collections:
               - {label: 'Subtitle', name: 'subtitle', widget: 'string', required: false }
               - {label: 'Headline', name: 'headline', widget: 'string', required: false }
               - {label: 'Description', name: 'description', widget: 'markdown', required: false }
+              - label: Link
+                name: link
+                widget: object
+                fields:
+                  - { label: 'Text', name: 'text', widget: 'string' }
+                  - { label: 'URL', name: 'url', widget: 'string' }
+
           - label: Projects
             name: projects
             widget: list

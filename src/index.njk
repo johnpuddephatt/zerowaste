@@ -20,6 +20,15 @@ layout: layouts/base.njk
     <div class="intro__copy">
       <h2 class="intro__title">{{ home.intro.headline }}</h2>
       {{ home.intro.description | markdownify | safe }}
+      {% if home.intro.link.url %}
+        <a class="read-more" href="{{ home.intro.link.url }}">
+        {% if home.intro.link.text %}
+          {{ home.intro.link.text }}
+        {% else %}
+          Find out more
+        {% endif %}
+        </a>
+      {% endif %}
     </div>
 
     <div class="intro__projects" id="home-projects">
