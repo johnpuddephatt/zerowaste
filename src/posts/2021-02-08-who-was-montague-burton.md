@@ -5,7 +5,7 @@ date: 2021-02-08T13:30:19.396Z
 tags: fashion
 image: /uploads/screen-shot-2021-02-08-at-13.39.42.png
 ---
-One of the themes that we're exploring throughout[\#LeedsFashionFutures](https://www.zerowasteleeds.org.uk/projects/leeds-fashion-futures/) week is the rich history in Leeds in relation to clothing and textiles.
+One of the themes that we're exploring throughout [\#LeedsFashionFutures](https://www.zerowasteleeds.org.uk/projects/leeds-fashion-futures/) week is the rich history in Leeds in relation to clothing and textiles.
 
 And of course it would be impossible to look back at Leeds' history without considering the role of one man who made Leeds his home in the early 1900s - Montague Burton.
 
