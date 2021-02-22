@@ -18,11 +18,11 @@ intro:
     content: In Leeds we throw away 4000 tonnes of clothing into our household bins
       every year.  There are much better choices for our clothes at the end of
       life but waste is just one part of the story.  The textile industry is
-      responsible for 8% of carbon emissions, a massive environmental impact.
+      responsible for 10% of carbon emissions, a massive environmental impact.
       Protecting our planet for future generations is important and when it
       comes to clothes, there's plenty we can all do. Most are fun too like
-      learning how to sew or darn, clothes swapping with friends, or upcycling a
-      favourite item.
+      learning how to sew, clothes swapping with friends, upcycling a favourite
+      item or doing a wardrobe audit before buying anything new.
 posts:
   title: Fashion articles
   subtitle: Our latest posts about zero waste fashion
