@@ -11,7 +11,7 @@ And of course it would be impossible to look back at Leeds' history without cons
 
 As part of our #LeedsFashionFutures Week we invited local historians Jacki and Bob Lawrence to give a talk about Sir Montague Burton and the manufacturing and retailing empire that he built - which had its heart in Leeds.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fzerowasteleeds%2Fvideos%2F441621333927184%2F&show_text=1&width=560" width="560" height="433" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J-UcwS_t2G8?start=20" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 It's a fascinating story - of the man who arrived in this country, fleeing anti-semitic pogroms, aged 15 in 1900 - and who wasted little time in setting up clothing shops in the north of England.
 
