@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "#LeedsFashionFutures and The RSA"
+title: " Leeds Fashion Futures and The RSA"
 date: 2021-02-22T16:37:22.832Z
 tags: fashion
 image: /uploads/screen-shot-2021-02-22-at-17.03.29.png
