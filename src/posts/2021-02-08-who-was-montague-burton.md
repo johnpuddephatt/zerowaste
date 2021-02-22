@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
-title: Who was Montague Burton?
-date: 2021-02-08T13:30:19.396Z
+title: Who was Sir Montague Burton?
+date: 2021-02-22T16:00:31.994Z
 tags: fashion
 image: /uploads/screen-shot-2021-02-08-at-13.39.42.png
 ---
