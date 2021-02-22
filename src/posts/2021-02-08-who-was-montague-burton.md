@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Who was Sir Montague Burton?
 date: 2021-02-22T16:00:31.994Z
 tags: fashion
-image: /uploads/screen-shot-2021-02-08-at-13.39.42.png
+image: /uploads/screen-shot-2021-02-22-at-16.03.35.png
 ---
 One of the themes that we're exploring throughout [\#LeedsFashionFutures](https://www.zerowasteleeds.org.uk/projects/leeds-fashion-futures/) week is the rich history in Leeds in relation to clothing and textiles.
 
