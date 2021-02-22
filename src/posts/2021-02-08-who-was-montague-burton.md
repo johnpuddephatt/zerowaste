@@ -5,13 +5,13 @@ date: 2021-02-08T13:30:19.396Z
 tags: fashion
 image: /uploads/screen-shot-2021-02-08-at-13.39.42.png
 ---
-One of the themes that we're exploring throughout #LeedsFashionFutures week is the rich history in Leeds in relation to clothing and textiles.
+One of the themes that we're exploring throughout[\#LeedsFashionFutures](https://www.zerowasteleeds.org.uk/projects/leeds-fashion-futures/) week is the rich history in Leeds in relation to clothing and textiles.
 
 And of course it would be impossible to look back at Leeds' history without considering the role of one man who made Leeds his home in the early 1900s - Montague Burton.
 
-Last year [Leeds Civic Trust](https://leedscivictrust.org.uk/) invited local historians Jacki and Bob Lawrence to give a talk (on Zoom of course given that it was 2020) about Montague Burton and the manufacturing and retailing empire that he built - which had its heart in Leeds.
+As part of our #LeedsFashionFutures Week we invited local historians Jacki and Bob Lawrence to give a talk about Sir Montague Burton and the manufacturing and retailing empire that he built - which had its heart in Leeds.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lubra9LNNQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fzerowasteleeds%2Fvideos%2F441621333927184%2F&show_text=1&width=560" width="560" height="433" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 It's a fascinating story - of the man who arrived in this country, fleeing anti-semitic pogroms, aged 15 in 1900 - and who wasted little time in setting up clothing shops in the north of England.
 
@@ -31,4 +31,6 @@ What can we learn from the story of Montague Burton and the business that he bui
 
 Little of the clothing we wear now is made in this country. Can we be as confident that the people who made our clothes are enjoying decent pay and conditions? What opportunities do we have to influence that? How can we help to change how clothes are made, so the people making our clothes today are seen as "individuals, not just a pair of hands" - a theme that was revisited during the [1970 Clothing Strike in Leeds](https://secretlibraryleeds.net/2019/09/13/the-clothing-strike-of-1970/).
 
-With the news this week that [Burton shops will be closing](https://www.theguardian.com/business/2021/feb/08/boohoo-dorothy-perkins-burton-wallis-phillip-green-arcadia) after the brand was bought by online fashion retailer Boohoo - it is perhaps a good time to be looking back at how we have manufactured and bought clothes in the past - so we can then imagine how we might do that in the future - with sustainability at the heart of how clothes are made, and how we purchase them and look after them.  This a theme we'll continue to explore through our #LeedsFashionFutures project.
+With the recent news that [Burton shops will be closing](https://www.theguardian.com/business/2021/feb/08/boohoo-dorothy-perkins-burton-wallis-phillip-green-arcadia) after the brand was bought by online fashion retailer Boohoo - alongside [the expected closure of the Hudson Road site](https://www.bbc.co.uk/news/uk-england-leeds-56126878) -  it is perhaps a good time to be looking back at how we have manufactured and bought clothes in the past. 
+
+In doing so, we can then imagine how we might do that in the future - with sustainability at the heart of how clothes are made, and how we purchase them and look after them.  This a theme we'll continue to explore through our [\#LeedsFashionFutures](https://www.zerowasteleeds.org.uk/projects/leeds-fashion-futures/) project.
