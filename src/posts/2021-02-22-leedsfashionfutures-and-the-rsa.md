@@ -11,11 +11,7 @@ The RSA have worked closely with us to develop the #LeedsFashionFutures project 
 
 The conversation, hosted by Peg Alexander, explored how the project fits with a bigger project that The RSA have been running - called [Regenerative Futures](https://www.thersa.org/regenerative-futures) - which is exploring a future where humans thrive as part of the Earth’s ecology.  
 
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SyZu-h23PQ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 The RSA were keen to work with us in order to explore what a "place-based" approach to working on issues around clothing, fashion and the circular economy might look like.
 
@@ -24,6 +20,12 @@ They were interested in Leeds in part because of our previous [Zero Waste Fashio
 How can we explore and reflect upon that history - to help us to imagine what the future could look like - in relation to clothing and fashion?
 
 Throughout our Leeds Fashion Futures Week we'll be exploring in more detail some of the key themes that have emerged through the project - specifically around heritage and tradition, skills & resources, and valuing our clothes.  
+
+
+
+![Leeds Fashion Futures Week](/uploads/lffweekimage.png "Leeds Fashion Futures Week")
+
+
 
 Some of the events we have lined up this week include:
 
@@ -36,10 +38,6 @@ Some of the events we have lined up this week include:
 [Exploring the impact of our Leeds School Uniform Exchange project](https://fb.me/e/4U1hY8KoT)
 
 [A live Q & A on sewing, craft and sustainability](https://fb.me/e/2HVmM6WvC)
-
-
-
-![Leeds Fashion Futures Week](/uploads/lffweekimage.png "Leeds Fashion Futures Week")
 
 
 
