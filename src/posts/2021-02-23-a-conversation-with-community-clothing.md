@@ -4,7 +4,7 @@ title: A conversation with Community Clothing
 date: 2021-02-23T11:52:31.610Z
 tags: fashion
 image: /uploads/screen-shot-2021-02-23-at-12.19.35.png
-image_alt: ""
+image_alt: Sewing PPE at a Community Clothing partner factory
 ---
 As part of our [\#LeedsFashionFutures](https://www.zerowasteleeds.org.uk/projects/leeds-fashion-futures/) project, we recently spoke with Jenny Whisker from [Community Clothing](https://communityclothing.co.uk/) - to understand more about how their innovative social enterprise is helping to provide more good jobs to skilled workers at clothing manufacturers across the UK.
 
