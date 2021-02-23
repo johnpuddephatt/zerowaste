@@ -30,4 +30,4 @@ Patrick Grant talks more about the Community Clothing business model - and the r
 
 We think it's an inspiring business model - providing one way to perhaps buy more of your clothes from a supplier that's investing in local factories, providing good employment for highly-skilled workers.
 
-Through our #LeedsFashionFutures project, a collaboration with the RSA and their Regenerative Futures project, we are exploring how to create a different kind of future for clothing and fashion - a future with sustainability at the heart of everything.  You can find out more about the project [here](https://www.zerowasteleeds.org.uk/projects/leeds-fashion-futures/).
+Through our #LeedsFashionFutures project, a collaboration with [the RSA](https://www.thersa.org/) and their[ Regenerative Futures ](https://www.thersa.org/regenerative-futures)project, we are exploring how to create a different kind of future for clothing and fashion - a future which has sustainability at its heart.  You can find out more about the project [here](https://www.zerowasteleeds.org.uk/projects/leeds-fashion-futures/).
