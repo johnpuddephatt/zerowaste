@@ -4,7 +4,7 @@ title: A conversation with Community Clothing
 date: 2021-02-23T11:52:31.610Z
 tags: fashion
 image: /uploads/screen-shot-2021-02-23-at-12.19.35.png
-image_alt: ""
+image_alt: Sewing PPE at a Community Clothing partner factory
 ---
 As part of our [\#LeedsFashionFutures](https://www.zerowasteleeds.org.uk/projects/leeds-fashion-futures/) project, we recently spoke with Jenny Whisker from [Community Clothing](https://communityclothing.co.uk/) - to understand more about how their innovative social enterprise is helping to provide more good jobs to skilled workers at clothing manufacturers across the UK.
 
@@ -30,4 +30,4 @@ Patrick Grant talks more about the Community Clothing business model - and the r
 
 We think it's an inspiring business model - providing one way to perhaps buy more of your clothes from a supplier that's investing in local factories, providing good employment for highly-skilled workers.
 
-Through our #LeedsFashionFutures project, a collaboration with the RSA and their Regenerative Futures project, we are exploring how to create a different kind of future for clothing and fashion - a future with sustainability at the heart of everything.  You can find out more about the project [here](https://www.zerowasteleeds.org.uk/projects/leeds-fashion-futures/).
+Through our #LeedsFashionFutures project, a collaboration with [the RSA](https://www.thersa.org/) and their[ Regenerative Futures ](https://www.thersa.org/regenerative-futures)project, we are exploring how to create a different kind of future for clothing and fashion - a future which has sustainability at its heart.  You can find out more about the project [here](https://www.zerowasteleeds.org.uk/projects/leeds-fashion-futures/).
