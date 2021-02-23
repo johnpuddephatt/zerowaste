@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Sunny Bank Mills
 date: 2021-02-23T12:52:45.427Z
 tags: fashion
-image: /uploads/textile-trail-social11.jpg
+image: /uploads/sunny-b.jpg
 image_alt: Illustration of Sunny Bank Mills
 ---
 As part of our [\#LeedsFashionFutures](https://www.zerowasteleeds.org.uk/projects/leeds-fashion-futures/) project, we recently spoke with [Sunny Bank Mills](https://www.sunnybankmills.co.uk/) archivist Rachel Moaby, to explore the rich history of the Mill, and to learn about it's exciting reinvention over recent years.
