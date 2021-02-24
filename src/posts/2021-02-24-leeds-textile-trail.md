@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: "Leeds Textile Trail "
 date: 2021-02-24T09:23:05.701Z
 tags: fashion
-image: /uploads/leeds-textile-trail.jpg
+image: /uploads/isabella.jpg
 ---
 Today we've launched [Leeds Textile Trail](https://trail.zerowasteleeds.org.uk/), a journey through some of the people, places and events that make Leeds stand out in the world of clothing and textiles.  
 
