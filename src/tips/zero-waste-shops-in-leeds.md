@@ -5,22 +5,22 @@ date: 2020-10-27T17:06:54.315Z
 tags: stuff
 image: /uploads/120319415_365501327965876_2721842203023444409_n.jpg
 ---
-<!--\\\\\\\\\[if !mso]>
+<!--\\\\\\\\\\[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
 o\:* {behavior:url(#default#VML);}
 w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
-<!\\\\\\\\\[endif]-->
+<!\\\\\\\\\\[endif]-->
 
-<!--\\\\\\\\\[if gte mso 9]><xml>
+<!--\\\\\\\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\\\\\\\[endif]-->
+</xml><!\\\\\\\\\\[endif]-->
 
-<!--\\\\\\\\\[if gte mso 9]><xml>
+<!--\\\\\\\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -59,9 +59,9 @@ w\:* {behavior:url(#default#VML);}
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\\\\\\\[endif]-->
+</xml><!\\\\\\\\\\[endif]-->
 
-<!--\\\\\\\\\[if gte mso 9]><xml>
+<!--\\\\\\\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -640,9 +640,9 @@ w\:* {behavior:url(#default#VML);}
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\\\\\\\[endif]-->
+</xml><!\\\\\\\\\\[endif]-->
 
-<!--\\\\\\\\\[if gte mso 10]>
+<!--\\\\\\\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -669,7 +669,7 @@ w\:* {behavior:url(#default#VML);}
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\\\\\\\[endif]-->
+<!\\\\\\\\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -677,13 +677,13 @@ We’re lucky to have so many zero waste shops in Leeds!
 
 To make it easy for you to support these local, sustainable and ethical businesses, we’ve listed them all here with their locations and links to social media pages where you can find out more. 
 
- <!--\\\\\\\\\[if gte mso 9]><xml>
+ <!--\\\\\\\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\\\\\\\[endif]-->
+</xml><!\\\\\\\\\\[endif]-->
 
-<!--\\\\\\\\\[if gte mso 9]><xml>
+<!--\\\\\\\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -722,9 +722,9 @@ To make it easy for you to support these local, sustainable and ethical business
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\\\\\\\[endif]-->
+</xml><!\\\\\\\\\\[endif]-->
 
-<!--\\\\\\\\\[if gte mso 9]><xml>
+<!--\\\\\\\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -1303,9 +1303,9 @@ To make it easy for you to support these local, sustainable and ethical business
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\\\\\\\[endif]-->
+</xml><!\\\\\\\\\\[endif]-->
 
-<!--\\\\\\\\\[if gte mso 10]>
+<!--\\\\\\\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -1332,7 +1332,7 @@ To make it easy for you to support these local, sustainable and ethical business
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\\\\\\\[endif]-->
+<!\\\\\\\\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -1346,9 +1346,7 @@ To make it easy for you to support these local, sustainable and ethical business
 
 **[Like Nana Did](https://www.facebook.com/likenanadid/)** –Orchard Gate, **Otley**.  A great zero waste shop in the centre of Otley selling plastic-free products and refill groceries - 'helping the community to reduce waste'.
 
-**[Original Way](https://www.facebook.com/Originalwayshop/)** - opened for business in October 2020 as a #plasticfree pop up shop in Wetherby Market and have now got an online shop providing eco-friendly household, lifestyle and beauty products with a move to plastic free food refills in the near future. They offer free delivery to LS17.\
-\
-**[Out Of This World](https://www.facebook.com/Out-Of-This-World-126153407436304/) –** 20 New Market Street, **Leeds centre** - a one-stop shop for all things healthy, ethical, organic, locally made, and eco-friendly. Huge range of health foods and vegan deli.
+**[Original Way](https://www.facebook.com/Originalwayshop/)** - opened for business in October 2020 as a #plasticfree pop up shop in Wetherby Market and have now got an online shop providing eco-friendly household, lifestyle and beauty products with a move to plastic free food refills in the near future. They offer free delivery to LS17.
 
 ![](/uploads/82696728_775452466285671_4987713811101253632_n.jpg)
 
