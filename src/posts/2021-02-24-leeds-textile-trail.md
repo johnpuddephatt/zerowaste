@@ -5,13 +5,11 @@ date: 2021-02-24T09:23:05.701Z
 tags: fashion
 image: /uploads/leeds-textile-trail.jpg
 ---
-We're delighted to launch [Leeds Textile Trail](https://trail.zerowasteleeds.org.uk/), a journey through some of the people, places and events that make Leeds stand out in the world of clothing and textiles.  
+Today we've launched [Leeds Textile Trail](https://trail.zerowasteleeds.org.uk/), a journey through some of the people, places and events that make Leeds stand out in the world of clothing and textiles.  
 
 This online virtual tour weaves its way from the building of the First White Cloth Hall in the early 1700s, to the 1970s when 20,000 textile workers, mainly women, went on strike for better pay, to the spectacular costumes on display each year at [Leeds West Indian Carnival](https://www.leedscarnival.co.uk/), and lots in between. 
 
-
 The trail was created as part of our #LeedsFashionFutures project, in response to a realisation that although some people know a bit about Leeds rich textile past and present, it isn’t widely known or celebrated.  There’s so much to learn and appreciate from the past but we also wanted to explore how a city’s strong foundations can help it build a new kind of future.  Could Leeds lead the way again in clothing and textiles with sustainability at its core?
-
 
 The 15 stops on the trail are meant as a starting point which we’ve very keen to build on and will be exploring how best to do that over the next few weeks.\
 \
