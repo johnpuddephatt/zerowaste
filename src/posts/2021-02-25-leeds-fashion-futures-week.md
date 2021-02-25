@@ -68,9 +68,7 @@ On Thursday, we held a live Q&A with some of Leeds finest makers, menders and de
 
 \[Embed video here]
 
-Gill and Tracy also gave an update on our Leeds School Uniform Exchange project which is about making good quality second hand uniform the first choice in Leeds. 
-
-Why? Because it’s better for the environment and helps families save money which is especially important right now. They shared some of the ways the project is already making a difference. If you haven’t already, join our [Leeds School Uniform Exchange Facebook page](https://www.facebook.com/groups/603050533660854).
+Gill and Tracy also gave an update on our Leeds School Uniform Exchange project which is about making good quality second hand uniform the first choice in Leeds. If you haven’t already, join our [Leeds School Uniform Exchange Facebook page](https://www.facebook.com/groups/603050533660854).
 
 \[Embed video here]
 
