@@ -42,7 +42,7 @@ It was a fascinating conversation, exploring a wide range of issues relating to 
 
 On Wednesday we launched our updated [Leeds Fashion Map](https://map.zerowasteleeds.org.uk/), which includes zero waste fashion options including charity shops, textile banks, alterations and repairs, clothes exchanges, sewing workshops and sustainable fashion designers. We’re also adding local haberdashers and sewing machine sales, maintenance and repair shops.
 
-<iframe scrolling="false" width="2000" frameborder="0" height="80" style="height: 85vh; width: 100%;" src="https://zero-waste-leeds-fashion.netlify.app"></iframe>
+<iframe scrolling="false" width="full" frameborder="0" height="80" style="height: 85vh; width: 100%;" src="https://zero-waste-leeds-fashion.netlify.app"></iframe>
 
 We also launched [The Leeds Textile Trail](https://trail.zerowasteleeds.org.uk/) - a journey through some of the people, places and events that make Leeds stand out in the world of clothing and textiles.
 
