@@ -50,7 +50,7 @@ The trail spans over 300 years from the building of the First White Cloth Hall i
 
 It was created in collaboration with [Leeds Civic Trust](https://leedscivictrust.org.uk/) and [Leeds Museums and Galleries](https://museumsandgalleries.leeds.gov.uk/) and supported by the [RSA](https://www.thersa.org/), our partners on #LeedsFashionFutures.
 
-div data-collage-id="0dD0jSLn" data-aspect-ratio="1.667"> <noscript> <a href="https://voilacollage.com/collages/0dD0jSLn" target="_blank">The Leeds Textile Trail</a> by <a href="https://voilacollage.com/users/mcUE4eul" target="_blank">Zero Waste Leeds</a> at <a href="https://voilacollage.com" target="_blank">Voilà!Collage – interactive collage widget</a> </noscript> </div> <iframe src="https://voilacollage.com/embed.html?id=0dD0jSLn" frameborder="0" scrolling="no" width="933" height="560"></iframe> <script src="https://assets.voilacollage.com/assets/embed.js" async></script><br>
+<div data-collage-id="0dD0jSLn" data-aspect-ratio="1.667"> <noscript> <a href="https://voilacollage.com/collages/0dD0jSLn" target="_blank">The Leeds Textile Trail</a> by <a href="https://voilacollage.com/users/mcUE4eul" target="_blank">Zero Waste Leeds</a> at <a href="https://voilacollage.com" target="_blank">Voilà!Collage – interactive collage widget</a> </noscript> </div> <iframe src="https://voilacollage.com/embed.html?id=0dD0jSLn" frameborder="0" scrolling="no" width="933" height="560"></iframe> <script src="https://assets.voilacollage.com/assets/embed.js" async></script><br>
 
 We also revisited this chat about the value of learning sewing and clothing repair skills. Peg Alexander and Suzanne Nicholls were joined by Sally Cooke and Dawn Wood.
 
