@@ -54,7 +54,7 @@ It was created in collaboration with [Leeds Civic Trust](https://leedscivictrust
 
 We also revisited this chat about the value of learning sewing and clothing repair skills. Peg Alexander and Suzanne Nicholls were joined by Sally Cooke and Dawn Wood.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CgJoswc9wrY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CgJoswc9wrY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 Finally, over on our [Instagram](https://www.instagram.com/zerowasteleeds/), Julia from Upcycle Fashion took our account for the day to talk about sewing and sustainable fashion.
 
