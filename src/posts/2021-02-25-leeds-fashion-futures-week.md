@@ -8,8 +8,6 @@ image_alt: Leeds Fashion Futures week - image of a clothes rail
 ---
 In February we held Leeds Fashion Futures Week - a celebration of the things we’ve learned, the people we’ve met and how we have come together as a city to discover how Leeds can have a vibrant and sustainable fashion future.
 
-We shared tips on how to learn new skills, discovered Leeds' rich textiles heritage, looked into the environmental impacts of the fashion industry and explored simple changes that we can all can make to collectively make a difference.
-
 This has been such an exciting project to work on with the [RSA](https://www.thersa.org/). Our three themes of Heritage, Valuing Your clothes and Skills & Resources have given us a real insight into what fashion means in Leeds. We've summarised the highlights from the week below.
 
 ## Monday, 22 Feb
