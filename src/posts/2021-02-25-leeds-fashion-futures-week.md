@@ -18,7 +18,9 @@ Through their Regenerative Futures project, we are working with the RSA on [\#Le
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SyZu-h23PQ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-We also explored some of the rich history that Leeds has when it comes to clothing manufacturing, tailoring, and textiles, including looking at [the life of Sir Montague Burton](https://www.zerowasteleeds.org.uk/posts/who-was-sir-montague-burton/). Local historians - and former Burton employees - Jacki and Bob Lawrence joined us to talk about the life of Sir Montague Burton, and the business he built. In Bob's own words, Sir Montague Burton was a true visionary - a man who did as much as anyone to transform the clothing industry - creating an innovative manufacturing model that brought the purchase of a good quality suit within the reach of the average working man.
+We also explored some of the rich history that Leeds has when it comes to clothing manufacturing, tailoring, and textiles, including looking at [the life of Sir Montague Burton](https://www.zerowasteleeds.org.uk/posts/who-was-sir-montague-burton/). 
+
+Local historians - and former Burton employees - Jacki and Bob Lawrence joined us to talk about the life of Sir Montague Burton, and the business he built. In Bob's own words, Sir Montague Burton was a true visionary - a man who did as much as anyone to transform the clothing industry - creating an innovative manufacturing model that brought the purchase of a good quality suit within the reach of the average working man.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J-UcwS_t2G8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
