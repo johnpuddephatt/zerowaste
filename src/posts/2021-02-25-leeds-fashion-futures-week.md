@@ -8,7 +8,7 @@ image_alt: Leeds Fashion Futures week - image of a clothes rail
 ---
 In February we held Leeds Fashion Futures Week - a celebration of the things we’ve learned, the people we’ve met and how we have come together as a city to discover how Leeds can have a vibrant and sustainable fashion future.
 
-This has been such an exciting project to work on with the [RSA](https://www.thersa.org/). Our three themes of Heritage, Valuing Your clothes and Skills & Resources have given us a real insight into what fashion means in Leeds. We've summarised the highlights from the week below.
+This has been such an exciting project to work on with the [RSA](https://www.thersa.org/). Our three themes of Heritage, Valuing Your clothes and Skills & Resources have given us a real insight into what fashion means to people across Leeds. We've summarised the highlights from the week below.
 
 ## Monday, 22 Feb
 
@@ -23,6 +23,10 @@ We also explored some of the rich history that Leeds has when it comes to clothi
 Local historians - and former Burton employees - Jacki and Bob Lawrence joined us to talk about the life of Sir Montague Burton, and the business he built. In Bob's own words, Sir Montague Burton was a true visionary - a man who did as much as anyone to transform the clothing industry - creating an innovative manufacturing model that brought the purchase of a good quality suit within the reach of the average working man.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J-UcwS_t2G8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+We also shared our short video which demystifies the statistic that was the starting point for our work on clothing and fashion - the estimate that 4000 tonnes of clothing and textiles get thrown away each year by Leeds households.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z-W8oY70ryw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Tuesday, 23 Feb
 
@@ -62,15 +66,15 @@ Finally, over on our [Instagram](https://www.instagram.com/zerowasteleeds/), Jul
 
 <br>
 
+On Wednesday evening we worked with Leeds Beckett University students to host an online clothing exchange.  We had work with students to help them to research, plan and deliver a #LeedsFashionFutures Week event aimed at students in our city.  
+
+`<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Don&#39;t forget, this is happening tonight... <a href="https://twitter.com/ZeroWasteLeeds?ref_src=twsrc%5Etfw">@ZeroWasteLeeds</a> <a href="https://twitter.com/BeckettCareers?ref_src=twsrc%5Etfw">@BeckettCareers</a> <a href="https://twitter.com/CareersByBen?ref_src=twsrc%5Etfw">@CareersByBen</a> <a href="https://twitter.com/BeckettEnglish?ref_src=twsrc%5Etfw">@BeckettEnglish</a> <a href="https://twitter.com/hashtag/LeedsFashionFutures?src=hash&amp;ref_src=twsrc%5Etfw">#LeedsFashionFutures</a> <a href="https://twitter.com/hashtag/SustainableFashion?src=hash&amp;ref_src=twsrc%5Etfw">#SustainableFashion</a> <a href="https://t.co/BUnWAojMgd">pic.twitter.com/BUnWAojMgd</a></p>&mdash; Simon James Morgan (@s_jmorgan) <a href="https://twitter.com/s_jmorgan/status/1364553516627333128?ref_src=twsrc%5Etfw">February 24, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>`
+
 ## Thursday, 25 Feb
 
-On Thursday, we held a live Q&A with some of Leeds finest makers, menders and designers. Sally, Jude, Dawn, Julia and Eleanor helped to answer all your sewing and textile craft questions and shared some top sewing tips.
+On Thursday, [we held a live Q&A](https://www.facebook.com/215809088977622/videos/539111237486985) with some of Leeds finest makers, menders and designers. Sally, Jude, Dawn, Julia and Eleanor helped to answer all your sewing and textile craft questions and shared some top sewing tips.
 
-\[Embed video here]
-
-Gill and Tracy also gave an update on our Leeds School Uniform Exchange project which is about making good quality second hand uniform the first choice in Leeds. If you haven’t already, join our [Leeds School Uniform Exchange Facebook page](https://www.facebook.com/groups/603050533660854).
-
-\[Embed video here]
+[Gill and Tracy also gave an update on our Leeds School Uniform Exchange](https://fb.watch/3VXnSm1Zf-/) project which is about making good quality second hand uniform the first choice in Leeds. If you haven’t already, join our [Leeds School Uniform Exchange Facebook page](https://www.facebook.com/groups/603050533660854).
 
 We shared a TEDx talk by Patrick Grant who many of you will know from The Great British Sewing Bee and Community Clothing, a manufacturers co-operative that makes great quality, affordable everyday clothing, from around a dozen UK factories. 
 
@@ -96,9 +100,9 @@ Finally, we shared this clip from Oxfam to show what happens to the clothes that
 
 ## Saturday, 27 Feb
 
-On Saturday, we reflected on the week with this live chat from Peg Alexander.
+On Saturday, we reflected on the week with this live chat  
 
-\[Embed video here]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9YmPvXIfF1U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 We also shared this TEDx talk by the Observer's 'Ethical Living' columnist Lucy Siegle, examining the inhumane and environmentally devastating story behind the clothes we so casually buy and wear. 
 
