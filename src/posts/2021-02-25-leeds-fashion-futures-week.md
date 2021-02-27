@@ -107,3 +107,7 @@ On Saturday, we reflected on the week with this live chat
 We also shared this TEDx talk by the Observer's 'Ethical Living' columnist Lucy Siegle, examining the inhumane and environmentally devastating story behind the clothes we so casually buy and wear. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YglyHzvBqpA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+We would like to say a big thank you to everyone who has contributed in so many different ways to #LeedsFashionFutures - first and foremost [The RSA](https://www.thersa.org/), who have funded the project, and worked closely with us to develop it - as part of their [Regenerative Futures](https://www.thersa.org/regenerative-futures) project.  Thank you too to [Leeds Civic Trust](https://leedscivictrust.org.uk/) for helping to fund Leeds Textile Trail.
