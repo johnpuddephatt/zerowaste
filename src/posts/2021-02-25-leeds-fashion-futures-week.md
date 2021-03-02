@@ -78,6 +78,8 @@ On Wednesday evening we worked with Leeds Beckett University students to host an
 
 On Thursday, [we held a live Q&A](https://www.facebook.com/215809088977622/videos/539111237486985) with some of Leeds finest makers, menders and designers. Sally, Jude, Dawn, Julia and Eleanor helped to answer all your sewing and textile craft questions and shared some top sewing tips.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r42whuE1zsc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [Gill and Tracy also gave an update on our Leeds School Uniform Exchange](https://fb.watch/3VXnSm1Zf-/) project which is about making good quality second hand uniform the first choice in Leeds. If you haven’t already, join our [Leeds School Uniform Exchange Facebook page](https://www.facebook.com/groups/603050533660854).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pGUNpll3pvM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
