@@ -9,9 +9,7 @@ image_alt: Did you know that 4000 tonnes of clothing is thrown away in Leeds
 ---
 It’s estimated that the average household in Leeds throws away around 12 kilos of clothing and textiles every year.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sJjWfEL8k5Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z-W8oY70ryw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Much of this clothing could be reused, or recycled. Clothing and textiles disposed of in black bins can also cause problems at the [RERF](https://www.veolia.co.uk/leeds/) in Cross Green - where your black bin waste ends up - as they can get tangled in the machinery.  It's also a real waste of natural resources - that could be put to better use.
 
@@ -24,10 +22,6 @@ All charity shops in Leeds are currently closed.  We are running a campaign alon
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J0rOTGA8q80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+We've created [a map which shows all the charity shops and textile banks in Leeds](https://map.zerowasteleeds.org.uk/#/) - so you know where to go to donate (and buy second hand) when they reopen.  
 
-
-We've created a map which shows all the charity shops and textile banks in Leeds - so you know where to go to donate (and buy second hand) when they reopen.  
-
-
-
-<iframe src="https://www.google.com/maps/d/embed?mid=18ktKdUeew3oQpjOnezeTyLtt9pk1KK7w&hl=en" width="640" height="480"></iframe>
+<iframe scrolling="false" width="full" frameborder="0" height="80" style="height: 85vh; width: 100%;" src="https://zero-waste-leeds-fashion.netlify.app"></iframe>
