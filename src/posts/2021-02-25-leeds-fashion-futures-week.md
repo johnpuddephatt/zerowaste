@@ -80,6 +80,8 @@ On Thursday, [we held a live Q&A](https://www.facebook.com/215809088977622/video
 
 [Gill and Tracy also gave an update on our Leeds School Uniform Exchange](https://fb.watch/3VXnSm1Zf-/) project which is about making good quality second hand uniform the first choice in Leeds. If you haven’t already, join our [Leeds School Uniform Exchange Facebook page](https://www.facebook.com/groups/603050533660854).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGUNpll3pvM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 We shared a TEDx talk by Patrick Grant who many of you will know from The Great British Sewing Bee and Community Clothing, a manufacturers co-operative that makes great quality, affordable everyday clothing, from around a dozen UK factories. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m_p52WrspEE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
