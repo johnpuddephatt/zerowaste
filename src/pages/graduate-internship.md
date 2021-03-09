@@ -17,7 +17,7 @@ They will also join our small team in delivering a number of innovative waste re
 
 They will also spend time working on our other main project - Empty Homes Doctor.  They will support our Empty Homes Doctors to grow our online presence - so that we can continue to find owners of empty homes - and help them bring their home back into use.  
 
-More information on the role, and how to apply, is available here.  
+More information on the role, and how to apply, is available [here](https://docs.google.com/document/d/1cZXtUqjjFxlEaFXe9YVYcbLqVybuvOSRWT5dobAn434/edit?ts=60411462#).  
 
 The closing date for applications is 9am on Wednesday 24th March.
 
