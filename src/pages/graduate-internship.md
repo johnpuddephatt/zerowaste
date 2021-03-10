@@ -11,11 +11,17 @@ We are on the look-out for a recent graduate who shares our passion for changing
 
 The primary focus of the role will be to help us to build a movement to help Leeds to become a zero waste city by 2030 - working as part of our Zero Waste Leeds team.
 
-The successful candidate will work with us to build our highly engaged, local online community - which currently numbers over 15,000 people across Facebook, Instagram, Twitter and YouTube.  
+You will work with us to build our highly engaged, local online community - which currently numbers over 15,000 people across Facebook, Instagram, Twitter and YouTube.  
 
-They will also join our small team in delivering a number of innovative waste reduction campaigns, on themes including glass recycling and school uniform reuse.  
+You will also join our small team in delivering a number of innovative waste reduction campaigns, on themes including glass recycling and school uniform reuse.  
 
-They will also spend time working on our other main project - Empty Homes Doctor.  They will support our Empty Homes Doctors to grow our online presence - so that we can continue to find owners of empty homes - and help them bring their home back into use.  
+You will also spend time working on our other main project - Empty Homes Doctor.  You will support our Empty Homes Doctors to grow our online presence - so that we can continue to find owners of empty homes - and help them bring their home back into use.  
+
+This is the second year that we have recruited for a full time paid graduate internship - following on from other shorter paid internships that we have offered in the past.
+
+Here's what Kirsty Blair, who joined us last year as a graduate intern, and who continues to work with us on a part-time basis, said about the opportunity.
+
+![Kirsty Blair, who joined us last year as a graduate intern, talks about the role](/uploads/kb-3-.png)
 
 More information on the role, and how to apply, is available [here](https://docs.google.com/document/d/1cZXtUqjjFxlEaFXe9YVYcbLqVybuvOSRWT5dobAn434/edit?ts=60411462#).  
 
