@@ -10,16 +10,18 @@ We’re building a movement to help Leeds become a Zero Waste City by 2030. As p
 
 We would like to say a massive thank you to Leeds City Council and [Leeds Community Foundation](https://leedscf.org.uk/)'s Jimbo's Fund for their support for this project.
 
-To kick things off, we have started to pull together a [map of school uniform re-use schemes in Leeds](https://www.google.com/maps/d/u/0/viewer?mid=12f68wxlwJ-MdovH7aQRHCwJyBDkWn-v3&ll=53.79479222009331%2C-1.5229087614461334&z=12), but we need your help! 
+To kick things off, we pulled together a [map of school uniform re-use schemes in Leeds.](https://leedsuniformexchange.org.uk/map/) If you know of any school uniform reuse schemes that we have missed, please let us know [here](https://leedsuniformexchange.org.uk/contact/).
 
-<iframe src="https://www.google.com/maps/d/embed?mid=12f68wxlwJ-MdovH7aQRHCwJyBDkWn-v3" width="640" height="480"></iframe>
+![](/uploads/lsue-website.png)
 
-This map is a work-in-progress, so if you know of any school uniform reuse schemes that we have missed, please let us know using the form below or follow this [link](https://forms.gle/TbbcxuSpPPgczCth8).
+If there is not currently a uniform reuse scheme in place at your school, we have developed some inspiration guides for [setting up a Facebook/WhatsApp group](https://issuu.com/zerowasteleeds/docs/how_to_guide_-_facebook_or_whatsapp__6_) or a [full redistribution scheme.](https://issuu.com/zerowasteleeds/docs/school_community_group_or_involved_parent)
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScc6Tbaj9InU1xwFqfXtgW186Gm7Cj22iI-rVK_eMzAzbpkbw/viewform?embedded=true" width="700" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe allowfullscreen="true" style="border:none;width:100%;height:326px;" src="//e.issuu.com/embed.html?d=how_to_guide_-_facebook_or_whatsapp__6_&u=zerowasteleeds"></iframe>
 
-If there is not currently a uniform reuse scheme in place at your school, we are currently developing an 'Inspiration Guide' for how you could get started with one either as a parent or teacher. Keep an eye out on our [Leeds School Uniform Reuse Exchange group](https://www.facebook.com/groups/603050533660854/permalink/605410550091519/?notif_id=1593425728610333&notif_t=group_description_change) on Facebook for updates. 
+<iframe allowfullscreen="true" style="border:none;width:100%;height:326px;" src="//e.issuu.com/embed.html?d=school_community_group_or_involved_parent&u=zerowasteleeds"></iframe>
 
-For good quality unbranded school uniform like plain shirts, trousers, skirts etc., most charities will also accept these. See our [Zero Waste Fashion map](https://www.google.com/maps/d/u/1/viewer?hl=en&mid=18ktKdUeew3oQpjOnezeTyLtt9pk1KK7w&ll=53.836763656561054%2C-1.5013154999999268&z=11) below. And for uniform that is worn-out and not reusable, you can recycle it at a textile bank - find your nearest on the map below.
+Keep an eye out on the dedicated Leeds School Uniform Exchange [website](https://leedsuniformexchange.org.uk/) and [Facebook group](https://www.facebook.com/groups/603050533660854/permalink/605410550091519/?notif_id=1593425728610333&notif_t=group_description_change) on for updates.
 
-<iframe src="https://www.google.com/maps/d/embed?mid=18ktKdUeew3oQpjOnezeTyLtt9pk1KK7w&hl=en" width="640" height="480"></iframe>
+For good quality unbranded school uniform like plain shirts, trousers, skirts etc., most charities will also accept these. See our [Leeds Fashion map](https://map.zerowasteleeds.org.uk/#/) below. And for uniform that is worn-out and not reusable, you can recycle it at a textile bank - find your nearest on the map below.
+
+<iframe scrolling="false" width="full" frameborder="0" height="80" style="height: 85vh; width: 100%;" src="https://zero-waste-leeds-fashion.netlify.app"></iframe>
