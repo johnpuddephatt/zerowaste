@@ -18,4 +18,4 @@ Gill, Natascha and Peg explored a wide range of issues in their 30 minute conver
 
 How do you make it easier for people to make more sustainable fashion choices?  How can you make sharing more of an everyday thing?  How can you overcome issues around stigma and second-hand - for example with our school uniform reuse project?  And how important is the development of skills around making and repairing clothes?
 
-If you'd like to get involved with our work on sustainable fashion, as it develops over the coming months, please join our [Leeds Fashion Futures Facebook group.](https://www.facebook.com/groups/leedsfashionfutures)
+If you'd like to get involved with our work on sustainable fashion, as it develops over the coming months, please take a look at our [Leeds Fashion Futures](https://www.zerowasteleeds.org.uk/projects/leeds-fashion-futures/) pages and join our [Leeds Fashion Futures Facebook group.](https://www.facebook.com/groups/leedsfashionfutures)
