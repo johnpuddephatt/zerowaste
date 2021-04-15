@@ -5,9 +5,11 @@ intro: We’re buying and throwing away more clothes than ever before and it’s
   costing our planet dearly.  Join us to make a change.
 date: 2020-01-09T14:31:28.146Z
 tags: fashion
-image: /uploads/Fashion photo2.jpg
+image: /uploads/untitled-design.png
 ---
 Many of us want to make more sustainable clothing choices but don’t know where to start. We’ve launched [Leeds Fashion Futures](https://www.zerowasteleeds.org.uk/projects/leeds-fashion-futures/) to explore how as a city we can do that. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z-W8oY70ryw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This has been such an exciting project to work on with the [RSA](https://www.thersa.org/). Our three themes of Heritage, Valuing Your clothes and Skills & Resources have given us a real insight into what fashion means to people across Leeds. 
 
