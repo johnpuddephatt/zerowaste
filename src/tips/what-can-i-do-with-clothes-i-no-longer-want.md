@@ -15,6 +15,6 @@ Much of this clothing could be reused, or recycled. Clothing and textiles dispos
 
 Good quality clothing can be donated to charities across Leeds. Clothing and textiles that are not of good enough quality to be donated for someone else to wear (“rags”) can be disposed of in textile banks - please place them in a bag marked “Rags”. Some charity shops will also accept “rags” - but please check with them first.
 
-We've created [a map which shows all the charity shops and textile banks in Leeds](https://map.zerowasteleeds.org.uk/#/) - so you know where to go to donate (and buy second hand) when they reopen.  
+We've created [a map which shows all the charity shops and textile banks in Leeds](https://map.zerowasteleeds.org.uk/#/) - so you know where to go to donate (and buy second hand).
 
 <iframe scrolling="false" width="full" frameborder="0" height="80" style="height: 85vh; width: 100%;" src="https://zero-waste-leeds-fashion.netlify.app"></iframe>
