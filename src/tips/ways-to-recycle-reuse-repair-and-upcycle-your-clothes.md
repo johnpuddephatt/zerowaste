@@ -5,9 +5,11 @@ date: 2020-03-09T16:39:45.576Z
 tags: stuff
 image: /uploads/Fashion photo.jpg
 ---
-Did you know that 4000 tonnes of clothing and textiles end up in Leeds' black bins every year? There are so many better options that are much kinder for our planet and your pocket!
+Did you know that 4,000 tonnes of clothing and textiles end up in Leeds' black bins every year? There are so many better options that are much kinder for our planet and your pocket!
 
-We’ve marked all the ways to recycle, reuse, repair and upcycle your clothes in an easily searchable map on our dedicated [Zero Waste Fashion site.](https://zerowastefashion.fashion.blog/)
+We've created [a map which shows all the charity shops and textile banks in Leeds](https://map.zerowasteleeds.org.uk/#/) - so you know where to go to donate (and buy second hand).
+
+<iframe scrolling="false" width="full" frameborder="0" height="80" style="height: 85vh; width: 100%;" src="https://zero-waste-leeds-fashion.netlify.app"></iframe>
 
 Here are some things to consider when thinking about your wardrobe and ways to avoid waste and be more sustainable.
 
@@ -17,8 +19,6 @@ Here are some things to consider when thinking about your wardrobe and ways to a
 * Visit a sewing shop to get clothes mended or to refashion existing  clothes.  Even better learn to do it yourself by visiting a sewing workshop!
 * Buy secondhand – there are so many options to do this in Leeds, including clothes exchanges, charity shops and pop-up swaps
 * Support local makers – visit markets, fairs or even find a local designer.
-* Try to avoid garments that use a combination of textiles, metals and plastics such as zips, studs, poppers, buttons, stones, furs, synthetic and natural fibres..
+* Try to avoid garments that use a combination of textiles, metals and plastics such as zips, studs, poppers, buttons, stones, furs, synthetic and natural fibres.
 
-Take a look at our [Zero Waste Fashion week](https://zerowastefashion.fashion.blog/fashion-week/) - a series of online events held in April 2020 which celebrated the rich textile, fashion and clothing history of Leeds and explored how we can lead the world again but in a more sustainable way.  The week was interspersed with sewing workshops, clothes exchanges, talks and more.
-
-<!--EndFragment-->
+If you are interested in sustainable fashion, find out more on the dedicated [Leeds Fashion Futures](https://www.zerowasteleeds.org.uk/projects/leeds-fashion-futures/) pages and join our [Leeds Fashion Futures group](https://www.facebook.com/groups/leedsfashionfutures) on Facebook.
