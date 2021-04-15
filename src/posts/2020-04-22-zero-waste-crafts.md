@@ -7,17 +7,9 @@ image: /uploads/craftcollage.jpg
 ---
 Show us your Zero Waste Crafts! 
 
-![](/uploads/evo0gmwumaankbp.jpeg)
-
-<br>
-
 We'd love to see and share what you and your children have made from stuff found around the house - anything that would normally be thrown in the bin. Egg and cereal boxes, cans, foil, cardboard, eggshells, whatever you find! Things in the garden too.
 
 We are loving all of your pictures so far! Keep them coming in [here](mailto:info@zerowasteleeds.org.uk).
-
-<br>
-
-![](/uploads/craft.png)
 
 Need some inspiration? Local artist Alison Gordon shares her tips for making some beautiful Zero Waste Crafts.
 
