@@ -5,7 +5,7 @@ date: 2021-02-24T09:23:05.701Z
 tags: fashion
 image: /uploads/isabella.jpg
 ---
-Today we've launched [Leeds Textile Trail](https://trail.zerowasteleeds.org.uk/), a journey through some of the people, places and events that make Leeds stand out in the world of clothing and textiles.  
+We recently launched [Leeds Textile Trail](https://trail.zerowasteleeds.org.uk/), a journey through some of the people, places and events that make Leeds stand out in the world of clothing and textiles.  
 
 This online virtual tour weaves its way from the building of the First White Cloth Hall in the early 1700s, to the spectacular costumes on display each year at [Leeds West Indian Carnival](https://www.leedscarnival.co.uk/), and plenty in between.  
 
