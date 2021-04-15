@@ -14,7 +14,7 @@ They've come a long way from the bulky terry nappies and big safety pins that so
 
 There are plenty of brands out there to choose from - and feedback from parents suggests that they can be much more user-friendly than they used to be.
 
-If you live in Leeds, you can apply for support from Leeds City Council - either to get a trial pack which includes two reusable nappies, or to get £30 towards the purchase price (minimum spend £50) of some reusable nappies.
+If you live in Leeds, you can apply for support from Leeds City Council - get £30 towards the purchase price (minimum spend £50) of some reusable nappies.
 
 You can find out more and apply on [the Council's website](https://www.leeds.gov.uk/residents/bins-and-recycling/reduce-your-waste).  
 
