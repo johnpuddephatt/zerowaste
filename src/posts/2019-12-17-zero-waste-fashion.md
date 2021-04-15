@@ -6,16 +6,16 @@ tags: fashion
 image: /uploads/fashionhack.jpg
 image_alt: Leeds Community Clothing Exchange
 ---
-We've been exploring how we can work together as a city to reduce the negative environmental impacts of our clothing choices. 
+Many of us want to make more sustainable clothing choices but don’t know where to start. We’ve launched [Leeds Fashion Futures](https://www.zerowasteleeds.org.uk/projects/leeds-fashion-futures/) to explore how as a city we can do that. 
 
-In April 2020 we hosted an online [Zero Waste Fashion Week](https://www.zerowasteleeds.org.uk/posts/zero-waste-fashion-week-2020/), and we have also developed a [Zero Waste Fashion website](https://zerowastefashion.fashion.blog/) with tips on where to recycle, reuse, repair and upcycle clothing and textiles in Leeds, including a [map](https://www.google.com/maps/d/u/1/viewer?hl=en&mid=18ktKdUeew3oQpjOnezeTyLtt9pk1KK7w&ll=53.83676365656107%2C-1.5013154999999188&z=11) of all the textile banks, charity shops, repair shops, sewing classes and clothes exchanges in Leeds.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z-W8oY70ryw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-You can watch a series of interviews with local designers who are exploring how to be more sustainable [on our YouTube channel](https://www.youtube.com/watch?v=msp47VGdgyw&list=PLcImqkHEpk0pY2cBDQoVIoptpDNTNN0-B).  
+This has been such an exciting project to work on with the [RSA](https://www.thersa.org/). Our three themes of Heritage, Valuing Your clothes and Skills & Resources have given us a real insight into what fashion means to people across Leeds. 
 
-<br><iframe src="https://www.google.com/maps/d/embed?mid=18ktKdUeew3oQpjOnezeTyLtt9pk1KK7w&hl=en" width="640" height="480"></iframe><br><br>
+As part of this project we've created [Leeds Fashion Map](https://map.zerowasteleeds.org.uk/), which includes zero waste fashion options including charity shops, textile banks, alterations and repairs, clothes exchanges, sewing workshops and sustainable fashion designers. We’re also adding local haberdashers and sewing machine sales, maintenance and repair shops.
 
-We've recently launched an exciting new project, working alongside [The RSA](https://www.thersa.org/projects/make-fashion-circular) to explore what we can do as a city to minimise the negative impacts of our clothing choices.  We'll be exploring a range of themes, including what influences our choices around clothing, how we buy our clothes, how we look after them, and how we dispose of them.  
+<iframe scrolling="false" width="full" frameborder="0" height="80" style="height: 85vh; width: 100%;" src="https://zero-waste-leeds-fashion.netlify.app"></iframe>
 
-To keep in touch, please follow us on social media - [Facebook](https://www.facebook.com/zerowasteleeds/), [Twitter](https://twitter.com/zerowasteleeds?lang=en), or [Instagram](https://www.instagram.com/zerowasteleeds/?hl=en) -  or join our [Leeds Fashion Futures Facebook group](https://www.facebook.com/groups/leedsfashionfutures).  
+We've also launched [The Leeds Textile Trail](https://trail.zerowasteleeds.org.uk/) - a journey through some of the people, places and events that make Leeds stand out in the world of clothing and textiles.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sJjWfEL8k5Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+If you are interested in sustainable fashion, find out more on the dedicated [Leeds Fashion Futures](https://www.zerowasteleeds.org.uk/projects/leeds-fashion-futures/) pages and join our [Leeds Fashion Futures group](https://www.facebook.com/groups/leedsfashionfutures) on Facebook.
