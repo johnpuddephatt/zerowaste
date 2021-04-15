@@ -5,11 +5,11 @@ date: 2020-05-26T16:34:52.004Z
 tags: stuff
 image: /uploads/secondhandfurniture.png
 ---
-With so many options to buy and donate secondhand stuff in Leeds, there's really very little need to buy new! Many reuse organisations in Leeds are run by charities or social enterprises, so by buying from them, not only are you saving precious environmental resources, but you are also often supporting a really good cause.
+With so many options to buy and donate secondhand stuff in Leeds, there's really very little need to buy new! 
+
+Many reuse organisations in Leeds are run by charities or social enterprises, so by buying from them, not only are you saving precious environmental resources, but you are also often supporting a really good cause.
 
 We have listed all the reuse options we know in Leeds below. Please [get in touch](mailto:info@zerowasteleeds.org.uk) if we have missed any. 
-
-\*Please note that due to Covid-19, many of the organisations below are closed or offering a more limited service for now. Check their websites for details. However, they will need your donations more than ever once they are able to reopen, so please keep hold of stuff for now.\*
 
 ## For furniture, clothing, books, CDs and more
 
@@ -53,13 +53,13 @@ We have listed all the reuse options we know in Leeds below. Please [get in touc
 
 ## [](https://seagullsreuse.org.uk/paint/)Clothes
 
-For clothing and textiles, we have mapped the best ways to recycle, reuse, repair and upcycle in Leeds. This includes textile banks, charity shop, repair shops, sewing classes and clothes exchanges. You can find the [map](https://www.google.com/maps/d/u/1/viewer?hl=en&mid=18ktKdUeew3oQpjOnezeTyLtt9pk1KK7w&ll=53.83676365656107%2C-1.5013154999999268&z=11) below. For more information, visit the [Zero Waste Fashion website](zerowastefashion.fashion.blog).
+For clothing and textiles, we've created [a map which shows all the charity shops and textile banks in Leeds](https://map.zerowasteleeds.org.uk/#/) - so you know where to go to donate (and buy second hand).
 
-<iframe src="https://www.google.com/maps/d/embed?mid=18ktKdUeew3oQpjOnezeTyLtt9pk1KK7w&hl=en" width="640" height="480"></iframe>
-
-\-
+<iframe scrolling="false" width="full" frameborder="0" height="80" style="height: 85vh; width: 100%;" src="https://zero-waste-leeds-fashion.netlify.app"></iframe>
 
 NB: When donating your secondhand stuff, please consider the quality of your items. If it needs more than a minor repair or a light clean, chances are these organisations won't be able to accept it. Lots of furniture items like sofas, chairs and beds must also carry fire safety labels. All electrical items should be free from rust, be reasonably clean, have intact seals and ideally be in full working order. Many of these organisations can collect bulky re-usable items from your home for free - check on their websites.
+
+<br>
 
 # Ebay shops
 
@@ -82,12 +82,6 @@ Here's a list of some of the ebay stores run by charity shops that our followers
 * Leeds Women’s Aid <https://www.facebook.com/leedswomensaid/?hc_location=ufi>
 * Alzheimers Society [https://charity.ebay.co.uk/charity/Alzheimer's-Society/14311](<* https://charity.ebay.co.uk/charity/Alzheimer's-Society/14311>)
 * RSPCA Leeds and Wakefield [](<* https://charity.ebay.co.uk/charity/Alzheimer's-Society/14311>)[https://ebay.co.uk/str/​rspcaleedswakefield](http://www.ebay.co.uk/str/rspcaleedswakefield) 
-
-
-
-
-
-
 
 [](<* https://charity.ebay.co.uk/charity/Alzheimer's-Society/14311>)
 
