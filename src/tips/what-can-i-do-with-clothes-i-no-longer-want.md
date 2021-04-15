@@ -13,14 +13,7 @@ It’s estimated that the average household in Leeds throws away around 12 kilos
 
 Much of this clothing could be reused, or recycled. Clothing and textiles disposed of in black bins can also cause problems at the [RERF](https://www.veolia.co.uk/leeds/) in Cross Green - where your black bin waste ends up - as they can get tangled in the machinery.  It's also a real waste of natural resources - that could be put to better use.
 
-\
-Good quality clothing can be donated to charities across Leeds. Clothing and textiles that are not of good enough quality to be donated for someone else to wear (“rags”) can be disposed of in textile banks - please place them in a bag marked “Rags”.
-
-Some charity shops will also accept “rags” - but please check with them first.
-
-All charity shops in Leeds are currently closed.  We are running a campaign alongside charities in Leeds to encourage people to keep hold of donations until they reopen - as they'll need our donations more than ever.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J0rOTGA8q80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Good quality clothing can be donated to charities across Leeds. Clothing and textiles that are not of good enough quality to be donated for someone else to wear (“rags”) can be disposed of in textile banks - please place them in a bag marked “Rags”. Some charity shops will also accept “rags” - but please check with them first.
 
 We've created [a map which shows all the charity shops and textile banks in Leeds](https://map.zerowasteleeds.org.uk/#/) - so you know where to go to donate (and buy second hand) when they reopen.  
 
