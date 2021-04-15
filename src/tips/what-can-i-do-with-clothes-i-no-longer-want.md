@@ -18,3 +18,5 @@ Good quality clothing can be donated to charities across Leeds. Clothing and tex
 We've created [a map which shows all the charity shops and textile banks in Leeds](https://map.zerowasteleeds.org.uk/#/) - so you know where to go to donate (and buy second hand).
 
 <iframe scrolling="false" width="full" frameborder="0" height="80" style="height: 85vh; width: 100%;" src="https://zero-waste-leeds-fashion.netlify.app"></iframe>
+
+If you are interested in sustainable fashion, find out more on the dedicated [Leeds Fashion Futures](https://www.zerowasteleeds.org.uk/projects/leeds-fashion-futures/) pages and join our [Leeds Fashion Futures group](https://www.facebook.com/groups/leedsfashionfutures) on Facebook.
