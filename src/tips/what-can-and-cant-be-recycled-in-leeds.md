@@ -17,8 +17,6 @@ You CAN recycle:
 
 \- Other plastic including bags, plastic food containers, drinks bottles, see-through plastic milk containers, cartons (Tetra Paks), margarine tubs and yoghurt pots
 
-
-
 ## Metals
 
 You CAN recycle:
@@ -29,8 +27,6 @@ You CAN recycle:
 
 \- Foil - food containers, take away trays, soft foil (should be clean and scrunched up)
 
-
-
 ## Card and Paper
 
 You CAN recycle:
@@ -38,8 +34,6 @@ You CAN recycle:
 \- Paper - junk mail, office paper, newspapers, magazines, telephone directories, paperback books
 
 \- Cardboard - brown card, glossy printed card, egg boxes, inner tubes from toilet and kitchen rolls
-
-
 
 ## You can't recycle
 
@@ -75,8 +69,6 @@ You CAN'T recycle (at home in your green bin):
 
 \- Any other household waste
 
-
-
 ## Other information
 
 Here are some useful links to help make it easier to recycle in Leeds:
@@ -87,6 +79,6 @@ Here are some useful links to help make it easier to recycle in Leeds:
 
 [](https://www.leeds.gov.uk/residents/bins-and-recycling/a-to-z-of-reusing-recycling-and-waste-disposal)[Check your bin collection day](https://www.leeds.gov.uk/residents/bins-and-recycling/check-your-bin-day?fbclid=IwAR34guQIeRlDRdfSlLqAoUV11XxRVK6RrYPBUFVAJYFirzE-iTSqKd9cf2A)
 
-[Download the Leeds Bins App](https://imactivate.com/leedsbins/?utm_source=Twitter&utm_medium=social&utm_campaign=SocialSignIn)
+Download the Leeds Bins App on [iOS](https://apps.apple.com/app/apple-store/id1013036432?pt=2305324&ct=zerowasteleeds-glass-campaign&mt=8) or [Android](https://play.google.com/store/apps/details?id=com.imactivate.bins&referrer=utm_source%3Dzerowasteleeds)
 
 [Get waste updates by adding your name to this Council mailing list](https://public.govdelivery.com/accounts/UKLEEDS/subscriber/new?topic_id=UKLEEDS_3&fbclid=IwAR0udGR0GOJ4qbA5vIw9UAyVz8_8TKjvWUOTOExf9SAR6l8n5vswzQUStN8)
