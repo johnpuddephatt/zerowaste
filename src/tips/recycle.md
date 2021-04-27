@@ -2,9 +2,9 @@
 layout: layouts/post.njk
 title: Get to know more about recycling
 date: 2019-01-03T00:00:00.000Z
+tags: recycling
 image: /uploads/bottles.jpg
 image_alt: Plastic bottles
-tags: recycling
 ---
 It goes without saying that recycling plays an important part in helping us to waste less as a city.
 
@@ -14,7 +14,7 @@ Recycling at home is the biggest way that most of us can make a difference. All 
 
 ![](/uploads/bottle-bank.jpg "Glass isn’t collected in our green bins, so you need to know  your nearest bottle bank.")
 
-Then there's also [the Leeds Bins app](https://odileeds.org/products/bin-app/) – a free app which was developed with the Council, which sends you reminders of which bin to put out when – handy for those of us who often forget!
+Then there's also the Leeds Bins app on [iOS](https://apps.apple.com/app/apple-store/id1013036432?pt=2305324&ct=zerowasteleeds-glass-campaign&mt=8) or [Android](https://play.google.com/store/apps/details?id=com.imactivate.bins&referrer=utm_source%3Dzerowasteleeds) – a free app which was developed with the Council, which sends you reminders of which bin to put out when – handy for those of us who often forget!
 
 > We're also working hard in Leeds to make it easier for people to recycle whilst we're out and about
 
