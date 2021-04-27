@@ -7,8 +7,6 @@ image: /uploads/recycling2.png
 ---
 Are you a Binfluencer, Recycling Rookie or Bin Beginner? Take our quiz below to find out!
 
-
-
 <div
  class="canva-embed"
  data-design-id="DAD8nLGXP3s"
@@ -20,12 +18,11 @@ Are you a Binfluencer, Recycling Rookie or Bin Beginner? Take our quiz below to 
 
 <br><br>
 
-
 ### Let us know how you did in the comments below.
 
 Want to binprove your knowledge? Here are a few resources to help make it easier for you to recycle in Leeds.
 
-- Find out what you can and can't recycle in Leeds [here](https://www.zerowasteleeds.org.uk/posts/what-can-and-can't-be-recycled-in-leeds!/)
-- Download the [Leeds Bin App](http://socsi.in/vEBX7) to check your bin day and find your nearest recycling point
-- Get regular waste updates from Leeds City Council by [signing up to their mailing list](http://bit.ly/BinsEmail)
-- Find your nearest charity shop or textile bank for old clothes in our map [here](https://www.google.com/maps/d/u/1/viewer?hl=en&mid=18ktKdUeew3oQpjOnezeTyLtt9pk1KK7w&ll=53.83676365656107%2C-1.5013154999999188&z=11&fbclid=IwAR3tBd2sKxAHM40vC7BDtY77nzTpAPN-y-qOAjFaBXpG4vLU98ESHQ7pYqc)
+* Find out what you can and can't recycle in Leeds [here](https://www.zerowasteleeds.org.uk/posts/what-can-and-can't-be-recycled-in-leeds!/)
+* Download the Leeds Bin App on [iOS](https://apps.apple.com/app/apple-store/id1013036432?pt=2305324&ct=zerowasteleeds-glass-campaign&mt=8) or [Android](https://play.google.com/store/apps/details?id=com.imactivate.bins&referrer=utm_source%3Dzerowasteleeds) to check your bin day and find your nearest recycling point
+* Get regular waste updates from Leeds City Council by [signing up to their mailing list](http://bit.ly/BinsEmail)
+* Find your nearest charity shop or textile bank for old clothes in our map [here](https://www.google.com/maps/d/u/1/viewer?hl=en&mid=18ktKdUeew3oQpjOnezeTyLtt9pk1KK7w&ll=53.83676365656107%2C-1.5013154999999188&z=11&fbclid=IwAR3tBd2sKxAHM40vC7BDtY77nzTpAPN-y-qOAjFaBXpG4vLU98ESHQ7pYqc)
