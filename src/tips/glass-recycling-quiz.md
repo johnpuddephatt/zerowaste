@@ -12,9 +12,17 @@ Are you a Binfluencer or a Recycling Rookie? Take our quiz to find out!
 
 ## Useful links
 
-Here are some useful links to help make it easier to recycle in Leeds:
+###### Here are some useful links about glass recycling in Leeds:
 
-Download the Leeds Bins App on [iOS](https://apps.apple.com/app/apple-store/id1013036432?pt=2305324&ct=zerowasteleeds-glass-campaign&mt=8) or [Android](https://play.google.com/store/apps/details?id=com.imactivate.bins&referrer=utm_source%3Dzerowasteleeds)
+[What happens next to the glass I recycle in Leeds?](https://www.zerowasteleeds.org.uk/tips/what-happens-next-to-the-glass-i-recycle-in-leeds/)
+
+[Where can I recycle my glass in Leeds?](https://www.zerowasteleeds.org.uk/tips/where-can-i-recycle-my-glass-in-leeds/)
+
+[](https://www.zerowasteleeds.org.uk/tips/where-can-i-recycle-my-glass-in-leeds/)[](https://www.zerowasteleeds.org.uk/tips/what-happens-next-to-the-glass-i-recycle-in-leeds/)Download the Leeds Bins App on [iOS](https://apps.apple.com/app/apple-store/id1013036432?pt=2305324&ct=zerowasteleeds-glass-campaign&mt=8) or [Android](https://play.google.com/store/apps/details?id=com.imactivate.bins&referrer=utm_source%3Dzerowasteleeds)
+
+<br>
+
+###### General recycling links:
 
 [Leeds City Council information on what goes in your green bin](https://www.leeds.gov.uk/residents/bins-and-recycling/your-bins/green-recycling-bin)
 
