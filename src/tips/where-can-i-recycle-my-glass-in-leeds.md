@@ -6,7 +6,7 @@ tags: recycling
 image: /uploads/img-7116.jpg
 image_alt: Glass recycling bins at Roundhay Park
 ---
-Glass isn’t currently collected from our homes in Leeds.  However, there are more than 700 glass banks across Leeds.
+Glass isn’t currently collected from our homes in Leeds.  However, there are more than 700 glass banks across Leeds. 
 
 You can find your nearest glass bank [here](https://www.leeds.gov.uk/where-i-live) (choose glass banks in the drop down list). 
 
