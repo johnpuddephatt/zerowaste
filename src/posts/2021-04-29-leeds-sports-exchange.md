@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Leeds Sports Exchange - can you help?
 date: 2021-04-29T12:25:55.757Z
 tags: stuff
-image: /uploads/logo3.jpg
+image: /uploads/screen-shot-2021-04-29-at-14.07.12.png
 image_alt: Logo image of training shoe
 ---
 Building upon the success of our [Leeds School Uniform Exchange](https://leedsuniformexchange.org.uk/) project, we have recently begun work exploring the potential for a similar project focused on sports kit for children and young people.
