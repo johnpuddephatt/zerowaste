@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Leeds Sports Exchange - can you help?
 date: 2021-04-29T12:25:55.757Z
 tags: stuff
-image: /uploads/screen-shot-2021-04-29-at-14.07.12.png
+image: /uploads/logo4.jpg
 image_alt: Logo image of training shoe
 ---
 Building upon the success of our [Leeds School Uniform Exchange](https://leedsuniformexchange.org.uk/) project, we have recently begun work exploring the potential for a similar project focused on sports kit for children and young people.
@@ -15,6 +15,8 @@ Anecdotally, we've heard a lot over the last couple of years -since we started l
 Not having the right kit can be a real barrier that prevents young people from experiencing all the benefits of getting involved in activities - both in terms of physical & mental health benefits - and the opportunities to learn new skills, meet new people and, most importantly, have fun.
 
 Before we seek funding to pilot some kind of sports kit exchange in Leeds, we'd like to understand more what is currently happening in Leeds, in relation to making it easy for people to give away or ask for good quality kit.
+
+![](/uploads/survey-fb-2.jpg)
 
 With that in mind, we've got [a short questionnaire](https://www.surveymonkey.co.uk/r/SYSGP65) that we're asking local sports clubs if they have something already in place to help people to pass on, or ask for, good quality kit.
 
