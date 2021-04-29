@@ -16,6 +16,8 @@ Not having the right kit can be a real barrier that prevents young people from e
 
 Before we seek funding to pilot some kind of sports kit exchange in Leeds, we'd like to understand more what is currently happening in Leeds, in relation to making it easy for people to give away or ask for good quality kit.
 
+![](/uploads/survey-fb-2.jpg)
+
 With that in mind, we've got [a short questionnaire](https://www.surveymonkey.co.uk/r/SYSGP65) that we're asking local sports clubs if they have something already in place to help people to pass on, or ask for, good quality kit.
 
 It might be something formal - like a stall in reception every now and then - or it might be that informally people are encouraged to pass on kit, for example via a club Facebook group.
