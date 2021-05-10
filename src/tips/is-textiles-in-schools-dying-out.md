@@ -5,7 +5,7 @@ date: 2021-05-10T14:33:24.874Z
 tags: fashion
 image: /uploads/untitled-design-4-.png
 ---
-Over the next few weeks we're going to hearing from a series of guest bloggers who have been involved with the Leeds Fashion Futures project. This week we're hearing from Jude Smallwood, a sewing teacher, who has been teaching for around 14-15 years in Leeds. 
+Over the next few weeks we'll be hearing from a series of guest bloggers. This week's guest blog is from Jude Smallwood, a secondary school textiles teacher who has been teaching for around 14-15 years in Leeds. 
 
 ###### By Jude Smallwood, 10th May 2021
 
