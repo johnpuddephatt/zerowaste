@@ -33,7 +33,7 @@ You can read our guide to setting up a redistribution scheme [here](https://issu
 
 <iframe allowfullscreen="true" style="border:none;width:100%;height:326px;" src="//e.issuu.com/embed.html?d=school_community_group_or_involved_parent&u=zerowasteleeds"></iframe>
 
-You can read the impact report for the first ten weeks of our project [here](https://issuu.com/zerowasteleeds/docs/how_to_guide_-_facebook_or_whatsapp__6_).
+You can read the impact report for the first ten weeks of our project [here](https://issuu.com/zerowasteleeds/docs/impact_report_-_leeds_school_uniform_exchange).
 
 <iframe allow="fullscreen" style="border:none;width:100%;height:326px;" src="//e.issuu.com/embed.html?d=impact_report_-_leeds_school_uniform_exchange&u=zerowasteleeds"></iframe>
 
