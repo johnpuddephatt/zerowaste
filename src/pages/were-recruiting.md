@@ -15,6 +15,6 @@ We are looking to recruit a Communications and Marketing Co-ordinator to join ou
 
 We set up Zero Waste Leeds as our social enterprise wanted to get involved in a local, practical, community-led response to the climate emergency.  How we communicate with people, how we tell stories, how we share a vision of a better future, and how we encourage people to get involved are all key - both to our continued success, and, we believe, a sustainable future for the city and world we live in.
 
-If you're a communications professional with a flair for engaging broad audiences - often on the tightest of budgets - then we'd love you to apply.  You can find more about the role [here](https://drive.google.com/file/d/1efA0OkOL08Wy1HORWwbtVtmaUZrZoD1W/view?usp=sharing).
+If you're a communications professional with a flair for engaging broad audiences - often on the tightest of budgets - then we'd love you to apply.  You can find more about the role [here](https://drive.google.com/drive/u/1/folders/1-krzUz6_JON8zjFyv-xK2Pd4qaUVPUP5).
 
 The closing date for applications is 9am on Friday 21st May - and we plan to hold interviews online on the 26th and 27th of May.
