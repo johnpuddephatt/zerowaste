@@ -46,4 +46,4 @@ Ceramics - crockery/earthenware
 
 ## THANK YOU FOR RECYCLING YOUR GLASS!
 
-You're helping to save energy, reduce landfill/incineration and support the local economy.  Read more about the difference you're making here.
+You're helping to save energy, reduce landfill/incineration and support the local economy.  Read more about the difference you're making by recycling your glass.
