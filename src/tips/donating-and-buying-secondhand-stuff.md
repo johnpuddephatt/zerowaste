@@ -65,23 +65,67 @@ NB: When donating your secondhand stuff, please consider the quality of your ite
 
 Here's a list of some of the ebay stores run by charity shops that our followers have shared with us: 
 
-* St Gemma’s Hospice Shop [https://www.ebay.co.uk/str/stgemmashospiceshop](https://www.ebay.co.uk/str/stgemmashospiceshop?fbclid=IwAR0GxzL1t1sYDaBDo-h0oY0WL0aTdSWLgpsypJpXydi22nINDu0WIR9bhW4)
-* Martin House [https://www.charity.ebay.co.uk/charity/Martin-House/19347](https://www.charity.ebay.co.uk/charity/Martin-House/19347?fbclid=IwAR0icxU7UHk9pfrUBTGSNEO2oPKanWV05ccLbQjm7MqrZRcc13SsAsmGeXk)
-* Emmaus Leeds [https://www.ebay.co.uk/str/emmausleeds](https://www.ebay.co.uk/str/emmausleeds?fbclid=IwAR3iMe9X9hwTNWoWs3r2NgKNWNX4aDlpyGz42zd1hOuT4qhVU9PSaJyumz0)
-* Revive Leeds [https://www.ebay.co.uk/str/reviveleeds](https://www.ebay.co.uk/str/reviveleeds?fbclid=IwAR0VnvpgcPxGVrAEXmVitibTghpeCTe5d18OJA7AAOJIPQ4DnR_1s3UVQ74)
-* St Vincent de Paul [https://charity.ebay.co.uk/…/St-Vincent-de-Paul-Soci…/128880](https://charity.ebay.co.uk/charity/St-Vincent-de-Paul-Society/128880?fbclid=IwAR2JQr07jQrQ_dm-TfEqwA9mFSlyzpyuodZ1wXpi3K72dIImXAxUWnNMCsg)
-* Leeds Mind [https://charity.ebay.co.uk/charity/Leeds-Mind/3245646](https://charity.ebay.co.uk/charity/Leeds-Mind/3245646?fbclid=IwAR0CmQELhjariB8N7I8q5qhQtbbvAz1Wtd72UcNkp0xpEFQBsZShdGeTx5I)
-* Dogs Trust [https://www.charity.ebay.co.uk/charity/Dogs-Trust/12492](https://www.charity.ebay.co.uk/charity/Dogs-Trust/12492?fbclid=IwAR2Q1h9Shw2yM4lf-R1qIIy-I3e-yxoe17W1RLwJ2G5pwL-z9BNJMjjx4wo)
-* Barnardos [https://www.ebay.co.uk/str/barnardoscharity](https://www.ebay.co.uk/str/barnardoscharity?fbclid=IwAR2Wj8VNvgg-R5O4ZyEKZM47zYt-4xBEG5k2HAyWO_aikOA_mIZgLmO0G0M)
-* Yorkshire Cancer Research [https://charity.ebay.co.uk/…/Yorkshire-Cancer-Resear…/135771](https://charity.ebay.co.uk/charity/Yorkshire-Cancer-Research/135771?fbclid=IwAR3HxCEtgTD92q1AVvKsUuhjlJJ5GS-wLaWGcrBWqFSdPdbxYBq8jdejiUQ)
-* UK Cancer Research [https://www.ebay.co.uk/str/ukcancerresearch](https://www.ebay.co.uk/str/ukcancerresearch?fbclid=IwAR1vwYlSx3zSkdqS-ukrlWK9_-dgGi2YmZU0b-C0rhfyhCrnVqLD6DoDDSc)
-* Oxfam [https://onlineshop.oxfam.org.uk/shop…](https://l.facebook.com/l.php?u=https%3A%2F%2Fonlineshop.oxfam.org.uk%2Fshop%3Fpscid%3Dps_ggl_Google%2B-%2BTrading%2B-%2BOOS%2B-%2BBrand_brand_bmm%26gclid%3DCj0KCQiAy579BRCPARIsAB6QoIb54Whj_R6kbtO4_1enFH39_ugVa_fsVdx9Pof6H63Jv_h5JLRN884aArMeEALw_wcB%26gclsrc%3Daw.ds%26fbclid%3DIwAR2qCpi7TPsi3y7u4Qtx-ONY3k8IHfYhxSlaN-Y7lVWobwGhYnDFhQn_6KI&h=AT1TRpTJFXHXhcQ6S7aSXVJxkiuTiPj93BSnnx6TvjOqCldixsImItW-mdqf8x5r8BkMg7iFumpAlFDJb5Dq3h3pxRZODW0UNQ0D6cmWeoeidFhAdMI8raEBRdGMn6xk8O2qWkKhH4THnyQYUGvy7HDeFiHvx1zE372HV3DQLI50KaR_xaN3F8_YWPHk2sY4u_qvU0X5NRhEUkbyjoGIinyfdQ8UN2cPklTv1Cq9a63w_MIADbi876pkNtPZQtkbXcAZpCvspycKpWn8PUKzm1bX4UQiuOcQ90vV1_7wxur8gtPnh9DATqFcLgQrWIHdLupztglxejse8aSAYe5Vl2QUBbWI9rdeoWlXmHzc7c6I2z8TsbehsfJleyJVn4FRMR9nnIoeCMh7FmIPMIdze5Rc9KEk5iVlUFLbj9LDXutS9Jt44GMcW9GftzMTuWABkB3vAwhveOjM9TJzOrgh6aEwYOzKm2Fm6cM_uwbqkI6h7tZT-r2AfZPIYmtNAzJM4FZgcueRdC8klwlNY4kdgMM9hVoU-B8u5ajQLZTeDmChzwoScUXTPnJiOhlnmbvck7-QD8IMbTmHTrtKdaFt7Mf2XhqvlS-sheWFuw8P)
-* Jewish Women’s Aid [https://charity.ebay.co.uk/chari…/Jewish-Women's-Aid/108351…](https://charity.ebay.co.uk/charity/Jewish-Women's-Aid/108351?page=2&size=20&sort=StartTimeNewest&fbclid=IwAR3t5KQstSPnSMuUjmebq9buLritHj9l7DpTHIAJ72FRpyQLoD22yU68KDE)
-* Women’s Aid Federation [https://www.charity.ebay.co.uk/…/Women's-Aid-Federatio…/9949](https://www.charity.ebay.co.uk/charity/Women's-Aid-Federation-of-England/9949?fbclid=IwAR3qpoHRr7J7zaioL35u9qivQjLhD-yD7I8GojMWGxm5q0GMcJjR3zjJwn4)
-* Age UK - [https://charity.ebay.co.uk/charity/Age-UK/41580](<* https://charity.ebay.co.uk/charity/Age-UK/41580>)
-* Leeds Women’s Aid <https://www.facebook.com/leedswomensaid/?hc_location=ufi>
-* Alzheimers Society [https://charity.ebay.co.uk/charity/Alzheimer's-Society/14311](<* https://charity.ebay.co.uk/charity/Alzheimer's-Society/14311>)
-* RSPCA Leeds and Wakefield [](<* https://charity.ebay.co.uk/charity/Alzheimer's-Society/14311>)[https://ebay.co.uk/str/​rspcaleedswakefield](http://www.ebay.co.uk/str/rspcaleedswakefield) 
+[St Gemma’s Hospice Shop](https://www.ebay.co.uk/str/stgemmashospiceshop) [](https://www.ebay.co.uk/str/stgemmashospiceshop?fbclid=IwAR0GxzL1t1sYDaBDo-h0oY0WL0aTdSWLgpsypJpXydi22nINDu0WIR9bhW4)
+
+[Martin House](https://www.charity.ebay.co.uk/charity/Martin-House/19347) [](https://www.charity.ebay.co.uk/charity/Martin-House/19347?fbclid=IwAR0icxU7UHk9pfrUBTGSNEO2oPKanWV05ccLbQjm7MqrZRcc13SsAsmGeXk)
+
+[Emmaus Leeds](https://www.ebay.co.uk/str/emmausleeds)
+
+[Revive Leeds](https://www.ebay.co.uk/str/reviveleeds) [](https://www.ebay.co.uk/str/reviveleeds?fbclid=IwAR0VnvpgcPxGVrAEXmVitibTghpeCTe5d18OJA7AAOJIPQ4DnR_1s3UVQ74)
+
+[St Vincent de Paul](https://charity.ebay.co.uk/charity/St-Vincent-de-Paul-Society/128880)
+
+[Leeds Mind](https://charity.ebay.co.uk/charity/Leeds-Mind/3245646)
+
+[Dogs Trust](https://www.charity.ebay.co.uk/charity/Dogs-Trust/12492) [](https://www.charity.ebay.co.uk/charity/Dogs-Trust/12492?fbclid=IwAR2Q1h9Shw2yM4lf-R1qIIy-I3e-yxoe17W1RLwJ2G5pwL-z9BNJMjjx4wo)
+
+[Barnardos](https://www.ebay.co.uk/str/barnardoscharity) [](https://www.ebay.co.uk/str/barnardoscharity?fbclid=IwAR2Wj8VNvgg-R5O4ZyEKZM47zYt-4xBEG5k2HAyWO_aikOA_mIZgLmO0G0M)
+
+[Yorkshire Cancer Research](https://charity.ebay.co.uk/charity/Yorkshire-Cancer-Research/135771)
+
+[UK Cancer Research](https://www.ebay.co.uk/str/ukcancerresearch)
+
+[Oxfam](https://onlineshop.oxfam.org.uk/)
+
+[Jewish Women’s Aid](https://charity.ebay.co.uk/charity/Jewish-Women's-Aid/108351)
+
+[Women’s Aid Federation](https://www.charity.ebay.co.uk/charity/Women's-Aid-Federation-of-England/9949) [](https://www.charity.ebay.co.uk/charity/Women's-Aid-Federation-of-England/9949?fbclid=IwAR3qpoHRr7J7zaioL35u9qivQjLhD-yD7I8GojMWGxm5q0GMcJjR3zjJwn4)
+
+[Age UK](https://charity.ebay.co.uk/charity/Age-UK/41580)
+
+[Leeds Women’s Aid](https://www.ebay.co.uk/usr/leedswomensaid.charity)
+
+[Alzheimers Society](https://charity.ebay.co.uk/charity/Alzheimer's-Society/14311)
+
+[RSPCA Leeds and Wakefield](https://ebay.co.uk/str/rspcaleedswakefield)
+
+<br>
+
+# Online sharing communities
+
+There are plenty of online sharing communities that help you to give away unwanted items or ask for items you may be looking for whilst also reducing waste. If you know of any other online sharing communities please [get in touch](mailto:info@zerowasteleeds.org.uk).
+
+#### Websites and Apps
+
+[Freegle Leeds](http://freegle.in/Leeds)
+
+[Trash Nothing in Leeds](https://trashnothing.com/beta/leeds-freegle)
+
+[OLIO](https://olioex.com/)
+
+[Next Door](https://nextdoor.co.uk/)
+
+#### Facebook groups
+
+C.R.A.P (Conserving Resources Associating People) [LS10 & LS11](https://www.facebook.com/groups/449919929757315/?hc_location=ufi), [LS6](https://www.facebook.com/groups/2007182396093415), [LS12](https://www.facebook.com/groups/435646784511468), [LS15](https://www.facebook.com/groups/129211562264818), [](https://www.facebook.com/groups/129211562264818)[LS16](https://www.facebook.com/groups/223351169325622) and [LS25](https://www.facebook.com/groups/153089699914831) [](https://www.facebook.com/groups/153089699914831)
+
+[Kirkstall Recycle](https://www.facebook.com/​groups/224197375876183)
+
+[Leeds Freecycle](https://www.facebook.com/groups/LeedsHelp/)
+
+[Free & Wanted Items in Leeds](https://www.facebook.com/groups/317082851664557)
+
+[](https://nextdoor.co.uk/)
 
 [](<* https://charity.ebay.co.uk/charity/Alzheimer's-Society/14311>)
 
