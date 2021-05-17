@@ -33,6 +33,8 @@ We have listed all the reuse options we know in Leeds below. Please [get in touc
 
 [](https://www.svp.org.uk/donate-items-and-furniture)Reuse shops at the [Seacroft](https://www.leeds.gov.uk/residents/bins-and-recycling/recycling-sites/east-leeds-household-waste-sorting-site) and [Kirkstall](https://www.leeds.gov.uk/residents/bins-and-recycling/recycling-sites/kirkstall-road-household-waste-sorting-site) household waste recycling centres
 
+NB: When donating your secondhand stuff, please consider the quality of your items. If it needs more than a minor repair or a light clean, chances are these organisations won't be able to accept it. Lots of furniture items like sofas, chairs and beds must also carry fire safety labels. All electrical items should be free from rust, be reasonably clean, have intact seals and ideally be in full working order. Many of these organisations can collect bulky re-usable items from your home for free - check on their websites.
+
 
 
 ## [](https://www.ilovefreegle.org/explore/leedsfreegle)Bikes
@@ -54,8 +56,6 @@ We have listed all the reuse options we know in Leeds below. Please [get in touc
 For clothing and textiles, we've created [a map which shows all the charity shops and textile banks in Leeds](https://map.zerowasteleeds.org.uk/#/) - so you know where to go to donate (and buy second hand).
 
 <iframe scrolling="false" width="full" frameborder="0" height="80" style="height: 85vh; width: 100%;" src="https://zero-waste-leeds-fashion.netlify.app"></iframe>
-
-NB: When donating your secondhand stuff, please consider the quality of your items. If it needs more than a minor repair or a light clean, chances are these organisations won't be able to accept it. Lots of furniture items like sofas, chairs and beds must also carry fire safety labels. All electrical items should be free from rust, be reasonably clean, have intact seals and ideally be in full working order. Many of these organisations can collect bulky re-usable items from your home for free - check on their websites.
 
 <br>
 
