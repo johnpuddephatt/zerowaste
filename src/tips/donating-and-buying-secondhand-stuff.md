@@ -33,9 +33,7 @@ We have listed all the reuse options we know in Leeds below. Please [get in touc
 
 [](https://www.svp.org.uk/donate-items-and-furniture)Reuse shops at the [Seacroft](https://www.leeds.gov.uk/residents/bins-and-recycling/recycling-sites/east-leeds-household-waste-sorting-site) and [Kirkstall](https://www.leeds.gov.uk/residents/bins-and-recycling/recycling-sites/kirkstall-road-household-waste-sorting-site) household waste recycling centres
 
-[Freecycle](https://groups.freecycle.org/group/LeedsUK/posts/all)
 
-[Leeds Freegle](https://www.ilovefreegle.org/explore/leedsfreegle)
 
 ## [](https://www.ilovefreegle.org/explore/leedsfreegle)Bikes
 
@@ -58,6 +56,34 @@ For clothing and textiles, we've created [a map which shows all the charity shop
 <iframe scrolling="false" width="full" frameborder="0" height="80" style="height: 85vh; width: 100%;" src="https://zero-waste-leeds-fashion.netlify.app"></iframe>
 
 NB: When donating your secondhand stuff, please consider the quality of your items. If it needs more than a minor repair or a light clean, chances are these organisations won't be able to accept it. Lots of furniture items like sofas, chairs and beds must also carry fire safety labels. All electrical items should be free from rust, be reasonably clean, have intact seals and ideally be in full working order. Many of these organisations can collect bulky re-usable items from your home for free - check on their websites.
+
+<br>
+
+# Online sharing communities
+
+There are plenty of online sharing communities that help you to give away unwanted items or ask for items you may be looking for whilst also reducing waste. If you know of any other online sharing communities please [get in touch](mailto:info@zerowasteleeds.org.uk).
+
+#### Websites and Apps
+
+[Freegle Leeds](http://freegle.in/Leeds)
+
+[Freecycle](https://groups.freecycle.org/group/LeedsUK/posts/all)
+
+[Trash Nothing in Leeds](https://trashnothing.com/beta/leeds-freegle)
+
+[OLIO](https://olioex.com/)
+
+[Next Door](https://nextdoor.co.uk/)
+
+#### Facebook groups
+
+C.R.A.P (Conserving Resources Associating People) [LS10 & LS11](https://www.facebook.com/groups/449919929757315/?hc_location=ufi), [LS6](https://www.facebook.com/groups/2007182396093415), [LS12](https://www.facebook.com/groups/435646784511468), [LS15](https://www.facebook.com/groups/129211562264818), [](https://www.facebook.com/groups/129211562264818)[LS16](https://www.facebook.com/groups/223351169325622) and [LS25](https://www.facebook.com/groups/153089699914831) [](https://www.facebook.com/groups/153089699914831)
+
+[Kirkstall Recycle](https://www.facebook.com/​groups/224197375876183)
+
+[Leeds Freecycle](https://www.facebook.com/groups/LeedsHelp/)
+
+[Free & Wanted Items in Leeds](https://www.facebook.com/groups/317082851664557)
 
 <br>
 
@@ -97,35 +123,7 @@ Here's a list of some of the ebay stores run by charity shops that our followers
 
 [Alzheimers Society](https://charity.ebay.co.uk/charity/Alzheimer's-Society/14311)
 
-[RSPCA Leeds and Wakefield](https://ebay.co.uk/str/rspcaleedswakefield)
-
-<br>
-
-# Online sharing communities
-
-There are plenty of online sharing communities that help you to give away unwanted items or ask for items you may be looking for whilst also reducing waste. If you know of any other online sharing communities please [get in touch](mailto:info@zerowasteleeds.org.uk).
-
-#### Websites and Apps
-
-[Freegle Leeds](http://freegle.in/Leeds)
-
-[Trash Nothing in Leeds](https://trashnothing.com/beta/leeds-freegle)
-
-[OLIO](https://olioex.com/)
-
-[Next Door](https://nextdoor.co.uk/)
-
-#### Facebook groups
-
-C.R.A.P (Conserving Resources Associating People) [LS10 & LS11](https://www.facebook.com/groups/449919929757315/?hc_location=ufi), [LS6](https://www.facebook.com/groups/2007182396093415), [LS12](https://www.facebook.com/groups/435646784511468), [LS15](https://www.facebook.com/groups/129211562264818), [](https://www.facebook.com/groups/129211562264818)[LS16](https://www.facebook.com/groups/223351169325622) and [LS25](https://www.facebook.com/groups/153089699914831) [](https://www.facebook.com/groups/153089699914831)
-
-[Kirkstall Recycle](https://www.facebook.com/​groups/224197375876183)
-
-[Leeds Freecycle](https://www.facebook.com/groups/LeedsHelp/)
-
-[Free & Wanted Items in Leeds](https://www.facebook.com/groups/317082851664557)
-
-[](https://nextdoor.co.uk/)
+[RSPCA Leeds and Wakefield](https://ebay.co.uk/str/rspcaleedswakefield)[](https://nextdoor.co.uk/)
 
 [](<* https://charity.ebay.co.uk/charity/Alzheimer's-Society/14311>)
 
