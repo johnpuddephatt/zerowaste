@@ -35,8 +35,6 @@ We have listed all the reuse options we know in Leeds below. Please [get in touc
 
 NB: When donating your secondhand stuff, please consider the quality of your items. If it needs more than a minor repair or a light clean, chances are these organisations won't be able to accept it. Lots of furniture items like sofas, chairs and beds must also carry fire safety labels. All electrical items should be free from rust, be reasonably clean, have intact seals and ideally be in full working order. Many of these organisations can collect bulky re-usable items from your home for free - check on their websites.
 
-
-
 ## [](https://www.ilovefreegle.org/explore/leedsfreegle)Bikes
 
 [The Bikes College](https://thebikescollege.org/)
@@ -59,11 +57,11 @@ For clothing and textiles, we've created [a map which shows all the charity shop
 
 <br>
 
-# Online sharing communities
+## Online sharing communities
 
-There are plenty of online sharing communities that help you to give away unwanted items or ask for items you may be looking for whilst also reducing waste. If you know of any other online sharing communities please [get in touch](mailto:info@zerowasteleeds.org.uk).
+There are plenty of online sharing communities that help you to give away unwanted items or ask for items you may be looking for. If you know of any other online sharing communities please [get in touch](mailto:info@zerowasteleeds.org.uk).
 
-#### Websites and Apps
+##### Websites and Apps
 
 [Freegle Leeds](http://freegle.in/Leeds)
 
@@ -75,7 +73,7 @@ There are plenty of online sharing communities that help you to give away unwant
 
 [Next Door](https://nextdoor.co.uk/)
 
-#### Facebook groups
+##### Facebook groups
 
 C.R.A.P (Conserving Resources Associating People) [LS10 & LS11](https://www.facebook.com/groups/449919929757315/?hc_location=ufi), [LS6](https://www.facebook.com/groups/2007182396093415), [LS12](https://www.facebook.com/groups/435646784511468), [LS15](https://www.facebook.com/groups/129211562264818), [](https://www.facebook.com/groups/129211562264818)[LS16](https://www.facebook.com/groups/223351169325622) and [LS25](https://www.facebook.com/groups/153089699914831) [](https://www.facebook.com/groups/153089699914831)
 
@@ -87,7 +85,7 @@ C.R.A.P (Conserving Resources Associating People) [LS10 & LS11](https://www.face
 
 <br>
 
-# Ebay shops
+## Ebay shops
 
 Here's a list of some of the ebay stores run by charity shops that our followers have shared with us: 
 
