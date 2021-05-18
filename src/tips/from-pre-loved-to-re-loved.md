@@ -683,7 +683,7 @@ Check your cupboards, drawers and wardrobes for something you don't really like 
 
 ## **Or you could take a duvet cover and transform it into a skirt, just like Sam did!**
 
-**SAM -** If you're anything like me, you'll hate shopping for clothes. All that effort finding the right style in the right size, checking if it's the right fit and fumbling around where other people have left a mess. But don't you just love finding hidden gems at charity shops? I found recently that my favourite section is actually curtains and bedsheets! (Find your local charity shops on [Zero Waste Leeds fashion map](https://map.zerowasteleeds.org.uk/#/)).
+**SAM -** If you're anything like me, you'll hate shopping for clothes. All that effort finding the right style in the right size, checking if it's the right fit and fumbling around where other people have left a mess. But don't you just love finding hidden gems at charity shops? I found recently that my favourite section is actually curtains and bedsheets! (All Leeds charity shops are listed on [Zero Waste Leeds fashion map](https://map.zerowasteleeds.org.uk/#/)).
 
 This "fabric section" at charity shops is the best place to go in my opinion. There are some lovely and unexpected patterns on duvet or curtain fabric which you can upcycle into anything you can think of.
 
