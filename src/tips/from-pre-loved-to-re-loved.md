@@ -5,13 +5,13 @@ date: 2021-05-18T11:43:34.115Z
 tags: fashion
 image: /uploads/ecotopia3.jpg
 ---
-<!--\\\\[if gte mso 9]><xml>
+<!--\\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\\[endif]-->
+</xml><!\\\\\[endif]-->
 
-<!--\\\\[if gte mso 9]><xml>
+<!--\\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -51,9 +51,9 @@ image: /uploads/ecotopia3.jpg
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\\[endif]-->
+</xml><!\\\\\[endif]-->
 
-<!--\\\\[if gte mso 9]><xml>
+<!--\\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -632,9 +632,9 @@ image: /uploads/ecotopia3.jpg
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\\[endif]-->
+</xml><!\\\\\[endif]-->
 
-<!--\\\\[if gte mso 10]>
+<!--\\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -661,7 +661,7 @@ image: /uploads/ecotopia3.jpg
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\\[endif]-->
+<!\\\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -675,7 +675,7 @@ But what is upcycling? And is it really so good?
 
 Take fabric for example. For those who want to lead a more eco-friendly lifestyle, natural fabrics are the optimal choice. But even those can come at a cost. Cotton is one of the more commonly used natural fabrics available. It's a lovely and soft fabric which is also quite cheap in comparison to other natural fabric. The downside to the cotton is how much water it takes to grow.
 
-> "Cotton production is really hard on the planet. It takes a WHOPPING 3250 litres to grow enough cotton for a SINGLE cotton t-shirt!!"
+> Cotton production is really hard on the planet. It takes a WHOPPING 3250 litres to grow enough cotton for a SINGLE cotton t-shirt!!
 
 What can we do to counteract this problem? **Upcycle!**
 
