@@ -5,13 +5,13 @@ date: 2021-05-18T11:43:34.115Z
 tags: fashion
 image: /uploads/ecotopia3.jpg
 ---
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\[endif]-->
+</xml><!\\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -51,9 +51,9 @@ image: /uploads/ecotopia3.jpg
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\[endif]-->
+</xml><!\\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -632,9 +632,9 @@ image: /uploads/ecotopia3.jpg
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\[endif]-->
+</xml><!\\\\\[endif]-->
 
-<!--\\\[if gte mso 10]>
+<!--\\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -661,7 +661,7 @@ image: /uploads/ecotopia3.jpg
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\[endif]-->
+<!\\\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -675,7 +675,7 @@ But what is upcycling? And is it really so good?
 
 Take fabric for example. For those who want to lead a more eco-friendly lifestyle, natural fabrics are the optimal choice. But even those can come at a cost. Cotton is one of the more commonly used natural fabrics available. It's a lovely and soft fabric which is also quite cheap in comparison to other natural fabric. The downside to the cotton is how much water it takes to grow.
 
-> "Cotton production is really hard on the planet. It takes a WHOPPING 3250 litres to grow enough cotton for a SINGLE cotton t-shirt!!"
+> Cotton production is really hard on the planet. It takes a WHOPPING 3250 litres to grow enough cotton for a SINGLE cotton t-shirt!!
 
 What can we do to counteract this problem? **Upcycle!**
 
@@ -683,21 +683,19 @@ Check your cupboards, drawers and wardrobes for something you don't really like 
 
 ## **Or you could take a duvet cover and transform it into a skirt, just like Sam did!**
 
-**SAM -** If you're anything like me, you'll hate shopping for clothes. All that effort finding the right style in the right size, checking if it's the right fit and fumbling around where other people have left a mess. But don't you just love finding hidden gems at charity shops? I found recently that my favourite section is actually curtains and bedsheets! 
+**SAM -** If you're anything like me, you'll hate shopping for clothes. All that effort finding the right style in the right size, checking if it's the right fit and fumbling around where other people have left a mess. But don't you just love finding hidden gems at charity shops? I found recently that my favourite section is actually curtains and bedsheets! (All Leeds charity shops are listed on [Zero Waste Leeds fashion map](https://map.zerowasteleeds.org.uk/#/)).
 
 This "fabric section" at charity shops is the best place to go in my opinion. There are some lovely and unexpected patterns on duvet or curtain fabric which you can upcycle into anything you can think of.
 
 ![](/uploads/ecotopia1.jpg)
 
-> "No one wanted those bed sheets, but I wanted a new skirt. And in doing a bit of upcycling, I saved the production of yet more fabric when there was already some available right in front of me!"
+> No one wanted those bed sheets, but I wanted a new skirt. And in doing a bit of upcycling, I saved the production of yet more fabric when there was already some available right in front of me!
 
 If you enjoy making things out of textiles, I'm sure you'll know how brand new fabrics can get quite pricey. But just the other day I got 2 lots of 230x220cm for only a fiver! This may have come in the form of a king size duvet cover, but I tell you, it's the cheapest form of fabric you can find! Only a few hours after buying this duvet cover, even with a very small amount of technical sewing knowledge, I had transformed it into a gorgeous, high street shop worthy swing skirt!
 
 ![](/uploads/ecotopia2.jpg)
 
 I have a particular favourite charity shop now, where literally every time I go in there's something new to find. It's almost like a different shop on every visit. I love it!
-
-![](/uploads/ecotopia3.jpg)
 
 ##  **Michelle also had a go at some upcycling**
 
@@ -718,5 +716,9 @@ If you want to try a bit of fabric upcycling, [YouTube](https://www.youtube.com/
 You don't even have to spend a single penny to upcycle. Old shirts in the bottom of your drawer, the dress you've been holding onto for years. Maybe they could be put to better use? Is there something else that could be more use to you? Even if it's changing a cushion cover into a tote bag (or vice versa!) 
 
 The upcycling community is abuzz, and we all love to share our ideas to the novice upcycler as well as the veterans. There's always something new and different to try.
+
+
+
+### As part of our [Leeds Fashion Futures](https://www.zerowasteleeds.org.uk/projects/leeds-fashion-futures/) project, we'll be featuring more guest bloggers over the coming weeks and months. 
 
 <!--EndFragment-->
