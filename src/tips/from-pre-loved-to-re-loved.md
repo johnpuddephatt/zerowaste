@@ -5,13 +5,13 @@ date: 2021-05-18T11:43:34.115Z
 tags: fashion
 image: /uploads/ecotopia3.jpg
 ---
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -51,9 +51,9 @@ image: /uploads/ecotopia3.jpg
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -632,9 +632,9 @@ image: /uploads/ecotopia3.jpg
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 10]>
+<!--\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -661,7 +661,7 @@ image: /uploads/ecotopia3.jpg
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\[endif]-->
+<!\\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -683,7 +683,7 @@ Check your cupboards, drawers and wardrobes for something you don't really like 
 
 ## **Or you could take a duvet cover and transform it into a skirt, just like Sam did!**
 
-**SAM -** If you're anything like me, you'll hate shopping for clothes. All that effort finding the right style in the right size, checking if it's the right fit and fumbling around where other people have left a mess. But don't you just love finding hidden gems at charity shops? I found recently that my favourite section is actually curtains and bedsheets! 
+**SAM -** If you're anything like me, you'll hate shopping for clothes. All that effort finding the right style in the right size, checking if it's the right fit and fumbling around where other people have left a mess. But don't you just love finding hidden gems at charity shops? I found recently that my favourite section is actually curtains and bedsheets! (Find your local charity shops on [Zero Waste Leeds fashion map](https://map.zerowasteleeds.org.uk/#/)).
 
 This "fabric section" at charity shops is the best place to go in my opinion. There are some lovely and unexpected patterns on duvet or curtain fabric which you can upcycle into anything you can think of.
 
