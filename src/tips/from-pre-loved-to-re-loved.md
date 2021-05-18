@@ -5,13 +5,13 @@ date: 2021-05-18T11:43:34.115Z
 tags: fashion
 image: /uploads/ecotopia3.jpg
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -51,9 +51,9 @@ image: /uploads/ecotopia3.jpg
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -632,9 +632,9 @@ image: /uploads/ecotopia3.jpg
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -661,11 +661,11 @@ image: /uploads/ecotopia3.jpg
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
-###### **By guest bloggers Sam and Michelle, owners of Leeds' zero waste shop -  [Ecotopia](https://www.ecotopialeeds.co.uk/)** 
+###### **By guest bloggers Sam and Michelle, owners of Leeds' zero waste shop -  [Ecotopia](https://www.ecotopialeeds.co.uk/)**
 
 ## **Upcycling - not recycling**
 
@@ -690,8 +690,6 @@ This "fabric section" at charity shops is the best place to go in my opinion. Th
 ![](/uploads/ecotopia1.jpg)
 
 > "No one wanted those bed sheets, but I wanted a new skirt. And in doing a bit of upcycling, I saved the production of yet more fabric when there was already some available right in front of me!"
->
->
 
 If you enjoy making things out of textiles, I'm sure you'll know how brand new fabrics can get quite pricey. But just the other day I got 2 lots of 230x220cm for only a fiver! This may have come in the form of a king size duvet cover, but I tell you, it's the cheapest form of fabric you can find! Only a few hours after buying this duvet cover, even with a very small amount of technical sewing knowledge, I had transformed it into a gorgeous, high street shop worthy swing skirt!
 
@@ -711,9 +709,9 @@ I now spend a few hours a week stopping by my local charity shops, scouring the 
 
 ![](/uploads/ecotopia5.jpeg)
 
-
-
 Being brought up in a single parent family, we were always a bit frugal with spending money, and we think that's been drilled into us so much we only spend where necessary even to this day. Repairing holes in clothing was a very normal thing in our childhood home. Luckily covering our grazed knee jeans with smiley face patches was highly acceptable when we were growing up in the 90s! 
+
+> "Why wouldn't you want to wear your clothes AND for them to last as long as possible to at least save money?"
 
 If you want to try a bit of fabric upcycling, [YouTube](https://www.youtube.com/) and [Pinterest](https://www.pinterest.co.uk/) are both treasure troves for straightforward sewing tutorials if you aren't sure where to start. You don't have to have sewing machine experience to upcycle with fabrics. Hand sewing works a treat too, or failing that, maybe have a go with fabric glue for smaller projects. 
 
