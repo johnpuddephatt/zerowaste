@@ -689,7 +689,7 @@ This "fabric section" at charity shops is the best place to go in my opinion. Th
 
 ![](/uploads/ecotopia1.jpg)
 
-> "No one wanted those bed sheets, but I wanted a new skirt. And in doing a bit of upcycling, I saved the production of yet more fabric when there was already some available right in front of me!"
+> No one wanted those bed sheets, but I wanted a new skirt. And in doing a bit of upcycling, I saved the production of yet more fabric when there was already some available right in front of me!
 
 If you enjoy making things out of textiles, I'm sure you'll know how brand new fabrics can get quite pricey. But just the other day I got 2 lots of 230x220cm for only a fiver! This may have come in the form of a king size duvet cover, but I tell you, it's the cheapest form of fabric you can find! Only a few hours after buying this duvet cover, even with a very small amount of technical sewing knowledge, I had transformed it into a gorgeous, high street shop worthy swing skirt!
 
