@@ -697,8 +697,6 @@ If you enjoy making things out of textiles, I'm sure you'll know how brand new f
 
 I have a particular favourite charity shop now, where literally every time I go in there's something new to find. It's almost like a different shop on every visit. I love it!
 
-![](/uploads/ecotopia3.jpg)
-
 ##  **Michelle also had a go at some upcycling**
 
 **MICHELLE -** I run a small business where the focus is upcycling. I wanted to make reusable face pads and baby wipes but the environmental cost of virgin fabrics weighed on my mind. I looked to my collection of old and worn out clothes and spotted a pair of curtains I'd bought years ago from a charity shop that I ended up never using myself. The print on the curtains was a pattern of bicycles in cream and lime green. The curtain fabric was actually ideal for making small face pads from! 
@@ -718,5 +716,9 @@ If you want to try a bit of fabric upcycling, [YouTube](https://www.youtube.com/
 You don't even have to spend a single penny to upcycle. Old shirts in the bottom of your drawer, the dress you've been holding onto for years. Maybe they could be put to better use? Is there something else that could be more use to you? Even if it's changing a cushion cover into a tote bag (or vice versa!) 
 
 The upcycling community is abuzz, and we all love to share our ideas to the novice upcycler as well as the veterans. There's always something new and different to try.
+
+
+
+### As part of our [Leeds Fashion Futures](https://www.zerowasteleeds.org.uk/projects/leeds-fashion-futures/) project, we'll be featuring more guest bloggers over the coming weeks and months. 
 
 <!--EndFragment-->
