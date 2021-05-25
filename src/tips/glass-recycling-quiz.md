@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Glass Recycling Quiz
 date: 2021-04-27T14:00:24.978Z
 tags: recycling
-image: /uploads/untitled-design-3-.png
+image: /uploads/artboard-65-100-1-.jpg
 image_alt: Glass bottles
 ---
 Are you a Binfluencer or a Recycling Rookie? Take our quiz to find out!
