@@ -9,7 +9,7 @@ Each June there is a massive movement of student tenants from the Hyde Park, Hea
 
 The End of Term Big Clear Out project want to help students from across these communities to donate their unwanted items for the benefit of local people, rather than throwing them away.
 
-The project was set up last summer and is a collaboration between Ward Councillors, University of Leeds, Leeds Beckett University and local community organisations. Volunteers through the project help to collect student's unwanted belongings direct from their homes and pass these on to local people and charities most in need.
+The project was set up last summer and is a collaboration between local Councillors, University of Leeds, Leeds Beckett University and local community organisations. Volunteers through the project help to collect student's unwanted belongings direct from their homes and pass these on to local people and charities most in need.
 
 Last year they were able to collect around 16 tonnes of unwanted items, worth an equivalent of £83,626!
 
