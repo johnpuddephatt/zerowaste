@@ -31,7 +31,7 @@ But banks across the city - in car parks, on street corners, or next to pubs and
 
 Each time a glass bank is collected, the glass it contains is weighed, and this information is shared on Data Mill North.  
 
-To inform this campaign, which is funded by Friends of Glass, Ardagh Glass and Friends of Glass, we analysed data for glass recycling in Leeds over the period since 2016.  
+To inform this campaign, which is funded by British Glass, Ardagh Glass and Friends of Glass, we analysed data for glass recycling in Leeds over the period since 2016.  
 
 It was when we spotted the big increase last summer that we came up with the idea for running a campaign to encourage people to keep recycling their glass as things return to some kind of normality post COVID 19.
 
