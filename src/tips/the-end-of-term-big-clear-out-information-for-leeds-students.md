@@ -8,28 +8,41 @@ image_alt: A collection of reusable items outside Hyde Park Picture House
 ---
 Lots of students will be leaving Leeds over the next few weeks - and naturally there's potential - this year more than ever - for lots of food and other household items to get thrown away.  
 
-Fortunately there's an excellent project in Leeds that's set up to deal with this - and we've shared information below - and on [our Facebook page](https://www.facebook.com/zerowasteleeds/posts/798132990745226?__xts__[0]=68.ARC5q7wwFU4i623RDHKbEgMWazG-A18Ga8Q7CrN72tCYyQqCcG4-ULvUv4uTP_qQbvs0g9sJxmKPNJMDXSd1zvZakoRf2z3rYVcFfMr9ubAWjYdGXnUtv84A3iwEhSMVSZjTJQU9R7bJaGa9gd0Ngx2n1v1svdzrrnOg1iF-4i3ry9UwrgwgJkymIc2ApQfRclxoc7KBK4k0DDAyufqM3N0xRdnMI_kykVsFgef6w3OoAkw5UyDI1_fylq15olKz1yicKzAkAQMkFe1dvEs6GHs-F0CdHzKNdZyQjvOw3Dd9tgn6owJd8-YlTCR7EgWNz0eKcL9ra5TObynVUdyfad8&__tn__=-R). 
+Fortunately there's an excellent project in Leeds that's set up to deal with this - the End of Term Big Clear Out.  Last year they saved over 16 tonnes of good quality stuff from being thrown away!
 
-![Flyer with information about the Big Clear Out in Leeds](/uploads/bigclearout.png "End of Term Big Clear Out Flyer")
+![16 tonnes of good quality items were donated last year](/uploads/1.jpg)
 
-All the information is in [this flyer](https://www.facebook.com/hydeparksource/photos/pcb.1657888021041707/1657887337708442/?type=3&theater), but in summary:
+We'll share more information here as we get it - but here's what we know so far:
 
-You can fill **Blue Bags** - which have been delivered across Leeds 6 - with clean and reusable items such as clothing, paired shoes, books, small electrical items, pans and crockery.
+# End of Term Big Clear Out
 
-There will be **door-to-door collections** of these Blue Bags on **16th, 23rd and 30th** of June - please leave Blue Bags by your door before midday.  You can leave extra items in strong, clear bags.  
+A door to door collection is being operated in many areas. If you have received a leaflet and blue donation bag through your letter box then you are in a collection area!  If not drop them off at our collection point at [Wrangthorn Church](https://goo.gl/maps/VJiJrEGxYXxvGGkh7) on the 26th and 27th June.
 
-For **small items of furniture** collections must be arranged directly by emailing [sustainability@leeds.ac.uk](mailto:sustainability@leeds.ac.uk)
+Simply place your donations in the blue bag outside your gate by midday on the **14th, 21st and 28th June** and they will collect.  You can place two additional bags of items out for collection if packaged in clear strong bags.
 
-Unopened, non-perishable, in-date food items can also be donated in this way - but in a separate bag or box from your other donations.
+# What they're collecting
 
-Blue bags can also be dropped off at the following donation points - [Cardigan Centre](http://cardigancentre.org.uk/), [Hyde Park Picture House](https://www.hydeparkpicturehouse.co.uk/) & [Gateway Church](https://gatewayleeds.net/) on **Tuesdays and Thursdays from 16th to 30th of June from 11-4pm**. 
+Clean and reusable items – clothing- paired shoes- books-CDs & DVDs-small electrical items (eg. hair dryers, toasters)- pots, pans and crockery- sports- and bric-a-brac
 
-If you have food - unopened, in-date and non-perishable - you can drop it off at [Rainbow Junktion](http://rainbowjunktion.org.uk/), [Gateway Church](https://gatewayleeds.net/), [Cardigan Centre](http://cardigancentre.org.uk/) or [Hyde Park Picture House](https://www.hydeparkpicturehouse.co.uk/) **on certain dates over the coming weeks**.  Please see [this flyer](https://www.facebook.com/hydeparksource/photos/pcb.1657888021041707/1657887337708442/?type=3&theater) for dates and times for each of them - or follow the [University of Leeds Sustainability Service](https://www.facebook.com/UoLSustainability/) on Facebook.  
+ 
 
-Some local residents will also be accepting donations of unopened, in-date and non-perishable food - more information on this will be available on the [Headingley and Hyde Park News Facebook](https://www.facebook.com/HeadingleyCouncillors/) page.
+# What they can't collect
 
-Until 5th of July [you can go to Kirkstall Recycling Centre](https://twitter.com/LeedsRecycles/status/1277552245857562624) without booking an appointment if you show your student card. You can go in a car or on foot,  - but no vans or trailers.  The address is [here](https://www.leeds.gov.uk/residents/bins-and-recycling/recycling-sites/kirkstall-road-household-waste-sorting-site) - and don't forget there is also a [Revive](http://www.reviveleeds.co.uk/) reuse shop here.  
+Dirty and damaged items
 
-More information can also be found on the Leeds City Council [website](https://www.leeds.gov.uk/residents/bins-and-recycling/university-students).
+Sharp items like knives
 
-There are also opportunities to volunteer to help with collections - for more information please either contact [Hyde Park Source via Facebook](https://www.facebook.com/hydeparksource/), or email [a.m.jackson@leeds.ac.uk](mailto:a.m.jackson@leeds.ac.uk).
+Duvets, pillows and bedsheets\
+Toiletries and laundry items-General waste-Food. 
+
+
+
+# Separate collection of non-perishable food
+
+Keep an eye out for a separate collection on the **26th and 27th June** where they will be collecting non-perishable food to support a local food bank.
+
+
+
+# Get involved!
+
+The Big Clear Out relies on volunteers - if you might have a few hours to spare over the next few weeks to help with tasks like sorting out donations, please get in touch with them - more info [here](https://www.zerowasteleeds.org.uk/tips/big-clear-out-looking-for-volunteers/).
