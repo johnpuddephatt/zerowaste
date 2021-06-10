@@ -10,7 +10,7 @@ Lots of students will be leaving Leeds over the next few weeks - and naturally t
 
 Fortunately there's an excellent project in Leeds that's set up to deal with this - the End of Term Big Clear Out.  Last year they saved over 16 tonnes of good quality stuff from being thrown away!
 
-![16 tonnes of good quality items were donated last year](/uploads/1.jpg)
+![16 tonnes of good quality items were donated last year](/uploads/16tonnes.jpg)
 
 We'll share more information here as we get it - but here's what we know so far:
 
@@ -24,8 +24,6 @@ Simply place your donations in the blue bag outside your gate by midday on the *
 
 Clean and reusable items – clothing- paired shoes- books-CDs & DVDs-small electrical items (eg. hair dryers, toasters)- pots, pans and crockery- sports- and bric-a-brac
 
- 
-
 # What they can't collect
 
 Dirty and damaged items
@@ -35,13 +33,9 @@ Sharp items like knives
 Duvets, pillows and bedsheets\
 Toiletries and laundry items-General waste-Food. 
 
-
-
 # Separate collection of non-perishable food
 
 Keep an eye out for a separate collection on the **26th and 27th June** where they will be collecting non-perishable food to support a local food bank.
-
-
 
 # Get involved!
 
