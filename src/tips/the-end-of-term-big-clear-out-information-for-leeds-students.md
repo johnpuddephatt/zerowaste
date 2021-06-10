@@ -20,6 +20,10 @@ A door to door collection is being operated in many areas. If you have received 
 
 Simply place your donations in the blue bag outside your gate by midday on the **14th, 21st and 28th June** and they will collect.  You can place two additional bags of items out for collection if packaged in clear strong bags.
 
+
+
+![Big Clear Out Flyer](/uploads/screenshot-36-.png "More information abou the Big Clear Out")
+
 # What they're collecting
 
 Clean and reusable items – clothing- paired shoes- books-CDs & DVDs-small electrical items (eg. hair dryers, toasters)- pots, pans and crockery- sports- and bric-a-brac
