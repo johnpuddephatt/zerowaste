@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: The End of Term Big Clear Out  – information for Leeds students
-date: 2020-06-15T11:25:23.021Z
+date: 2021-06-10T12:23:28.134Z
 tags: stuff
 image: /uploads/screen-shot-2020-06-15-at-14.21.52.png
 image_alt: A collection of reusable items outside Hyde Park Picture House
