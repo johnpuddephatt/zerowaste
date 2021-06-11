@@ -14,12 +14,12 @@ intro:
       nearest glass bank, as well as some interesting facts about the glass
       industry in Yorkshire.
   - title: Why we’re doing it
-    content: Last year the people of Leeds recycled 37% more glass than the previous
-      year.  We think that’s amazing! We want to build on that success and
+    content: Last year the people of Leeds recycled 37% more glass than the year
+      before.  We think that’s amazing! We want to build on that success and
       continue to increase the amount of glass recycled in Leeds. Why? Using
       recycled glass bottles and jars to make new glass is much more
       environmentally friendly - the temperature in the furnace doesn’t need to
-      be quite so high and no CO2 is given off.  It also helps to support a
+      be quite so high and no CO2 is released. It also helps to support a
       thriving local Yorkshire circular glass economy.
 posts:
   title: Glass articles
