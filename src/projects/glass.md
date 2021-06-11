@@ -6,13 +6,13 @@ subtitle: Exploring what we can do as a city to recycle more glass.
 image: /assets/images/glass-box.svg
 intro:
   - title: What we’re doing
-    content: Many of us want to make more sustainable clothing choices but don’t
-      know where to start. We’ve launched Leeds Fashion Futures to explore how
-      as a city we can do that.  We’ve looked at what makes Leeds unique and
-      spoken to the many people involved in clothing and textiles. Valuing our
-      clothes was a major theme, plus Leeds' rich textile heritage, and the
-      importance of sewing skills.  Here we share a bit of all of that, plus
-      some practical tips and ideas.
+    content: We want to make recycling glass something that everyone in the city
+      does, and to share the reasons why it makes a difference.  We spent some
+      time exploring the reasons why some people don’t recycle their glass which
+      helped us to find ways to make it easier.  We’ve pulled together our top
+      glass recycling tips, including a useful map to find your nearest glass
+      bank, as well as some interesting info about the glass industry in
+      Yorkshire.
   - title: Why we’re doing it
     content: In Leeds we throw away 4000 tonnes of clothing into our household bins
       every year.  There are much better choices for our clothes at the end of
