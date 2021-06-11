@@ -38,10 +38,10 @@ facts:
       to 1.2 billion tonnes of CO2, a figure that outweighs the carbon footprint
       of international flights and shipping combined.
     image: /assets/images/did-you-know.svg
-  - title: "**The most sustainable clothing** is what we already own"
-    description: Every year, global emissions from textile production are equivalent
-      to 1.2 billion tonnes of CO2, a figure that outweighs the carbon footprint
-      of international flights and shipping combined.
+  - title: "**Glass can be recycled over and over again ** without every losing its
+      quality"
+    description: A glass bottle or jar that you recycle today could be back on the
+      shelf in your local shop in just a few weeks.
     image: /assets/images/did-you-know-2.svg
 call_to_action:
   title: Join the conversation
