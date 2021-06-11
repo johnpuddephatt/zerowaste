@@ -40,7 +40,7 @@ facts:
       temperature in the furnace doesn’t need to be quite so high and no CO2 is
       given off from a chemical reaction within the furnace.
     image: /assets/images/did-you-know.svg
-  - title: Glass can be recycled over and over again **without every losing its
+  - title: Glass can be recycled over and over again **without ever losing its
       quality**
     description: A glass bottle or jar that you recycle today could be back on the
       shelf in your local shop in just a few weeks.
