@@ -317,6 +317,7 @@ collections:
       preview: false
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
       - {
           label: "Intro",
           name: "intro",
