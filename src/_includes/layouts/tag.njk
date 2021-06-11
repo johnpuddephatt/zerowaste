@@ -15,8 +15,12 @@ layout: /layouts/base.njk
         {% endif %}
       </div>
       <div class="section-header--image">
+        {% if icon %}
         <img src="{{ icon }}" class="section-header--icon">
+        {% endif %}
+        {% if image %}
         {% srcset image, "", "main-image", 400, 300, "(min-width: 1120px) 560px, 80vw" %}
+        {% endif %}
       </div>
 
     </div>
