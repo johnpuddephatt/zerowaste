@@ -4,6 +4,7 @@ title: Where can I recycle my glass in Leeds?
 date: 2020-05-14T10:37:42.805Z
 tags:
   - recycling
+  - glass
 image: /uploads/img-7116.jpg
 image_alt: Glass recycling bins at Roundhay Park
 ---
