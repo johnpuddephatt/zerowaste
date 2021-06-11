@@ -33,10 +33,8 @@ map:
     style="height: 85vh; width: 100%;"
     src="https://glass.zerowasteleeds.org.uk/"></iframe>
 facts:
-  - title: Clothing creates **1.2 billion tonnes** of CO₂
-    description: Every year, global emissions from textile production are equivalent
-      to 1.2 billion tonnes of CO2, a figure that outweighs the carbon footprint
-      of international flights and shipping combined.
+  - title: There are over 700 glass banks at close to **400 locations across Leeds
+    description: There are over 700 glass banks at close to 400 locations across Leeds
     image: /assets/images/did-you-know.svg
   - title: "**Glass can be recycled over and over again ** without every losing its
       quality"
