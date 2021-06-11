@@ -2,7 +2,9 @@
 layout: layouts/post.njk
 title: What happens next to the glass I recycle in Leeds?
 date: 2020-06-12T15:41:03.707Z
-tags: recycling
+tags:
+  - glass
+  - recycling
 image: /uploads/screen-shot-2020-06-12-at-08.43.20.png
 image_alt: Gill Coupland from Zero Waste Leeds talking to Phil Bodmer on BBC Look North.
 ---
