@@ -2,9 +2,11 @@
 layout: layouts/post.njk
 title: Ten tips for using your loaf
 date: 2020-05-22T13:43:04.619Z
-tags: food-waste
+tags:
+  - food-waste
 image: /uploads/bread.png
 ---
+
 In the UK we throw away 24 million slices of bread EVERY DAY. It’s time we learned to use our loaf.
 
 We’ve pulled together some top tips and delicious recipes so that you’ll never have to waste another slice!

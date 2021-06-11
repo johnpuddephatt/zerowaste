@@ -2,9 +2,11 @@
 layout: layouts/post.njk
 title: How to deal with woody waste
 date: 2020-05-14T14:35:04.127Z
-tags: garden-waste
+tags:
+  - garden-waste
 image: /uploads/wheelbarrow-isobel.jpg
 ---
+
 <!--StartFragment-->
 
 Woody waste can't go in your compost heap. So what can you do with it? Here are some ideas!
@@ -21,7 +23,7 @@ If you place these logs near a pond, the frogs will really thank you for it, the
 
 > If you place these logs near a pond, the frogs will really thank you for it
 
-Branches can also be piled up, [hedgehogs](https://www.hedgehogstreet.org/) may choose to make it their home as well as beetles and other insects.  If in a pile they will take a long time to break down, if you want them to rot more quickly then spread them out and ensure they’ve got contact with the soil. As they decompose they’ll add carbon and nutrients back into the soil - as well as providing food for insects.
+Branches can also be piled up, [hedgehogs](https://www.hedgehogstreet.org/) may choose to make it their home as well as beetles and other insects. If in a pile they will take a long time to break down, if you want them to rot more quickly then spread them out and ensure they’ve got contact with the soil. As they decompose they’ll add carbon and nutrients back into the soil - as well as providing food for insects.
 
 ![](/uploads/twig-pile.jpg)
 

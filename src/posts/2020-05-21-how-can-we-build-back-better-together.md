@@ -2,20 +2,22 @@
 layout: layouts/post.njk
 title: How can we build back better, together?
 date: 2020-05-21T11:15:40.006Z
-tags: stuff
+tags:
+  - stuff
 image: /uploads/canva-global-climate-strike-09-20-2019.jpg
 image_alt: Fight today for a better tomorrow Photo by Markus Spiske temporausch.com
 ---
+
 Ten weeks after first entering lockdown, our thoughts at Zero Waste Leeds shifted towards what we do next.
 
 In March 2020 we quickly paused most of our work, to focus all of our efforts on supporting people in Leeds with #stayathome waste reduction - working alongside the waste and recycling team at Leeds City Council.
 
 We’ve concentrated on the following themes:
 
-* Dealing with your [garden waste](https://www.zerowasteleeds.org.uk/tag/garden-waste/) whilst brown bin collections were suspended - particularly through promoting home composting.
-* Looking at how to keep [food waste](https://www.zerowasteleeds.org.uk/tag/food-waste/) to a minimum - eg by shopping to a list, checking your cupboards and planning your meals
-* Keeping hold of [things that you’ve sorted out](https://www.facebook.com/zerowasteleeds/posts/764816744076851?__xts__[0]=68.ARDO03thBatK6hDMxB3ZPuq0hwnJ_UfKW89GMgkzjgqilsfzF6xEp55C8fY7L2HazKFFuscOYgPvRtIkaF6YlXfycsx_ImMM6ZXAOFFDwZ7v7F37UrLSv1Z8HKtp_qzdp9m246mgUO-XMbm5mUxqPo-J5QMIcnmVvU21Kv5e2RwcvPCmGvr1WxW-MsIlG2EZnQ-f4ObxshEi95XoF4M8Ev6JMfmKUJBOug_zS1iHBsE06eoR7_k0pQ4FMnmduW_rtXve8tn_wrfvrBaAtnd5G__sOwGOzXDvqDS3Wi3wLgilvldYyLlnhCyv3OFO-34I-7H_AtCoPKSS2VDcIDEDmLs&__tn__=-R) during a Spring Clean, so that charities can sell them on when their shops re-open
-* [Recycling](https://www.zerowasteleeds.org.uk/tag/recycling/) as much as you can - at a time when we’re all producing a lot more waste at home - as we’re at home more.
+- Dealing with your [garden waste](https://www.zerowasteleeds.org.uk/tag/garden-waste/) whilst brown bin collections were suspended - particularly through promoting home composting.
+- Looking at how to keep [food waste](https://www.zerowasteleeds.org.uk/tag/food-waste/) to a minimum - eg by shopping to a list, checking your cupboards and planning your meals
+- Keeping hold of [things that you’ve sorted out](https://www.facebook.com/zerowasteleeds/posts/764816744076851?__xts__[0]=68.ARDO03thBatK6hDMxB3ZPuq0hwnJ_UfKW89GMgkzjgqilsfzF6xEp55C8fY7L2HazKFFuscOYgPvRtIkaF6YlXfycsx_ImMM6ZXAOFFDwZ7v7F37UrLSv1Z8HKtp_qzdp9m246mgUO-XMbm5mUxqPo-J5QMIcnmVvU21Kv5e2RwcvPCmGvr1WxW-MsIlG2EZnQ-f4ObxshEi95XoF4M8Ev6JMfmKUJBOug_zS1iHBsE06eoR7_k0pQ4FMnmduW_rtXve8tn_wrfvrBaAtnd5G__sOwGOzXDvqDS3Wi3wLgilvldYyLlnhCyv3OFO-34I-7H_AtCoPKSS2VDcIDEDmLs&__tn__=-R) during a Spring Clean, so that charities can sell them on when their shops re-open
+- [Recycling](https://www.zerowasteleeds.org.uk/tag/recycling/) as much as you can - at a time when we’re all producing a lot more waste at home - as we’re at home more.
 
 We reflected on our first three weeks [here](https://www.zerowasteleeds.org.uk/posts/reflections-on-running-our-social-enterprise-during-covid-19/) - and now we’re looking ahead to what we should do next. Here are three things we’re thinking about right now.
 
@@ -55,6 +57,6 @@ How can we support them? How can we share our platform, to make sure as many of 
 
 And then, how do we work with our followers to see how we can all play our part in Building Back Better? By continuing to shop with local shops (which are probably also pretty good at keeping waste to a minimum) - and by continuing to support other initiatives - such as Repair Cafes - once they’re able to reopen?
 
-It’s clear to us that there are tough times ahead. It won’t necessarily be that easy for us either - we’re a small social enterprise and it’s not always easy to keep going at the best of times. 
+It’s clear to us that there are tough times ahead. It won’t necessarily be that easy for us either - we’re a small social enterprise and it’s not always easy to keep going at the best of times.
 
 But we know that moving towards being a zero waste city, being mindful of our use of natural resources, and finding ways to connect with each other and live more sustainably will be more important than ever over the coming months and years. We’re ready to play our part.

@@ -2,10 +2,12 @@
 layout: layouts/post.njk
 title: Setting up a school uniform exchange - Facebook or WhatsApp group
 date: 2020-08-13T12:54:10.111Z
-tags: stuff
+tags:
+  - stuff
 image: /uploads/school-uniform-computers.png
 ---
-One of the simplest ways to start a uniform reuse scheme at your school is to use an existing parent Facebook/WhatsApp group or create a new group solely for uniform exchange. 
+
+One of the simplest ways to start a uniform reuse scheme at your school is to use an existing parent Facebook/WhatsApp group or create a new group solely for uniform exchange.
 
 Both of these options are easy and encourage people to organise the uniform exchanging between themselves so shouldn’t be too time consuming.
 

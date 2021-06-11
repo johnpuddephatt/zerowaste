@@ -2,9 +2,11 @@
 layout: layouts/post.njk
 title: Who was Sir Montague Burton?
 date: 2021-02-22T16:00:31.994Z
-tags: fashion
+tags:
+  - fashion
 image: /uploads/screen-shot-2021-02-22-at-16.03.35.png
 ---
+
 One of the themes that we're exploring throughout [\#LeedsFashionFutures](https://www.zerowasteleeds.org.uk/projects/leeds-fashion-futures/) week is the rich history in Leeds in relation to clothing and textiles.
 
 And of course it would be impossible to look back at Leeds' history without considering the role of one man who made Leeds his home in the early 1900s - Montague Burton.
@@ -31,6 +33,6 @@ What can we learn from the story of Montague Burton and the business that he bui
 
 Little of the clothing we wear now is made in this country. Can we be as confident that the people who made our clothes are enjoying decent pay and conditions? What opportunities do we have to influence that? How can we help to change how clothes are made, so the people making our clothes today are seen as "individuals, not just a pair of hands" - a theme that was revisited during the [1970 Clothing Strike in Leeds](https://secretlibraryleeds.net/2019/09/13/the-clothing-strike-of-1970/).
 
-With the recent news that [Burton shops will be closing](https://www.theguardian.com/business/2021/feb/08/boohoo-dorothy-perkins-burton-wallis-phillip-green-arcadia) after the brand was bought by online fashion retailer Boohoo - alongside [the expected closure of the Hudson Road site](https://www.bbc.co.uk/news/uk-england-leeds-56126878) -  it is perhaps a good time to be looking back at how we have manufactured and bought clothes in the past. 
+With the recent news that [Burton shops will be closing](https://www.theguardian.com/business/2021/feb/08/boohoo-dorothy-perkins-burton-wallis-phillip-green-arcadia) after the brand was bought by online fashion retailer Boohoo - alongside [the expected closure of the Hudson Road site](https://www.bbc.co.uk/news/uk-england-leeds-56126878) - it is perhaps a good time to be looking back at how we have manufactured and bought clothes in the past.
 
-In doing so, we can then imagine how we might do that in the future - with sustainability at the heart of how clothes are made, and how we purchase them and look after them.  This a theme we'll continue to explore through our [\#LeedsFashionFutures](https://www.zerowasteleeds.org.uk/projects/leeds-fashion-futures/) project.
+In doing so, we can then imagine how we might do that in the future - with sustainability at the heart of how clothes are made, and how we purchase them and look after them. This a theme we'll continue to explore through our [\#LeedsFashionFutures](https://www.zerowasteleeds.org.uk/projects/leeds-fashion-futures/) project.

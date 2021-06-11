@@ -2,9 +2,11 @@
 layout: layouts/post.njk
 title: Top tips on avoiding food waste
 date: 2020-05-18T13:35:12.133Z
-tags: food-waste
+tags:
+  - food-waste
 image: /uploads/food-waste-1-.png
 ---
+
 At a time when we need to be more careful with food than ever, there's plenty of potential for even more food waste to be created because of bulk buying. Here are our top tips for reducing food waste during the COVID-19 outbreak.
 
 Gill from Zero Waste Leeds chatted with Richard Stead on the BBC Radio Leeds Breakfast Show, offering a host of top tips to reduce the amount of food you waste whilst you [\#StayAtHome](https://www.youtube.com/results?search_query=%23stayathome). Here are her top tips!

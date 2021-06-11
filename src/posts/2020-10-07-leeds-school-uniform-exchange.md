@@ -2,10 +2,12 @@
 layout: layouts/post.njk
 title: Leeds School Uniform Exchange
 date: 2020-11-11T10:23:05.896Z
-tags: stuff
+tags:
+  - stuff
 image: /uploads/copy-of-school-uniform-facebook-cover-photos.png
 image_alt: Leeds School Uniform Exchange
 ---
+
 It's incredible to reflect on how much we have achieved together through our Leeds School Uniform Exchange project!
 
 With support from Leeds City Council and [Leeds Community Foundation's Jimbo's Fund](https://leedscf.org.uk/), we launched the project this summer - with the aim of supporting people across Leeds to set up uniform sharing schemes at their school or in their neighbourhood.
@@ -14,13 +16,13 @@ We have had an incredible response, with people across the city coming forward t
 
 ![](/uploads/lsue-website.png)
 
-Across Leeds, parents have set up Facebook groups for their schools, making it easier for parents to offer and request good quality school uniform.  
+Across Leeds, parents have set up Facebook groups for their schools, making it easier for parents to offer and request good quality school uniform.
 
 And several community groups stepped up to run uniform swapping events in their communities, in COVID secure ways.
 
 And whilst it's clearly been a very challenging time for schools, plenty of schools got in touch to say that they continue to offer lost property uniform for reuse, whilst also doing all they can to support any families who are struggling to afford school uniform.
 
-You can find out the latest about the project on our dedicated Leeds School Uniform Exchange [website](https://leedsuniformexchange.org.uk/) and [Facebook group](https://www.facebook.com/groups/603050533660854/).  
+You can find out the latest about the project on our dedicated Leeds School Uniform Exchange [website](https://leedsuniformexchange.org.uk/) and [Facebook group](https://www.facebook.com/groups/603050533660854/).
 
 You can read our guide to setting up a Facebook group or WhatsApp group to share school uniform [here](https://issuu.com/zerowasteleeds/docs/how_to_guide_-_facebook_or_whatsapp__6_).
 

@@ -2,9 +2,11 @@
 layout: layouts/post.njk
 title: From pre-loved to re-loved
 date: 2021-05-18T11:43:34.115Z
-tags: fashion
+tags:
+  - fashion
 image: /uploads/ecotopia3.jpg
 ---
+
 <!--\\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
@@ -665,7 +667,7 @@ image: /uploads/ecotopia3.jpg
 
 <!--StartFragment-->
 
-###### **By guest bloggers Sam and Michelle, owners of Leeds' zero waste shop -  [Ecotopia](https://www.ecotopialeeds.co.uk/)**
+###### **By guest bloggers Sam and Michelle, owners of Leeds' zero waste shop - [Ecotopia](https://www.ecotopialeeds.co.uk/)**
 
 ## **Upcycling - not recycling**
 
@@ -679,7 +681,7 @@ Take fabric for example. For those who want to lead a more eco-friendly lifestyl
 
 What can we do to counteract this problem? **Upcycle!**
 
-Check your cupboards, drawers and wardrobes for something you don't really like anymore and jazz it up! Tatty old jeans can be taken up and changed into summer shorts. You can take that dress you don't wear anymore and snip it up into something useful like a cushion cover or two.  
+Check your cupboards, drawers and wardrobes for something you don't really like anymore and jazz it up! Tatty old jeans can be taken up and changed into summer shorts. You can take that dress you don't wear anymore and snip it up into something useful like a cushion cover or two.
 
 ## **Or you could take a duvet cover and transform it into a skirt, just like Sam did!**
 
@@ -699,7 +701,7 @@ I have a particular favourite charity shop now, where literally every time I go 
 
 ##  **Michelle also had a go at some upcycling**
 
-**MICHELLE -** I run a small business where the focus is upcycling. I wanted to make reusable face pads and baby wipes but the environmental cost of virgin fabrics weighed on my mind. I looked to my collection of old and worn out clothes and spotted a pair of curtains I'd bought years ago from a charity shop that I ended up never using myself. The print on the curtains was a pattern of bicycles in cream and lime green. The curtain fabric was actually ideal for making small face pads from! 
+**MICHELLE -** I run a small business where the focus is upcycling. I wanted to make reusable face pads and baby wipes but the environmental cost of virgin fabrics weighed on my mind. I looked to my collection of old and worn out clothes and spotted a pair of curtains I'd bought years ago from a charity shop that I ended up never using myself. The print on the curtains was a pattern of bicycles in cream and lime green. The curtain fabric was actually ideal for making small face pads from!
 
 ![](/uploads/ecotopia4.jpeg)
 
@@ -707,18 +709,16 @@ I now spend a few hours a week stopping by my local charity shops, scouring the 
 
 ![](/uploads/ecotopia5.jpeg)
 
-Being brought up in a single parent family, we were always a bit frugal with spending money, and we think that's been drilled into us so much we only spend where necessary even to this day. Repairing holes in clothing was a very normal thing in our childhood home. Luckily covering our grazed knee jeans with smiley face patches was highly acceptable when we were growing up in the 90s! 
+Being brought up in a single parent family, we were always a bit frugal with spending money, and we think that's been drilled into us so much we only spend where necessary even to this day. Repairing holes in clothing was a very normal thing in our childhood home. Luckily covering our grazed knee jeans with smiley face patches was highly acceptable when we were growing up in the 90s!
 
 > "Why wouldn't you want to wear your clothes AND for them to last as long as possible to at least save money?"
 
-If you want to try a bit of fabric upcycling, [YouTube](https://www.youtube.com/) and [Pinterest](https://www.pinterest.co.uk/) are both treasure troves for straightforward sewing tutorials if you aren't sure where to start. You don't have to have sewing machine experience to upcycle with fabrics. Hand sewing works a treat too, or failing that, maybe have a go with fabric glue for smaller projects. 
+If you want to try a bit of fabric upcycling, [YouTube](https://www.youtube.com/) and [Pinterest](https://www.pinterest.co.uk/) are both treasure troves for straightforward sewing tutorials if you aren't sure where to start. You don't have to have sewing machine experience to upcycle with fabrics. Hand sewing works a treat too, or failing that, maybe have a go with fabric glue for smaller projects.
 
-You don't even have to spend a single penny to upcycle. Old shirts in the bottom of your drawer, the dress you've been holding onto for years. Maybe they could be put to better use? Is there something else that could be more use to you? Even if it's changing a cushion cover into a tote bag (or vice versa!) 
+You don't even have to spend a single penny to upcycle. Old shirts in the bottom of your drawer, the dress you've been holding onto for years. Maybe they could be put to better use? Is there something else that could be more use to you? Even if it's changing a cushion cover into a tote bag (or vice versa!)
 
 The upcycling community is abuzz, and we all love to share our ideas to the novice upcycler as well as the veterans. There's always something new and different to try.
 
-
-
-### As part of our [Leeds Fashion Futures](https://www.zerowasteleeds.org.uk/projects/leeds-fashion-futures/) project, we'll be featuring more guest bloggers over the coming weeks and months. 
+### As part of our [Leeds Fashion Futures](https://www.zerowasteleeds.org.uk/projects/leeds-fashion-futures/) project, we'll be featuring more guest bloggers over the coming weeks and months.
 
 <!--EndFragment-->

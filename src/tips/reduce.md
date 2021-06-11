@@ -4,8 +4,10 @@ title: Stop your waste in its tracks
 date: 2019-01-01T00:00:00.000Z
 image: /uploads/seagulls.jpg
 image_alt: Refill containers
-tags: stuff
+tags:
+  - stuff
 ---
+
 When we think about wasting less, we often think first of recycling. And whilst that's very important, there's lots more to think about too, before we start worrying about what can and can't go in our green bin.
 
 You may well have heard about the three, four, five, six... R's – which make up what's often referred to as the "waste hierarchy". In simple terms, the hierarchy invites us to think about all the different ways to waste less.
@@ -18,7 +20,7 @@ That could mean buying less stuff. Thinking whether you need the latest gadget, 
 
 > the average drill only sees 30 minutes of action in its lifetime!
 
-And we know a lot of you are also having a bit of a rethink about how you show your love for friends and family. Is buying them stuff that they may not particularly want or need the only way to show you care?  There's a definite shift towards people buying "experiences" over "things" – cinema tickets, or a voucher for a workshop to learn a new skill, that type of thing...
+And we know a lot of you are also having a bit of a rethink about how you show your love for friends and family. Is buying them stuff that they may not particularly want or need the only way to show you care? There's a definite shift towards people buying "experiences" over "things" – cinema tickets, or a voucher for a workshop to learn a new skill, that type of thing...
 
 ![](/uploads/beeswax-wraps.jpg "Beeswax wraps can help you banish clingfilm from the kitchen")
 

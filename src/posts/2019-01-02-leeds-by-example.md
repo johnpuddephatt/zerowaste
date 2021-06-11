@@ -2,18 +2,20 @@
 layout: layouts/post.njk
 title: What has Leeds By Example taught us?
 date: 2019-01-02
-tags: recycling
+tags:
+  - recycling
 image: /uploads/leeds-by-example-1.jpg
 image_alt: Photo of Gordon Binnit – our friendly burping recycling bin – outside
   Leeds Town Hall
 ---
+
 Much of our time has been spent working on Leeds By Example - a project led by environmental charity Hubbub.
 
-The project launched in October 2018 with the aim of making it easier for people in Leeds to recycle "on-the-go".  Even the most enthusiastic recyclers amongst us can struggle to recycle when we're out and about - and the twelve month pilot project, funded by a number of national brands - aimed to explore how to make it easier to do just that.
+The project launched in October 2018 with the aim of making it easier for people in Leeds to recycle "on-the-go". Even the most enthusiastic recyclers amongst us can struggle to recycle when we're out and about - and the twelve month pilot project, funded by a number of national brands - aimed to explore how to make it easier to do just that.
 
 ![](/uploads/leeds-by-example-3.jpg)
 
-We focused in particular on food and drink packaging, with Hubbub working with Leeds City Council to introduce more than 60 bright yellow and orange bins to city centre streets, to help people to recycle coffee cups, plastics and drinks cans.  
+We focused in particular on food and drink packaging, with Hubbub working with Leeds City Council to introduce more than 60 bright yellow and orange bins to city centre streets, to help people to recycle coffee cups, plastics and drinks cans.
 
 They also worked with big coffee shop chains to encourage them to take back coffee cups for recycling, whilst also running lots of promotional events and online campaigns to spread the word about Leeds By Example.
 
@@ -29,6 +31,6 @@ On the back of the success of Leeds By Example, Hubbub are taking the approach t
 
 > On the back of the success of Leeds By Example, Hubbub are taking the approach to two other cities, Swansea and Edinburgh.
 
-Leeds City Council are currently exploring how to build upon the success of Leeds By Example  - and we hope to remain involved as the project develops.
+Leeds City Council are currently exploring how to build upon the success of Leeds By Example - and we hope to remain involved as the project develops.
 
 If you would like to talk more about Leeds By Example, or perhaps how we could work with your organisation to encourage more on-the-go recycling, please get in touch.

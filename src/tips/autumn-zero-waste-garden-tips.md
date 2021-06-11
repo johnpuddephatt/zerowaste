@@ -2,9 +2,11 @@
 layout: layouts/post.njk
 title: Autumn zero waste garden tips
 date: 2020-10-08T16:42:43.867Z
-tags: garden-waste
+tags:
+  - garden-waste
 image: /uploads/leaves2.jpg
 ---
+
 <!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
@@ -664,11 +666,11 @@ image: /uploads/leaves2.jpg
 
 <!--StartFragment-->
 
-It's autumn, which means many plants and trees are losing their leaves. For the zero waste gardener it’s a great opportunity to put this leafy waste to good use without having to touch your brown bin. 
+It's autumn, which means many plants and trees are losing their leaves. For the zero waste gardener it’s a great opportunity to put this leafy waste to good use without having to touch your brown bin.
 
 The easiest thing to do is nothing, a scattering of leaves on the lawn will soon disappear as worms pull them down into the soil for food (and it will help feed your lawn for free).
 
-If you want to keep your lawn and paths leaf free then just sweep them onto the borders and flower beds, they'll act as a mulch and break down over winter protecting your soil from nutrient leaching due to rain. 
+If you want to keep your lawn and paths leaf free then just sweep them onto the borders and flower beds, they'll act as a mulch and break down over winter protecting your soil from nutrient leaching due to rain.
 
 ![](/uploads/raking-leaves.jpg)
 
@@ -676,7 +678,7 @@ This is also a great habitat for insects, which in turn means the hedgehogs will
 
 If you have a lot of leaves or want to tidy them away then it’s a perfect opportunity to make leaf mould. It may sound a bit funny but it’s what gardeners refer to as black gold as it's so good for your garden and your soil.
 
-There are several ways to make it but all of them involve making a big pile of leaves and putting it somewhere where it stays damp. You can simply pile the leaves up and that's it, or if you want to contain them or stop them blowing away you can put them in a chicken wire pen or bin, a jute sack or a black bin liner with several holes in it. 
+There are several ways to make it but all of them involve making a big pile of leaves and putting it somewhere where it stays damp. You can simply pile the leaves up and that's it, or if you want to contain them or stop them blowing away you can put them in a chicken wire pen or bin, a jute sack or a black bin liner with several holes in it.
 
 ![](/uploads/leaf-mould2.jpg)
 

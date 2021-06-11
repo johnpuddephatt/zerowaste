@@ -2,14 +2,16 @@
 layout: layouts/post.njk
 title: How to compost in a trench
 date: 2020-05-18T15:23:36.163Z
-tags: garden-waste
+tags:
+  - garden-waste
 image: /uploads/earth-and-worms.jpg
 ---
+
 ### A guest blog from Helen Butt of the [Leeds Rotters](https://www.facebook.com/leedsrotters/)
 
 There are many ways to compost at home. You could buy a bin which is specifically designed for this purpose, or you can simply pile up garden waste in a heap in the corner of the garden, for example. But what about an even easier way to deal with both carbon and green waste which means the compost will be right where you need it from the word go?
 
-Well, this is perfectly possible if you have a garden or allotment which you are allowed to dig in.  All you need is ground which has been cleared of vegetation, a spade and a desire for a free workout!
+Well, this is perfectly possible if you have a garden or allotment which you are allowed to dig in. All you need is ground which has been cleared of vegetation, a spade and a desire for a free workout!
 
 Here’s the story of a trench I made back in 2015.
 
@@ -37,6 +39,6 @@ Once you’ve got the hang of making a trench in this way, you can add other ing
 
 Should you wish to turn all food waste into valuable compost for your garden, there are however fantastic ways of doing this, which you can find elsewhere on the Zero Waste Leeds website. In the meantime, why not give the trench method a go?
 
-*Our Guest Blogger Helen Butt has been composting for over 10 years and volunteering with [Leeds Rotters](http://leedsrotters.org.uk/) for over eighteen months.  You can read [Helen's own blog](http://silverbells2012.wordpress.com) here.*  
+_Our Guest Blogger Helen Butt has been composting for over 10 years and volunteering with [Leeds Rotters](http://leedsrotters.org.uk/) for over eighteen months. You can read [Helen's own blog](http://silverbells2012.wordpress.com) here._
 
 <!--EndFragment-->

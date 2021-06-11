@@ -2,7 +2,8 @@
 layout: layouts/post.njk
 title: 5 top tips to make the most of your milk
 date: 2020-06-05T15:37:59.391Z
-tags: food-waste
+tags:
+  - food-waste
 image: /uploads/milk-photo-2-.png
 ---
 As always, our top tip is not to overbuy. It’s so easy to pick up a pint - and it’s an awful realisation when you open the fridge in the morning and find there’s not enough milk for that first cuppa!

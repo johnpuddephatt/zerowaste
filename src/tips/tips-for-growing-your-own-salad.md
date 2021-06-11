@@ -2,34 +2,32 @@
 layout: layouts/post.njk
 title: Tips for growing your own salad
 date: 2020-06-11T16:51:30.455Z
-tags: food-waste
+tags:
+  - food-waste
 image: /uploads/salad2.jpg
 ---
-It's summer and the time of year when plants and gardens are growing furiously and salads become a bigger part of our diet.   Fresh salad leaves are one of the most frequently wasted food items and they usually come wrapped in plastic as well, so here are some tips for growing your own and reducing waste at the same time.
 
-If you haven’t grown salad leaves, lettuces or microgreens before you may be surprised how easy it is.  You also don’t need an allotment or veg beds, for some just a jam jar will do.
+It's summer and the time of year when plants and gardens are growing furiously and salads become a bigger part of our diet. Fresh salad leaves are one of the most frequently wasted food items and they usually come wrapped in plastic as well, so here are some tips for growing your own and reducing waste at the same time.
+
+If you haven’t grown salad leaves, lettuces or microgreens before you may be surprised how easy it is. You also don’t need an allotment or veg beds, for some just a jam jar will do.
 
 ### Lettuce
 
 All the varieties you find in the supermarket such as cos, lollo rosso, butterhead, iceberg, rocket are very easy to grow.
 
-At this time of year they will germinate in a few days and you’ll have leaves you can eat in about 3 weeks. The great thing about them is you can just pick what you want and keep coming back to them.  If you sow a few seeds every week, you’ll have a steady supply all summer long. If you have a gap in a flower border they can go there.  They also grow well in pots either outside or on a sunny window ledge.
+At this time of year they will germinate in a few days and you’ll have leaves you can eat in about 3 weeks. The great thing about them is you can just pick what you want and keep coming back to them. If you sow a few seeds every week, you’ll have a steady supply all summer long. If you have a gap in a flower border they can go there. They also grow well in pots either outside or on a sunny window ledge.
 
 ![](/uploads/lettuce2.jpg)
 
-
-
 ### **Microgreens and sprouting seeds**
 
-These include cress, some types of basil, bean sprouts, alfalfa and fenugreek.  They’re even easier to grow than lettuce and some will give you food to eat within a few days.  
+These include cress, some types of basil, bean sprouts, alfalfa and fenugreek. They’re even easier to grow than lettuce and some will give you food to eat within a few days.
 
 Methods for growing them varies between each but it’s all straightforward, usually requiring nothing more than a jam jar or old butter carton – most kids have come home from school at some point with an egg shell sprouting green cress hair.
 
-They grow so quickly that it's better to start them off whenever you think you’re going to need them.  As they're sprouting seeds you don’t need light and can grow them at any time of year.
+They grow so quickly that it's better to start them off whenever you think you’re going to need them. As they're sprouting seeds you don’t need light and can grow them at any time of year.
 
 ![](/uploads/microgreens2.png)
-
-
 
 ### **Radishes**
 

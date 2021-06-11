@@ -2,18 +2,20 @@
 layout: layouts/post.njk
 title: What are the benefits of composting?
 date: 2020-05-14T19:56:40.830Z
-tags: garden-waste
+tags:
+  - garden-waste
 image: /uploads/3.jpg
 ---
+
 There are so many good reasons to compost waste and you and your garden will certainly reap the benefits.
 
 The most obvious one is the end product - lovely rich, brown, earthy compost which when used in the garden puts loads of nutrients and goodness back into the soil.
 
-There's also the impact on the planet.  We’re in the middle of a climate emergency and all the talk is of greenhouse gas emissions and our use of oil.  Garden waste is heavy and councils use large vehicles to transport it, creating a lot of emissions.  More are produced when the waste is handled and sorted and then again when the final compost product is delivered.  All of this is reduced by keeping the waste in your garden.
+There's also the impact on the planet. We’re in the middle of a climate emergency and all the talk is of greenhouse gas emissions and our use of oil. Garden waste is heavy and councils use large vehicles to transport it, creating a lot of emissions. More are produced when the waste is handled and sorted and then again when the final compost product is delivered. All of this is reduced by keeping the waste in your garden.
 
 > Composting also works wonders for the animals in your garden.
 
-Once your compost heap is up and running all manner of creatures magically find their way in and make it home.  They all play their part in breaking down the contents and a rummage through your heap can be fascinating.
+Once your compost heap is up and running all manner of creatures magically find their way in and make it home. They all play their part in breaking down the contents and a rummage through your heap can be fascinating.
 
 Get the kids involved, it can teach them a lot about what goes on in your garden and they can also go bug spotting. Why not have a compost safari?
 
@@ -29,7 +31,7 @@ This can be of direct benefit as you’ll boost the local worm population and th
 
 ### **What can you do with your compost?**
 
-Compost from your heap or bin has  so many uses.  It can be added to your soil as a surface mulch which helps retain moisture and slowly adds nutrients. You can also dig it in to your soil as a conditioner. Really mature, fine and crumbly compost can be used for potting or for sowing seeds.
+Compost from your heap or bin has so many uses. It can be added to your soil as a surface mulch which helps retain moisture and slowly adds nutrients. You can also dig it in to your soil as a conditioner. Really mature, fine and crumbly compost can be used for potting or for sowing seeds.
 
 Compost that still has some larger lumps in it and the overall texture isn’t yet fine and crumbly, can be used as either a mulch in flower or veg beds or mixed into your soil.
 

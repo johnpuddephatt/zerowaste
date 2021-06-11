@@ -2,10 +2,12 @@
 layout: layouts/post.njk
 title: Zero Waste Crafts
 date: 2020-04-22T09:43:14.248Z
-tags: stuff
+tags:
+  - stuff
 image: /uploads/craftcollage.jpg
 ---
-Show us your Zero Waste Crafts! 
+
+Show us your Zero Waste Crafts!
 
 We'd love to see and share what you and your children have made from stuff found around the house - anything that would normally be thrown in the bin. Egg and cereal boxes, cans, foil, cardboard, eggshells, whatever you find! Things in the garden too.
 

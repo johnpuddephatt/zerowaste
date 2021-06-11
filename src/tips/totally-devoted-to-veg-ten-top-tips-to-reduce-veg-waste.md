@@ -2,14 +2,16 @@
 layout: layouts/post.njk
 title: Totally devoted to veg - ten top tips to reduce veg waste
 date: 2020-05-26T14:49:15.288Z
-tags: food-waste
+tags:
+  - food-waste
 image: /uploads/veg.png
 ---
+
 <!--StartFragment-->
 
-It’s estimated that fresh veg and salad make up 28% of our food waste* - and the main reason is because we didn’t eat it in time.
+It’s estimated that fresh veg and salad make up 28% of our food waste\* - and the main reason is because we didn’t eat it in time.
 
-Of the 6.6 million tonnes of food we throw away, 70% of it ***could have been eaten*** - that’s 4.5 million tonnes of food we could save from the bin with a bit more thought and planning.
+Of the 6.6 million tonnes of food we throw away, 70% of it **_could have been eaten_** - that’s 4.5 million tonnes of food we could save from the bin with a bit more thought and planning.
 
 So, what do you do with veg you have left at the end of the week? It might be past its best but you can still use it to make delicious meals.
 
@@ -27,17 +29,17 @@ We’ve pulled together our Top Ten Tips for using your left-over veg so that yo
 
 # Before we start - here are list of key ingredients to have in stock - these things will bring life to your soups, stews, stock and curries.
 
-ONIONS - stored properly they last for ages and will add so much flavour. 
+ONIONS - stored properly they last for ages and will add so much flavour.
 
-FROZEN PEAS are a great staple to have in stock too - they are the best of all frozen vegetables and so versatile. You can add them to a blended soup you’ve made to create texture and they’re great in a veg curry or add them to the rice you serve with it. 
+FROZEN PEAS are a great staple to have in stock too - they are the best of all frozen vegetables and so versatile. You can add them to a blended soup you’ve made to create texture and they’re great in a veg curry or add them to the rice you serve with it.
 
-If you ever have left over CELERY, chop and freeze it - throw it in any soup, stew or sauce for added flavour. 
+If you ever have left over CELERY, chop and freeze it - throw it in any soup, stew or sauce for added flavour.
 
-SPICES AND DRIED HERBS - stock up on different flavours; Indian, Thai, Chinese,Mexican, mixed herbs, fennel seeds - they last ages and will really pack a punch. 
+SPICES AND DRIED HERBS - stock up on different flavours; Indian, Thai, Chinese,Mexican, mixed herbs, fennel seeds - they last ages and will really pack a punch.
 
-TINNED TOMATOES - a great base for any soup, stew or curry. 
+TINNED TOMATOES - a great base for any soup, stew or curry.
 
-COCONUT MILK - adds a lovely, creaminess to vegetable curries. 
+COCONUT MILK - adds a lovely, creaminess to vegetable curries.
 
 TINNED CHICKPEAS AND OTHER PULSES - adds texture and substance to your veg.
 

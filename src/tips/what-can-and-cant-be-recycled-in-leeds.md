@@ -2,9 +2,11 @@
 layout: layouts/post.njk
 title: What can and can't be recycled in Leeds?
 date: 2020-04-27T14:05:45.135Z
-tags: recycling
+tags:
+  - recycling
 image: /uploads/canva-assorted-plastic-bottles.jpg
 ---
+
 If you've ever spent longer than necessary wondering whether the margarine tub, orange juice carton or crisp packet in your hand is recyclable or not, then you're definitely not alone. A study carried out a couple of years ago in the UK revealed that over 56% of people are confused about what can and can't be recycled which inevitably leads many to just give up.
 
 We have gathered all the information you need about what can and can't be recycled in Leeds.

@@ -2,14 +2,16 @@
 layout: layouts/post.njk
 title: Donating and buying secondhand stuff
 date: 2020-05-26T16:34:52.004Z
-tags: stuff
+tags:
+  - stuff
 image: /uploads/secondhandfurniture.png
 ---
-With so many options to buy and donate secondhand stuff in Leeds, there's really very little need to buy new! 
+
+With so many options to buy and donate secondhand stuff in Leeds, there's really very little need to buy new!
 
 Many reuse organisations in Leeds are run by charities or social enterprises, so by buying from them, not only are you saving precious environmental resources, but you are also often supporting a really good cause.
 
-We have listed all the reuse options we know in Leeds below. Please [get in touch](mailto:info@zerowasteleeds.org.uk) if we have missed any. 
+We have listed all the reuse options we know in Leeds below. Please [get in touch](mailto:info@zerowasteleeds.org.uk) if we have missed any.
 
 ## For furniture, clothing, books, CDs and more
 
@@ -89,7 +91,7 @@ C.R.A.P (Conserving Resources Associating People) [](https://www.facebook.com/gr
 
 ## Ebay shops
 
-Here's a list of some of the ebay stores run by charity shops that our followers have shared with us: 
+Here's a list of some of the ebay stores run by charity shops that our followers have shared with us:
 
 [St Gemma’s Hospice Shop](https://www.ebay.co.uk/str/stgemmashospiceshop) [](https://www.ebay.co.uk/str/stgemmashospiceshop?fbclid=IwAR0GxzL1t1sYDaBDo-h0oY0WL0aTdSWLgpsypJpXydi22nINDu0WIR9bhW4)
 

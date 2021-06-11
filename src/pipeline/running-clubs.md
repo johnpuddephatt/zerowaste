@@ -4,12 +4,14 @@ title: How can we reduce waste from running events?
 intro: We're working with local running clubs and race organisers to help them
   to manage the environmental impacts of races.
 date: 2019-01-03
-tags: stuff
+tags:
+  - stuff
 image: /uploads/running-clubs.jpg
 image_alt: Running event in Leeds
 ideas_link: https://docs.google.com/document/d/1ALkA2RBOLoMuBF97xame14sS-yqzxTRp0Iuwd9GV_e0/edit
 ---
-One issue -  that we're interested in exploring is how to manage the environmental impacts of races that are held in Leeds.
+
+One issue - that we're interested in exploring is how to manage the environmental impacts of races that are held in Leeds.
 
 Many of us love to run - and lots run to race. And there are all sorts of positive impacts of all of that! But naturally there are some less positive impacts too - most notably the enormous amount of single-use plastics that hundreds of runners can get through.
 

@@ -4,8 +4,10 @@ title: Get to know your reuse and repair options in Leeds
 date: 2019-01-02T00:00:00.000Z
 image: /uploads/sewing.jpg
 image_alt: Sewing machine
-tags: stuff
+tags:
+  - stuff
 ---
+
 When we're thinking about wasting less, we often end up focusing first on recycling.
 
 And whilst that's really important (and we've got [lots more to say about that here](/tips/recycle)) it's worth thinking first about whether there are alternatives to sending something off for recycling.
@@ -30,7 +32,7 @@ Another option that [many of our Facebook followers](https://www.facebook.com/ze
 
 Alongside reuse, more of us are repairing things rather than throwing things away. Of course, lots of people have always looked to repair certain items, whether that's shoes or phone screens. TV programmes like The Repair Shop have also helped to raise the profile of repair.
 
-!['Image of toolbox at repair cafe'](/uploads/toolbox.jpg 'Repair cafes are an exciting recent development in Leeds')
+!['Image of toolbox at repair cafe'](/uploads/toolbox.jpg "Repair cafes are an exciting recent development in Leeds")
 
 And perhaps the most exciting development is the rise of the Repair Cafe - a place where people come together to repair their stuff. There's [a monthly one](https://therestartproject.org/groups/repair-cafe-leeds/) in the centre of Leeds, alongside one in [Otley](https://otleymakerspace.blogspot.com/p/repair-cafe.html), and another that's [looking to set up in Garforth](https://www.facebook.com/garforthrepaircafe).
 

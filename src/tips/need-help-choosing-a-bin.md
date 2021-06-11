@@ -2,12 +2,14 @@
 layout: layouts/post.njk
 title: "Need help choosing a compost bin? "
 date: 2020-05-20T14:46:51.108Z
-tags: garden-waste
+tags:
+  - garden-waste
 image: /uploads/garden.jpg
 ---
-My compost bin journey (Guest blog from Helen Butt of [Leeds Rotters](https://www.facebook.com/leedsrotters/)) 
 
-My first ambition upon acquiring a house with a garden was *to make compost*. Without even knowing it at that time, compost-making has turned out to be one of the most satisfying jobs I’ve ever done.
+My compost bin journey (Guest blog from Helen Butt of [Leeds Rotters](https://www.facebook.com/leedsrotters/))
+
+My first ambition upon acquiring a house with a garden was _to make compost_. Without even knowing it at that time, compost-making has turned out to be one of the most satisfying jobs I’ve ever done.
 
 **Collapsible bins**
 
@@ -53,9 +55,9 @@ Some choices come down to space or the type of waste you have at your disposal. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ONhJJRf77RY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Helen Butt has been composting for over 10 years and volunteering with [Leeds Rotters](http://leedsrotters.org.uk/) for over eighteen months. You can read [Helen's own blog](http://silverbells2012.wordpress.com/) here.*
+_Helen Butt has been composting for over 10 years and volunteering with [Leeds Rotters](http://leedsrotters.org.uk/) for over eighteen months. You can read [Helen's own blog](http://silverbells2012.wordpress.com/) here._
 
-*[Leeds City Council](https://www.leeds.gov.uk/residents/bins-and-recycling/composting) offer discounts on compost bins of up to 35% through their partner supplier [Great Green Systems.](https://www.greatgreensystems.com/shop/local-council-deals?rv)*
+_[Leeds City Council](https://www.leeds.gov.uk/residents/bins-and-recycling/composting) offer discounts on compost bins of up to 35% through their partner supplier [Great Green Systems.](https://www.greatgreensystems.com/shop/local-council-deals?rv)_
 
 <!--EndFragment-->
 

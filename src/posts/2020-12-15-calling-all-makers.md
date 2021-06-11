@@ -2,26 +2,28 @@
 layout: layouts/post.njk
 title: Calling all makers!
 date: 2020-12-15T10:17:06.501Z
-tags: fashion
+tags:
+  - fashion
 image: /uploads/sewing1.png
 ---
+
 Love sustainable fashion, live in Leeds and want to help others learn to sew? We are looking for people to help us make short sewing tutorials for things that beginners may need to know.
 
 This is open to anyone in the Leeds area, whether you are relatively new to sewing, do sewing in your spare time or are an expert. All are welcome!
 
 As part of the [\#LeedsFashionFutures](https://www.zerowasteleeds.org.uk/posts/leeds-fashion-futures/) project, we are looking to gather a range of short video tutorials (less than 5 minutes) to empower people to learn sewing skills and carry out repairs on their clothing. Here are some of our example ideas for a 'how to' video, but feel free to get creative!
 
-  • Sew on a button
+• Sew on a button
 
-  • Mend a hole in a jumper
+• Mend a hole in a jumper
 
-  • Take up or re-hem garments
+• Take up or re-hem garments
 
-  • Sew on a patch
+• Sew on a patch
 
-  • Visible and invisible mending
+• Visible and invisible mending
 
-  • Create a buttonhole by hand 
+• Create a buttonhole by hand
 
 If this sounds like you, please [get in touch](mailto:info@zerowasteleeds.org.uk). See below for tips on making and sending in the videos.
 
@@ -49,13 +51,13 @@ Try to light the area you want to capture as well as possible. It helps to have 
 
 Plan what you are going to show and what you want to say about it.
 
-  • Keep it short (less than 5 minutes)
+• Keep it short (less than 5 minutes)
 
-  • Aim it at beginners
+• Aim it at beginners
 
-  • Make sure you explain what you are doing and why
+• Make sure you explain what you are doing and why
 
-  • Tell us why it is useful in helping to prevent waste
+• Tell us why it is useful in helping to prevent waste
 
 ### Rehearsal
 
@@ -81,12 +83,12 @@ By sending in your video you are consenting to it being uploaded and made public
 
 Send your video to [info@zerowasteleeds.org.uk](mailto:info@zerowasteleeds.org.uk), telling us:
 
-  • Your name,
+• Your name,
 
-  • Where you are in Leeds
+• Where you are in Leeds
 
-  • How long the activity in the video took you (e.g. if your video is edited or speeded up, how long would it take someone to do what is shown in real time?)
+• How long the activity in the video took you (e.g. if your video is edited or speeded up, how long would it take someone to do what is shown in real time?)
 
-  • Something about why you made the video (maybe who taught you the skill, when and how you’ve used it or why you think it’s a useful skill to have and to share).
+• Something about why you made the video (maybe who taught you the skill, when and how you’ve used it or why you think it’s a useful skill to have and to share).
 
 WeTransfer is a good platform to send the video over on if the file size is too large for email.

@@ -2,9 +2,11 @@
 layout: layouts/post.njk
 title: Seven heavenly ideas to use up your fruit
 date: 2020-06-16T14:01:19.867Z
-tags: food-waste
+tags:
+  - food-waste
 image: /uploads/lovefruit.png
 ---
+
 [Every year, UK households waste around 1.1 million tonnes of fruit](https://www.wrap.org.uk/sites/files/wrap/WRAP%20Fruit%2015%20-%20final.pdf). Around half of this is avoidable and could have been eaten. So we've shared seven heavenly ideas to use up your fruit and avoid food waste.
 
 [This is also a great guide](https://lovefoodhatewaste.com/article/food-storage-a-z) to storing lots of different foods including fruit from Love Food Hate Waste. Don’t be too wedded to your fruit bowl, lots of fruit is best stored in the fridge (except bananas - although storing them in the fridge will stop them ripening if that’s what you need to do to make them last a couple more days).
@@ -25,7 +27,7 @@ Fruit past its best will blend beautifully into a smoothie or milkshake. Add a b
 
 ### Zest it
 
-Don’t forget to use your citrus zest to add masses of flavour to your cooking, baking, salads or drinks. Zest a lime into a mixture of double cream, cream cheese and icing sugar and top a crushed biscuit base for a delicious and really quick cheesecase. Zest an orange over a salad for the taste of summer. Zest lemon into a gin and tonic - better than adding a slice! 
+Don’t forget to use your citrus zest to add masses of flavour to your cooking, baking, salads or drinks. Zest a lime into a mixture of double cream, cream cheese and icing sugar and top a crushed biscuit base for a delicious and really quick cheesecase. Zest an orange over a salad for the taste of summer. Zest lemon into a gin and tonic - better than adding a slice!
 
 ![](/uploads/ideas-to-use-up-your-fruit4.jpg)
 
@@ -43,7 +45,7 @@ Jam, compote or sauce - all variations of the same thing. Mix fruit with sugar a
 
 ### Bake with it
 
-Where do we start?! Once you have a fruit compote you’re half way to a trifle, pavlova, cheesecake, crumble or a fruity sponge pudding. 
+Where do we start?! Once you have a fruit compote you’re half way to a trifle, pavlova, cheesecake, crumble or a fruity sponge pudding.
 
 ![](/uploads/ideas-to-use-up-your-fruit7.jpg)
 
