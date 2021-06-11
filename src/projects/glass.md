@@ -14,14 +14,13 @@ intro:
       nearest glass bank, as well as some interesting facts about the glass
       industry in Yorkshire.
   - title: Why we’re doing it
-    content: In Leeds we throw away 4000 tonnes of clothing into our household bins
-      every year.  There are much better choices for our clothes at the end of
-      life but waste is just one part of the story.  The textile industry is
-      responsible for 10% of carbon emissions, a massive environmental impact.
-      Protecting our planet for future generations is important and when it
-      comes to clothes, there's plenty we can all do. Most are fun too like
-      learning how to sew, clothes swapping with friends, upcycling a favourite
-      item or doing a wardrobe audit before buying anything new.
+    content: Last year the people of Leeds recycled 37% more glass than the previous
+      year.  We think that’s amazing! We want to build on that success and
+      continue to increase the amount of glass recycled in Leeds. Why? Using
+      recycled glass bottles and jars to make new glass is much more
+      environmentally friendly - the temperature in the furnace doesn’t need to
+      be quite so high and no CO2 is given off.  It also helps to support a
+      thriving local Yorkshire circular glass economy.
 posts:
   title: Glass articles
   subtitle: Our latest posts about glass
