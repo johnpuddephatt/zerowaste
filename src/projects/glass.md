@@ -7,7 +7,7 @@ image: /assets/images/glass-box.svg
 intro:
   - title: What we’re doing
     content: We want recycling glass to be something that everyone in the city does
-      and for them to know how it makes a difference.   We spent some time
+      and for them to understand the difference it makes.   We spent some time
       exploring the reasons why some people don’t recycle their glass which
       helped us to find solutions and ways to make it easier.  We’ve pulled
       together our top glass recycling tips, including a useful map to find your
