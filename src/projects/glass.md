@@ -33,7 +33,7 @@ map:
     style="height: 85vh; width: 100%;"
     src="https://glass.zerowasteleeds.org.uk/"></iframe>
 facts:
-  - title: There are over 700 glass banks at close to **400 locations across Leeds**
+  - title: There are **over 700 glass banks** at close to 400 locations across Leeds
     description: By recycling your glass you're helping to save energy and reduce
       CO2 emissions.  Using recycled glass bottles and jars to make new glass is
       much more environmentally friendly than using virgin raw materials - the
