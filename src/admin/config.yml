@@ -336,6 +336,7 @@ collections:
   - name: "projects"
     label: "Projects"
     folder: "src/projects"
+    preview_path: projects/{{slug}}
     create: true
     editor:
       preview: false
