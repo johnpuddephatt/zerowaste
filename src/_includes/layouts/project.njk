@@ -68,13 +68,11 @@ layout: /layouts/base.njk
     </div>
   </section>
 {% endif %}
-
 {% if map %}
   <section id="map">
     {{ map.iframe | safe }}
   </section>
 {% endif %}
-
 {% if posts.tag and related_posts_count %}
   <section class="section__home-pipeline" id="related-posts">
 
@@ -102,7 +100,6 @@ layout: /layouts/base.njk
     </div>
   </section>
 {% endif %}
-
 {% if number_of_facts >= 2 %}
   <section class="projects__fact">
     <div class="container projects__fact__container">
@@ -114,8 +111,6 @@ layout: /layouts/base.njk
     </div>
   </section>
 {% endif %}
-
-
 {% if videos.playlist %}
   <script>window.playlistId = '{{ videos.playlist }}'</script>
   <section class="section__home-thinking" id="project-videos" x-data="youtubePlaylist('{{ videos.playlist }}')" x-init="fetchPlaylist()">
@@ -157,7 +152,6 @@ layout: /layouts/base.njk
       </div>
   </section>
 {% endif %}
-
 {% if number_of_facts >= 3 %}
   <section class="projects__fact">
     <div class="container projects__fact__container">
@@ -169,7 +163,6 @@ layout: /layouts/base.njk
     </div>
   </section>
 {% endif %}
-
 {% if call_to_action.content %}
 <section id="project-call-to-action" class="projects--call-to-action">
   <div class="container projects--call-to-action--container">

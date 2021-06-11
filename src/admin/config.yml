@@ -3,7 +3,7 @@ backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 site_url: https://www.zerowasteleeds.org.uk
-media_folder: '/src/uploads'
+media_folder: "/src/uploads"
 logo_url: https://www.zerowasteleeds.org.uk/assets/images/logo.svg
 public_folder: "/uploads"
 publish_mode: editorial_workflow
@@ -21,117 +21,188 @@ collections:
             name: hero
             widget: object
             fields:
-              - {label: 'Link text', name: 'link_text', widget: 'string', required: false}
-              - {label: 'Link URL', name: 'link_url', widget: 'string', required: false}
+              - {
+                  label: "Link text",
+                  name: "link_text",
+                  widget: "string",
+                  required: false,
+                }
+              - {
+                  label: "Link URL",
+                  name: "link_url",
+                  widget: "string",
+                  required: false,
+                }
           - label: Intro section
             name: intro
             widget: object
             fields:
-              - {label: 'Title', name: 'title', widget: 'string', required: false }
-              - {label: 'Subtitle', name: 'subtitle', widget: 'string', required: false }
-              - {label: 'Headline', name: 'headline', widget: 'string', required: false }
-              - {label: 'Description', name: 'description', widget: 'markdown', required: false }
+              - {
+                  label: "Title",
+                  name: "title",
+                  widget: "string",
+                  required: false,
+                }
+              - {
+                  label: "Subtitle",
+                  name: "subtitle",
+                  widget: "string",
+                  required: false,
+                }
+              - {
+                  label: "Headline",
+                  name: "headline",
+                  widget: "string",
+                  required: false,
+                }
+              - {
+                  label: "Description",
+                  name: "description",
+                  widget: "markdown",
+                  required: false,
+                }
               - label: Link
                 name: link
                 widget: object
                 fields:
-                  - { label: 'Text', name: 'text', widget: 'string' }
-                  - { label: 'URL', name: 'url', widget: 'string' }
+                  - { label: "Text", name: "text", widget: "string" }
+                  - { label: "URL", name: "url", widget: "string" }
 
           - label: Projects
             name: projects
             widget: list
             fields:
-              - { label: 'Title', name: 'title', widget: 'string' }
-              - {label: 'Description', name: 'description', widget: 'markdown' }
+              - { label: "Title", name: "title", widget: "string" }
+              - {
+                  label: "Description",
+                  name: "description",
+                  widget: "markdown",
+                }
               - label: Link
                 name: link
                 widget: object
                 fields:
-                  - { label: 'Text', name: 'text', widget: 'string' }
-                  - { label: 'URL', name: 'url', widget: 'string' }
+                  - { label: "Text", name: "text", widget: "string" }
+                  - { label: "URL", name: "url", widget: "string" }
           - label: Ideas section
             name: ideas
             widget: object
             fields:
-              - { label: 'Title', name: 'title', widget: 'string' }
-              - {label: 'Description', name: 'description', widget: 'markdown' }
+              - { label: "Title", name: "title", widget: "string" }
+              - {
+                  label: "Description",
+                  name: "description",
+                  widget: "markdown",
+                }
               - label: Link
                 name: link
                 widget: object
                 fields:
-                  - { label: 'Text', name: 'text', widget: 'string' }
-                  - { label: 'URL', name: 'url', widget: 'string' }
+                  - { label: "Text", name: "text", widget: "string" }
+                  - { label: "URL", name: "url", widget: "string" }
           - label: Get involved section
             name: get_involved
             widget: object
             fields:
               - { label: Title, name: title, widget: string }
-              - { label: Subtitle, name: subtitle, widget: string, required: false }
+              - {
+                  label: Subtitle,
+                  name: subtitle,
+                  widget: string,
+                  required: false,
+                }
           - label: Supporters section
             name: supporters
             widget: object
             fields:
-              - { label: 'Title', name: 'title', widget: 'string' }
-              - {label: 'Description', name: 'description', widget: 'markdown' }
+              - { label: "Title", name: "title", widget: "string" }
+              - {
+                  label: "Description",
+                  name: "description",
+                  widget: "markdown",
+                }
               - label: Link
                 name: link
                 widget: object
                 fields:
-                  - { label: 'Text', name: 'text', widget: 'string' }
-                  - { label: 'URL', name: 'url', widget: 'string' }
+                  - { label: "Text", name: "text", widget: "string" }
+                  - { label: "URL", name: "url", widget: "string" }
           - label: Tips section
             name: tips
             widget: object
             fields:
               - { label: Title, name: title, widget: string }
-              - { label: Subtitle, name: subtitle, widget: string, required: false }
+              - {
+                  label: Subtitle,
+                  name: subtitle,
+                  widget: string,
+                  required: false,
+                }
           - label: Hire section
             name: hire
             widget: object
             fields:
-              - { label: 'Title', name: 'title', widget: 'string' }
-              - {label: 'Description', name: 'description', widget: 'markdown' }
+              - { label: "Title", name: "title", widget: "string" }
+              - {
+                  label: "Description",
+                  name: "description",
+                  widget: "markdown",
+                }
               - label: Link
                 name: link
                 widget: object
                 fields:
-                  - { label: 'Text', name: 'text', widget: 'string' }
-                  - { label: 'URL', name: 'url', widget: 'string' }
+                  - { label: "Text", name: "text", widget: "string" }
+                  - { label: "URL", name: "url", widget: "string" }
           - label: Blog section
             name: blog
             widget: object
             fields:
               - { label: Title, name: title, widget: string }
-              - { label: Subtitle, name: subtitle, widget: string, required: false }
+              - {
+                  label: Subtitle,
+                  name: subtitle,
+                  widget: string,
+                  required: false,
+                }
           - label: Join section
             name: join
             widget: object
             fields:
-              - { label: 'Title', name: 'title', widget: 'string' }
-              - {label: 'Description', name: 'description', widget: 'markdown' }
+              - { label: "Title", name: "title", widget: "string" }
+              - {
+                  label: "Description",
+                  name: "description",
+                  widget: "markdown",
+                }
       - label: Supporters
         name: supporters
         file: "/src/_data/supporters.json"
         fields:
           - widget: list
-            label: 'Supporters'
-            name: 'supporters'
+            label: "Supporters"
+            name: "supporters"
             fields:
-              - { label: 'Name', name: 'name', widget: 'string' }
-              - {label: 'Logo', name: 'logo', widget: 'image' }
-  - name: 'pipeline'
-    label: 'Get involved'
-    folder: 'src/pipeline'
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Logo", name: "logo", widget: "image" }
+  - name: "pipeline"
+    label: "Get involved"
+    folder: "src/pipeline"
     preview_path: pipeline/{{slug}}
     create: true
     editor:
       preview: true
     fields:
-      - { name: 'layout', widget: 'hidden', default: 'layouts/post.njk' }
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Introduction', name: 'intro', widget: 'string' }
-      - { label: 'Date', name: 'date', widget: 'datetime', dateFormat: 'Do MMM YYYY', timeFormat: false }
+      - { name: "layout", widget: "hidden", default: "layouts/post.njk" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Introduction", name: "intro", widget: "string" }
+      - {
+          label: "Date",
+          name: "date",
+          widget: "datetime",
+          dateFormat: "Do MMM YYYY",
+          timeFormat: false,
+        }
       - label: "Tag"
         name: "tags"
         widget: "relation"
@@ -139,22 +210,38 @@ collections:
         searchFields: ["title"]
         valueField: "slug"
         displayFields: ["title"]
-      - { label: 'Image', name: 'image', widget: 'image' }
-      - { label: 'Image alt text', name: 'image_alt', widget: 'string', required: false}
-      - { label: 'Description', name: 'body', widget: 'markdown'}
-      - { label: 'Document link', name: 'ideas_link', widget: 'string', required: false}
-  - name: 'tips'
-    label: 'Tips'
-    folder: 'src/tips'
+      - { label: "Image", name: "image", widget: "image" }
+      - {
+          label: "Image alt text",
+          name: "image_alt",
+          widget: "string",
+          required: false,
+        }
+      - { label: "Description", name: "body", widget: "markdown" }
+      - {
+          label: "Document link",
+          name: "ideas_link",
+          widget: "string",
+          required: false,
+        }
+  - name: "tips"
+    label: "Tips"
+    folder: "src/tips"
     summary: "[{{tags}}] {{title}}  ({{day}}.{{month}}.{{year}})"
     preview_path: tips/{{slug}}
     create: true
     editor:
       preview: true
     fields:
-      - { name: 'layout', widget: 'hidden', default: 'layouts/post.njk' }
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Date', name: 'date', widget: 'datetime', dateFormat: 'Do MMM YYYY', timeFormat: false }
+      - { name: "layout", widget: "hidden", default: "layouts/post.njk" }
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Date",
+          name: "date",
+          widget: "datetime",
+          dateFormat: "Do MMM YYYY",
+          timeFormat: false,
+        }
       - label: "Tag"
         name: "tags"
         widget: "relation"
@@ -162,12 +249,17 @@ collections:
         searchFields: ["title"]
         valueField: "slug"
         displayFields: ["title"]
-      - { label: 'Image', name: 'image', widget: 'image' }
-      - { label: 'Image alt text', name: 'image_alt', widget: 'string', required: false}
-      - { label: 'Description', name: 'body', widget: 'markdown'}
-  - name: 'posts'
-    label: 'Our thinking'
-    folder: 'src/posts'
+      - { label: "Image", name: "image", widget: "image" }
+      - {
+          label: "Image alt text",
+          name: "image_alt",
+          widget: "string",
+          required: false,
+        }
+      - { label: "Description", name: "body", widget: "markdown" }
+  - name: "posts"
+    label: "Our thinking"
+    folder: "src/posts"
     preview_path: posts/{{slug}}
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -175,9 +267,15 @@ collections:
     editor:
       preview: true
     fields:
-      - { name: 'layout', widget: 'hidden', default: 'layouts/post.njk' }
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Date', name: 'date', widget: 'datetime', dateFormat: 'Do MMM YYYY', timeFormat: false }
+      - { name: "layout", widget: "hidden", default: "layouts/post.njk" }
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Date",
+          name: "date",
+          widget: "datetime",
+          dateFormat: "Do MMM YYYY",
+          timeFormat: false,
+        }
       - label: "Tag"
         name: "tags"
         widget: "relation"
@@ -185,35 +283,57 @@ collections:
         searchFields: ["title"]
         valueField: "slug"
         displayFields: ["title"]
-      - { label: 'Image', name: 'image', widget: 'image' }
-      - { label: 'Image alt text', name: 'image_alt', widget: 'string', required: false}
-      - { label: 'Description', name: 'body', widget: 'markdown'}
-  - name: 'pages'
-    label: 'Pages'
-    folder: 'src/pages'
+      - { label: "Image", name: "image", widget: "image" }
+      - {
+          label: "Image alt text",
+          name: "image_alt",
+          widget: "string",
+          required: false,
+        }
+      - { label: "Description", name: "body", widget: "markdown" }
+  - name: "pages"
+    label: "Pages"
+    folder: "src/pages"
     preview_path: pages/{{slug}}
     create: true
     editor:
       preview: true
     fields:
-      - { name: 'layout', widget: 'hidden', default: 'layouts/page.njk' }
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Date', name: 'date', widget: 'datetime', dateFormat: 'Do MMM YYYY', timeFormat: false }
-      - { label: 'Description', name: 'body', widget: 'markdown'}
-  - name: 'tags'
-    label: 'Article tags'
-    folder: 'src/tags'
+      - { name: "layout", widget: "hidden", default: "layouts/page.njk" }
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Date",
+          name: "date",
+          widget: "datetime",
+          dateFormat: "Do MMM YYYY",
+          timeFormat: false,
+        }
+      - { label: "Description", name: "body", widget: "markdown" }
+  - name: "tags"
+    label: "Article tags"
+    folder: "src/tags"
     create: true
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Intro', name: 'intro', widget: 'text', hint: 'This text will be shown on the homepage.'}
-      - { label: 'Photo', name: 'image', widget: 'image', required: false }
-      - { label: 'Description', name: 'body', widget: 'markdown', hint: 'If provided, this information will be shown on the tag page, otherwise the intro will be shown.', required: false }
-  - name: 'projects'
-    label: 'Projects'
-    folder: 'src/projects'
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Intro",
+          name: "intro",
+          widget: "text",
+          hint: "This text will be shown on the homepage.",
+        }
+      - { label: "Photo", name: "image", widget: "image", required: false }
+      - {
+          label: "Description",
+          name: "body",
+          widget: "markdown",
+          hint: "If provided, this information will be shown on the tag page, otherwise the intro will be shown.",
+          required: false,
+        }
+  - name: "projects"
+    label: "Projects"
+    folder: "src/projects"
     create: true
     editor:
       preview: false
@@ -226,23 +346,29 @@ collections:
           - { label: "Orange", value: "#f89d33" }
           - { label: "Pink", value: "#F8BDD4" }
           - { label: "Green", value: "#87ddcd" }
+          - { label: "Glass green", value: "#bcd952" }
         default: "Blue"
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Subtitle', name: 'subtitle', widget: 'text', required: false}
-      - { label: 'Image', name: 'image', widget: 'image', required: false }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Subtitle", name: "subtitle", widget: "text", required: false }
+      - { label: "Image", name: "image", widget: "image", required: false }
       - label: Intro
         name: intro
         widget: list
         max: 4
         fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - {label: 'Content', name: 'content', widget: 'markdown' }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Content", name: "content", widget: "markdown" }
       - label: Related posts
         name: posts
         widget: object
         fields:
-          - { label: 'Title', name: 'title', widget: 'string', required: false }
-          - { label: 'Subtitle', name: 'subtitle', widget: 'string', required: false }
+          - { label: "Title", name: "title", widget: "string", required: false }
+          - {
+              label: "Subtitle",
+              name: "subtitle",
+              widget: "string",
+              required: false,
+            }
           - label: "Tag"
             name: "tag"
             widget: "relation"
@@ -254,27 +380,52 @@ collections:
         name: map
         widget: object
         fields:
-          - { label: 'Title', name: 'title', widget: 'string', required: false }
-          - { label: 'Embed code', name: 'iframe', widget: 'text', required: false }
+          - { label: "Title", name: "title", widget: "string", required: false }
+          - {
+              label: "Embed code",
+              name: "iframe",
+              widget: "text",
+              required: false,
+            }
       - label: Facts
         name: facts
         widget: list
         max: 3
         fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Description', name: 'description', widget: 'markdown' }
-          - { label: 'Image', name: 'image', widget: 'image', required: false }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "markdown" }
+          - { label: "Image", name: "image", widget: "image", required: false }
       - label: Video playlist
         name: videos
         widget: object
         fields:
-          - { label: 'Title', name: 'title', widget: 'string', required: false }
-          - { label: 'Subtitle', name: 'subtitle', widget: 'string', required: false }
-          - { label: 'YouTube playlist ID', name: 'playlist', widget: 'string', required: false }
+          - { label: "Title", name: "title", widget: "string", required: false }
+          - {
+              label: "Subtitle",
+              name: "subtitle",
+              widget: "string",
+              required: false,
+            }
+          - {
+              label: "YouTube playlist ID",
+              name: "playlist",
+              widget: "string",
+              required: false,
+            }
       - label: Call to action
         name: call_to_action
         widget: object
         fields:
-          - { label: 'Title', name: 'title', widget: 'string', required: false }
-          - { label: 'Content', name: 'content', widget: 'text', required: false }
-      - { label: 'Custom CSS', name: 'custom_css', widget: 'text', required: false}
+          - { label: "Title", name: "title", widget: "string", required: false }
+          - {
+              label: "Content",
+              name: "content",
+              widget: "text",
+              required: false,
+            }
+      - {
+          label: "Custom CSS",
+          name: "custom_css",
+          widget: "text",
+          required: false,
+        }

@@ -8,6 +8,10 @@ picture {
   max-width: 100%;
 }
 
+iframe {
+  display: block;
+}
+
 img + figcaption {
   background-color: $gray;
   padding: $small-spacing/2 $base-spacing;
