@@ -7,9 +7,9 @@ image: /assets/images/glass-box.svg
 intro:
   - title: What we’re doing
     content: We want recycling glass to be something that everyone in the city does
-      and for them to know why it makes a difference.   We spent some time
+      and for them to know how it makes a difference.   We spent some time
       exploring the reasons why some people don’t recycle their glass which
-      helped us to find solution and ways to make it easier.  We’ve pulled
+      helped us to find solutions and ways to make it easier.  We’ve pulled
       together our top glass recycling tips, including a useful map to find your
       nearest glass bank, as well as some interesting facts about the glass
       industry in Yorkshire.
