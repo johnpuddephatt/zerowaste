@@ -2,8 +2,7 @@
 color: "#bcd952"
 colour: "#bcd952"
 title: "**Leeds** *glass* recycling"
-subtitle: Exploring what we can do as a city to minimise the negative impacts of
-  our clothing choices.
+subtitle: Exploring what we can do as a city to recycle more glass.
 image: /assets/images/glass-box.svg
 intro:
   - title: What we’re doing
@@ -15,8 +14,7 @@ intro:
       importance of sewing skills.  Here we share a bit of all of that, plus
       some practical tips and ideas.
   - title: Why we’re doing it
-    content:
-      In Leeds we throw away 4000 tonnes of clothing into our household bins
+    content: In Leeds we throw away 4000 tonnes of clothing into our household bins
       every year.  There are much better choices for our clothes at the end of
       life but waste is just one part of the story.  The textile industry is
       responsible for 10% of carbon emissions, a massive environmental impact.
@@ -25,8 +23,8 @@ intro:
       learning how to sew, clothes swapping with friends, upcycling a favourite
       item or doing a wardrobe audit before buying anything new.
 posts:
-  title: Fashion articles
-  subtitle: Our latest posts about zero waste fashion
+  title: Glass articles
+  subtitle: Our latest posts about glass
   tag: glass
 map:
   title: Leeds Glass Recycling Map
@@ -36,14 +34,12 @@ map:
     src="https://glass.zerowasteleeds.org.uk/"></iframe>
 facts:
   - title: Clothing creates **1.2 billion tonnes** of CO₂
-    description:
-      Every year, global emissions from textile production are equivalent
+    description: Every year, global emissions from textile production are equivalent
       to 1.2 billion tonnes of CO2, a figure that outweighs the carbon footprint
       of international flights and shipping combined.
     image: /assets/images/did-you-know.svg
   - title: "**The most sustainable clothing** is what we already own"
-    description:
-      Every year, global emissions from textile production are equivalent
+    description: Every year, global emissions from textile production are equivalent
       to 1.2 billion tonnes of CO2, a figure that outweighs the carbon footprint
       of international flights and shipping combined.
     image: /assets/images/did-you-know-2.svg
