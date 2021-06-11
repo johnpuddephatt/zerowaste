@@ -34,10 +34,8 @@ map:
     src="https://glass.zerowasteleeds.org.uk/"></iframe>
 facts:
   - title: There are **over 700 glass banks** at close to 400 locations across Leeds
-    description: By recycling your glass you're helping to save energy and reduce
-      CO2 emissions.  When recycled glass is uesd to make new glass the
-      temperature in the furnace doesn’t need to be as high and no CO2 is given
-      off from a chemical reaction within the furnace.
+    description: By recycling your glass you're helping to save energy, reduce CO2
+      emissions and support the Yorkshire glass economy.
     image: /assets/images/did-you-know.svg
   - title: Glass can be recycled over and over again **without ever losing its
       quality**
