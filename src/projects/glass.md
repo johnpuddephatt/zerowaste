@@ -24,7 +24,7 @@ intro:
       item or doing a wardrobe audit before buying anything new.
 posts:
   title: Glass articles
-  subtitle: Our latest posts about zero waste fashion
+  subtitle: Our latest posts about glass
   tag: glass
 map:
   title: Leeds Glass Recycling Map
