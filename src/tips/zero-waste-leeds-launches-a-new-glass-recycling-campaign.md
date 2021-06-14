@@ -13,8 +13,12 @@ It turns out that last year the people of Leeds recycled 37% more glass than the
 \
 Wouldn’t it be great if we could build on that by recycling even more glass this year in the 700 glass banks dotted around our city?  
 
-If you're already a regular glass recycler then we need you to shout about it, share our posts with your friends and family to encourage them to start too. Together we can make a big difference.\
-\
+If you're already a regular glass recycler then we need you to shout about it, share our posts with your friends and family to encourage them to start too. Together we can make a big difference.
+
+![](/uploads/letskeeprecycling.jpg "People in Leeds recycled 37% more glass during 2020 than in 2019")
+
+
+
 To help make it easier, we’ll be launching later this week an easily searchable glass bank map so you can find the closest bank to you, we’ll also be sharing some practical tips and info.  For example did you know that you don’t have to colour sort your glass anymore, just throw it all in or that you can leave bottle tops on?\
 \
 We’ll be giving all the reasons why using recycled glass to make new glass is much better for the environment and telling the story of the Yorkshire glass industry.  A bottle or jar you recycle in a bank here in Leeds could be back on the shelf in your local shop in just a few weeks without ever having left Yorkshire!\
