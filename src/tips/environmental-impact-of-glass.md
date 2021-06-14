@@ -2,7 +2,8 @@
 layout: layouts/post.njk
 title: Environmental impact of glass
 date: 2021-05-25T14:18:57.092Z
-tags: recycling
+tags:
+  - glass
 image: /uploads/20-100.jpg
 ---
 Why is it good for the environment if you recycle your glass?
