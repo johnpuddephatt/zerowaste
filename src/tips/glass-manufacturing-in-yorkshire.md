@@ -2,7 +2,8 @@
 layout: layouts/post.njk
 title: Glass manufacturing in Yorkshire
 date: 2021-05-25T14:22:00.335Z
-tags: recycling
+tags:
+  - glass
 image: /uploads/1-100-3-.jpg
 ---
 Did you know that glass manufacturing is big in Yorkshire - and has been for hundreds of years?
