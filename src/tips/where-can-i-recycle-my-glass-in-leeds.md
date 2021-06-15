@@ -8,7 +8,7 @@ tags:
 image: /uploads/20-100.jpg
 image_alt: ""
 ---
-Glass isn’t currently collected from our homes in Leeds. However, there are more than 700 glass banks across Leeds.
+Glass isn’t currently collected from our homes in Leeds. However, there are more than 700 glass banks across Leeds, at close to 400 locations.
 
 You can find your nearest glass bank [here](https://www.leeds.gov.uk/where-i-live) (choose glass banks in the drop down list).
 
