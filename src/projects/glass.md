@@ -2,7 +2,7 @@
 color: "#bcd952"
 colour: "#bcd952"
 title: "**Leeds** *glass* recycling"
-subtitle: Exploring what we can do as a city to recycle more glass.
+subtitle: Exploring what we can do as a city to keep recycling more glass.
 image: /assets/images/glass-box.svg
 intro:
   - title: What we’re doing
@@ -44,7 +44,7 @@ facts:
 call_to_action:
   title: Join the conversation
   content: >
-    Follow us on Instagram and Twitter. 
+    Follow us on Instagram, Twitter, Facebook and LinkedIn. 
 
     If you'd like to support our work or collaborate with us, please get in touch by emailing info@zerowasteleeds.org.uk.
 custom_css: >
