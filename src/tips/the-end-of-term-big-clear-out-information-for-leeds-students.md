@@ -51,3 +51,7 @@ The Big Clear Out relies on volunteers - if you might have a few hours to spare 
 If you're outside of the collection area, or you don't get round to sorting out your stuff to put into a blue bag, then there are other options for donating good quality items.  We've got a list of charity shops, plus other options like local online giveaway sites [here](https://www.zerowasteleeds.org.uk/tips/donating-and-buying-secondhand-stuff/).  \
 \
 There's information here about [how to book a slot ](https://www.leeds.gov.uk/residents/bins-and-recycling/recycling-sites) at a local Household Waste Site - for most students living in LS6 the nearest site will be in Kirkstall or Meanwood.  Don't forget there's a [Revive reuse shop](http://www.reviveleeds.co.uk/) at the Kirkstall site which accepts donations (you don't need to book to drop off donations there).
+
+# Glass recycling
+
+If you have glass bottles and jars to recycle, there are glass banks across LS6 - including several banks around Woodhouse Moor - you can find your nearest glass bank on [our map](https://www.zerowasteleeds.org.uk/projects/leeds-glass-recycling/#map).
