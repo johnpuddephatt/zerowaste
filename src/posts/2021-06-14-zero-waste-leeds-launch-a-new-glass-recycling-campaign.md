@@ -19,6 +19,6 @@ To help make it easier, we’ll be launching later this week an easily searchabl
 \
 We’ll be giving all the reasons why using recycled glass to make new glass is much better for the environment and telling the story of the Yorkshire glass industry.  A bottle or jar you recycle in a bank here in Leeds could be back on the shelf in your local shop in just a few weeks without ever having left Yorkshire!\
 \
-Keep an eye out on our social media channels - [Instagram](https://www.instagram.com/zerowasteleeds/), [Facebook](facebook.com/zerowasteleeds/) and [Twitter](https://twitter.com/zerowasteleeds?lang=en) - for competitions, quizzes and plenty more!
+Keep an eye out on our social media channels - [Instagram](https://www.instagram.com/zerowasteleeds/), [Facebook](facebook.com/zerowasteleeds/) and [Twitter](https://twitter.com/zerowasteleeds?lang=en) - for competitions, quizzes and plenty more!  There's lots more [on our website](https://www.zerowasteleeds.org.uk/projects/leeds-glass-recycling/) too.  
 
 We'd like to say a big thank you to [Friends of Glass](https://www.friendsofglass.com/), [Ardagh Glass](https://www.ardaghgroup.com/) and [Allied Glass](https://www.allied-glass.com/) for funding this campaign.
