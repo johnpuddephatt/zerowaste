@@ -7,7 +7,7 @@ image: /assets/images/glass-box.svg
 intro:
   - title: What we’re doing
     content: We want recycling glass to be something that everyone in the city does
-      and for them to understand the difference it makes.   We spent some time
+      and for us all to understand the difference it makes.   We spent some time
       exploring the reasons why some people don’t recycle their glass which
       helped us to find solutions and ways to make it easier.  We’ve pulled
       together our top glass recycling tips, including a useful map to find your
@@ -18,9 +18,9 @@ intro:
       before.  We think that’s amazing! We want to build on that success and
       continue to increase the amount of glass recycled in Leeds. Why? Using
       recycled glass bottles and jars to make new glass is much more
-      environmentally friendly - the temperature in the furnace doesn’t need to
-      be quite so high and no CO2 is released. It also helps to support a
-      thriving local Yorkshire circular glass economy.
+      environmentally friendly - less energy is used when new glass products are
+      made with recycled glass, and less CO2 is released. It also helps to
+      support a thriving local Yorkshire circular glass economy.
 posts:
   title: Glass articles
   subtitle: Our latest posts about glass
