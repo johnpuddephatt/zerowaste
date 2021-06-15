@@ -39,7 +39,7 @@ Ceramics - crockery/earthenware
 
 ![](/uploads/inkedglass-cant-be-recycled_li.jpg)
 
-## How to recycle
+# How to recycle
 
 * Give your bottles and jars a quick rinse.  Empty out all the liquid. 
 * Put lids and bottle tops back on.  They will be taken out in the sorting process and recycled separately.  Remove any corks from bottles and put them in your green household waste recycling bin. 
@@ -48,8 +48,8 @@ Ceramics - crockery/earthenware
 * Put your glass in any of the glass banks. There is no need to colour sort it - that will be done at the recycling plant.   
 * Take your boxes/bags back home with you to reuse next time.  
 
-## THANK YOU FOR RECYCLING YOUR GLASS!
+# Thank you for recycling your glass!
 
 You're helping to save energy, reduce landfill/incineration and support the local economy.  
 
-To find out more about glass recycling in Leeds visit our [Zero Waste Leeds glass recycling hub.  ](https://www.zerowasteleeds.org.uk/projects/leeds-glass-recycling/)
+To find out more about glass recycling in Leeds visit our [Zero Waste Leeds glass recycling page.  ](https://www.zerowasteleeds.org.uk/projects/leeds-glass-recycling/)
