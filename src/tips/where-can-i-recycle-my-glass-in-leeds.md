@@ -24,6 +24,6 @@ The glass you recycle in Leeds gets taken to a facility run by URM in South York
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FHQ9O3dR6hQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Keep an eye out over the next few weeks for [a new campaign](https://www.zerowasteleeds.org.uk/projects/leeds-glass-recycling/) we're launching - focusing on the environmental impacts of recycling your glass.
+You can find out lots more about the difference it makes when we all recycle our glass in [a new campaign](https://www.zerowasteleeds.org.uk/projects/leeds-glass-recycling/) we've just launched - focusing on the environmental impacts of recycling your glass.
 
 ![Last year we recycled 37% more glass at glass banks in Leeds, compared with 2019. ](/uploads/16-100.jpg "Last year we recycled 37% more glass at glass banks in Leeds, compared with 2019. ")
