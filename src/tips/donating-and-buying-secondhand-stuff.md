@@ -4,7 +4,7 @@ title: Donating and buying secondhand stuff
 date: 2020-05-26T16:34:52.004Z
 tags:
   - stuff
-image: /uploads/online-sharing.jpg
+image: /uploads/secondhandfurniture.png
 ---
 With so many options to buy and donate secondhand stuff in Leeds, there's really very little need to buy new!
 
