@@ -88,19 +88,19 @@ C.R.A.P (Conserving Resources Associating People) [](https://www.facebook.com/gr
 
 [Free & Wanted Items in Leeds](https://www.facebook.com/groups/317082851664557)
 
-[Free to Good Homes Leeds](<https://www.facebook.com/groups/620416344963032/>) 
+[Free to Good Homes Leeds](https://www.facebook.com/groups/620416344963032/) 
 
 [Free to Collect...LEEDS (free item's only) ](https://www.facebook.com/groups/442708215859751/)
 
-[Leeds Freecycle (Give Away, Buy & Recycle)](<https://www.facebook.com/groups/LeedsHelp/>)  [](https://www.facebook.com/groups/LeedsHelp/)
+[Leeds Freecycle (Give Away, Buy & Recycle)](https://www.facebook.com/groups/LeedsHelp/)  [](https://www.facebook.com/groups/LeedsHelp/)
 
-[LS12 Swap Shop](<https://www.facebook.com/groups/287012255702808/>) [](https://www.facebook.com/groups/287012255702808/)
+[LS12 Swap Shop](https://www.facebook.com/groups/287012255702808/) [](https://www.facebook.com/groups/287012255702808/)
 
-[Free Free Free Leeds!!!](<https://www.facebook.com/groups/5616276005064499/>) [](https://www.facebook.com/groups/5616276005064499/)
+[Free Free Free Leeds!!!](https://www.facebook.com/groups/5616276005064499/) [](https://www.facebook.com/groups/5616276005064499/)
 
-[Free Stuff in Leeds](<https://www.facebook.com/groups/b.gaertner/>) [](https://www.facebook.com/groups/b.gaertner/)
+[Free Stuff in Leeds](https://www.facebook.com/groups/b.gaertner/) [](https://www.facebook.com/groups/b.gaertner/)
 
-**[Chapel Allerton Buy, Sell & Giveaway by cara](*<https://www.facebook.com/groups/197152167315355/>*) [](https://www.facebook.com/groups/197152167315355/)**
+[Chapel Allerton Buy, Sell & Giveaway by cara](*<https://www.facebook.com/groups/197152167315355/>*) [](https://www.facebook.com/groups/197152167315355/)
 
 <br>
 
