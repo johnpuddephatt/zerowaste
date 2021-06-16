@@ -10,7 +10,7 @@ image_alt: ""
 ---
 Glass isn’t currently collected from our homes in Leeds. However, there are more than 700 glass banks across Leeds, at close to 400 locations.
 
-You can find your nearest glass bank [here](https://www.leeds.gov.uk/where-i-live) (choose glass banks in the drop down list).
+You can find your nearest glass bank [here](https://glass.zerowasteleeds.org.uk/#/). 
 
 The Leeds Bins app on [iOS](https://apps.apple.com/app/apple-store/id1013036432?pt=2305324&ct=zerowasteleeds-glass-campaign&mt=8) and [Android](https://play.google.com/store/apps/details?id=com.imactivate.bins&referrer=utm_source%3Dzerowasteleeds) also lets you know where your nearest glass bins are.
 
