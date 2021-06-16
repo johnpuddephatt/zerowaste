@@ -4,9 +4,8 @@ title: Donating and buying secondhand stuff
 date: 2020-05-26T16:34:52.004Z
 tags:
   - stuff
-image: /uploads/secondhandfurniture.png
+image: /uploads/online-sharing.jpg
 ---
-
 With so many options to buy and donate secondhand stuff in Leeds, there's really very little need to buy new!
 
 Many reuse organisations in Leeds are run by charities or social enterprises, so by buying from them, not only are you saving precious environmental resources, but you are also often supporting a really good cause.
@@ -79,13 +78,29 @@ There are plenty of online sharing communities that help you to give away unwant
 
 [Buy Now't LS6 - Library of Things](https://www.facebook.com/BuynowtLS6)
 
-C.R.A.P (Conserving Resources Associating People) [](https://www.facebook.com/groups/449919929757315/?hc_location=ufi)[LS6](https://www.facebook.com/groups/2007182396093415), [LS10 & LS11](https://www.facebook.com/groups/449919929757315/?hc_location=ufi), [LS12](https://www.facebook.com/groups/435646784511468), [LS15](https://www.facebook.com/groups/129211562264818), [](https://www.facebook.com/groups/129211562264818)[LS16](https://www.facebook.com/groups/223351169325622), [LS17](https://www.facebook.com/groups/2897575800475613/) and [LS25](https://www.facebook.com/groups/153089699914831) [](https://www.facebook.com/groups/153089699914831)
+C.R.A.P (Conserving Resources Associating People) [](https://www.facebook.com/groups/449919929757315/?hc_location=ufi)[LS6](https://www.facebook.com/groups/2007182396093415), [LS10 & LS11](https://www.facebook.com/groups/449919929757315/?hc_location=ufi), [LS12](https://www.facebook.com/groups/435646784511468), [LS15](https://www.facebook.com/groups/129211562264818), [](https://www.facebook.com/groups/129211562264818)[LS16](https://www.facebook.com/groups/223351169325622), [LS17](https://www.facebook.com/groups/2897575800475613/) and [LS25](https://www.facebook.com/groups/153089699914831) 
+
+[CRAP\* South Leeds (\*Conserving Resources Associating People)](https://www.facebook.com/groups/449919929757315/)
 
 [Kirkstall Recycle](https://www.facebook.com/​groups/224197375876183)
 
 [Leeds Freecycle](https://www.facebook.com/groups/LeedsHelp/)
 
 [Free & Wanted Items in Leeds](https://www.facebook.com/groups/317082851664557)
+
+[Free to Good Homes Leeds](<https://www.facebook.com/groups/620416344963032/>) 
+
+[Free to Collect...LEEDS (free item's only) ](https://www.facebook.com/groups/442708215859751/)
+
+[Leeds Freecycle (Give Away, Buy & Recycle)](<https://www.facebook.com/groups/LeedsHelp/>)  [](https://www.facebook.com/groups/LeedsHelp/)
+
+[LS12 Swap Shop](<https://www.facebook.com/groups/287012255702808/>) [](https://www.facebook.com/groups/287012255702808/)
+
+[Free Free Free Leeds!!!](<https://www.facebook.com/groups/5616276005064499/>) [](https://www.facebook.com/groups/5616276005064499/)
+
+[Free Stuff in Leeds](<https://www.facebook.com/groups/b.gaertner/>) [](https://www.facebook.com/groups/b.gaertner/)
+
+**[Chapel Allerton Buy, Sell & Giveaway by cara](*<https://www.facebook.com/groups/197152167315355/>*) [](https://www.facebook.com/groups/197152167315355/)**
 
 <br>
 
