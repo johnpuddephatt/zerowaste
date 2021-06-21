@@ -30,7 +30,7 @@ All this recycling results in significant reductions in CO2 emissions - with the
 
 So it’s important that we play our part - to keep the Yorkshire glass recycling sector well supplied with recycled glass, for making new glass products.
 
-The glass industry are so keen to keep their furnaces topped up with recycled glass that they have funded this campaign - to encourage people in Leeds to keep recycling.  Thank you to Friends of Glass, Allied Glass and Ardagh Glass for your support!
+The glass industry are so keen to keep their furnaces topped up with recycled glass that they have funded this campaign - to encourage people in Leeds to keep recycling.  Thank you to [Friends of Glass](https://www.friendsofglass.com/), [Allied Glass](https://www.allied-glass.com/) and [Ardagh Glass](https://www.ardaghgroup.com/) for your support!
 
 You can find your nearest glass bank [on our map](https://www.zerowasteleeds.org.uk/projects/leeds-glass-recycling/#map) - where you can also find out how many bottles and jars were recycled near you during 2020 - and the environmental impact of all that recycling.
 
