@@ -42,14 +42,14 @@ Ceramics - crockery/earthenware
 # How to recycle
 
 * Give your bottles and jars a quick rinse.  Empty out all the liquid. 
-* Put lids and bottle tops back on.  They will be taken out in the sorting process and recycled separately.  Remove any corks from bottles and put them in your green household waste recycling bin. 
+* Put metal lids and bottle tops back on.  They will be taken out in the sorting process and recycled separately.  
 * Put your bottles and jars in a reusable bag or box, ready to take to one of the 377 glass bank sites across the city.  
-* Find your closest glass recycling site on our [glass bank map](https://glass.zerowasteleeds.org.uk/#/).  Many people are within 500m of one - just a third of a mile. 
-* Put your glass in any of the glass banks. There is no need to colour sort it - that will be done at the recycling plant.   
+* Find your closest glass recycling site on our [glass bank map](https://glass.zerowasteleeds.org.uk/#/).  Many of us are within 500 metres of one - just a third of a mile. 
+* Put your glass in any of the glass banks. There is no need to colour sort it - that will be done by a clever machine at [the recycling plant in Knottingley](https://www.urmgroup.co.uk/about-us/).   
 * Take your boxes/bags back home with you to reuse next time.  
 
 # Thank you for recycling your glass!
 
-You're helping to save energy, reduce landfill/incineration and support the local economy.  
+You're helping to save energy, reduce waste and support jobs in the local glass industry.  
 
 To find out more about glass recycling in Leeds visit our [Zero Waste Leeds glass recycling page.  ](https://www.zerowasteleeds.org.uk/projects/leeds-glass-recycling/)
