@@ -1,29 +1,40 @@
 ---
 layout: layouts/post.njk
 title: Leeds School Uniform Exchange
-date: 2020-07-17T14:00:24.464Z
+date: 2021-06-21T13:59:36.807Z
 tags:
   - stuff
-image: /uploads/schooluniformimage.png
-image_alt: Kids running in school uniform
+image: /uploads/artboard-15-100.jpg
+image_alt: Leeds School Uniform Exchange
 ---
+We are doing all we can to make it as easy as possible for people in Leeds to share good quality, free, second hand school uniform.
 
-We’re building a movement to help Leeds become a Zero Waste City by 2030. As part of that we’ve launched a new project to support the development of a network of uniform reuse schemes across Leeds.
+With support from funders including Leeds City Council and [Leeds Community Foundation](https://leedscf.org.uk/)'s Jimbo's Fund we have developed Leeds School Uniform Exchange - supporting people, community groups and schools across Leeds to set up online or pop-up school uniform exchanges.
 
-We would like to say a massive thank you to Leeds City Council and [Leeds Community Foundation](https://leedscf.org.uk/)'s Jimbo's Fund for their support for this project.
+We're delighted to say that as we approach the first birthday of Leeds School Uniform Exchange, there are close to 100 exchanges active in our city - a mix of Facebook groups organised by parents, lost property redistribution schemes run by schools, and pop up exchanges run by local community groups.
 
-To kick things off, we pulled together a [map of school uniform re-use schemes in Leeds.](https://leedsuniformexchange.org.uk/map/) If you know of any school uniform reuse schemes that we have missed, please let us know [here](https://leedsuniformexchange.org.uk/contact/).
 
-![](/uploads/lsue-website.png)
 
-If there is not currently a uniform reuse scheme in place at your school, we have developed some inspiration guides for [setting up a Facebook/WhatsApp group](https://issuu.com/zerowasteleeds/docs/how_to_guide_-_facebook_or_whatsapp__6_) or a [full redistribution scheme.](https://issuu.com/zerowasteleeds/docs/school_community_group_or_involved_parent)
+![We love second hand ](/uploads/artboard-4-100.jpg "Our aim is to make second hand school uniform first choice")
 
-<iframe allowfullscreen="true" style="border:none;width:100%;height:326px;" src="//e.issuu.com/embed.html?d=how_to_guide_-_facebook_or_whatsapp__6_&u=zerowasteleeds"></iframe>
 
-<iframe allowfullscreen="true" style="border:none;width:100%;height:326px;" src="//e.issuu.com/embed.html?d=school_community_group_or_involved_parent&u=zerowasteleeds"></iframe>
 
-Keep an eye out on the dedicated Leeds School Uniform Exchange [website](https://leedsuniformexchange.org.uk/) and [Facebook group](https://www.facebook.com/groups/603050533660854/permalink/605410550091519/?notif_id=1593425728610333&notif_t=group_description_change) on for updates.
+To find out if there's an exchange for your school, have a look at [our Leeds School Uniform Exchange website](https://leedsuniformexchange.org.uk/) - where you'll find [a searchable map](https://leedsuniformexchange.org.uk/map/).  
 
-For good quality unbranded school uniform like plain shirts, trousers, skirts etc., most charities will also accept these. See our [Leeds Fashion map](https://map.zerowasteleeds.org.uk/#/) below. And for uniform that is worn-out and not reusable, you can recycle it at a textile bank - find your nearest on the map below.
+As well as lots of [Facebook groups](https://leedsuniformexchange.org.uk/places/category/facebook-pages/) for specific schools, we've got a [Leeds School Uniform Exchange Facebook group](https://x.facebook.com/groups/603050533660854?bac=MTYyMDExNTMzMDo3OTU3MDcyMDEwNjE4NTI6Nzk1NzA3MjAxMDYxODUyLDAsMDoyMDpLdz09&multi_permalinks) - which has over 1500 members.  That's a great place for asking for, or offering, free, good quality school uniform - particularly if either there isn't an exchange for your school, or if you haven't been able to find what you need through your local exchange.
 
-<iframe scrolling="false" width="full" frameborder="0" height="80" style="height: 85vh; width: 100%;" src="https://zero-waste-leeds-fashion.netlify.app"></iframe>
+# Nothing at your school?  Can we help you to set something up?
+
+We've found that the easiest way to encourage more sharing of school uniform is to set up a Facebook group for your school - and we've shared lots of top tips on how to do that [in our guide](https://issuu.com/zerowasteleeds/docs/how_to_guide_-_facebook_or_whatsapp__6_).
+
+We've also written a guide for how to set up a project to collect and redistribute school uniform - you can read that [here](https://issuu.com/zerowasteleeds/docs/school_community_group_or_involved_parent).  
+
+If you've got any questions, [please get in touch](<mailto: info@zerowasteleeds.org.uk>) and we'll do our best to help.  
+
+
+
+
+
+
+
+![]()
