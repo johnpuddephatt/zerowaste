@@ -14,7 +14,7 @@ They can present a fire hazard in the bin wagon - and throwing them away is also
 \
 So what can you do? [](https://www.leeds.gov.uk/residents/bins-and-recycling/electricals)[There's more information on the Council website](https://www.leeds.gov.uk/residents/bins-and-recycling/electricals) - and there's also a campaign, Recycle Your Electricals, run by Material Focus, which has[ a map which tells you where you can recycle electrical items near you](https://www.recycleyourelectricals.org.uk/electrical-recycling-near-me/) - including a number of recently installed small-electricals banks in neighbourhoods across Leeds.
 
-We recently spoke with Scott Butler, Executive Director of Material Focus, to find out more about the Recycle Your Electricals campaign.
+We recently spoke with Scott Butler, Executive Director of [Material Focus](https://www.recycleyourelectricals.org.uk/about-material-focus/), to find out more about the Recycle Your Electricals campaign.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D_nNocsdqgw?start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
