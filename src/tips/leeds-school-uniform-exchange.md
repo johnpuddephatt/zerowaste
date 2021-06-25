@@ -4,7 +4,6 @@ title: Leeds School Uniform Exchange
 date: 2021-06-21T13:59:36.807Z
 tags:
   - stuff
-  - school-uniform
 image: /uploads/artboard-15-100.jpg
 image_alt: Leeds School Uniform Exchange
 ---
