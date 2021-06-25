@@ -4,7 +4,7 @@ title: How do I recycle electrical items in Leeds?
 date: 2021-06-25T14:11:59.737Z
 tags:
   - recycling
-image: /uploads/mc_doorbox_02.jpg
+image: /uploads/screen-shot-2021-06-25-at-15.21.00.png
 image_alt: Please don't put small electrical items in your black bin - they can
   cause a fire hazard.
 ---
