@@ -1,26 +1,25 @@
 ---
 color: "#bcd952"
 title: "**Leeds** *glass* recycling"
-subtitle: Exploring what we can do as a city to recycle more glass.
+subtitle: Exploring what we can do as a city to keep recycling more glass.
 image: /assets/images/glass-box.svg
 intro:
   - title: What we’re doing
-    content: Many of us want to make more sustainable clothing choices but don’t
-      know where to start. We’ve launched Leeds Fashion Futures to explore how
-      as a city we can do that.  We’ve looked at what makes Leeds unique and
-      spoken to the many people involved in clothing and textiles. Valuing our
-      clothes was a major theme, plus Leeds' rich textile heritage, and the
-      importance of sewing skills.  Here we share a bit of all of that, plus
-      some practical tips and ideas.
+    content: We want recycling glass to be something that everyone in the city does
+      and for us all to understand the difference it makes.   We spent some time
+      exploring the reasons why some people don’t recycle their glass which
+      helped us to find solutions and ways to make it easier.  We’ve pulled
+      together our top glass recycling tips, including a useful map to find your
+      nearest glass bank, as well as some interesting facts about the glass
+      industry in Yorkshire.
   - title: Why we’re doing it
-    content: In Leeds we throw away 4000 tonnes of clothing into our household bins
-      every year.  There are much better choices for our clothes at the end of
-      life but waste is just one part of the story.  The textile industry is
-      responsible for 10% of carbon emissions, a massive environmental impact.
-      Protecting our planet for future generations is important and when it
-      comes to clothes, there's plenty we can all do. Most are fun too like
-      learning how to sew, clothes swapping with friends, upcycling a favourite
-      item or doing a wardrobe audit before buying anything new.
+    content: Last year the people of Leeds recycled 37% more glass than the year
+      before.  We think that’s amazing! We want to build on that success and
+      continue to increase the amount of glass recycled in Leeds. Why? Using
+      recycled glass bottles and jars to make new glass is much more
+      environmentally friendly - less energy is used when new glass products are
+      made with recycled glass, and less CO2 is released. It also helps to
+      support a thriving local Yorkshire circular glass economy.
 posts:
   title: Glass articles
   subtitle: Our latest posts about glass
@@ -33,13 +32,10 @@ map:
     src="https://glass.zerowasteleeds.org.uk/"></iframe>
 facts:
   - title: There are **over 700 glass banks** at close to 400 locations across Leeds
-    description: By recycling your glass you're helping to save energy and reduce
-      CO2 emissions.  Using recycled glass bottles and jars to make new glass is
-      much more environmentally friendly than using virgin raw materials - the
-      temperature in the furnace doesn’t need to be quite so high and no CO2 is
-      given off from a chemical reaction within the furnace.
+    description: By recycling your glass you're helping to save energy, reduce CO2
+      emissions and support the Yorkshire glass economy.
     image: /assets/images/did-you-know.svg
-  - title: Glass can be recycled over and over again **without every losing its
+  - title: Glass can be recycled over and over again **without ever losing its
       quality**
     description: A glass bottle or jar that you recycle today could be back on the
       shelf in your local shop in just a few weeks.
@@ -47,7 +43,7 @@ facts:
 call_to_action:
   title: Join the conversation
   content: >
-    Follow us on Instagram and Twitter. 
+    Follow us on Instagram, Twitter, Facebook and LinkedIn. 
 
     If you'd like to support our work or collaborate with us, please get in touch by emailing info@zerowasteleeds.org.uk.
 custom_css: >

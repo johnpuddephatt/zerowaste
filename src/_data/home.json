@@ -10,11 +10,11 @@
   "intro": {
     "title": "Our projects",
     "subtitle": "What we’re currently working on",
-    "headline": "Leeds Fashion Futures",
-    "description": "We’re exploring how as a city we can reduce the environmental impact of our clothing choices. \n\nIn partnership with the RSA, we’ve been uncovering Leeds' unique relationship with clothing and textiles, its rich heritage, and the talent, creativity and knowledge that exists now.  From the grassroots groups gathering in communities to share skills, to the mills where world-leading luxury fabrics are created to the young designers committed to working sustainably, there's so much happening here in Leeds. \n\nWhat could the future hold? And how do we make it easy for people to make sustainable fashion choices? Find out what we're doing as part of #LeedsFashionFutures.",
+    "headline": "Glass recycling campaign",
+    "description": "People in Leeds recycled 37% more glass last year, compared to 2019 - that's over 3000 tonnes more! Nice one Leeds! \n\nJoin our campaign - funded by Friends of Glass, Ardagh Glass and Allied Glass - to get even more people recycling glass in our city.  Find out what happens to your glass after it goes in the bank, why it's important to recycle it, and search our map to find your nearest glass bank.",
     "link": {
       "text": "Find out more",
-      "url": "/projects/leeds-fashion-futures/"
+      "url": "https://www.zerowasteleeds.org.uk/projects/leeds-glass-recycling/"
     }
   },
   "get_involved": {
@@ -44,17 +44,17 @@
   "projects": [
     {
       "title": "School uniform re-use",
-      "description": "We want to make second-hand school uniform first choice in Leeds.  Our Leeds School Uniform Exchange project is supporting people across the city to swap uniform at their school or in their local community.",
+      "description": "We're helping to make second-hand school uniform the first choice in Leeds.  Our Leeds School Uniform Exchange project is supporting people across the city to swap uniform at their school or in their local community.",
       "link": {
         "text": "Find out more",
-        "url": "https://www.zerowasteleeds.org.uk/posts/leeds-school-uniform-exchange/"
+        "url": "https://www.zerowasteleeds.org.uk/tips/leeds-school-uniform-exchange/"
       }
     },
     {
-      "title": "We're recruiting!",
-      "description": "We're currently looking to employ a Communications and Marketing Co-ordinator, to help us to build our zero waste movement.  You can find out more here.",
+      "title": "Leeds Fashion Futures",
+      "description": "We’re exploring how as a city we can reduce the environmental impact of our clothing choices.\n\nWhat could the future hold? And how do we make it easy for people to make sustainable fashion choices? Find out what we're doing as part of #LeedsFashionFutures.",
       "link": {
-        "url": "https://www.zerowasteleeds.org.uk/pages/were-recruiting/",
+        "url": "https://www.zerowasteleeds.org.uk/projects/leeds-fashion-futures/",
         "text": "Find out more"
       }
     }

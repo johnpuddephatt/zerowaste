@@ -33,11 +33,13 @@
 
     &--image {
       position: relative;
-      width: 12 * $base-spacing;
+      // width: 12 * $base-spacing;
+      max-width: 17.5 * $base-spacing;
+      max-height: 20 * $base-spacing;
       height: auto;
       margin-left: auto;
       margin-right: auto;
-      max-width: 50vw;
+      // max-width: 50vw;
       margin-top: $base-spacing;
 
       @media screen and (min-width: $medium-screen) {

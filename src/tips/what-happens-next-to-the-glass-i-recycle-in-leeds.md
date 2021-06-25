@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: What happens next to the glass I recycle in Leeds?
-date: 2020-06-12T15:41:03.707Z
+date: 2021-06-14T12:54:34.519Z
 tags:
   - glass
   - recycling
@@ -10,9 +10,7 @@ image_alt: Gill Coupland from Zero Waste Leeds talking to Phil Bodmer on BBC Loo
 ---
 Have you ever wondered what happens next to the glass that you recycle in one of Leeds' 700 bottle banks?
 
-
-
-We recently featured in a BBC Look North piece which followed the journey of bottles and jars that were recycled in Leeds - to a plant in South Yorkshire where they are processed - to be made into new glass products.
+Last year we featured in a BBC Look North piece which followed the journey of bottles and jars that were recycled in Leeds - to a plant in South Yorkshire where they are processed - to be made into new glass products.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FHQ9O3dR6hQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
