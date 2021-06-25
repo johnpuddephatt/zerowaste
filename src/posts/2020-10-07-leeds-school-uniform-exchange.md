@@ -4,6 +4,7 @@ title: Leeds School Uniform Exchange
 date: 2020-11-11T10:23:05.896Z
 tags:
   - stuff
+  - school-uniform
 image: /uploads/copy-of-school-uniform-facebook-cover-photos.png
 image_alt: Leeds School Uniform Exchange
 ---

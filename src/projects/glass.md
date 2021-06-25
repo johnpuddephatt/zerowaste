@@ -1,6 +1,5 @@
 ---
 color: "#bcd952"
-colour: "#bcd952"
 title: "**Leeds** *glass* recycling"
 subtitle: Exploring what we can do as a city to recycle more glass.
 image: /assets/images/glass-box.svg

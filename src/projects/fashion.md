@@ -1,6 +1,5 @@
 ---
 color: "#87ddcd"
-colour: "#87ddcd"
 title: "**Leeds** *fashion* futures"
 subtitle: Exploring what we can do as a city to minimise the negative impacts of
   our clothing choices.

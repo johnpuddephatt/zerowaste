@@ -4,6 +4,7 @@ title: Let's make second-hand uniform the first choice in Leeds
 date: 2020-06-30T12:48:52.129Z
 tags:
   - stuff
+  - school-uniform
 image: /uploads/schoolkidsuniform1.png
 image_alt: Image of schoolchildren running
 ---

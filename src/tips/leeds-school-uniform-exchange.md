@@ -4,6 +4,7 @@ title: Leeds School Uniform Exchange
 date: 2020-07-17T14:00:24.464Z
 tags:
   - stuff
+  - school-uniform
 image: /uploads/schooluniformimage.png
 image_alt: Kids running in school uniform
 ---

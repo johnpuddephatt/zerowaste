@@ -342,7 +342,7 @@ collections:
       preview: false
     fields:
       - label: "Colour"
-        name: "colour"
+        name: "color"
         widget: "select"
         options:
           - { label: "Blue", value: "#377780" }

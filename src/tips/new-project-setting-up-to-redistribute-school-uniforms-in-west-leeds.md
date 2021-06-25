@@ -4,6 +4,7 @@ title: New project to redistribute school uniforms in west Leeds
 date: 2020-07-10T10:59:47.973Z
 tags:
   - stuff
+  - school-uniform
 image: /uploads/schooluniformprojectiimage1.png
 image_alt: Children running at school
 ---

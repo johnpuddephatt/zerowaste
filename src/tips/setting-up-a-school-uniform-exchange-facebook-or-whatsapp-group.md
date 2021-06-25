@@ -4,6 +4,7 @@ title: Setting up a school uniform exchange - Facebook or WhatsApp group
 date: 2020-08-13T12:54:10.111Z
 tags:
   - stuff
+  - school-uniform
 image: /uploads/school-uniform-computers.png
 ---
 
