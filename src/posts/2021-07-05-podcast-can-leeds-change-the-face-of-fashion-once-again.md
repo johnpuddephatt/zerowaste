@@ -71,9 +71,9 @@ The David Attenborough clip was taken from A Life on Our Planet (film entertainm
 
 <!--EndFragment-->
 
-<hr>
+<hr><br>
 
-# Themes
+## Themes
 
 This episode explores three themes: the heritage of fashion in Leeds, skills and resources and valuing our clothing. Listen to the podcast clips from each of the themes below.
 
