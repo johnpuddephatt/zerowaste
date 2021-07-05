@@ -13,6 +13,8 @@ This episode explores three themes: the heritage of fashion in Leeds, skills and
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1072916218&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-210485720" title="ZeroWasteLeeds" target="_blank" style="color: #cccccc; text-decoration: none;">ZeroWasteLeeds</a> · <a href="https://soundcloud.com/user-210485720/leeds-fashion-futures" title="Leeds Fashion Futures: can Leeds, once again, change the face of fashion?" target="_blank" style="color: #cccccc; text-decoration: none;">Leeds Fashion Futures: can Leeds, once again, change the face of fashion?</a></div>
 
+<iframe src="https://drive.google.com/file/d/1qaUNYGFC45d8VgozApO3UM3JQItsx2Ms/preview" width="640" height="300" allow="autoplay"></iframe>
+
 <!--EndFragment-->
 
 ### Peg is joined by voices from across the clothing, textile and fashion world, including
@@ -73,13 +75,9 @@ The David Attenborough clip was taken from A Life on Our Planet (film entertainm
 
 <hr><br>
 
-
-
 ## Themes
 
 This episode explores three themes: the heritage of fashion in Leeds, skills and resources and valuing our clothing. Listen to the podcast clips from each of the themes below.
-
-
 
 ##### Heritage of Fashion in Leeds
 
@@ -97,8 +95,6 @@ Zero Waste Leeds and the RSA have been working closely with Leeds Civic Society,
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MAAZNVpg5zM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
 ##### Skills and Resources
 
 Skills and Resources is another strand that has been identified as being really important to the Leeds Fashion Futures project. Peg talks to Dawn Wood, founder and CEO of [Fabrication Crafts](https://www.fabric-ation.co.uk/), and Jude Smallwood, a sewing teacher in Leeds, about the benefits of sharing skills and providing resources for people to make more sustainable fashion choices.
@@ -108,8 +104,6 @@ Dawn talks about the [Leeds Fashion Map](https://map.zerowasteleeds.org.uk/#/) w
 Jude talks about how from her experience, sewing skills in students at school are very limited. However, when they do pick up new skills the impact is massive. She says that the pride on their faces when they have produced something using their own hands is second to none.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yCUTI1_JWro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 ##### Valuing our clothing
 
