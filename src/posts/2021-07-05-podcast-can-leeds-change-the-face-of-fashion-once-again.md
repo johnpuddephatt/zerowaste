@@ -119,9 +119,7 @@ Jenny Whisker, founder of [The Sewing Kind](https://www.facebook.com/thesewingki
 
 Peg speaks to Lauren Cowdrey, the director of [Leeds Community Clothes Exchange](https://leedscommunityclothesexchange.com/), which is a community project encouraging the exchange of clothes and accessories in order to develop community spirit, reduce consumption and raise awareness of unethical consumer habits. Leeds Community Clothing Exchange has over 3,000 people on its books, coming from right across the north of England and even further. The idea of the exchange is to allow people to value clothes for longer, providing a way for people to access new styles whilst still being sustainable.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5QiLUri-xB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ERAyWTBCBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr>
 
