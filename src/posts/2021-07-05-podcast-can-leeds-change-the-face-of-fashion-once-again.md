@@ -73,6 +73,8 @@ The David Attenborough clip was taken from A Life on Our Planet (film entertainm
 
 <hr><br>
 
+
+
 ## Themes
 
 This episode explores three themes: the heritage of fashion in Leeds, skills and resources and valuing our clothing. Listen to the podcast clips from each of the themes below.
@@ -118,3 +120,19 @@ Jenny Whisker, founder of [The Sewing Kind](https://www.facebook.com/thesewingki
 Peg speaks to Lauren Cowdrey, the director of [Leeds Community Clothes Exchange](https://leedscommunityclothesexchange.com/), which is a community project encouraging the exchange of clothes and accessories in order to develop community spirit, reduce consumption and raise awareness of unethical consumer habits. Leeds Community Clothing Exchange has over 3,000 people on its books, coming from right across the north of England and even further. The idea of the exchange is to allow people to value clothes for longer, providing a way for people to access new styles whilst still being sustainable.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5QiLUri-xB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+<hr>
+
+## Environmental Impact of Fashion
+
+Peg Alexander talks to Gill Coupland from Zero Waste Leeds and Dr Mark Sumner, a fashion sustainability lecturer at the University of Leeds, about the environmental impact of clothing especially relating to the climate emergency. 
+
+Gill discusses how many of us are aware of how to reduce our environmental impact for example through recycling or buying less plastic. However, many of us don’t yet associate our clothing choices with their environmental impact, probably because there is a lack of awareness.
+
+Dr Mark Sumner discusses the scale of the problem highlighting that there is around £14 billion worth of clothing sitting unused at the back of people’s wardrobe in the UK. There is also a significant amount of clothing that goes into landfill or incineration - approximately 350,000 tonnes per year in the UK. He equates that to almost a billion T shirts thrown away. Gill highlights that in Leeds, around 4,000 tonnes of clothing end up in black bins each year. That’s roughly 12 kilograms per household. You can [watch the video](https://youtu.be/Z-W8oY70ryw) showing what 12kg of clothes looks like on our Youtube channel. 
+
+Dr Mark Sumner summarises that some of the major issues in clothing production include the use of non-renewable resources, water consumption, pollution and also social impacts.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dnJbx_nFJLw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
