@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Garden water saving tips
+title: How to save water in your garden
 date: 2021-07-13T07:58:13.285Z
 tags:
   - garden-waste
