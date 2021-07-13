@@ -2,7 +2,8 @@
 layout: layouts/post.njk
 title: Glass - what, where and how to recycle?
 date: 2021-05-14T09:33:07.535Z
-tags: recycling
+tags:
+  - glass
 image: /uploads/6-100.jpg
 ---
 In Leeds last year we recycled 37% more glass than the year before. Nice one Leeds!  Let's keep on recycling. 
