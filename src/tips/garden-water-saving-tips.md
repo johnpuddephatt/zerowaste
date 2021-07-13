@@ -16,11 +16,11 @@ The water that comes out of your tap, whether from well, spring or mains, has ne
 
 Rain water is so much better for your plants than purified water.  With all that in mind it makes sense for us to harvest rainfall for use in the garden.  
 
-# **Ways to save water** 
+# **Ways to save water**
 
 The very best way to save water is by using a water butt, or ideally, water butts. When it comes to rainfall, harvesting bigger is almost always better, you’ll be amazed how quickly you can drain a large water butt (300 litre) in a hot, dry spell. They can also fill very quickly during a heavy rainstorm.
 
-# **Water butts** 
+# **Water butts**
 
 Water butts come in all shapes and sizes with some designed to be disguised as a garden feature, they also fit a range of budgets and increasingly they’re being made from recycled plastic. Installing them is straightforward for anyone with a few DIY skills or ask a local handyperson.
 
@@ -40,6 +40,6 @@ In the winter you’ll usually find that your butts are full and the excess wate
 
 If you want to start small, then try making a [DIY mini water butt](https://www.yorkshirewater.com/media/m41lppj4/make-a-water-butt.pdf) as shown here by [Yorkshire Water](https://www.yorkshirewater.com/your-water/save-water/).
 
-> Harvesting rain water in any way you can is a really worthwhile thing to do. 
+> Harvesting rain water in any way you can is a really worthwhile thing to do
 
 <!--EndFragment-->
