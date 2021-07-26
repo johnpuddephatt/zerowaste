@@ -6,7 +6,6 @@ tags:
   - stuff
 image: /uploads/120319415_365501327965876_2721842203023444409_n.jpg
 ---
-
 We’re lucky to have so many zero waste shops in Leeds!
 
 To make it easy for you to support these local, sustainable and ethical businesses, we’ve listed them all here with their locations and links to social media pages where you can find out more.
@@ -21,7 +20,7 @@ To make it easy for you to support these local, sustainable and ethical business
 
 **[Like Nana Did](https://www.facebook.com/likenanadid/)** –Orchard Gate, **Otley**.  A great zero waste shop in the centre of Otley selling plastic-free products and refill groceries - 'helping the community to reduce waste'.
 
-**[Original Way](https://www.facebook.com/Originalwayshop/)** - opened for business in October 2020 as a #plasticfree pop up shop in Wetherby Market and have now got an online shop providing eco-friendly household, lifestyle and beauty products with a move to plastic free food refills in the near future. They offer free delivery to LS17.
+**[Original Way](https://www.facebook.com/Originalwayshop/)** - an online #plasticfree shop that holds regular pop ups at various venues including Wetherby Market and Shadwell Market (see dates on their Facebook page) providing eco-friendly household, lifestyle and beauty products with a move to plastic free food refills in the near future. They offer free delivery to LS17. 
 
 ![](/uploads/82696728_775452466285671_4987713811101253632_n.jpg)
 
