@@ -6,7 +6,7 @@ tags:
   - food-waste
 image: /uploads/untitled-design.jpg
 ---
-Gill from Zero Waste Leeds recently featured twice on BBC Radio Five Live talking about practical ways to cut down on food waste as part of their Leeds City On A Mission series. 
+Gill from Zero Waste Leeds recently featured on BBC Radio Five Live twice talking about practical ways to cut down on food waste as part of their Leeds City On A Mission series. 
 
 The first clip also includes a trip to Kirkgate Market where Five Live’s Chris Warburton finds out how to cook a low carbon fry up, featuring chef [Anthony O'Shaughnessy](https://www.anthonyshock.com/anthonyoshaughnessy) and more. 
 
