@@ -18,7 +18,17 @@ We work closely with [Leeds City Council](https://www.leeds.gov.uk/residents/bin
 
 We asked them for background as to why, in Leeds, glass is recycled in glass banks, not collected from our homes for recycling.  They shared this summary with us:
 
-> The Government is currently consulting on its national Resources and Waste Strategy. This includes proposals to introduce more consistency on what councils offer households across the country. The Government intends to make separate collections of more types of recyclable material a legal requirement from 2024. The strategy makes clear that the Government will provide councils with the funding needed to do this. Separate household collection of glass is part of this consultation, however so is the introduction of a national Deposit Return Scheme (DRS) for drinks bottles. An update on how the council plans to move forward with glass collection in Leeds will be provided by autumn 2021.
+*"Glass collected through bottle banks in Leeds goes to a Yorkshire facility operated by URM where they sort, process and remelt 95% of the glass into new bottles. This minimises transportation of the glass and reduces carbon emissions.* 
+
+*Because we collect glass in this way, the quality is of a very high standard and it can be fully remelted time and time again. Glass collected by other councils along with other materials in recycling bins does not all get remelted, and often a significant amount is instead used for things such as road aggregates. Glass collected in this way also gets in the cardboard and paper and makes that material less recyclable and more difficult to find a sustainable market for.*
+
+*Additionally, by focusing the collection of glass through a city network of over 700 bottle banks, this has enabled Leeds to expand its garden waste (brown bin) collection service to be the largest in the UK, and be one of a minority of councils that does not charge for garden waste collections.*
+
+*The Government is currently consulting on its national Resources and Waste Strategy. This includes proposals to introduce more consistency on what councils offer households across the country.* 
+
+*The Government intends to make separate collections of more types of recyclable material a legal requirement from 2024. The strategy makes clear that the Government will provide councils with the funding needed to do this. Separate household collection of glass is part of this consultation, however so is the introduction of a national Deposit Return Scheme (DRS) for drinks bottles.* 
+
+*A successful, well organised national DRS would seem a good way to incentivise the public to recycle glass, but could then significantly reduce the need for a separate household collection service.  An update on how the council plans to move forward with glass collection in Leeds will be provided by autumn 2021.”*
 
 So, in summary, there's ambition, both locally and nationally, to make it easier for people to recycle glass - and other recyclable materials.  
 
