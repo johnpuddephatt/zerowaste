@@ -94,13 +94,21 @@ C.R.A.P (Conserving Resources Associating People) [](https://www.facebook.com/gr
 
 [Leeds Freecycle (Give Away, Buy & Recycle)](https://www.facebook.com/groups/LeedsHelp/)  [](https://www.facebook.com/groups/LeedsHelp/)
 
-[LS12 Swap Shop](https://www.facebook.com/groups/287012255702808/) [](https://www.facebook.com/groups/287012255702808/)
+[LS12 Swap Shop](https://www.facebook.com/groups/287012255702808/) 
+
+[LS13 Swap Shop](https://www.facebook.com/groups/2772555659683328/)
+
+[LS28 Swap Shop](https://www.facebook.com/groups/507632083255236/)[](https://www.facebook.com/groups/287012255702808/)
 
 [Free Free Free Leeds!!!](https://www.facebook.com/groups/5616276005064499/) [](https://www.facebook.com/groups/5616276005064499/)
 
 [Free Stuff in Leeds](https://www.facebook.com/groups/b.gaertner/) [](https://www.facebook.com/groups/b.gaertner/)
 
-[Chapel Allerton Buy, Sell & Giveaway by cara](*<https://www.facebook.com/groups/197152167315355/>*) [](https://www.facebook.com/groups/197152167315355/)
+[Chapel Allerton Buy, Sell & Giveaway by cara](*<https://www.facebook.com/groups/197152167315355/>*) 
+
+[Gledhow Giveaways](https://www.facebook.com/groups/755845032008350/)
+
+[Roundhay Gifters - Help Your Neighbours](https://www.facebook.com/groups/whatdoyouneedmyneighbour/)[](https://www.facebook.com/groups/197152167315355/)
 
 <br>
 
