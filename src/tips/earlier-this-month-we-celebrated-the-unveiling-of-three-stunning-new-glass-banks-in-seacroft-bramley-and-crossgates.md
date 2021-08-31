@@ -1,13 +1,12 @@
 ---
 layout: layouts/post.njk
-title: Earlier this month we celebrated the unveiling of three stunning new
-  glass banks in Seacroft, Bramley and Crossgates!
+title: " The unveiling of three new community designed glass banks"
 date: 2021-08-31T09:49:09.244Z
 tags:
   - glass
 image: /uploads/img-20210812-wa0033.jpg
 ---
-The new glass banks are the result of an exciting community project, run as part of our on-going glass recycling campaign. 
+Earlier this month we celebrated the unveiling of three stunning new glass banks in Seacroft, Bramley and Crossgates! The new glass banks are the result of an exciting community project, run as part of our on-going glass recycling campaign. 
 
 ![](/uploads/seacroft-2-.jfif)
 
@@ -28,8 +27,6 @@ Last but not least, we have Crossgates. Young people at The Tribe Youth Group wa
 You can find out more about the designs in this short interview with our artist Natasha Joseph: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pACyqzLAm_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 We loved seeing the community working together to bring positive change and celebrating the introduction of the new glass banks with games, sports and competitions. 
 
