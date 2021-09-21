@@ -13,8 +13,6 @@ But whether you're new to cycling, getting back on a bike for the first time in 
 
 This can be difficult if you don't have the right tools or don't know where to start. But don't worry, we've collated some top tips for getting your bike repaired in Leeds.
 
-
-
 # Bike repair shops and workshops
 
 There are lots of brilliant bike repair shops and workshops around Leeds. 
@@ -25,7 +23,7 @@ There are lots of brilliant bike repair shops and workshops around Leeds.
 
 [The Bikes College](https://thebikescollege.org/) is another brilliant service which offers [workshops and repairs](https://thebikescollege.org/workshop-and-repairs/). Check [their website](https://thebikescollege.org/) for opening hours and the latest information.
 
-There are also plenty more options on the map below. Let us know in the comments below which your favourite place to go is.
+There are also plenty more options on the map below.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d75404.66467676661!2d-1.5780852095787719!3d53.80024098348172!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sbike%20repair%20leeds!5e0!3m2!1sen!2suk!4v1632247517592!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
