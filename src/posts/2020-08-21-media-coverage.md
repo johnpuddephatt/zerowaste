@@ -2,15 +2,20 @@
 layout: layouts/post.njk
 title: Media coverage
 date: 2020-08-21T12:24:36.773Z
+tags: stuff
 image: /uploads/untitled-design-21-.png
 ---
-Our work is all about building a movement to help Leeds become a zero waste city by 2030. To do this we're constantly trying to find new ways to reach different audiences. Getting any media coverage is always a huge bonus!
+Our work is all about building a movement to help Leeds become a zero waste city by 2030. To do this we're constantly trying to find new ways to reach different audiences. Getting media coverage is always a huge bonus!
 
 We have featured a lot recently for our work on recycling, waste reduction, and school uniform reuse, including several appearances on BBC Look North, BBC Radio Leeds, Radio Aire and the Yorkshire Evening Post.
 
 If you are interested in running a story about any of our work, please do [get in touch](mailto:info@zerowasteleeds.org.uk)!
 
 ## BBC LOOK NORTH
+
+31st August 2021 - [Leeds School Uniform Exchange](https://www.youtube.com/watch?v=ScWT8lywyp0&list=PLcImqkHEpk0oBviWdB2RGp_Xza2vWCW-f&index=8)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ScWT8lywyp0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 18th November 2020 - [Making new products from discarded PPE masks](https://youtu.be/eeaKTRlb_qU)
 
@@ -46,13 +51,44 @@ If you are interested in running a story about any of our work, please do [get i
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eVqZnVf5-do" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+2nd September 2021 - [Leeds School Uniform Exchange](https://www.youtube.com/watch?v=6HeD1xN2U28&list=PLcImqkHEpk0oBviWdB2RGp_Xza2vWCW-f&index=9)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6HeD1xN2U28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+30th August 2021 - [Leeds School Uniform Exchange](https://www.youtube.com/watch?v=VPB0h3EhjUQ&list=PLcImqkHEpk0oBviWdB2RGp_Xza2vWCW-f&index=7)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VPB0h3EhjUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 6th August 2020 - [LS26 Scheme & Leeds School Uniform Exchange](https://youtu.be/3h3CAcXhZ_o)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3h3CAcXhZ_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## BBC RADIO FIVE LIVE
+
+1st July 2021 - ['One cotton t-shirt takes 2,700 litres of water to make'](https://www.bbc.co.uk/programmes/articles/1vQZp8TPTlLVhW68GcJVD95/one-cotton-t-shirt-takes-2-700-litres-of-water-to-make)
+
+\
+25th June 2021 - [Leeds School Uniform Exchange](https://www.youtube.com/watch?v=Pc3PmhbeYgE&list=PLcImqkHEpk0oBviWdB2RGp_Xza2vWCW-f&index=7)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pc3PmhbeYgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## RADIO AIRE
 
-18th August 2020 - [Leeds School Uniform Exchange](https://youtu.be/59beZ1fumgs)<iframe width="560" height="315" src="https://www.youtube.com/embed/59beZ1fumgs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+18th August 2020 - [Leeds School Uniform Exchange](https://youtu.be/59beZ1fumgs)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/59beZ1fumgs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+
+
+## GREATEST HITS RADIO
+
+5th September 2021 - Leeds School Uniform Exchange
+
+## FEVER FM
+
+23rd August 2021 - Leeds School Uniform Exchange
+
+
 
 ## YORKSHIRE EVENING POST
 
@@ -90,7 +126,13 @@ If you are interested in running a story about any of our work, please do [get i
 
 ## LEEDS LIVE
 
+30th August 2021 - [Free school uniform being given out at Harehills pop-up shop for one day only](https://www.leeds-live.co.uk/news/leeds-news/free-school-uniform-being-given-21439211)
+
 26th December 2020 - [Leeds residents urged to do 'scrunch test' before throwing away Christmas wrapping paper](https://www.leeds-live.co.uk/news/leeds-news/leeds-residents-urged-scrunch-test-19522780)
+
+3rd September 2020 - [How parents can save a fortune on school uniform in Leeds with new city-wide scheme](https://www.leeds-live.co.uk/news/leeds-news/how-parents-can-save-fortune-18865335)
+
+
 
 ## THE YORKSHIRE POST
 
@@ -100,12 +142,22 @@ If you are interested in running a story about any of our work, please do [get i
 
 8th December 2020 - [Easy online giving to local charities with #GiveLeeds](https://southleedslife.com/easy-online-giving-to-local-charities-with-giveleeds/)
 
+6th May 2020 - [Brown bin and bulky waste collections set to restart](https://southleedslife.com/brown-bin-and-bulky-waste-collections-set-to-restart/)
+
 5th May 2020 - [Household waste sites may reopen next week](https://southleedslife.com/household-waste-sites-may-reopen-next-week/)
 
-6th May 2020 - [Brown bin and bulky waste collections set to restart](https://southleedslife.com/brown-bin-and-bulky-waste-collections-set-to-restart/)
+
 
 ## WEST LEEDS DISPATCH
 
 10th December 2020 - [\#GiveLeeds campaign makes donating to local charities easier than ever this Christmas](https://westleedsdispatch.com/giveleeds-campaign-makes-donating-to-local-charities-easier-than-ever-this-christmas/)
 
 3rd September 2020 - [West Leeds: How parents can save cash on expensive school uniforms](https://westleedsdispatch.com/west-leeds-how-parents-can-save-cash-on-expensive-school-uniforms/)
+
+## YORKSHIRE LIVE
+
+3rd September 2021 - [The Huddersfield and Leeds school uniform exchanges so popular volunteers cannot cope with demand](https://www.examinerlive.co.uk/news/west-yorkshire-news/huddersfield-leeds-school-uniform-exchanges-21466680)
+
+## BBC NEWSROUND
+
+3rd September 2021 - [School uniforms: 'I don't want any kid to feel embarrassed'](https://www.bbc.co.uk/newsround/58201661)
