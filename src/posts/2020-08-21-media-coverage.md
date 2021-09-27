@@ -88,6 +88,8 @@ If you are interested in running a story about any of our work, please do [get i
 
 ## YORKSHIRE EVENING POST
 
+6th March 2021 - [School uniform bank prepared for demand for clothes as kids go back to the classrooms on Monday](https://www.yorkshireeveningpost.co.uk/education/school-uniform-bank-prepared-for-demand-for-clothes-as-kids-go-back-to-the-classrooms-on-monday-3156320)
+
 11th December 2020 - [\#GiveLeeds makes it easy for you to support city charities at Christmas](https://www.yorkshireeveningpost.co.uk/news/people/giveleeds-makes-it-easy-you-support-city-charities-christmas-3064257)
 
 11th December 2020 - [Time to make a difference at Christmas with #GiveLeeds - the YEP says](https://www.yorkshireeveningpost.co.uk/news/opinion/time-make-difference-christmas-giveleeds-yep-says-3064378)
@@ -142,6 +144,8 @@ If you are interested in running a story about any of our work, please do [get i
 
 ## WEST LEEDS DISPATCH
 
+20th August 2021 - [Bramley: New glass bank is a smashing addition at community centre](https://westleedsdispatch.com/bramley-new-glass-bank-is-a-smashing-addition-at-community-centre/)
+
 10th December 2020 - [\#GiveLeeds campaign makes donating to local charities easier than ever this Christmas](https://westleedsdispatch.com/giveleeds-campaign-makes-donating-to-local-charities-easier-than-ever-this-christmas/)
 
 3rd September 2020 - [West Leeds: How parents can save cash on expensive school uniforms](https://westleedsdispatch.com/west-leeds-how-parents-can-save-cash-on-expensive-school-uniforms/)
@@ -153,3 +157,15 @@ If you are interested in running a story about any of our work, please do [get i
 ## BBC NEWSROUND
 
 3rd September 2021 - [School uniforms: 'I don't want any kid to feel embarrassed'](https://www.bbc.co.uk/newsround/58201661)
+
+
+
+## LETS RECYCLE
+
+9th April 2021 - [Glass supply chain plans Leeds recycling campaign](https://www.letsrecycle.com/news/latest-news/glass-supply-chain-plans-leeds-recycling-campaign/)
+
+
+
+## LEEDS CITY COUNCIL NEWS 
+
+20th August 2021 - [New bottle banks build on smashing success as Leeds recycles an extra 5,000 tonnes of glass](https://news.leeds.gov.uk/news/new-bottle-banks-build-on-smashing-success-as-leeds-recycles-an-extra-5-000-tonnes-of-glass)
