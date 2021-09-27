@@ -47,10 +47,6 @@ If you are interested in running a story about any of our work, please do [get i
 
 ## BBC RADIO LEEDS
 
-3rd September 2020 - [Leeds School Uniform Exchange](https://youtu.be/eVqZnVf5-do)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eVqZnVf5-do" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 2nd September 2021 - [Leeds School Uniform Exchange](https://www.youtube.com/watch?v=6HeD1xN2U28&list=PLcImqkHEpk0oBviWdB2RGp_Xza2vWCW-f&index=9)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6HeD1xN2U28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -58,6 +54,10 @@ If you are interested in running a story about any of our work, please do [get i
 30th August 2021 - [Leeds School Uniform Exchange](https://www.youtube.com/watch?v=VPB0h3EhjUQ&list=PLcImqkHEpk0oBviWdB2RGp_Xza2vWCW-f&index=7)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VPB0h3EhjUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+3rd September 2020 - [Leeds School Uniform Exchange](https://youtu.be/eVqZnVf5-do)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eVqZnVf5-do" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 6th August 2020 - [LS26 Scheme & Leeds School Uniform Exchange](https://youtu.be/3h3CAcXhZ_o)
 
@@ -78,8 +78,6 @@ If you are interested in running a story about any of our work, please do [get i
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/59beZ1fumgs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-
-
 ## GREATEST HITS RADIO
 
 5th September 2021 - Leeds School Uniform Exchange
@@ -87,8 +85,6 @@ If you are interested in running a story about any of our work, please do [get i
 ## FEVER FM
 
 23rd August 2021 - Leeds School Uniform Exchange
-
-
 
 ## YORKSHIRE EVENING POST
 
@@ -132,8 +128,6 @@ If you are interested in running a story about any of our work, please do [get i
 
 3rd September 2020 - [How parents can save a fortune on school uniform in Leeds with new city-wide scheme](https://www.leeds-live.co.uk/news/leeds-news/how-parents-can-save-fortune-18865335)
 
-
-
 ## THE YORKSHIRE POST
 
 4th January 2021 - [How Leeds Tech Angels is helping digitally excluded children get back on track with learning - Barry White](https://www.yorkshirepost.co.uk/news/opinion/columnists/how-leeds-tech-angels-helping-digitally-excluded-children-get-back-track-learning-barry-white-3084001)
@@ -145,8 +139,6 @@ If you are interested in running a story about any of our work, please do [get i
 6th May 2020 - [Brown bin and bulky waste collections set to restart](https://southleedslife.com/brown-bin-and-bulky-waste-collections-set-to-restart/)
 
 5th May 2020 - [Household waste sites may reopen next week](https://southleedslife.com/household-waste-sites-may-reopen-next-week/)
-
-
 
 ## WEST LEEDS DISPATCH
 
