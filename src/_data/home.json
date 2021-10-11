@@ -10,11 +10,11 @@
   "intro": {
     "title": "Our projects",
     "subtitle": "What we’re currently working on",
-    "headline": "Glass recycling campaign",
-    "description": "People in Leeds recycled 37% more glass last year, compared to 2019 - that's over 3000 tonnes more! Nice one Leeds! \n\nJoin our campaign - funded by Friends of Glass, Ardagh Glass and Allied Glass - to get even more people recycling glass in our city.  Find out what happens to your glass after it goes in the bank, why it's important to recycle it, and search our map to find your nearest glass bank.",
+    "headline": "Leeds School Uniform Exchange",
+    "description": "We're helping to make second-hand school uniform the first choice in Leeds.  Our Leeds School Uniform Exchange project is supporting people across the city to swap uniform at their school or in their local community.",
     "link": {
       "text": "Find out more",
-      "url": "https://www.zerowasteleeds.org.uk/projects/leeds-glass-recycling/"
+      "url": "https://www.zerowasteleeds.org.uk/tips/leeds-school-uniform-exchange/"
     }
   },
   "get_involved": {
@@ -43,11 +43,11 @@
   },
   "projects": [
     {
-      "title": "School uniform re-use",
-      "description": "We're helping to make second-hand school uniform the first choice in Leeds.  Our Leeds School Uniform Exchange project is supporting people across the city to swap uniform at their school or in their local community.",
+      "title": "Leeds By Example",
+      "description": "Leeds City Council are installing new recycling bins in six neighbourhoods in Leeds during October - and we're helping to get the word out about recycling cans, bottles and coffee cups.",
       "link": {
         "text": "Find out more",
-        "url": "https://www.zerowasteleeds.org.uk/tips/leeds-school-uniform-exchange/"
+        "url": "https://www.leeds.gov.uk/residents/bins-and-recycling/high-street-recycling"
       }
     },
     {
