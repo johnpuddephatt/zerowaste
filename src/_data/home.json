@@ -43,11 +43,11 @@
   },
   "projects": [
     {
-      "title": "Leeds By Example",
-      "description": "Leeds City Council are installing new recycling bins in six neighbourhoods in Leeds during October - and we're helping to get the word out about recycling cans, bottles and coffee cups.",
+      "title": "Glass recycling",
+      "description": "We've been running a campaign to encourage people in Leeds to recycle their glass - on the back of a 37% increase in glass recycling in 2020!",
       "link": {
         "text": "Find out more",
-        "url": "https://www.leeds.gov.uk/residents/bins-and-recycling/high-street-recycling"
+        "url": "https://www.zerowasteleeds.org.uk/projects/leeds-glass-recycling/"
       }
     },
     {
