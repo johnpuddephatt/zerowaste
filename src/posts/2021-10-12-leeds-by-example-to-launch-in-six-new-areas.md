@@ -12,7 +12,7 @@ Zero Waste Leeds is helping to spread the word about Leeds City Council's new on
 
 With busy schedules we're eating and drinking more and more whilst on the move. In the UK, we consume 13 billion plastic bottles, 9 billion drinks and nearly 3 billion coffee cups every year. However, over 80% of the food and drink packaging that we get through each year doesn’t get recycled.
 
-Leeds has been one of the very first cities in the UK to find innovative solutions to recycling on the go. Through the award-winning campaign #LeedsByExample, we have managed to triple our recycling rates from 17% to 49% -  saving energy, greenhouse gas emissions and precious natural resources. 
+Leeds has been one of the very first cities in the UK to find innovative solutions to recycling on the go. Through the award-winning campaign #LeedsByExample, [the number of people reporting that they recycle in the city centre](https://issuu.com/hubbubuk/docs/second_lbe_report_dec_2019_digital) increased from 17% to 49% -  with all that extra recycling saving energy, greenhouse gas emissions and precious natural resources. 
 
 On the back of the city centre campaign success, over the coming weeks Leeds City Council will be introducing new on-the-go recycling bins in Chapel Allerton, Morley, Garforth, Headingley, Otley and Wetherby to help more people recycle their cans, coffee cups and plastic bottles whilst out and about. 
 
