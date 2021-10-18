@@ -1,8 +1,9 @@
 ---
 color: "#87ddcd"
-title: "**Leeds** *fashion* futures"
-subtitle: Exploring what we can do as a city to minimise the negative impacts of
-  our clothing choices.
+title: "**Zero** *waste* clothing"
+subtitle: "Building a circular city where we value our clothes, wear them for as
+  long as possible, repair, upcycle and when we no longer want them, find people
+  or places that do.  "
 image: /assets/images/fashion.svg
 intro:
   - title: What we’re doing
