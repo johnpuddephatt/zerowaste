@@ -10,20 +10,20 @@ intro:
     content: >-
       We’re making it easier for people in Leeds to make clothing choices that
       are good for the planet.  We do that by sharing the most high impact
-      actions you can take as an individual and collectively with others in our
-      city. 
+      actions you can take as an individual and collectively in our city. 
 
 
-      We’ll guide you to the all the places and events happening in Leeds where you can repair, reuse, upcycle and exchange or share your clothes, including school uniform.  Doing these things together brings us closer to becoming a Circular City where clothing is redistributed, less is wasted, which is much better for our pockets and the environment.
+      We’ll guide you to the all the places and events happening in Leeds where you can repair, reuse, upcycle and exchange or share your clothes, including school uniform.  Doing these things together brings us closer to becoming a Circular City where clothing is redistributed, much less is wasted, it's better for our pockets and the environment.
   - title: Why we’re doing it
     content: The textile industry is responsible for 10% of carbon emissions, a
       massive environmental impact. Protecting our planet for future generations
-      is important and when it comes to clothes, there's plenty we can all do
+      is important and when it comes to clothes, there's plenty we can do
       individually and collectively.  Most are fun too like clothes swapping or
-      learning how to sew  with friends, using community exchange schemes, or
-      doing a wardrobe audit before buying anything new.  Let's divert the 4000
-      tonnes of clothing that ends up in Leeds' household bins every year and
-      circulate the best of it back around the city.
+      learning how to sew with friends, using community exchange schemes, or
+      doing a wardrobe audit before buying anything new.  Let's work together to
+      divert some of the 4000 tonnes of clothing that ends up in Leeds'
+      household bins every year and circulate the best of it back around the
+      city.
 posts:
   title: Fashion articles
   subtitle: Our latest posts about zero waste fashion
