@@ -9,7 +9,7 @@ Leeds was one of the very first cities in the UK to find innovative solutions to
 
 ![A Leeds By Example recycling bin in Chapel Allerton](/uploads/screenshot-74-.png)
 
-Following the introduction of over a 100 yellow and orange bins in the city centre, the number of people reporting that they recycle in the city centre increased from 17% to 49%!
+Following the introduction of over 100 yellow and orange bins in the city centre, the number of people reporting that they recycle in the city centre increased from 17% to 49%!
 
 On the back of the city centre campaign success, Leeds City Council is now introducing new bins in Chapel Allerton, Morley, Garforth, Headingley, Otley and Wetherby to help more people recycle whilst out and about. 
 
