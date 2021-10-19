@@ -17,13 +17,12 @@ intro:
   - title: Why we’re doing it
     content: The textile industry is responsible for 10% of carbon emissions, a
       massive environmental impact. Protecting our planet for future generations
-      is important and when it comes to clothes, there's plenty we can do
-      individually and collectively.  Most are fun too like clothes swapping or
-      learning how to sew with friends, using community exchange schemes, or
-      doing a wardrobe audit before buying anything new.  Let's work together to
-      divert some of the 4000 tonnes of clothing that ends up in Leeds'
-      household bins every year and circulate the best of it back around the
-      city.
+      is important and when it comes to clothes, there's plenty we can do.  Most
+      are fun too like clothes swapping or learning how to sew with friends,
+      using community exchange schemes, or doing a wardrobe audit before buying
+      anything new.  Let's work together to divert some of the 4000 tonnes of
+      clothing that ends up in Leeds' household bins every year and circulate
+      the best of it back around the city.
 posts:
   title: Fashion articles
   subtitle: Our latest posts about zero waste fashion
