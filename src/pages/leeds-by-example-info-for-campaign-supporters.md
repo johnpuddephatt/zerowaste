@@ -13,7 +13,7 @@ Following the introduction of over 100 yellow and orange bins in the city centre
 
 On the back of the city centre campaign success, Leeds City Council is now introducing new bins in Chapel Allerton, Morley, Garforth, Headingley, Otley and Wetherby to help more people recycle whilst out and about. 
 
-Every neighbourhood will be receiving 5 yellow bins to recycle plastic bottles and cans and 1 orange bin for coffee cups. You can find out the bins’ locations using this [map](https://leedscc.maps.arcgis.com/apps/webappviewer/index.html?id=92e33c0076c64d5895b2a4869ea6468a&fbclid=IwAR14_0WSOq1fVy1nuSXpybpTg688g0COn2fXgJ3GZYRps_--3gW-VdBwe1w). 
+Each of the above neighbourhoods will be receiving 5 yellow bins to recycle plastic bottles and cans and 1 orange bin for coffee cups. You can find out the bins’ locations using this [map](https://leedscc.maps.arcgis.com/apps/webappviewer/index.html?id=92e33c0076c64d5895b2a4869ea6468a&fbclid=IwAR14_0WSOq1fVy1nuSXpybpTg688g0COn2fXgJ3GZYRps_--3gW-VdBwe1w). 
 
 # How can you help? 
 
