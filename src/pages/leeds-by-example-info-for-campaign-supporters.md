@@ -5,7 +5,7 @@ date: 2021-10-19T09:20:56.651Z
 ---
 Did you know that every year in the UK we consume around 13 billion plastic bottles, 9 billion cans and almost 3 billion coffee cups whilst out and about?
 
-Leeds was one of the very first cities in the UK to find innovative solutions to recycling on the go through the award-winning campaign #LeedsByExample. 
+Leeds was one of the very first cities in the UK to find innovative solutions to recycling on the go through [the award-winning campaign #LeedsByExample](https://issuu.com/hubbubuk/docs/second_lbe_report_dec_2019_digital). 
 
 ![A Leeds By Example recycling bin in Chapel Allerton](/uploads/screenshot-74-.png)
 
