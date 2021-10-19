@@ -10,19 +10,20 @@ intro:
     content: >-
       We’re making it easier for people in Leeds to make clothing choices that
       are good for the planet.  We do that by sharing the most high impact
-      research-based actions you can take as an individual and collectively with
-      others in our city. 
+      actions you can take as an individual and collectively with others in our
+      city. \
 
-      We’ll guide you to the all the places and events happening in Leeds where you can repair, reuse, upcycle and exchange or share your clothes, including school uniform.  Doing this brings bring us closer to becoming a Circular City where little is wasted, what we have is redistributed which is much better for our pockets and safer for the planet.
+
+      We’ll guide you to the all the places and events happening in Leeds where you can repair, reuse, upcycle and exchange or share your clothes, including school uniform.  Doing these things together brings us closer to becoming a Circular City where clothing is redistributed, lesss is wasted, which is much better for our pockets and the environment.
   - title: Why we’re doing it
-    content: In Leeds we throw away 4000 tonnes of clothing into our household bins
-      every year. There are much better choices for our clothes at the end of
-      life but waste is just one part of the story. The textile industry is
-      responsible for 10% of carbon emissions, a massive environmental impact.
-      Protecting our planet for future generations is important and when it
-      comes to clothes, there's plenty we can all do. Most are fun too like
-      learning how to sew, clothes swapping with friends, upcycling a favourite
-      item or doing a wardrobe audit before buying anything new.
+    content: The textile industry is responsible for 10% of carbon emissions, a
+      massive environmental impact. Protecting our planet for future generations
+      is important and when it comes to clothes, there's plenty we can all do
+      individually and collectively.  Most are fun too like clothes swapping or
+      learning how to sew  with friends, using community exchange schemes, or
+      doing a wardrobe audit before buying anything new.  Let's divert the 4000
+      tonnes of clothing that ends up in Leeds' household bins every year and
+      circulate the best of it back around the city.
 posts:
   title: Fashion articles
   subtitle: Our latest posts about zero waste fashion
