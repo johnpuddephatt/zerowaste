@@ -19,7 +19,7 @@ Each of the above neighbourhoods will be receiving 5 yellow bins to recycle plas
 
 We are supporting Leeds City Council to get the word out to local communities through a 6-month social media campaign run on our @Zero Waste Leeds channels. 
 
-We would love local businesses and residents to help us amplify our message and let more people know about the bins and the importance of recycling on the go. 
+We would love local businesses and residents to help us to spread the word and let more people know about the bins and the importance of recycling on the go. 
 
 * Please let your customers know about the bins and why using them is better for the environment - as plastic bottles, drinks cans and coffee cups disposed of in the bins will be sent for recycling.  
 * Encourage them to use reusable cups and bottles.  Let them know if you offer any discounts for doing so and also if you are signed up to [Refill](https://www.refill.org.uk/) (to make it easy for people to fill up their water bottle).  And please let us know too so we can promote what you’re doing. 
