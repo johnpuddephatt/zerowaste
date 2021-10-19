@@ -9,17 +9,17 @@ Leeds was one of the very first cities in the UK to find innovative solutions to
 
 ![A Leeds By Example recycling bin in Chapel Allerton](/uploads/screenshot-74-.png)
 
-Following the introduction of over a 100 yellow and orange bins in the city centre, the number of people reporting that they recycle in the city centre increased from 17% to 49%!
+Following the introduction of over 100 yellow and orange bins in the city centre, the number of people reporting that they recycle in the city centre increased from 17% to 49%!
 
 On the back of the city centre campaign success, Leeds City Council is now introducing new bins in Chapel Allerton, Morley, Garforth, Headingley, Otley and Wetherby to help more people recycle whilst out and about. 
 
-Every neighbourhood will be receiving 5 yellow bins to recycle plastic bottles and cans and 1 orange bin for coffee cups. You can find out the bins’ locations using this [map](https://leedscc.maps.arcgis.com/apps/webappviewer/index.html?id=92e33c0076c64d5895b2a4869ea6468a&fbclid=IwAR14_0WSOq1fVy1nuSXpybpTg688g0COn2fXgJ3GZYRps_--3gW-VdBwe1w). 
+Each of the above neighbourhoods will be receiving 5 yellow bins to recycle plastic bottles and cans and 1 orange bin for coffee cups. You can find out the bins’ locations using this [map](https://leedscc.maps.arcgis.com/apps/webappviewer/index.html?id=92e33c0076c64d5895b2a4869ea6468a&fbclid=IwAR14_0WSOq1fVy1nuSXpybpTg688g0COn2fXgJ3GZYRps_--3gW-VdBwe1w). 
 
 # How can you help? 
 
 We are supporting Leeds City Council to get the word out to local communities through a 6-month social media campaign run on our @Zero Waste Leeds channels. 
 
-We would love local businesses and residents to help us amplify our message and let more people know about the bins and the importance of recycling on the go. 
+We would love local businesses and residents to help us to spread the word and let more people know about the bins and the importance of recycling on the go. 
 
 * Please let your customers know about the bins and why using them is better for the environment - as plastic bottles, drinks cans and coffee cups disposed of in the bins will be sent for recycling.  
 * Encourage them to use reusable cups and bottles.  Let them know if you offer any discounts for doing so and also if you are signed up to [Refill](https://www.refill.org.uk/) (to make it easy for people to fill up their water bottle).  And please let us know too so we can promote what you’re doing. 
