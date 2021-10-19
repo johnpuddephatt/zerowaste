@@ -13,7 +13,7 @@ intro:
       actions you can take as an individual and collectively. 
 
 
-      We’ll guide you to the all the places and events happening in Leeds where you can repair, reuse, upcycle and exchange or share your clothes, including school uniform.  Doing these things brings us closer to becoming a Circular City where clothing is redistributed, much less is wasted, making it better for our pockets and the environment.
+      We’ll guide you to the all the places and events happening in Leeds where you can repair, reuse, upcycle and exchange or share your clothes, including school uniform.  Doing these things brings us closer to becoming a Circular City where clothing is redistributed, much less is wasted, making it better for our pockets and the planet.
   - title: Why we’re doing it
     content: The textile industry is responsible for 10% of carbon emissions, a
       massive environmental impact. Protecting our planet for future generations
