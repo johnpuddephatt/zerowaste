@@ -2,21 +2,20 @@
 color: "#87ddcd"
 title: "**Zero** *waste* clothing"
 subtitle: Building a circular city where we value our clothes, wear them for as
-  long as possible, repair, upcycle and when we no longer want them, find people
-  or places that do.
+  long as possible, repair, upcycle and when we no longer want them, we find
+  people or places that do.
 image: /assets/images/fashion.svg
 intro:
   - title: What we’re doing
-    content: Many of us want to make more sustainable clothing choices but don’t
-      know where to start. We’ve launched Leeds Fashion Futures to explore how
-      as a city we can do that. We’ve looked at what makes Leeds unique and
-      spoken to the many people involved in clothing and textiles. Valuing our
-      clothes was a major theme, plus Leeds' rich textile heritage, and the
-      importance of sewing skills. Here we share a bit of all of that, plus
-      some practical tips and ideas.
+    content: >-
+      We’re making it easier for people in Leeds to make clothing choices that
+      are good for the planet.  We do that by sharing the most high impact
+      research-based actions you can take as an individual and collectively with
+      others in our city. 
+
+      We’ll guide you to the all the places and events happening in Leeds where you can repair, reuse, upcycle and exchange or share your clothes, including school uniform.  Doing this brings bring us closer to becoming a Circular City where little is wasted, what we have is redistributed which is much better for our pockets and safer for the planet.
   - title: Why we’re doing it
-    content:
-      In Leeds we throw away 4000 tonnes of clothing into our household bins
+    content: In Leeds we throw away 4000 tonnes of clothing into our household bins
       every year. There are much better choices for our clothes at the end of
       life but waste is just one part of the story. The textile industry is
       responsible for 10% of carbon emissions, a massive environmental impact.
@@ -36,20 +35,18 @@ map:
     src="https://zero-waste-leeds-fashion.netlify.app"></iframe>
 facts:
   - title: Clothing creates **1.2 billion tonnes** of CO₂
-    description:
-      Every year, global emissions from textile production are equivalent
+    description: Every year, global emissions from textile production are equivalent
       to 1.2 billion tonnes of CO2, a figure that outweighs the carbon footprint
       of international flights and shipping combined.
     image: /assets/images/t-shirt.svg
   - title: "**The most sustainable clothing** is what we already own"
-    description:
-      Every year, global emissions from textile production are equivalent
+    description: Every year, global emissions from textile production are equivalent
       to 1.2 billion tonnes of CO2, a figure that outweighs the carbon footprint
       of international flights and shipping combined.
     image: /assets/images/heart.svg
   - title: Every year **over 300,000 tonnes** of clothes go to landfill
-    description: In Leeds, 4,000 tonnes of textile waste ends up in our black
-      bins every year.
+    description: In Leeds, 4,000 tonnes of textile waste ends up in our black bins
+      every year.
     image: /assets/images/machine.svg
 videos:
   title: Watch and learn
