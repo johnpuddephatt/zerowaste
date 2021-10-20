@@ -26,8 +26,6 @@ We've also shared our 5 top tips to make the most of your milk:
 
 **5.     Cook with it** - make a basic white sauce which can be the base for so many meals. If you can’t use it straight away you can freeze it - it might be a little thin when it thaws so if you know you’re going to freeze it, make it really thick in the first place. A white sauce is so versatile, you can turn it into a mushroom sauce for pasta, a cheese sauce for macaroni cheese, incorporate into a lasagne or add a selection of fish and seafood for a luxury fish pie.
 
-
-
 ## **Gill’s favourite smoothie**
 
 200ml milk
@@ -48,26 +46,26 @@ Whizz in your blender or nutribullet - delicious for breakfast and good for usin
 
 Melt the butter over a medium heat in a saucepan. When fully melted take off the heat and add the flour. Mix to a paste. Add the milk a little at a time, stiring continually to avoid lumps - use a whisk for ease. Return to the heat and gradually warm through to a simmer when it will start to thicken. Season with salt and pepper.
 
-
-
-## Leeds Milk Delivery Directory 
+## Leeds Milk Delivery Directory
 
 This list is not exhaustive and if you know of a local delivery service that’s not on there, [please get in touch](mailto:info@zerowasteleeds.org.uk).
 
-[TD Goodall](<https://www.facebook.com/tdgoodalldoorstepmilkdelivery>)
+[TD Goodall](https://www.facebook.com/tdgoodalldoorstepmilkdelivery)
 
 [G&L Walls](https://www.facebook.com/GLMilkDeliveries) 07922 097650
 
-[Organic Pantry](<https://www.facebook.com/organicpantry1>)
+[Organic Pantry](https://www.facebook.com/organicpantry1)
 
-[Gary Ingham ](<https://www.facebook.com/Freerangemilkman>)
+[Gary Ingham ](https://www.facebook.com/Freerangemilkman)
 
 [Bryn Wilson](mailto:brynthemilkman@yahoo.co.uk) [](mailto:brynthemilkman@yahoo.co.uk)07809 110568
 
-[Hayden Lobley M Kare](<https://www.facebook.com/karen.lobley>)
+[Hayden Lobley M Kare](https://www.facebook.com/karen.lobley)
 
-[Fieldhead Farm Guiseley](<https://www.facebook.com/fieldheadfarmmilk>)
+[Fieldhead Farm Guiseley](https://www.facebook.com/fieldheadfarmmilk)
 
-[Guiseley Milk Deliveries - Paul Emsley Dairyman](<https://www.facebook.com/guiseley.deliveries>) 0113 250 4017
+[Guiseley Milk Deliveries - Paul Emsley Dairyman](https://www.facebook.com/guiseley.deliveries) 0113 250 4017
 
-[John Pickard Pudsey](<https://www.facebook.com/pages/category/Local-Service/John-Pickard-Son-Dairy-Man-105283621169653/>) 07837 711641 or 07949 887204
+[John Pickard Pudsey](https://www.facebook.com/pages/category/Local-Service/John-Pickard-Son-Dairy-Man-105283621169653/) 07837 711641 or 07949 887204
+
+[Micky the Milkman](<mailto: mickythemilkman@hotmail.co.uk>) 07767755384 [](mailto:mickythemilkman@hotmail.co.uk)
