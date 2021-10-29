@@ -46,6 +46,12 @@ WRAP say that 'Around a third of the UK are no longer wearing items of clothing 
 
 Always, always, always check the garment care labels and then do what it says.  Plenty of tips here from [WRAP's Love Your Clothes campaign](https://www.loveyourclothes.org.uk/blogs/know-your-care-labels-insideout). 
 
+![](/uploads/5-1-.png)
+
 ## Hang your clothes out to dry
 
-Choose a washing line over the tumble drier whenever you can.  Save your washing up for a windy, sunny day. Do whatever you can to get those clothes out on the line.  It's another great way to save money whilst also retaining the quality of your clothes.  Tumble driers can cause garments to shrink and worsen the qulaity of
+Choose a washing line over the tumble drier whenever you can.  Save your washing up for a windy, sunny day, do whatever you can to get those clothes out on the line.  They'll smell amazing and so much better than an hour in the drier can be harmful to fabrics. 
+
+Using a line is completely free too and so is another great way to save money whilst also retaining the quality of your clothes.  
+
+![](/uploads/1-1-.png)
