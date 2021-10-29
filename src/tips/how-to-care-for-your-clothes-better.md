@@ -12,9 +12,9 @@ In fact according to recent research by the [University of Leeds](file:///C:/Use
 
 The good thing is there's plenty of small things you can do to make a big difference. 
 
-# Our top tips for caring for your clothes better
+## Top tips for caring for your clothes better
 
-## Wash your clothes less
+## 1. Wash your clothes less
 
 We wash our clothes far too often.  It wasn't always the case but over the years we've been lured in by ever more appealing washing fragrances and detergents, new fangled machines, images of households where everything and everybody is spotlessly clean.  The result is many of us wash our clothes after just one or two wears which is far too often in most cases. 
 
@@ -26,7 +26,7 @@ Spot washing is a great idea too.  Instead of washing the whole garment for just
 
 ![](/uploads/2-2-.png)
 
-## Wash at a lower temperature
+## 2. Wash at a lower temperature
 
 It's a myth that you need to wash your clothes at a high temperature to get them clean.  Washing detergents nowadays are designed to clean our clothes really well at much lower temperatures.  
 
@@ -36,7 +36,7 @@ Of course if it's wool, then take it lower again which takes me on to tip number
 
 ![](/uploads/3-4-.png)
 
-## Check your garment labels
+## 3. Check your garment labels
 
 How many times have you shrunk a favourite jumper? It's heartbreaking and yet we do it over and again.  
 
@@ -48,7 +48,7 @@ Always, always, always check the garment care labels and then do what it says.  
 
 ![](/uploads/5-1-.png)
 
-## Hang your clothes out to dry
+## 4. Hang your clothes out to dry
 
 Choose a washing line over the tumble drier whenever you can.  Save your washing up for a windy, sunny day, do whatever you can to get those clothes out on the line.  They'll smell amazing and so much better than an hour in the drier can be harmful to fabrics. 
 
