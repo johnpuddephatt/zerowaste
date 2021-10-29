@@ -8,7 +8,7 @@ image: /uploads/4-5-.png
 ---
 Did you know that how you wash, dry and iron your clothes has a significant environmental impact.  
 
-In fact according to recent research by the [University of Leeds](file:///C:/Users/sznic/Downloads/net_zero_exchanges_connecting_policy_and_research_for_climate_action_1.pdf), it accounts for 20% of the total carbon emissions of the whole fashion industry! Given that the industry is responsible for around 10% of global carbon emissions, that's huge.  
+In fact according to recent research by the [University of Leeds](https://www.policyconnect.org.uk/research/net-zero-exchanges-connecting-policy-and-research-climate-action), it accounts for 20% of the total carbon emissions of the whole fashion industry! Given that the industry is responsible for around 10% of global carbon emissions, that's huge.  
 
 The good thing is there's plenty of small things you can do to make a big difference. 
 
