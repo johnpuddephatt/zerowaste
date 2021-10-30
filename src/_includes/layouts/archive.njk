@@ -15,8 +15,8 @@ layout: /layouts/base.njk
 
       {% for item in collections[collection] | reverse -%}
       <div class="archive__article">
-        <a href="{{item.url}}" class="archive__image">
-          {% srcset item.data.image, item.data.image_alt, null, 300, 300, "(min-width: 1120px) 300px, 25vw" %}
+        <a href="{{item.url}}" class="archive__image" style="background-color: {{ item.data.color }}">
+          {% srcset item.data.icon if item.data.icon else item.data.image, item.data.image_alt, null, 300, 300, "(min-width: 1120px) 300px, 25vw" %}
         </a>
         <div class="archive__text">
           <h3 class="archive__title">{{ item.data.title | markdowninline | striptags | safe  }}</h3>
