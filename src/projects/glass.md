@@ -3,9 +3,11 @@ color: "#bcd952"
 title: "**Leeds** *glass* recycling"
 subtitle: Exploring what we can do as a city to keep recycling more glass.
 image: /assets/images/glass-box.svg
+icon: /assets/images/glass-icon.svg
 intro:
   - title: What we’re doing
-    content: We want recycling glass to be something that everyone in the city does
+    content:
+      We want recycling glass to be something that everyone in the city does
       and for us all to understand the difference it makes.   We spent some time
       exploring the reasons why some people don’t recycle their glass which
       helped us to find solutions and ways to make it easier.  We’ve pulled
@@ -32,12 +34,14 @@ map:
     src="https://glass.zerowasteleeds.org.uk/"></iframe>
 facts:
   - title: There are **over 700 glass banks** at close to 400 locations across Leeds
-    description: By recycling your glass you're helping to save energy, reduce CO2
+    description:
+      By recycling your glass you're helping to save energy, reduce CO2
       emissions and support the Yorkshire glass economy.
     image: /assets/images/did-you-know.svg
   - title: Glass can be recycled over and over again **without ever losing its
       quality**
-    description: A glass bottle or jar that you recycle today could be back on the
+    description:
+      A glass bottle or jar that you recycle today could be back on the
       shelf in your local shop in just a few weeks.
     image: /assets/images/did-you-know-2.svg
 call_to_action:

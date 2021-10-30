@@ -3,9 +3,10 @@ color: "#9DCEE4"
 title: "**School** *uniform* exchange"
 subtitle: Making it easy to share good quality, second hand uniform across Leeds and reduce the amount that goes to waste.
 image: /assets/images/uniform-project-2.svg
+icon: /assets/images/uniform-icon.svg
 intro:
   - title: What we’re doing
-    content: We’ve set up [Leeds School Uniform Exchange](https://leedsuniformexchange.org.uk/) which.... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmo tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+    content: We’ve set up [Leeds School Uniform Exchange](https://leedsuniformexchange.org.uk/) which.... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmo tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   - title: Why we’re doing it
     content: In September 2018 we were having conversations about how some families in Leeds couldn’t afford school uniform - and at the same time we came across a school so overwhelmed with lost property that they were throwing it in a skip. Put those two things together and Leeds School Uniform Exchange is the result!
 posts:
@@ -20,12 +21,14 @@ map:
   #   src="https://zero-waste-leeds-fashion.netlify.app"></iframe>
 facts:
   - title: Clothing creates **1.2 billion tonnes** of CO₂
-    description: Every year, global emissions from textile production are equivalent
+    description:
+      Every year, global emissions from textile production are equivalent
       to 1.2 billion tonnes of CO2, a figure that outweighs the carbon footprint
       of international flights and shipping combined.
     image: /assets/images/needle-thread.svg
   - title: "**The most sustainable clothing** is what we already own"
-    description: Every year, global emissions from textile production are equivalent
+    description:
+      Every year, global emissions from textile production are equivalent
       to 1.2 billion tonnes of CO2, a figure that outweighs the carbon footprint
       of international flights and shipping combined.
     image: /assets/images/blazer.svg
@@ -42,7 +45,7 @@ call_to_action:
   content: |
     To find out more about our our school uniform reuse project or to get involved, visit the dedicated [Leeds School Uniform website](https://leedsuniformexchange.org.uk/).  You can also follow us on [Instagram](https://instagram.com/zerowasteleeds) and [Twitter](https://twitter.com/zerowasteleeds). 
 
-    If you'd like to support our work or collaborate with us, please get in touch by emailing [info@zerowasteleeds.org.uk](mailto:info@zerowasteleeds.org.uk). 
+    If you'd like to support our work or collaborate with us, please get in touch by emailing [info@zerowasteleeds.org.uk](mailto:info@zerowasteleeds.org.uk).
 custom_css: >
   .projects--header::before {
     content: '';

@@ -73,6 +73,12 @@ module.exports = function(eleventyConfig) {
     });
   });
 
+  eleventyConfig.addFilter("filter", function(array, key, value) {
+    return array.filter((item) => {
+      return item.data[key] == value;
+    });
+  });
+
   eleventyConfig.addFilter("whereContains", function(array, key, value) {
     return array.filter((item) => {
       const keys = key.split(".");

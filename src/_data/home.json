@@ -9,14 +9,13 @@
   },
   "intro": {
     "title": "Our projects",
-    "subtitle": "What we’re currently working on",
-    "headline": "Leeds School Uniform Exchange",
-    "description": "We're helping to make second-hand school uniform the first choice in Leeds.  Our Leeds School Uniform Exchange project is supporting people across the city to swap uniform at their school or in their local community.",
-    "link": {
-      "text": "Find out more",
-      "url": "https://www.zerowasteleeds.org.uk/tips/leeds-school-uniform-exchange/"
-    }
+    "subtitle": "What we’re currently working on"
   },
+  "projects": [
+    "**School** *uniform* exchange",
+    "**Zero** *waste* clothing",
+    "**Leeds** *glass* recycling"
+  ],
   "get_involved": {
     "title": "Get involved",
     "subtitle": "Issues we’re currently looking into in Leeds"
@@ -41,24 +40,6 @@
     "title": "Our top tips",
     "subtitle": "Ways to start reducing your waste"
   },
-  "projects": [
-    {
-      "title": "Glass recycling",
-      "description": "We've been running a campaign to encourage people in Leeds to recycle their glass - on the back of a 37% increase in glass recycling in 2020!",
-      "link": {
-        "text": "Find out more",
-        "url": "https://www.zerowasteleeds.org.uk/projects/leeds-glass-recycling/"
-      }
-    },
-    {
-      "title": "Leeds By Example",
-      "description": "Leeds City Council is introducing new recycling bins for coffee cups, drinks cans and plastic bottles in six neighbourhoods in Leeds this month - and we're helping to get the word out.",
-      "link": {
-        "url": "https://www.zerowasteleeds.org.uk/posts/leeds-by-example-to-launch-in-six-new-areas/",
-        "text": "Find out more"
-      }
-    }
-  ],
   "hero": {
     "link_text": "",
     "link_url": ""

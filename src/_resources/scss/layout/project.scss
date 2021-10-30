@@ -1,4 +1,4 @@
-.projects {
+body[class*="projects-"] {
   .site-header {
     background-color: $blue;
     background-color: var(--main-color);
@@ -7,7 +7,9 @@
       fill: white;
     }
   }
+}
 
+.projects {
   &--header {
     position: relative;
     padding-top: $base-spacing;

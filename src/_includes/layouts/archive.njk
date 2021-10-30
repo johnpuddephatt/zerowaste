@@ -19,7 +19,7 @@ layout: /layouts/base.njk
           {% srcset item.data.image, item.data.image_alt, null, 300, 300, "(min-width: 1120px) 300px, 25vw" %}
         </a>
         <div class="archive__text">
-          <h3 class="archive__title">{{ item.data.title }}</h3>
+          <h3 class="archive__title">{{ item.data.title | markdowninline | striptags | safe  }}</h3>
           <p>{{ item.templateContent | striptags | truncate(85) | safe }}</p>
           <a class="read-more" href="{{ item.url }}">Read more</a>
         </div>
