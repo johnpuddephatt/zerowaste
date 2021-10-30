@@ -54,7 +54,7 @@ collections:
             widget: relation
             collection: projects
             display_fields: ["title"]
-            value_field: "title",
+            value_field: "title"
             search_fields: ["title"]
             multiple: true
             max: 3
@@ -321,7 +321,7 @@ collections:
         widget: "select"
         options:
           - { label: "Blue", value: "#377780" }
-          - { label: "Orange", value: "#f89d33" }
+          - { label: "Orange", value: "#F8933" }
           - { label: "Pink", value: "#F8BDD4" }
           - { label: "Green", value: "#87ddcd" }
           - { label: "Glass green", value: "#bcd952" }
