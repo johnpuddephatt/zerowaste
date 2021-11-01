@@ -4,7 +4,7 @@ title: "How can I help slow down fast fashion?  "
 date: 2021-10-30T12:37:09.349Z
 tags:
   - fashion
-image: /uploads/3.png
+image: /uploads/fashion3.png
 image_alt: How can I help slow down fast fashion?
 ---
 ## Throughout COP26, we'll be focusing on a significant source of CO2 emissions - the clothes that we wear.
