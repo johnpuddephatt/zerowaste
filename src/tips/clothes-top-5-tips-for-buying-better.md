@@ -16,7 +16,7 @@ So what can we do to reduce the amount of clothes we buy?  We’ve got plenty of
 
 We all wear clothes to keep ourselves warm, dry and to protect our modesty but they’re also one of the most powerful non-verbal means of expressing ourselves. What we choose to wear shows others who we are, who we identify with, our interests and even how we’re feeling.  They can even play a part in who we choose as a mate.  
 
-Studies have also shown that we use them as a way of creating wellbeing and self-esteem, for some buying clothes gives a temporary ‘feel good’ boost.  We’ve all heard of the impulse buy. 
+[Studies](https://www.policyconnect.org.uk/research/net-zero-exchanges-connecting-policy-and-research-climate-action) have also shown that we use them as a way of creating wellbeing and self-esteem, for some buying clothes gives a temporary ‘feel good’ boost.  We’ve all heard of the impulse buy. 
 
 ## Our top tips for Buying Better
 
@@ -28,7 +28,7 @@ Which brings me on to our top tips for Buying Better and reducing levels of cons
 >
 > ![](/uploads/wardrobe-audit.png)
 
-2. **Swap.**  If you find clothes that you know you won’t wear again then ask your friends if they fancy doing a clothing swap.  Make a fun evening out of it. Maybe they’ve fallen out of favour with that beautiful jumper or dress you’ve seen on them and it could be yours.  Or take your clothes along to one of Leeds two community clothing exchanges in [Woodhouse](https://www.facebook.com/LeedsCommunityClothesExchange) and [Bramley](https://www.facebook.com/BramleyCommunityClothingExchange). 
+2. **Swap.**  If you find clothes that you know you won’t wear again then ask your friends if they fancy doing a clothing swap.  Make a fun evening out of it. Maybe they’ve fallen out of favour with that beautiful jumper or dress you’ve seen on them and it could be yours.  Or take your clothes along to one of Leeds two community clothing exchanges in [Woodhouse](https://www.facebook.com/LeedsCommunityClothesExchange) and [Bramley](https://www.facebook.com/BramleyCommunityClothingExchange).  When it comes to school uniform use the [Leeds School Uniform Exchange](https://leedsuniformexchange.org.uk/) map to get and donate great quality second hand uniform. 
 
 ![](/uploads/clothing-swap.png)
 
@@ -36,10 +36,12 @@ Which brings me on to our top tips for Buying Better and reducing levels of cons
 
 ![](/uploads/will-i-wear-it-30-times_.png)
 
-4. **Buy secondhand**.  There are so many places to buy great quality second hand clothes in Leeds, from vintage shops, charity shops to dress agencies.  There’s something for everyone and every budget. Search for your closest one on our map.  Whilst you’re there donate or sell some clothes you no longer wear. 
+4. **Buy secondhand**.  There are so many places to buy great quality second hand clothes in Leeds, from vintage shops, charity shops to dress agencies.  There’s something for everyone and every budget. Search for your closest one on our [Zero Waste Clothing map](https://map.zerowasteleeds.org.uk/#/).  Whilst you’re there donate or sell some clothes you no longer wear. 
 
 ![](/uploads/buy-second-hand.png)
 
-5. **Check the brand**.  If want to buy something new, then consider only buying from brands that have committed to carbon reductions and have signed up to recognised initiatives such as Textiles2030, [Sustainable Apparel Coalition](https://apparelcoalition.org/), the [Better Cotton Initiative](https://bettercotton.org/) or the [Sustainable Clothing Action Plan (SCAP).](https://wrap.org.uk/taking-action/textiles/initiatives/scap-2020)  If they’re not being open about it then it’s most likely they’re not doing anything.
+5. **Check the brand**.  If want to buy something new, then consider only buying from brands that have committed to carbon reductions and have signed up to recognised initiatives such as [Textiles 2030](https://wrap.org.uk/taking-action/textiles/initiatives/textiles-2030), [Sustainable Apparel Coalition](https://apparelcoalition.org/), the [Better Cotton Initiative](https://bettercotton.org/) or the [Sustainable Clothing Action Plan (SCAP).](https://wrap.org.uk/taking-action/textiles/initiatives/scap-2020)  If they’re not being open about it then it’s most likely they’re not doing anything.
 
 ![](/uploads/7.png)
+
+Please let us know about all the ways that you've found of acquiring clothes that you value and enjoy wearing over and again, helping to reduce the impact on the planet.
