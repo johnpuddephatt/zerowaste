@@ -28,15 +28,15 @@ Which brings me on to our top tips for Buying Better and reducing levels of cons
 >
 > ![](/uploads/wardrobe-audit.png)
 
-2. **Swap.**  If you find clothes that you know you won’t wear again then ask your friends if they fancy doing a clothing swap.  Make a fun evening out of it. Maybe they’ve fallen out of favour with that beautiful jumper or dress you’ve seen on them and it could be yours.  Or take your clothes along to one of Leeds two community clothing exchanges in [Woodhouse](https://www.facebook.com/LeedsCommunityClothesExchange) and [Bramley](https://www.facebook.com/BramleyCommunityClothingExchange).  When it comes to school uniform use the [Leeds School Uniform Exchange](https://leedsuniformexchange.org.uk/) map to get and donate great quality second hand uniform. 
+2. **Swap.**  If you find clothes that you know you won’t wear again then ask your friends if they fancy doing a clothing swap.  Make a fun evening out of it. Maybe they’ve fallen out of favour with that beautiful jumper or dress you’ve seen on them and it could be yours.  Or swap your clothes at one of Leeds two community clothing exchanges in [Woodhouse](https://www.facebook.com/LeedsCommunityClothesExchange) and [Bramley](https://www.facebook.com/BramleyCommunityClothingExchange).  When it comes to school uniform use the [Leeds School Uniform Exchange](https://leedsuniformexchange.org.uk/) map to get and donate great quality second hand uniform. 
 
 ![](/uploads/clothing-swap.png)
 
-3. **Do the 'will I wear it 30 times' test**.  You’re out shopping, tried a few things on, nothing quite fits, you’re short on time, before making an impulse buy – think ‘will I wear it at least 30 times?’.  If not, put it back.  The likelihood is it will sit at the back of the wardrobe, make your purse lighter and be bad for the planet.  
+3. **Do the 'will I wear it 30 times' test**.  You’re out shopping, tried a few things on, nothing quite fits, you’re short on time, before making an impulse buy – think ‘will I wear it at least 30 times?’.  If not, put it back.  The likelihood is it will sit at the back of the wardrobe, make your purse lighter and make you feel bad.   
 
 ![](/uploads/will-i-wear-it-30-times_.png)
 
-4. **Buy secondhand**.  There are so many places to buy great quality second hand clothes in Leeds, from vintage shops, charity shops to dress agencies.  There’s something for everyone and every budget. Search for your closest one on our [Zero Waste Clothing map](https://map.zerowasteleeds.org.uk/#/).  Whilst you’re there donate or sell some clothes you no longer wear. 
+4. **Buy secondhand**.  There are so many places to buy great quality second hand clothes in Leeds, from vintage shops, charity shops to dress agencies.  There’s something for everyone and every budget. Search for your closest one on our [Zero Waste Clothing map](https://map.zerowasteleeds.org.uk/#/).  Whilst you’re there donate or sell some clothes you no longer wear.  Way better than throwing them in the bin - did you know that in Leeds 4000 tonnes of clothing ends up in household waste bins per year!  What a waste. 
 
 ![](/uploads/buy-second-hand.png)
 
@@ -44,4 +44,4 @@ Which brings me on to our top tips for Buying Better and reducing levels of cons
 
 ![](/uploads/7.png)
 
-Please let us know about all the ways that you've found of acquiring clothes that you value and enjoy wearing over and again, helping to reduce the amount of new clothes you buy, resulting in a positive impact on the environment.
+Please let us know about all the ways that you've found of acquiring clothes that you value and enjoy wearing over and again, helping to reduce the amount of new clothes you buy.  It makes such a difference to the environment.
