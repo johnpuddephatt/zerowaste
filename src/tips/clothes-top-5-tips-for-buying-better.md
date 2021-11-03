@@ -44,4 +44,4 @@ Which brings me on to our top tips for Buying Better and reducing levels of cons
 
 ![](/uploads/7.png)
 
-Please let us know about all the ways that you've found of acquiring clothes that you value and enjoy wearing over and again, helping to reduce the amount of new clothes being bought resulting in a positive impact on the environment.
+Please let us know about all the ways that you've found of acquiring clothes that you value and enjoy wearing over and again, helping to reduce the amount of new clothes you buy, resulting in a positive impact on the environment.
