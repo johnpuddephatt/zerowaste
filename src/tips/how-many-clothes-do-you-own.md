@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: How many clothes do you own?
+title: How much clothing do you own?
 date: 2021-11-04T11:32:12.427Z
 tags:
   - fashion
