@@ -3,8 +3,7 @@ layout: layouts/post.njk
 title: How to deal with woody waste
 date: 2020-05-14T14:35:04.127Z
 tags:
-  - fashion
-  - stuff
+  - garden-waste
 image: /uploads/wheelbarrow-isobel.jpg
 ---
 
