@@ -49,16 +49,41 @@ collections:
                   widget: "string",
                   required: false,
                 }
+              - {
+                  label: "Headline",
+                  name: "headline",
+                  widget: "string",
+                  required: false,
+                }
+              - {
+                  label: "Description",
+                  name: "description",
+                  widget: "markdown",
+                  required: false,
+                }
+              - label: Link
+                name: link
+                widget: object
+                fields:
+                  - { label: "Text", name: "text", widget: "string" }
+                  - { label: "URL", name: "url", widget: "string" }
+
           - label: Projects
             name: projects
-            widget: relation
-            collection: projects
-            display_fields: ["title"]
-            value_field: "title"
-            search_fields: ["title"]
-            multiple: true
-            max: 3
-            min: 2
+            widget: list
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - {
+                  label: "Description",
+                  name: "description",
+                  widget: "markdown",
+                }
+              - label: Link
+                name: link
+                widget: object
+                fields:
+                  - { label: "Text", name: "text", widget: "string" }
+                  - { label: "URL", name: "url", widget: "string" }
           - label: Ideas section
             name: ideas
             widget: object
@@ -321,7 +346,7 @@ collections:
         widget: "select"
         options:
           - { label: "Blue", value: "#377780" }
-          - { label: "Orange", value: "#F8933" }
+          - { label: "Orange", value: "#f89d33" }
           - { label: "Pink", value: "#F8BDD4" }
           - { label: "Green", value: "#87ddcd" }
           - { label: "Glass green", value: "#bcd952" }
