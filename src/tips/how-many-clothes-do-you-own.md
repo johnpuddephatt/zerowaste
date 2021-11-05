@@ -51,7 +51,7 @@ Whilst working his way through the pile of clothes, he also made a note of the b
 
 One of the things we can do, to try to reduce the environmental impacts of the clothing industry - is to let businesses know that we care about this - and to ask them what they’re doing to reduce the impact that they have through the choices they make.
 
-So [Rob’s contacted Marks and Spencer, Aldi, and Howies](https://twitter.com/TheSocBiz/status/1455480540841263104?s=20), asking them for more information.  We’ll share any responses he gets on our social media.
+So [Rob’s contacted Marks and Spencer, Aldi, and Howies](https://twitter.com/TheSocBiz/status/1455480540841263104?s=20), asking them for more information.  So far, he's had [a response from Aldi, who pointed him to their website](https://twitter.com/TheSocBiz/status/1456549543500296192?s=20).  He's not heard back from M&S, but he's [shared links to relevant information on their website](https://twitter.com/TheSocBiz/status/1456550724628799488?s=20), and he's also shared some info he found on [the Howies website](https://twitter.com/TheSocBiz/status/1456597611318759424?s=20).  
 
 # Are you inspired to do the same?
 
