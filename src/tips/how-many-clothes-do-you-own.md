@@ -35,7 +35,7 @@ Rob from Zero Waste Leeds [did this earlier this week](https://twitter.com/TheSo
 
 He started by putting all his clothes in a big pile, weighing them, and counting them.
 
-![Pile of clothing](/uploads/img-9931.jpg)
+![Pile of clothing](/uploads/img-9931.jpg "This is what 25kg of clothes looks like")
 
 It turns out he owns 150 items of clothing - weighing in at 25kg.
 
