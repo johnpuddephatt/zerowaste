@@ -4,6 +4,7 @@ title: Clothes - Top 5 tips for buying better
 date: 2021-11-02T15:44:34.402Z
 tags:
   - fashion
+  - stuff
 image: /uploads/clothespile.jpg
 ---
 We buy a huge amount of clothes in the UK – over 26kg per year which is around 160 jumpers, jeans, dresses and other similar items per person.  That’s 13 new pieces of clothing on average every month!
