@@ -4,6 +4,7 @@ title: "How to care for your clothes better "
 date: 2021-10-29T12:03:52.288Z
 tags:
   - fashion
+  - stuff
 image: /uploads/4-5-.png
 ---
 Did you know that how you wash, dry and iron your clothes has a significant environmental impact.  
