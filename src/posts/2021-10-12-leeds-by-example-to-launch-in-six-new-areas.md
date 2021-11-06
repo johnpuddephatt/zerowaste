@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Leeds By Example to launch in six new areas
+title: Leeds By Example launched in six new areas
 date: 2021-10-12T09:55:20.267Z
 tags: recycling
 image: /uploads/screenshot-68-.png
@@ -14,7 +14,7 @@ With busy schedules we're eating and drinking more and more whilst on the move. 
 
 Leeds has been one of the very first cities in the UK to find innovative solutions to recycling on the go. Through the award-winning campaign #LeedsByExample, [the number of people reporting that they recycle in the city centre](https://issuu.com/hubbubuk/docs/second_lbe_report_dec_2019_digital) increased from 17% to 49% -  with all that extra recycling saving energy, greenhouse gas emissions and precious natural resources. 
 
-On the back of the city centre campaign success, over the coming weeks Leeds City Council will be introducing new on-the-go recycling bins in Chapel Allerton, Morley, Garforth, Headingley, Otley and Wetherby to help more people recycle their cans, coffee cups and plastic bottles whilst out and about. 
+On the back of the city centre campaign success, Leeds City Council has introduced new on-the-go recycling bins in Chapel Allerton, Morley, Garforth, Headingley, Otley and Wetherby to help more people recycle their cans, coffee cups and plastic bottles whilst out and about. 
 
 Over the next few months,  we will be supporting the Council to get the word out within local communities, letting more people know the importance of recycling these materials and how to make the most of the new orange and yellow bins.
 
