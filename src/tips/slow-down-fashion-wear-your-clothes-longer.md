@@ -35,6 +35,6 @@ Check out the Habits for Life [Love your Clothes sewing workshops](https://www.l
 
 ![](/uploads/Fashion photo.jpg)
 
-2. **Use our [\#ZeroWasteClothing map](https://map.zerowasteleeds.org.uk/#/)**.  If you need some help repairing or upcycling your clothes, then we've listed all the clothing repair shops on our map.  You’ll also find places in Leeds to buy sewing equipment, secondhand and vintage clothes, plus clothes exchanges and sustainable fashion designers.
+**3. Use our [\#ZeroWasteClothing map](https://map.zerowasteleeds.org.uk/#/)**.  If you need some help repairing or upcycling your clothes, then we've listed all the clothing repair shops on our map.  You’ll also find places in Leeds to buy sewing equipment, secondhand and vintage clothes, plus clothes exchanges and sustainable fashion designers.
 
 ![](/uploads/map.png)
