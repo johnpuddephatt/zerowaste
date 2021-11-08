@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Wear your clothes for longer
+title: Wear your clothes for longer. Why it matters
 date: 2021-11-08T17:45:32.480Z
 tags:
   - fashion
@@ -35,6 +35,8 @@ Check out the Habits for Life [Love your Clothes sewing workshops](https://www.l
 
 ![](/uploads/Fashion photo.jpg)
 
-2. **Use our [\#ZeroWasteClothing map](https://map.zerowasteleeds.org.uk/#/)**.  If you need some help repairing or upcycling your clothes, then we've listed all the clothing repair shops on our map.  You’ll also find places in Leeds to buy sewing equipment, secondhand and vintage clothes, plus clothes exchanges and sustainable fashion designers.
+**3. Use our [\#ZeroWasteClothing map](https://map.zerowasteleeds.org.uk/#/)**.  If you need some help repairing or upcycling your clothes, then we've listed all the clothing repair shops on our map.  You’ll also find places in Leeds to buy sewing equipment, secondhand and vintage clothes, plus clothes exchanges and sustainable fashion designers.
+
+We hope our map and tips will help you to make more sustainable fashion choices in our city, breathe new life into the clothes your already own, and reduce the need to buy new clothes, helping the planet and your pocket. 
 
 ![](/uploads/map.png)
