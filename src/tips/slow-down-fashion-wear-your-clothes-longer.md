@@ -17,9 +17,11 @@ You’ll see from the chart below that materials production so the growing of cr
 
 ![](/uploads/clothingrelatedemissions.jpg)
 
-What you do matters
+## What you do matters
 
-It’s true. According to a [recent study](https://www.policyconnect.org.uk/research/net-zero-exchanges-connecting-policy-and-research-climate-action) by Leeds University academic, Dr Mark Sumner, if we all extended the use of our clothes by just nine months, therefore delaying the purchase of new clothes, we could reduce the carbon footprint by 8%. 
+It’s true. According to a recent study by Leeds University academic, Dr Mark Sumner, if we all extended the use of our clothes by just nine months, therefore delaying the purchase of new clothes, we could reduce the carbon footprint by 8%. 
+
+## Top tips - Wear your clothes for longer 
 
 1. Do the ‘will I wear it 30 times test’? So we’re starting pre-purchase.  If you don’t think you’ll wear it this amount of times then don’t buy it.  This particularly applies to buying new clothes which have a significant carbon footprint.  Buying second-hand opens up more options but do you really want your wardrobe crammed full of things that aren’t quite right?
 
