@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Wear your clothes for longer
+title: Wear your clothes for longer. Why it matters
 date: 2021-11-08T17:45:32.480Z
 tags:
   - fashion
