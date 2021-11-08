@@ -25,7 +25,7 @@ It’s true. According to a [recent report](https://www.policyconnect.org.uk/res
 
 Here are our top tips for ways to keep you wanting to wear your clothes for longer.  
 
-1. **Do the ‘will I wear it 30 times test**’? So we’re starting pre-purchase.  If you don’t think you’ll wear it this amount of times then don’t buy it.  This particularly applies to buying new clothes which have a significant carbon footprint.  Buying second-hand opens up more options but do you really want your wardrobe crammed full of things that aren’t quite right?
+1. **Do the ‘will I wear it 30 times test**’? So we’re starting pre-purchase.  If you don’t think you’ll wear it this amount of times then don’t buy it.  This particularly applies to buying new clothes which have a significant carbon footprint.  Buying second-hand opens up more options but do you really want your wardrobe crammed full of things that aren’t quite right? You'll most certainly stop wearing them sooner. 
 
 > The most sustainable item of clothing is the one already in your wardrobe.
 
