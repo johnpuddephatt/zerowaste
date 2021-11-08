@@ -15,7 +15,9 @@ A year on and the impact has been truly amazing. There are currently 241 excha
 
 This summer, we helped promote and run 44 pop up uniform shops around Leeds and it is estimated that more than 8,500 items were given out for free. Not only has this saved local families money, we estimate £144,000, but it has greatly benefited the environment too. According to our calculations the number of items we gave out amounts to 30,600kg of CO2 emissions saved, and as COP26 has highlighted, there is a real need to reduce our carbon emissions. Using uniform exchanges rather than buying new uniform will help to do this.
 
-Here's our Impact Report, it makes for a very interesting read, and if you would like to get involved - it really is easier than you might think - check out our guides [here](https://leedsuniformexchange.org.uk/get-involved/). Or you can find your nearest uniform exchange on our interactive map [here](https://leedsuniformexchange.org.uk/map/) – simply search your child’s school or postcode.
+![](/uploads/leeds-school-uniform-exchange-impact-report-.png)
+
+Here's our[ Impact Report](https://issuu.com/zerowasteleeds/docs/leeds_school_uniform_exchange_impact_report_3_), it makes for a very interesting read, and if you would like to get involved - it really is easier than you might think - check out our guides [here](https://leedsuniformexchange.org.uk/get-involved/). Or you can find your nearest uniform exchange on our interactive map [here](https://leedsuniformexchange.org.uk/map/) – simply search your child’s school or postcode.
 
 
 
