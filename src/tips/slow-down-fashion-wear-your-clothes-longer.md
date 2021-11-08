@@ -19,7 +19,7 @@ You’ll see from the chart below that materials production so the growing of cr
 
 ## What you do matters
 
-It’s true. According to a recent study by Leeds University academic, Dr Mark Sumner, if we all extended the use of our clothes by just nine months, therefore delaying the purchase of new clothes, we could reduce the carbon footprint by 8%. 
+It’s true. According to a [recent report](https://www.policyconnect.org.uk/research/net-zero-exchanges-connecting-policy-and-research-climate-action) by Leeds University academic, Dr Mark Sumner, if we all extended the use of our clothes by just nine months, therefore delaying the purchase of new clothes, we could reduce the carbon footprint by 8%. 
 
 ## Top tips - Wear your clothes for longer 
 
