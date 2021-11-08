@@ -5,7 +5,7 @@ date: 2021-11-08T17:45:32.480Z
 tags:
   - fashion
   - stuff
-image: /uploads/canva-minimalist-multicolored-t-shirts-on-hangers.jpg
+image: /uploads/untitled-design-12-.png
 ---
 Around 30% of clothes in UK wardrobes has not been worn for at least a year.  All those clothes sitting there unloved. 
 
@@ -21,7 +21,7 @@ You’ll see from the chart below that materials production so the growing of cr
 
 It’s true. According to a [recent report](https://www.policyconnect.org.uk/research/net-zero-exchanges-connecting-policy-and-research-climate-action) by Leeds University academic, Dr Mark Sumner, if we all extended the use of our clothes by just nine months, therefore delaying the purchase of new clothes, we could reduce the carbon footprint by 8%. 
 
-## Top tips - Wear your clothes for longer 
+## Top tips - Wear your clothes for longer
 
 1. Do the ‘will I wear it 30 times test’? So we’re starting pre-purchase.  If you don’t think you’ll wear it this amount of times then don’t buy it.  This particularly applies to buying new clothes which have a significant carbon footprint.  Buying second-hand opens up more options but do you really want your wardrobe crammed full of things that aren’t quite right?
 
@@ -33,6 +33,6 @@ It’s true. According to a [recent report](https://www.policyconnect.org.uk/res
 
 ![](/uploads/Fashion photo.jpg)
 
-2. Use our [\#ZeroWasteClothing map](https://map.zerowasteleeds.org.uk/#/).  You’ll find all the places in Leeds to repair clothes, buy sewing equipment, secondhand and vintage clothes, plus sustainable fashion designers.
+2. Use our [\#ZeroWasteClothing map](https://map.zerowasteleeds.org.uk/#/).  If you need some help repairing or upcycling your clothes, then we've got all the clothing repair shops listed here on on our map.  You’ll also find places in Leeds to buy sewing equipment, secondhand and vintage clothes, plus clothes exchanges and sustainable fashion designers.
 
-![]()
+![](/uploads/map.png)
