@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Slow down fashion -  Wear your clothes for longer
+title: Wear your clothes for longer
 date: 2021-11-08T17:45:32.480Z
 tags:
   - fashion
