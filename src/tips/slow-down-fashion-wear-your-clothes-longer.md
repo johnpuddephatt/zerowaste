@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Slow down fashion -  Wear your clothes longer
+title: Slow down fashion -  Wear your clothes for longer
 date: 2021-11-08T17:45:32.480Z
 tags:
   - fashion
@@ -28,8 +28,6 @@ Here are our top tips for ways to keep you wanting to wear your clothes for long
 1. **Do the ‘will I wear it 30 times test**’? So we’re starting pre-purchase.  If you don’t think you’ll wear it this amount of times then don’t buy it.  This particularly applies to buying new clothes which have a significant carbon footprint.  Buying second-hand opens up more options but do you really want your wardrobe crammed full of things that aren’t quite right?
 
 > The most sustainable item of clothing is the one already in your wardrobe.
-
-
 
 2. **Repair/upcycle your clothes.**  Learn how to do some basic clothing repairs like sewing buttons back on, taking up hems, mending small holes.  If you don’t fancy sewing, then do a quick de-bobble! You’ll be surprised at how many of your clothes you can get looking their best again after a de-bobbling session.  Upcycling requires some sewing skills but once you've got them opens up a whole new world and means you can refashion your clothes instantly.  
 
