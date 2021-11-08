@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: impact of leeds school uniform exchange - one year on
+title: Impact of Leeds School Uniform Exchange - One year on
 date: 2021-11-08T10:58:44.711Z
 tags: school-uniform
 image: /uploads/leeds-school-exchange-identity.png
