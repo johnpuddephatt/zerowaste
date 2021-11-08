@@ -17,7 +17,7 @@ This summer, we helped promote and run 44 pop up uniform shops around Leeds and 
 
 ![](/uploads/leeds-school-uniform-exchange-impact-report-.png)
 
-Here's our[ Impact Report](https://issuu.com/zerowasteleeds/docs/leeds_school_uniform_exchange_impact_report_3_), it makes for a very interesting read, and if you would like to get involved - it really is easier than you might think - check out our guides [here](https://leedsuniformexchange.org.uk/get-involved/). Or you can find your nearest uniform exchange on our interactive map [here](https://leedsuniformexchange.org.uk/map/) – simply search your child’s school or postcode.
+Here's our[ Impact Report](https://issuu.com/zerowasteleeds/docs/leeds_school_uniform_exchange_impact_report_3_), it makes for a very interesting read, and if you would like to get involved - it really is easier than you might think - check out our "How to Guides" [here](https://leedsuniformexchange.org.uk/get-involved/). Or you can find your nearest uniform exchange on our interactive map [here](https://leedsuniformexchange.org.uk/map/) – simply search your child’s school or postcode.
 
 
 
