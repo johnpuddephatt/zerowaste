@@ -34,7 +34,7 @@ Here are our top tips to help you extend the life of your clothes and want to ke
 
 Check out the Habits for Life [Love your Clothes sewing workshops](https://www.loveyourclothes.org.uk/habits-life) open to people in Leeds.  We've also got [basic sewing videos](https://www.zerowasteleeds.org.uk/projects/zero-waste-clothing/) on our website here. 
 
-![](/uploads/Fashion photo.jpg)
+![](/uploads/canva-person-using-white-sewing-machine.jpg)
 
 **4. Use our [\#ZeroWasteClothing map](https://map.zerowasteleeds.org.uk/#/)**.  If you need some help repairing or upcycling your clothes, then we've listed all the clothing repair shops on our map.  You’ll also find places in Leeds to buy sewing equipment, secondhand and vintage clothes, plus clothes exchanges and sustainable fashion designers.
 
