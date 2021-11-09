@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Top tip - Wear your clothes for longer
+title: Top tips - Wear your clothes for longer
 date: 2021-11-08T17:45:32.480Z
 tags:
   - fashion
