@@ -5,7 +5,7 @@ date: 2021-11-09T10:50:36.701Z
 tags:
   - fashion
   - stuff
-image: /uploads/influence.png
+image: /uploads/image-1-.png
 ---
 Using your voice and influence is one of the most impactful things you can do in a climate emergency. 
 
