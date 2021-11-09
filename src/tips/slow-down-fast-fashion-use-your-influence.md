@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: slow down fast fashion - use your influence
+title: Use your voice to slow down fast fashion
 date: 2021-11-09T10:50:36.701Z
 tags:
   - fashion
