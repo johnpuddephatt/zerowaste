@@ -56,6 +56,20 @@ This means washing clothes less and at lower temperatures, always checking garme
 
 ## BUY BETTER AND CHOOSE SECOND HAND 
 
-Another key aim of our campaign was to stress the importance of choosing second hand over buying new. We put together a list of resources to make it easier for the people of Leeds to choose more sustainable alternatives. 
+Next big impact action we can take is to to Buy Better and by that we don't mean buying more expensive clothes!  
 
-Alongside our social media practical tips, we decided to update our #ZeroWasteClothing map and add new categories like vintage shops, clothes exchanges, dress agencies and a list of sustainable fashion designers.
+We share our [**4 tips for buying better in our blogpost here and ways you can do that easily in Leeds**.](https://www.zerowasteleeds.org.uk/tips/clothes-top-5-tips-for-buying-better/)  They are: 
+
+1. Do a wardrobe audit before buying any more new clothes. 
+
+2. Swap or donate clothes that you no longer wear. 
+
+3. Do the 'will I wear it 30 times test?'
+
+4. Buy secondhand/vintage
+
+5. Check the brand. 
+
+## Zero Waste Fashion Map
+
+To make it even easier to make sustainable fashion choices in Leeds we updated our  #ZeroWasteClothing map adding new categories like vintage shops, clothes exchanges, dress agencies and a list of sustainable fashion designers.
