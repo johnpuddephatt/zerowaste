@@ -21,6 +21,8 @@ This pie-chart summarises where clothing-related climate emissions come from. We
 
 ![](/uploads/clothingrelatedemissions.jpg)
 
+<!--EndFragment-->
+
 Listen to our interview with Dr Mark Sumner here. 
 
 <!--StartFragment-->
