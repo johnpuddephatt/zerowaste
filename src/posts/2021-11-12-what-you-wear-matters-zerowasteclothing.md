@@ -73,3 +73,29 @@ We share our [**4 tips for buying better in our blogpost here and ways you can d
 ## Zero Waste Clothing Map
 
 To make it even easier to make sustainable fashion choices in Leeds we updated our  **[\#ZeroWasteClothing map](https://www.zerowasteleeds.org.uk/projects/zero-waste-clothing/)** adding new categories like vintage shops, clothes exchanges, dress agencies and a list of sustainable fashion designers.
+
+![](/uploads/map.png)
+
+<!--StartFragment-->
+
+We also had the opportunity to discuss the importance of choosing second hand over buying new through Facebook and Instagram Lives.
+
+
+
+On Friday the 5th we hosted June from [The Leeds Jewish Welfare Board](https://ljwb.co.uk/) shop and Lauren from [Leeds Community Clothes Exchange](https://leedscommunityclothesexchange.com/) to discuss the wonderful world of pre-loved shopping and the many options available to the people of Leeds. 
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5vt5raiTfCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+We also hosted our very first Instagram Live to explore how we can switch to more sustainable alternatives and refuse to buy new with [Leeds Fashion Society](https://www.instagram.com/leedsunifashion/) from the University of Leeds. We met content creator and fashion advocate Gaia Rattazzi, fashion design student and sustainability architect Aerielle Rojas and sustainability and fashion enthusiast Mano Mori.  
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xXgQYNMS0pw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+<!--EndFragment-->
