@@ -46,12 +46,16 @@ This was high on our list because making just a few small changes to how we care
 
 This means washing clothes less and at lower temperatures, always checking garment labels and choosing to air dry your clothes.
 
-**[Read our blogpost](https://www.zerowasteleeds.org.uk/tips/how-to-care-for-your-clothes-better/)** for more tips on how to care for your clothes better. 
+**[Read our blogpost](https://www.zerowasteleeds.org.uk/tips/how-to-care-for-your-clothes-better/)** for more tips on how to care for your clothes better.  Gill shared her love of the washing line here!
 
 <!--StartFragment-->
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fzerowasteleeds%2Fposts%2F1122164488342073&show_text=true&width=500" width="500" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-
-
 <!--EndFragment-->
+
+## BUY BETTER AND CHOOSE SECOND HAND 
+
+Another key aim of our campaign was to stress the importance of choosing second hand over buying new. We put together a list of resources to make it easier for the people of Leeds to choose more sustainable alternatives. 
+
+Alongside our social media practical tips, we decided to update our #ZeroWasteClothing map and add new categories like vintage shops, clothes exchanges, dress agencies and a list of sustainable fashion designers.
