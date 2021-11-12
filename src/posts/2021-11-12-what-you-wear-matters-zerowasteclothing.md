@@ -137,3 +137,21 @@ There are several ways to extend the life of our clothes and make sure we wear t
 ## USE YOUR VOICE AND INFLUENCE
 
 Last but definitely not least, we've been sharing [ways that we can all use our voice to influence change. ](https://www.zerowasteleeds.org.uk/tips/slow-down-fast-fashion-use-your-influence/) That means asking the brands that you buy from what they're doing to reduce their impact on the planet, emailing your local MP or the government body influencing decisions around the environmental impact of the fashion industry.  It's so important to talk to your friends and colleagues about any changes you're making and why too.  See our [full list of impactful actions here. ](https://www.zerowasteleeds.org.uk/tips/slow-down-fast-fashion-use-your-influence/)
+
+<!--StartFragment-->
+
+We had the opportunity to discuss this in more detail with journalist and TV, Radio and Podcast presenter Peg Alexander during another Instagram Live.
+
+We asked Peg about her pledge to stop buying new new clothes and how she uses her influence as a public eye figure to raise awareness on sustainable fashion.
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UFtFIk8Isrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+It has been a great campaign and one that has helped us engage with different audiences across the city. Thank you to everyone that made it possible!
+
+
+
+<!--EndFragment-->
