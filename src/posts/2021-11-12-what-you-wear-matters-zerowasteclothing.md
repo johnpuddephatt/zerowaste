@@ -99,3 +99,27 @@ We also hosted our very first Instagram Live to explore how we can switch to mor
 
 
 <!--EndFragment-->
+
+<!--StartFragment-->
+
+LEEDS SCHOOL UNIFORM EXCHANGE 
+
+
+
+As part of our #ZeroWasteClothing campaign we decided to share a bit more on how we are making great second hand school uniform the first choice for families in Leeds. During the campaign we published our latest [Impact report](https://issuu.com/zerowasteleeds/docs/leeds_school_uniform_exchange_impact_report_3_) showing our impact two years after the launch of the exchange scheme.
+
+
+
+![](https://lh5.googleusercontent.com/xuapu6XBWchlNXrT59Cg4-I51ybDAXKbkZ_VuEwn3JFQZwD5juTnGe-FeMHcbHin_Bk47XllHxYVELGgSMIWiiavWj6kbrnM4tKt6YjWVASQfINsad-p8QA7SKBghWm7DdSsCvs)
+
+
+
+Tracy and Gill from Zero Waste Leeds run a  lunchtime Facebook Live to discuss the Uniform Exchange Project with Jenny from [Fresh Start Community Project Morley](https://www.facebook.com/morleyls27/), organiser of the most successful uniform exchange in the city. 
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/veSmLewLCRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+<!--EndFragment-->
