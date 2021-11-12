@@ -42,6 +42,16 @@ Our campaign focused on 4 main calls to action
 
 ## Take better care of your clothes
 
-This was high on our list because making a few small changes can really make such a big difference in reducin the environmental impact of clothing.  
+This was high on our list because making just a few small changes to how we care for our clothes can make a big difference to their overall environmental impact. 
 
-This means practical tips on how to switch to more sustainable habits-washing less and at low temperatures, checking garment labels and choosing to air dry your clothes.
+This means washing clothes less and at lower temperatures, always checking garment labels and choosing to air dry your clothes.
+
+**[Read our blogpost](https://www.zerowasteleeds.org.uk/tips/how-to-care-for-your-clothes-better/)** for more tips on how to care for your clothes better. 
+
+<!--StartFragment-->
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fzerowasteleeds%2Fposts%2F1122164488342073&show_text=true&width=500" width="500" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+
+<!--EndFragment-->
