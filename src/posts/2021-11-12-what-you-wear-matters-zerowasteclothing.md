@@ -23,10 +23,17 @@ This pie-chart summarises where clothing-related climate emissions come from. We
 
 <!--EndFragment-->
 
-Listen to our interview with Dr Mark Sumner here. 
+Listen to our interview with Dr Mark Sumner where we explore what actions could help bring change to the industry. 
 
 <!--StartFragment-->
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/KG2Cc2gDAtw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--EndFragment-->
+
+Our campaign focused on 4 main calls to action
+
+* Take better care of your clothes
+* Buy better
+* Wear clothes for longer 
+* Use your voice and influence.
