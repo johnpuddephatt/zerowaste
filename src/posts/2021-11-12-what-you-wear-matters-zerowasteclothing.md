@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "highlights from our COP26 #ZeroWASTECLOTHING campaign"
+title: "highlights of our COP26 #ZeroWASTECLOTHING campaign"
 date: 2021-11-12T18:24:54.559Z
 tags: fashion
 image: /uploads/4-5-.png
