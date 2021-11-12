@@ -1,13 +1,11 @@
 ---
 layout: layouts/post.njk
-title: "why what you wear matters - #ZeroWASTECLOTHING"
+title: "HIGHLIGHTS OF OUR COP26 #ZEROWASTECLOTHING campaign"
 date: 2021-11-12T18:24:54.559Z
 tags: fashion
 image: /uploads/4-5-.png
 ---
 During COP26, we launched #ZeroWasteClothing to explore the climate impacts of clothing and what can we do to help slow down fast fashion.   This includes using our collective voices to influence change where it matters.  
-
-
 
 Over the two weeks we heard from local people through a series of lunchtime live chats. 
 
@@ -54,20 +52,16 @@ This means washing clothes less and at lower temperatures, always checking garme
 
 <!--EndFragment-->
 
-## BUY BETTER AND CHOOSE SECOND HAND 
+## BUY BETTER AND CHOOSE SECOND HAND
 
 Next big impact action we can take is to to Buy Better and by that we don't mean buying more expensive clothes!  
 
 We share our [**4 tips for buying better in our blogpost here and ways you can do that easily in Leeds**.](https://www.zerowasteleeds.org.uk/tips/clothes-top-5-tips-for-buying-better/)  They are: 
 
 1. Do a wardrobe audit before buying any more new clothes. 
-
 2. Swap or donate clothes that you no longer wear. 
-
 3. Do the 'will I wear it 30 times test?'
-
 4. Buy secondhand/vintage
-
 5. Check the brand. 
 
 ## Zero Waste Clothing Map
@@ -80,23 +74,13 @@ To make it even easier to make sustainable fashion choices in Leeds we updated o
 
 We also had the opportunity to discuss the importance of choosing second hand over buying new through Facebook and Instagram Lives.
 
-
-
 On Friday the 5th we hosted June from [The Leeds Jewish Welfare Board](https://ljwb.co.uk/) shop and Lauren from [Leeds Community Clothes Exchange](https://leedscommunityclothesexchange.com/) to discuss the wonderful world of pre-loved shopping and the many options available to the people of Leeds. 
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5vt5raiTfCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
 We also hosted our very first Instagram Live to explore how we can switch to more sustainable alternatives and refuse to buy new with [Leeds Fashion Society](https://www.instagram.com/leedsunifashion/) from the University of Leeds. We met content creator and fashion advocate Gaia Rattazzi, fashion design student and sustainability architect Aerielle Rojas and sustainability and fashion enthusiast Mano Mori.  
 
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xXgQYNMS0pw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 <!--EndFragment-->
 
@@ -104,27 +88,17 @@ We also hosted our very first Instagram Live to explore how we can switch to mor
 
 LEEDS SCHOOL UNIFORM EXCHANGE 
 
-
-
 As part of our #ZeroWasteClothing campaign we decided to share a bit more on how we are making great second hand school uniform the first choice for families in Leeds. During the campaign we published our latest [Impact report](https://issuu.com/zerowasteleeds/docs/leeds_school_uniform_exchange_impact_report_3_) showing our impact two years after the launch of the exchange scheme.
-
-
 
 ![](https://lh5.googleusercontent.com/xuapu6XBWchlNXrT59Cg4-I51ybDAXKbkZ_VuEwn3JFQZwD5juTnGe-FeMHcbHin_Bk47XllHxYVELGgSMIWiiavWj6kbrnM4tKt6YjWVASQfINsad-p8QA7SKBghWm7DdSsCvs)
 
-
-
 Tracy and Gill from Zero Waste Leeds run a  lunchtime Facebook Live to discuss the Uniform Exchange Project with Jenny from [Fresh Start Community Project Morley](https://www.facebook.com/morleyls27/), organiser of the most successful uniform exchange in the city. 
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/veSmLewLCRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
 <!--EndFragment-->
 
-## WEAR CLOTHES FOR LONGER 
+## WEAR CLOTHES FOR LONGER
 
 If we all extended the use of our clothes by just nine months, therefore delaying the purchase of new clothes, we could reduce the carbon footprint by 8%!
 
@@ -144,14 +118,8 @@ We had the opportunity to discuss this in more detail with journalist and TV, Ra
 
 We asked Peg about her pledge to stop buying new new clothes and how she uses her influence as a public eye figure to raise awareness on sustainable fashion.
 
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UFtFIk8Isrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
 It has been a great campaign and one that has helped us engage with different audiences across the city. Thank you to everyone that made it possible!
-
-
 
 <!--EndFragment-->
