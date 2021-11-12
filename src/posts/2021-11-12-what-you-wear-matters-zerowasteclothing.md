@@ -123,3 +123,13 @@ Tracy and Gill from Zero Waste Leeds run a  lunchtime Facebook Live to discuss 
 
 
 <!--EndFragment-->
+
+## WEAR CLOTHES FOR LONGER 
+
+If we all extended the use of our clothes by just nine months, therefore delaying the purchase of new clothes, we could reduce the carbon footprint by 8%!
+
+That’s why wearing clothes for longer has been a key theme of our campaign. 
+
+There are several ways to extend the life of our clothes and make sure we wear them for a longer period of time- from buying clothes we can wear more often to repairing the ones we already own.
+
+[Read our top tips here. ](https://www.zerowasteleeds.org.uk/tips/slow-down-fashion-wear-your-clothes-longer/)
