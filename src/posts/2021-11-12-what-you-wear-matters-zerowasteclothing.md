@@ -133,3 +133,7 @@ That’s why wearing clothes for longer has been a key theme of our campaign.
 There are several ways to extend the life of our clothes and make sure we wear them for a longer period of time- from buying clothes we can wear more often to repairing the ones we already own.
 
 [Read our top tips here. ](https://www.zerowasteleeds.org.uk/tips/slow-down-fashion-wear-your-clothes-longer/)
+
+## USE YOUR VOICE AND INFLUENCE
+
+Last but definitely not least, we've been sharing [ways that we can all use our voice to influence change. ](https://www.zerowasteleeds.org.uk/tips/slow-down-fast-fashion-use-your-influence/) That means asking the brands that you buy from what they're doing to reduce their impact on the planet, emailing your local MP or the government body influencing decisions around the environmental impact of the fashion industry.  It's so important to talk to your friends and colleagues about any changes you're making and why too.  See our [full list of impactful actions here. ](https://www.zerowasteleeds.org.uk/tips/slow-down-fast-fashion-use-your-influence/)
