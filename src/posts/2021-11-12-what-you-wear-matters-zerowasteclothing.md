@@ -70,6 +70,6 @@ We share our [**4 tips for buying better in our blogpost here and ways you can d
 
 5. Check the brand. 
 
-## Zero Waste Fashion Map
+## Zero Waste Clothing Map
 
-To make it even easier to make sustainable fashion choices in Leeds we updated our  #ZeroWasteClothing map adding new categories like vintage shops, clothes exchanges, dress agencies and a list of sustainable fashion designers.
+To make it even easier to make sustainable fashion choices in Leeds we updated our  **[\#ZeroWasteClothing map](https://www.zerowasteleeds.org.uk/projects/zero-waste-clothing/)** adding new categories like vintage shops, clothes exchanges, dress agencies and a list of sustainable fashion designers.
