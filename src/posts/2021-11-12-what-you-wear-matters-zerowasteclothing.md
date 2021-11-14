@@ -9,7 +9,7 @@ During COP26, we launched #ZeroWasteClothing to explore the climate impacts of c
 
 This includes using our collective voices to influence change where it matters.  
 
-The campaign was built around insights we gathered during our six month [Leeds Fashion Futures project](https://www.thersa.org/regenerative-futures/leeds-fashion-futures) run in collaboration with The RSA, as part of their [Regenerative Futures](https://www.thersa.org/regenerative-futures) work.  We also used the sustainable fashion expertise on our doorstep at University of Leeds School of Design. 
+The campaign was built around insights we gathered during our six month [Leeds Fashion Futures project](https://www.thersa.org/regenerative-futures/leeds-fashion-futures) run in collaboration with The RSA, as part of their [Regenerative Futures](https://www.thersa.org/regenerative-futures) work.  We also used the sustainable fashion expertise on our doorstep at University of Leeds [School of Design](https://ahc.leeds.ac.uk/design). 
 
 Over the two weeks of our #ZeroWasteClothing campaign we heard from local people through a series of lunchtime live chats. 
 
