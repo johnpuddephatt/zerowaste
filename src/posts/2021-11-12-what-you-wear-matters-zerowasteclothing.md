@@ -19,7 +19,7 @@ We spoke to students from Leeds University Fashion Soc (pictured below), social 
 
 ![](/uploads/capture.jpg)
 
-Here are some highlights from the campaign.
+Here are some of our highlights from the campaign.
 
 ## Climate impacts of clothing
 
