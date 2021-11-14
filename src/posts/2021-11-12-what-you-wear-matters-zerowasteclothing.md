@@ -31,7 +31,7 @@ This pie-chart summarises where clothing-related climate emissions come from. We
 
 <!--EndFragment-->
 
-You can listen to our interview with Dr Mark Sumner here, where we explore what actions could help bring change to the industry. 
+You can listen to our interview with Dr Mark Sumner below, where we explore what actions could help bring change to the industry. 
 
 <!--StartFragment-->
 
