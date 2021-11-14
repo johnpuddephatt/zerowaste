@@ -1,19 +1,19 @@
 ---
 layout: layouts/post.njk
-title: "HIGHLIGHTS - COP26 #ZEROWASTECLOTHING CAMPAIGN"
+title: "HIGHLIGHTS - COP26 OUR #ZEROWASTECLOTHING CAMPAIGN"
 date: 2021-11-12T18:24:54.559Z
 tags: fashion
 image: /uploads/4-5-.png
 ---
-During COP26, we launched #ZeroWasteClothing to explore the climate impacts of clothing and what can we do to help slow down fast fashion.   This includes using our collective voices to influence change where it matters.  
+During COP26, we launched #ZeroWasteClothing to explore the climate impacts of clothing and what we can all do to help slow down fast fashion.   This includes using our collective voices to influence change where it matters.  
 
-Over the two weeks we heard from local people through a series of lunchtime live chats. 
+Over two weeks we heard from local people through a series of lunchtime live chats. 
 
 We spoke to students from Leeds University Fashion Soc, social media fashion influencers, a Leeds-based academic who spent 15 years working in retail for major international brands and now focuses on sustainability within the fashion industry, people who work in the city's thriving secondhand clothing scene and a TV/radio presenter who chooses to wear secondhand clothing on air and off. 
 
 Here is a summary of highlights from the campaign.
 
-## How we can help slow down fast fashion
+## Climate impacts of clothing
 
 We were delighted to speak to Dr Mark Sumner who is a leading academic in the field of sustainable fashion. He recently published an essay for the UK Government's All Party Parliamentary Climate Change Group which gives a clear insight into the climate impacts of the various parts of the multi-faceted fashion industry, and areas for improvement. 
 
@@ -49,8 +49,6 @@ This means washing clothes less and at lower temperatures, always checking garme
 <!--StartFragment-->
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fzerowasteleeds%2Fposts%2F1122164488342073&show_text=true&width=500" width="500" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-
 
 <!--EndFragment-->
 
