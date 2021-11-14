@@ -19,19 +19,19 @@ We spoke to students from Leeds University Fashion Soc (pictured below), social 
 
 ![](/uploads/capture.jpg)
 
-Here are some highlights from the campaign.
+Here are some of our highlights from the campaign.
 
 ## Climate impacts of clothing
 
-We were delighted to speak to Dr Mark Sumner who is a leading academic in the field of sustainable fashion. He recently published an [essay for the UK Government's All Party Parliamentary Climate Change Group](https://www.policyconnect.org.uk/research/net-zero-exchanges-connecting-policy-and-research-climate-action) which gives a clear insight into the climate impacts of the various parts of the multi-faceted fashion industry, and areas for improvement. 
+We were delighted to speak to Dr Mark Sumner who is a leading academic in the field of sustainable fashion. He recently published an [essay for the UK Government's All Party Parliamentary Climate Change Group](https://ahc.leeds.ac.uk/design/news/article/1918/leeds-at-cop26-dr-mark-sumner-on-fashion-s-net-zero-key-challenges) highlighting key challenges that the clothing industry will need to confront to get to net-zero emissions. 
 
-This pie-chart summarises where clothing-related climate emissions come from. We were surprised to see that how we care for our clothes - washing, drying and ironing - accounts for 20% of the industry's emissions.  Given the fashion industry is responsible for around 8-10% of global emissions, that is significant. 
+This pie-chart summarises where clothing-related climate emissions come from. We were surprised to see that how we care for our clothes - washing, drying and ironing - accounts for 20% of the industry's emissions.  Given the fashion industry is responsible for around 8-10% of global emissions, that is really significant. 
 
 ![](/uploads/clothingrelatedemissions.jpg)
 
 <!--EndFragment-->
 
-You can listen to our interview with Dr Mark Sumner below, where we explore what actions could help bring change to the industry. 
+We spoke to Mark about some of the most impactful things we can all to do help slow down fast fashion.  You can listen to our interview with him below. 
 
 <!--StartFragment-->
 
