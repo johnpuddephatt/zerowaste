@@ -11,6 +11,8 @@ Over two weeks we heard from local people through a series of lunchtime live cha
 
 We spoke to students from Leeds University Fashion Soc, social media fashion influencers, a Leeds-based academic who spent 15 years working in retail for major international brands and now focuses on sustainability within the fashion industry, people who work in the city's thriving secondhand clothing scene and a TV/radio presenter who chooses to wear secondhand clothing on air and off. 
 
+![](/uploads/capture.jpg)
+
 Here are some highlights from the campaign.
 
 ## Climate impacts of clothing
