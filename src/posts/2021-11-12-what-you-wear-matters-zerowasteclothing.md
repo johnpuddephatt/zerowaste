@@ -39,12 +39,12 @@ We spoke to Mark about some of the most impactful things we can all to do help s
 
 <!--EndFragment-->
 
-Our campaign focused on 4 main calls to action 
+We focused on the following four themes because of their impact on climate change -  
 
-* Take better care of your clothes
-* Buy better
-* Wear clothes for longer 
-* Use your voice and influence.
+* Taking better care of your clothes
+* Buying better
+* Wearing clothes for longer 
+* Using your voice and influence.
 
 ## Take better care of your clothes
 
@@ -52,13 +52,7 @@ This was high on our list because making just a few small changes to how we care
 
 This means washing clothes less and at lower temperatures, always checking garment labels and choosing to air dry your clothes.
 
-**[Read our blogpost](https://www.zerowasteleeds.org.uk/tips/how-to-care-for-your-clothes-better/)** for more tips on how to care for your clothes better.  Gill shared her love of the washing line here!
-
-<!--StartFragment-->
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fzerowasteleeds%2Fposts%2F1122164488342073&show_text=true&width=500" width="500" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-<!--EndFragment-->
+**[Read our blogpost](https://www.zerowasteleeds.org.uk/tips/how-to-care-for-your-clothes-better/)** for more tips on how to care for your clothes better.  
 
 ## BUY BETTER AND CHOOSE SECOND HAND
 
@@ -82,11 +76,11 @@ To make it even easier to make sustainable fashion choices in Leeds we updated o
 
 We also had the opportunity to discuss the importance of choosing second hand over buying new through Facebook and Instagram Lives.
 
-On Friday the 5th we hosted June from [The Leeds Jewish Welfare Board](https://ljwb.co.uk/) shop and Lauren from [Leeds Community Clothes Exchange](https://leedscommunityclothesexchange.com/) to discuss the wonderful world of pre-loved shopping and the many options available to the people of Leeds. 
+We spoke to June from [The Leeds Jewish Welfare Board](https://ljwb.co.uk/) shop and Lauren from [Leeds Community Clothes Exchange](https://leedscommunityclothesexchange.com/) to discuss the wonderful world of pre-loved shopping and the many options available to the people of Leeds. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5vt5raiTfCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-We also hosted our very first Instagram Live to explore how we can switch to more sustainable alternatives and refuse to buy new with [Leeds Fashion Society](https://www.instagram.com/leedsunifashion/) from the University of Leeds. We met content creator and fashion advocate Gaia Rattazzi, fashion design student and sustainability architect Aerielle Rojas and sustainability and fashion enthusiast Mano Mori.  
+We also hosted our very first Instagram Live to explore how we can switch to more sustainable alternatives with [Leeds Fashion Society](https://www.instagram.com/leedsunifashion/) from the University of Leeds. We met content creator and fashion advocate Gaia Rattazzi, fashion design student and sustainability architect Aerielle Rojas and sustainability and fashion enthusiast Mano Mori.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xXgQYNMS0pw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -96,11 +90,11 @@ We also hosted our very first Instagram Live to explore how we can switch to mor
 
 LEEDS SCHOOL UNIFORM EXCHANGE 
 
-As part of our #ZeroWasteClothing campaign we decided to share a bit more on how we are making great second hand school uniform the first choice for families in Leeds. During the campaign we published our latest [Impact report](https://issuu.com/zerowasteleeds/docs/leeds_school_uniform_exchange_impact_report_3_) showing our impact two years after the launch of the exchange scheme.
+As part of our #ZeroWasteClothing campaign we shared information on how we are making great second hand school uniform the first choice for families in Leeds.  During the campaign we published our latest [Impact report](https://issuu.com/zerowasteleeds/docs/leeds_school_uniform_exchange_impact_report_3_) showing all that's been achieved since we launched it last year. 
 
 ![](https://lh5.googleusercontent.com/xuapu6XBWchlNXrT59Cg4-I51ybDAXKbkZ_VuEwn3JFQZwD5juTnGe-FeMHcbHin_Bk47XllHxYVELGgSMIWiiavWj6kbrnM4tKt6YjWVASQfINsad-p8QA7SKBghWm7DdSsCvs)
 
-Tracy and Gill from Zero Waste Leeds run a  lunchtime Facebook Live to discuss the Uniform Exchange Project with Jenny from [Fresh Start Community Project Morley](https://www.facebook.com/morleyls27/), organiser of the most successful uniform exchange in the city. 
+Tracy and Gill from Zero Waste Leeds ran a  lunchtime Facebook Live to discuss the Uniform Exchange Project with Jenny from [Fresh Start Community Project Morley](https://www.facebook.com/morleyls27/), organiser of the most successful uniform exchange in the city. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/veSmLewLCRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
