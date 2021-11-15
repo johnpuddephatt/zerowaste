@@ -75,6 +75,10 @@ We share our [**tips for buying better in our blogpost here and ways you can do 
 
 ![](/uploads/1.-buy-better-facebook-post-2-.png)
 
+At the start of our campaign, Rob from Zero Waste Leeds did a wardrobe audit to see how many clothes he owned.  You can find out how we got on - and the changes he made following the audit, [here](https://www.zerowasteleeds.org.uk/tips/how-many-clothes-do-you-own/).  
+
+![Pile of clothing - 150 items](/uploads/pileofclothing.jpg)
+
 ## Zero Waste Clothing Map
 
 To make it even easier to make sustainable fashion choices in Leeds we updated our **[\#ZeroWasteClothing map](https://www.zerowasteleeds.org.uk/projects/zero-waste-clothing/)** adding new categories like vintage shops, clothes exchanges, dress agencies and a list of sustainable fashion designers.
