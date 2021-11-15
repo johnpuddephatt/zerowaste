@@ -53,11 +53,8 @@ Following the research on the environmental impact of clothing, we decided to fo
 This was high on our list because making just a few small changes to how we care for our clothes can make a big difference to their overall environmental impact. Our best tips to take better care of your clothes are: 
 
 1. Wash your clothes less
-
 2. Only wash at low temperatures
-
 3. Check your garment labels
-
 4. Hang your clothes out to dry 
 
 **[Read our blogpost](https://www.zerowasteleeds.org.uk/tips/how-to-care-for-your-clothes-better/)** for more tips.
@@ -121,24 +118,18 @@ Around 30% of clothes in UK wardrobes has not been worn for at least a year whil
 There are many ways to extend the life of our clothes and make sure we wear them for a longer period of time including:
 
 1. Do the "Will I wear it 30 times?" test
-
 2. Organise your wardrobe so that you can make the most of what you already own
-
 3. Repair/Upcycle your clothes
 
 [Read more about our top tips here. ](https://www.zerowasteleeds.org.uk/tips/slow-down-fashion-wear-your-clothes-longer/)
 
 ![](/uploads/wear-your-clothes-insta-carousel-facebook-post-.png)
 
-
-
 ## USE YOUR VOICE AND INFLUENCE
 
 Last but definitely not least, we've been sharing [ways that we can all use our voice to influence change. ](https://www.zerowasteleeds.org.uk/tips/slow-down-fast-fashion-use-your-influence/) That means asking the brands that you buy from what they're doing to reduce their impact on the planet, emailing your local MP or the government body influencing decisions around the environmental impact of the fashion industry.  It's so important to talk to your friends and colleagues about any changes you're making and why too.  See our [full list of impactful actions here. ](https://www.zerowasteleeds.org.uk/tips/slow-down-fast-fashion-use-your-influence/)
 
 ![](/uploads/use-your-voice-carousel-post-facebook-post-.png)
-
-
 
 <!--StartFragment-->
 
