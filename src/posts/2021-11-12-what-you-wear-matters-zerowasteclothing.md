@@ -59,9 +59,7 @@ This was high on our list because making just a few small changes to how we care
 
 **[Read our blogpost](https://www.zerowasteleeds.org.uk/tips/how-to-care-for-your-clothes-better/)** for more tips.
 
-![](/uploads/1-1-.png)
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fzerowasteleeds%2Fposts%2F1122164488342073&show_text=true&width=500" width="500" height="590" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+![](/uploads/post-gill.jpg)
 
 ## BUY BETTER AND CHOOSE SECOND HAND
 
@@ -81,7 +79,7 @@ We share our [**tips for buying better in our blogpost here and ways you can do 
 
 To make it even easier to make sustainable fashion choices in Leeds we updated our **[\#ZeroWasteClothing map](https://www.zerowasteleeds.org.uk/projects/zero-waste-clothing/)** adding new categories like vintage shops, clothes exchanges, dress agencies and a list of sustainable fashion designers.
 
-![](/uploads/map.png)
+![](/uploads/map-22.jpg)
 
 <!--StartFragment-->
 
@@ -103,7 +101,7 @@ We also hosted our very first Instagram Live to explore how we can switch to mor
 
 As part of our #ZeroWasteClothing campaign we shared information on how we are making great second hand school uniform the first choice for families in Leeds.  During the campaign we published our latest [Impact report](https://issuu.com/zerowasteleeds/docs/leeds_school_uniform_exchange_impact_report_3_) showing all that's been achieved since we launched the project last year. 
 
-![](https://lh5.googleusercontent.com/xuapu6XBWchlNXrT59Cg4-I51ybDAXKbkZ_VuEwn3JFQZwD5juTnGe-FeMHcbHin_Bk47XllHxYVELGgSMIWiiavWj6kbrnM4tKt6YjWVASQfINsad-p8QA7SKBghWm7DdSsCvs)
+![](/uploads/final-final.gif)
 
 Tracy and Gill from Zero Waste Leeds ran a  lunchtime Facebook Live to discuss the Uniform Exchange Project with Jenny from [Fresh Start Community Project Morley](https://www.facebook.com/morleyls27/), organiser of the most successful uniform exchange in the city. 
 
