@@ -19,13 +19,14 @@ And with Christmas being a period when consumption shoots up, there can be all s
 
 ![Zero Waste Christmas tree waste hierarchy](/uploads/zwcorange.jpg "Ideas for a #ZeroWasteChristmas")
 
-So over the next few weeks we'll be sharing lots of top tips that'll help you have fund over the festive period, whilst also helping to waste as little as we can.
+So over the next few weeks we'll be sharing lots of top tips that'll help you have fun over the festive period, whilst also helping to waste as little as we can & keeping our environmental impacts to a minimum.
 
 Keep an eye out for tips on some of the following themes:
 
 * How to keep food waste to a minimum over the festive period
-* Ideas for more sustainable gifts - things you can make yourself, or buy from local makers
-* Alternative gifts - such as experiences, workshops etc
+* Ideas for more sustainable gifts - things you can make yourself, repair, or buy from local makers
+* Alternative gifts - such as experiences & workshops 
 * Christmas recycling - what can and can't go in your green bin
+* Local charities you can support
 
 Keep an eye out for #ZeroWasteChristmas top tips on our [Facebook](https://www.facebook.com/zerowasteleeds), [Instagram](https://www.instagram.com/zerowasteleeds/), [Twitter](https://twitter.com/ZeroWasteLeeds), [LinkedIn](https://www.linkedin.com/company/zero-waste-leeds/?viewAsMember=true) and [YouTube](https://www.youtube.com/channel/UCD4AOnL4OuGUnxHqDi_5ghQ).  And if you've got any top tips yourself, share them with us - just contact us on social media!
