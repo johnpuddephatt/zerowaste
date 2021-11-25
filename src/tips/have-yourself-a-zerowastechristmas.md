@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Have yourself a #ZeroWasteChristmas"
+title: "Have yourself a #ZeroWasteChristmas!"
 date: 2021-11-25T13:38:13.724Z
 tags:
   - stuff
