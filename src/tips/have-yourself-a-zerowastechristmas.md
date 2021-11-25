@@ -4,7 +4,7 @@ title: "Have yourself a #ZeroWasteChristmas!"
 date: 2021-11-25T13:38:13.724Z
 tags:
   - stuff
-image: /uploads/zerowastechristmas-1-.jpg
+image: /uploads/copy-of-zero-waste-christmas-photos.jpg
 image_alt: Zero Waste Christmas tree waste hierarchy
 ---
 With the festive season fast approaching, our thoughts at Zero Waste Leeds are turning to how we can all have a fun festive season - where we waste as little as we possibly can.
