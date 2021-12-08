@@ -13,7 +13,7 @@ Winter coats are expensive, many families have had a tough couple of years and t
 
 Now that the temperatures have dropped, have you checked whether your child's winter coat still fits? If it doesn't, donate it - and whilst you're at it, maybe you can pick one up in the next size! Let's get winter coats circulating round the city saving waste and money. 
 
-Here's where :
+Here's where:
 
 [Meanwood Community Centre](https://www.facebook.com/pages/Meanwood-Community-Centre/1759354170947562): Monday - Friday 8:30am - 8:00pm, Stainbeck Avenue, Leeds, LS7 2QU
 
