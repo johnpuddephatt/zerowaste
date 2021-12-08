@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Leeds School Uniform Exchange - Winter Coat Appeal
 date: 2021-12-08T11:01:14.495Z
 tags: school-uniform
-image: /uploads/coats-fb.jpg
+image: /uploads/coats1.jpg
 ---
 <!--StartFragment-->
 
