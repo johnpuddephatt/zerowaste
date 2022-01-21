@@ -99,7 +99,6 @@ layout: /layouts/base.njk
       <a href="/tag/{{ posts.tag }}/" class="button_alt button_alt__large">See more of our thinking</a>
     </div>
   </section>
-{% endif %}
 {% if number_of_facts >= 2 %}
   <section class="projects__fact">
     <div class="container projects__fact__container">
@@ -111,6 +110,8 @@ layout: /layouts/base.njk
     </div>
   </section>
 {% endif %}
+{% endif %}
+
 {% if videos.playlist %}
   <script>window.playlistId = '{{ videos.playlist }}'</script>
   <section class="section__home-thinking" id="project-videos" x-data="youtubePlaylist('{{ videos.playlist }}')" x-init="fetchPlaylist()">
