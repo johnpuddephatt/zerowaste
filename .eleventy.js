@@ -5,7 +5,7 @@ const pluginBetterSlug = require("@borisschapira/eleventy-plugin-better-slug");
 
 module.exports = function(eleventyConfig) {
   // Shortcodes
-  eleventyConfig.addShortcode("excerpt", (article) => extractExcerpt(article));
+  eleventyConfig.addShortcode("excerpt", article => extractExcerpt(article));
 
   // Plugins
   // eleventyConfig.addPlugin( pluginSrcsetImg );
@@ -20,21 +20,21 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "./src/_favicons/**/*": "./" });
 
   // Collections
-  eleventyConfig.addCollection("posts", (collection) => {
+  eleventyConfig.addCollection("posts", collection => {
     return collection.getFilteredByGlob("./src/posts/*.md");
   });
 
   // Categories
-  eleventyConfig.addCollection("tags", (collection) => {
+  eleventyConfig.addCollection("tags", collection => {
     return collection.getFilteredByGlob("./src/tags/*.md").sort(function(a, b) {
       return Number(b.data.order || 0) - Number(a.data.order || 0);
     });
   });
 
-  eleventyConfig.addCollection("homepage_tags", (collection) => {
+  eleventyConfig.addCollection("homepage_tags", collection => {
     return collection
       .getFilteredByGlob("./src/tags/*.md")
-      .filter((tag) => {
+      .filter(tag => {
         return ["food-waste", "garden-waste", "recycling", "stuff"].includes(
           tag.data.slug
         );
@@ -44,26 +44,26 @@ module.exports = function(eleventyConfig) {
       });
   });
 
-  eleventyConfig.addCollection("tips", (collection) => {
+  eleventyConfig.addCollection("tips", collection => {
     return collection.getFilteredByGlob("./src/tips/*.md");
   });
 
-  eleventyConfig.addCollection("pipeline", (collection) => {
+  eleventyConfig.addCollection("pipeline", collection => {
     return collection.getFilteredByGlob("./src/pipeline/*.md");
   });
 
-  eleventyConfig.addCollection("pages", (collection) => {
+  eleventyConfig.addCollection("pages", collection => {
     return collection.getFilteredByGlob("./src/pages/*.md");
   });
 
-  eleventyConfig.addCollection("projects", (collection) => {
+  eleventyConfig.addCollection("projects", collection => {
     return collection.getFilteredByGlob("./src/projects/*.md");
   });
 
   eleventyConfig.addLayoutAlias("supporters", "partials/supporters.html");
 
   eleventyConfig.addFilter("where", function(array, key, value) {
-    return array.filter((item) => {
+    return array.filter(item => {
       const keys = key.split(".");
       const reducedKey = keys.reduce((object, key) => {
         return object[key];
@@ -74,13 +74,13 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addFilter("filter", function(array, key, value) {
-    return array.filter((item) => {
+    return array.filter(item => {
       return item.data[key] == value;
     });
   });
 
   eleventyConfig.addFilter("whereContains", function(array, key, value) {
-    return array.filter((item) => {
+    return array.filter(item => {
       const keys = key.split(".");
       const reducedKey = keys.reduce((object, key) => {
         return object[key];
@@ -100,20 +100,20 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.setLiquidOptions({
     dynamicPartials: false,
-    root: ["_includes", "."],
+    root: ["_includes", "."]
   });
 
   const md = require("markdown-it")({
     html: false,
     breaks: true,
-    linkify: true,
+    linkify: true
   });
 
-  eleventyConfig.addNunjucksFilter("markdownify", (markdownString) =>
-    md.render(markdownString)
+  eleventyConfig.addNunjucksFilter("markdownify", markdownString =>
+    markdownString ? md.render(markdownString) : null
   );
-  eleventyConfig.addNunjucksFilter("markdowninline", (markdownString) =>
-    md.renderInline(markdownString)
+  eleventyConfig.addNunjucksFilter("markdowninline", markdownString =>
+    markdownString ? md.renderInline(markdownString) : null
   );
 
   eleventyConfig.cloudinary = "letsdance";
@@ -128,7 +128,7 @@ module.exports = function(eleventyConfig) {
       height && width ? "," + (resize || "c_fill") : ""
     },f_auto,q_80/${process.env.URL + path.split(" ").join("%20")}`;
     const srcset = eleventyConfig.srcsetWidths
-      .map((w) => {
+      .map(w => {
         return `//res.cloudinary.com/${eleventyConfig.cloudinary}/image/fetch/${
           w ? "w_" + w : ""
         }${height && width ? ",h_" + Math.floor((height / width) * w) : ""}${
@@ -152,7 +152,7 @@ module.exports = function(eleventyConfig) {
     if (outputPath.endsWith(".html") && eleventyConfig.autoselector) {
       const dom = new JSDOM(content);
       const images = [
-        ...dom.window.document.querySelectorAll(eleventyConfig.autoselector),
+        ...dom.window.document.querySelectorAll(eleventyConfig.autoselector)
       ];
       if (images.length > 0) {
         await Promise.all(images.map(updateImage));
@@ -162,7 +162,7 @@ module.exports = function(eleventyConfig) {
     }
   });
 
-  const updateImage = async (imgElem) => {
+  const updateImage = async imgElem => {
     let path = imgElem.src;
     let imageExtension = path.split(".").pop();
     if (imageExtension != "svg" && !path.startsWith("//res.cloudinary.com")) {
@@ -192,9 +192,9 @@ module.exports = function(eleventyConfig) {
       input: "./src", // Equivalent to Jekyll's source property
       output: "./dist", // Equivalent to Jekyll's destination property
       data: `./_data/`,
-      includes: `./_includes/`,
+      includes: `./_includes/`
     },
     // passthroughFileCopy: true,
-    templateFormats: ["njk", "md", "html"],
+    templateFormats: ["njk", "md", "html"]
   };
 };

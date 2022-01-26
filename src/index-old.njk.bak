@@ -17,24 +17,39 @@ layout: layouts/base.njk
   {% if home.intro.subtitle %}<p class="section-subtitle">{{ home.intro.subtitle}}</p>{% endif %}
 
   <div class="container">
-  
-    {% for home_project in home.projects %}
-        {% set projects = collections.projects | filter('title', home_project) %}
-        {% set project = projects[0]  %}
-        
-        <a href="{{ project.url }}" class="project__item">
-          <div class="project__image" style="background-color: {{ project.data.color }}">
-           <img src="{{ project.data.icon }}" />
-          </div>
-          <div class="project__text">
-            <h3 class="project__title">{{ project.data.title | markdowninline | striptags | safe }}</h3>
-            <p>{{ project.data.subtitle | striptags | truncate(175) | safe }}</p>
-          </div>
+    <div class="intro__copy">
+      <h2 class="intro__title">{{ home.intro.headline }}</h2>
+      {{ home.intro.description | markdownify | safe }}
+      {% if home.intro.link.url %}
+        <a class="read-more" href="{{ home.intro.link.url }}">
+        {% if home.intro.link.text %}
+          {{ home.intro.link.text }}
+        {% else %}
+          Find out more
+        {% endif %}
         </a>
-    {% endfor %}
-  </div>
-    <div class="align-center">
-      <a href="/projects/" class="button_alt button_alt__large">See all of our projects</a>
+      {% endif %}
+    </div>
+
+    <div class="intro__projects" id="home-projects">
+      {% for project in home.projects %}
+        <div class="intro__project">
+          <h3 class="project__title">{{ project.title }}</h3>
+          <p class="project__description">{{ project.description }}</p>
+          {% if project.link.url %}
+            <a class="read-more" href="{{ project.link.url }}">
+            {% if project.link.text %}
+              {{ project.link.text }}
+            {% else %}
+              Find out more
+            {% endif %}
+            </a>
+          {% else %}
+            <a class="read-more">More info coming soon</a>
+          {% endif %}
+        </div>
+      {% endfor %}
+    </div>
   </div>
 </section>
 
@@ -142,7 +157,7 @@ layout: layouts/base.njk
       {% for post in collections.posts | reverse | slice(1,4) -%}
         <a href="{{ post.url }}" class="thinking__item">
           <div class="thinking__item__image">
-            {% srcset post.data.image, post.data.image_alt, "thinking__item__image", 240, 240, "(min-width: 1120px) 172px, 30vw" %}
+            {% srcset post.data.image, featuredPost.data.image_alt, "thinking__item__image", 240, 240, "(min-width: 1120px) 172px, 30vw" %}
           </div>
           <div class="thinking__item__text">
             <h3 class="thinking__item__title">{{ post.data.title }}</h3>

@@ -70,20 +70,14 @@ collections:
 
           - label: Projects
             name: projects
-            widget: list
-            fields:
-              - { label: "Title", name: "title", widget: "string" }
-              - {
-                  label: "Description",
-                  name: "description",
-                  widget: "markdown",
-                }
-              - label: Link
-                name: link
-                widget: object
-                fields:
-                  - { label: "Text", name: "text", widget: "string" }
-                  - { label: "URL", name: "url", widget: "string" }
+            widget: relation
+            collection: projects
+            display_fields: ["title"]
+            value_field: "title"
+            search_fields: ["title"]
+            multiple: true
+            max: 3
+            min: 2
           - label: Ideas section
             name: ideas
             widget: object

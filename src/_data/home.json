@@ -7,6 +7,11 @@
     "title": "Join our movement",
     "description": "Every step of our journey we’re uncovering more people in Leeds who are curious, serious or passionate about reducing their waste. If you’re one of those people, join us."
   },
+  "projects": [
+    "**Together** *for sport*",
+    "**School** *uniform* exchange",
+    "**Zero** *waste* clothing"
+  ],
   "intro": {
     "title": "Our projects",
     "subtitle": "What we’re currently working on",
@@ -41,24 +46,6 @@
     "title": "Our top tips",
     "subtitle": "Ways to start reducing your waste"
   },
-  "projects": [
-    {
-      "title": "Zero Waste Clothing",
-      "description": "Clothing accounts for around 10% of global CO2 emissions - so we're exploring what we can do to reduce the environmental impacts of the clothes we wear.",
-      "link": {
-        "text": "Find out more",
-        "url": "https://www.zerowasteleeds.org.uk/projects/zero-waste-clothing/"
-      }
-    },
-    {
-      "title": "Leeds By Example",
-      "description": "Leeds City Council has recently introduced new recycling bins for coffee cups, drinks cans and plastic bottles in six neighbourhoods in Leeds - and we're helping to get the word out.",
-      "link": {
-        "url": "https://www.zerowasteleeds.org.uk/posts/leeds-by-example-launched-in-six-new-areas/",
-        "text": "Find out more"
-      }
-    }
-  ],
   "hero": {
     "link_text": "",
     "link_url": ""
