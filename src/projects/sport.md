@@ -14,13 +14,13 @@ intro:
       you can start exchanging now by offering the kit you have or asking for
       the kit you need on our Facebook Page.
   - title: Why we’re doing it
-    content: >-
-      Sport kit and equipment is expensive and, for some people, it’s the
+    content: Sport kit and equipment is expensive and, for some people, it’s the
       biggest barrier to taking part.  Being active is so good for both our
       physical and mental wellbeing and by working with local people to open up
       a supply of kit we can save waste, save money and feel good!
-
-      **What do we mean by sport?** We mean every sport and activity from golf to tap dancing to running, from football to snooker, gymnastics, climbing, walking and gym work.
+  - title: What do we mean by sport?
+    content: We mean every sport and activity from golf to tap dancing to running,
+      from football to snooker, gymnastics, climbing, walking and gym work.
 posts:
   title: Latest updates
   subtitle: The latest posts from our blog about together for sport
