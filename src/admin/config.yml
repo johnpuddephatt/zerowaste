@@ -348,6 +348,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Subtitle", name: "subtitle", widget: "text", required: false }
       - { label: "Image", name: "image", widget: "image", required: false }
+      - { label: "Icon", name: "icon", widget: "image", required: false }
       - label: Intro
         name: intro
         widget: list

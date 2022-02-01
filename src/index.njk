@@ -87,41 +87,6 @@ layout: layouts/base.njk
   </div>
 </section>
 
-<section class="section__home-pipeline" id="home-pipeline">
-
-  <h2 class="section-title section-title__large">{{ home.get_involved.title }}</h2>
-  {% if home.get_involved.subtitle %}<p class="section-subtitle">{{ home.get_involved.subtitle}}</p>{% endif %}
-
-  <div class="container">
-    {% for pipeline in collections.pipeline | reverse | limit(3) -%}
-      <a href="{{ pipeline.url }}" class="pipeline__item">
-        <div class="pipeline__image">
-          {% srcset pipeline.data.image, collections.pipeline[0].data.image_alt, "thinking__item__image", 360, 202, "(min-width: 1120px) 310px, 30vw" %}
-        </div>
-        <div class="pipeline__text">
-          <h3 class="pipeline__title">{{ pipeline.data.title }}</h3>
-          <p>{{ pipeline.templateContent | striptags | truncate(80) | safe }}</p>
-          <div class="pipeline__footer">
-            <span class="read-more" href="{{ pipeline.url }}">Read more</span>
-          </div>
-        </div>
-      </a>
-    {% endfor %}
-  </div>
-
-</section>
-
-<section class="section__home-hire" id="home-hire">
-  <div class="container">
-    {% include "hire.svg" %}
-    <div class="hire__text">
-      <h2 class="section-title">{{ home.hire.title | nl2br | safe }}</h2>
-      {{ home.hire.description | markdownify | safe}}
-      <a class="button button__large button__inverted type-2" href="{{ home.hire.link.url }}">{{ home.hire.link.text }}</a>
-    </div>
-  </div>
-</section>
-
 <section class="section__home-thinking" id="home-thinking">
   <h2 class="section-title section-title__large">{{ home.blog.title }}</h2>
   {% if home.blog.subtitle %}<p class="section-subtitle">{{ home.blog.subtitle}}</p>{% endif %}
@@ -156,4 +121,39 @@ layout: layouts/base.njk
   <div class="align-center">
     <a href="/blog/" class="button_alt button_alt__large">See more of our thinking</a>
   </div>
+</section>
+
+<section class="section__home-hire" id="home-hire">
+  <div class="container">
+    {% include "hire.svg" %}
+    <div class="hire__text">
+      <h2 class="section-title">{{ home.hire.title | nl2br | safe }}</h2>
+      {{ home.hire.description | markdownify | safe}}
+      <a class="button button__large button__inverted type-2" href="{{ home.hire.link.url }}">{{ home.hire.link.text }}</a>
+    </div>
+  </div>
+</section>
+
+<section class="section__home-pipeline" id="home-pipeline">
+
+  <h2 class="section-title section-title__large">{{ home.get_involved.title }}</h2>
+  {% if home.get_involved.subtitle %}<p class="section-subtitle">{{ home.get_involved.subtitle}}</p>{% endif %}
+
+  <div class="container">
+    {% for pipeline in collections.pipeline | reverse | limit(3) -%}
+      <a href="{{ pipeline.url }}" class="pipeline__item">
+        <div class="pipeline__image">
+          {% srcset pipeline.data.image, collections.pipeline[0].data.image_alt, "thinking__item__image", 360, 202, "(min-width: 1120px) 310px, 30vw" %}
+        </div>
+        <div class="pipeline__text">
+          <h3 class="pipeline__title">{{ pipeline.data.title }}</h3>
+          <p>{{ pipeline.templateContent | striptags | truncate(80) | safe }}</p>
+          <div class="pipeline__footer">
+            <span class="read-more" href="{{ pipeline.url }}">Read more</span>
+          </div>
+        </div>
+      </a>
+    {% endfor %}
+  </div>
+
 </section>

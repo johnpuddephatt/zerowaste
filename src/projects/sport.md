@@ -5,6 +5,7 @@ subtitle: Sport kit and equipment is expensive on the wallet and to the planet
   too. We’re making it easy for everyone to access the great quality,
   second-hand sport kit and equipment they need.
 image: /assets/images/sport-1.svg
+icon: /assets/images/together-for-sport-logo.svg
 intro:
   - title: What we’re doing
     content: We’ve set up Together for Sport to make it as easy as possible for
@@ -19,7 +20,8 @@ intro:
       physical and mental wellbeing and by working with local people to open up
       a supply of kit we can save waste, save money and feel good!
   - title: What do we mean by sport?
-    content: We mean every sport and activity from golf to tap dancing to running,
+    content:
+      We mean every sport and activity from golf to tap dancing to running,
       from football to snooker, gymnastics, climbing, walking and gym work.
 posts:
   title: Latest updates
@@ -27,11 +29,13 @@ posts:
   tag: sport
 facts:
   - title: Being active is good for our **physical and mental health**
-    description: Team and organised sports were badly affected by the COVID pandemic
+    description:
+      Team and organised sports were badly affected by the COVID pandemic
       and as a result most people did less physical activity.
     image: /assets/images/sport-3.svg
   - title: More sharing = less new stuff = **good for the environment**
-    description: Sport kit and equipment can be expensive and many more people are
+    description:
+      Sport kit and equipment can be expensive and many more people are
       struggling financially.  We can save money and be more sustainable by
       sharing.
     image: /assets/images/sport-2.svg
