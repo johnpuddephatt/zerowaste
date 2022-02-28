@@ -13,6 +13,8 @@ In the meantime here are some answers to some of the things people contact us ab
 
 If you’d like to know more about [Leeds School Uniform Exchange](https://leedsuniformexchange.org.uk/), please have a look at our [website](https://leedsuniformexchange.org.uk/), and please join the [Facebook group](https://www.facebook.com/groups/leedsschooluniformexchange/).  
 
+![](/uploads/artboard-16-100.jpg)
+
 ### Together For Sport
 
 If you’d like to know more about Together For Sport - our sports kit sharing project, please [visit our website](https://www.zerowasteleeds.org.uk/projects/together-for-sport/) or join the [Facebook group](https://www.facebook.com/groups/1362989497479061).  We have lots of [recycling tips](https://www.zerowasteleeds.org.uk/tag/recycling/) on our website too.  
@@ -36,13 +38,5 @@ If you're a student wanting information about our work for a project or an artic
 ### Media enquiries
 
 If you are a journalist and would like to talk to us about our work, [please email us](mailto:info@zerowasteleeds.org.uk).  
-
-
-
-
-
-
-
-
 
 ![](/uploads/copy-of-facebook-cover-2-.png)
