@@ -82,6 +82,8 @@ C.R.A.P (Conserving Resources Associating People) [](https://www.facebook.com/gr
 
 [CRAP\* South Leeds (\*Conserving Resources Associating People)](https://www.facebook.com/groups/449919929757315/)
 
+[Roundhay C.R.A.P](https://www.facebook.com/groups/127820052406749/)
+
 [Kirkstall Recycle](https://www.facebook.com/​groups/224197375876183)
 
 [Leeds Freecycle](https://www.facebook.com/groups/LeedsHelp/)
@@ -92,7 +94,7 @@ C.R.A.P (Conserving Resources Associating People) [](https://www.facebook.com/gr
 
 [Free to Collect...LEEDS (free item's only) ](https://www.facebook.com/groups/442708215859751/)
 
-[Leeds Freecycle (Give Away, Buy & Recycle)](https://www.facebook.com/groups/LeedsHelp/)  [](https://www.facebook.com/groups/LeedsHelp/)
+[Leeds Freecycle (Give Away, Buy & Recycle)](https://www.facebook.com/groups/LeedsHelp/)  
 
 [LS12 Swap Shop](https://www.facebook.com/groups/287012255702808/) 
 
