@@ -102,7 +102,9 @@ C.R.A.P (Conserving Resources Associating People) [](https://www.facebook.com/gr
 
 [LS28 Swap Shop](https://www.facebook.com/groups/507632083255236/)[](https://www.facebook.com/groups/287012255702808/)
 
-[Free Free Free Leeds!!!](https://www.facebook.com/groups/5616276005064499/) [](https://www.facebook.com/groups/5616276005064499/)
+[Free Free Free Leeds!!!](https://www.facebook.com/groups/5616276005064499/) 
+
+[Free LS26](https://www.facebook.com/groups/497138331186677)[](https://www.facebook.com/groups/5616276005064499/)
 
 [Free Stuff in Leeds](https://www.facebook.com/groups/b.gaertner/) [](https://www.facebook.com/groups/b.gaertner/)
 
