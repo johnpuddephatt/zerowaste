@@ -8,8 +8,7 @@ tags:
 image: /uploads/schoolkidsuniform1.png
 image_alt: Image of schoolchildren running
 ---
-
-In June we launched Leeds School Uniform Exchange - which aims to make school uniform reuse the norm right across Leeds.
+In June 2020 we launched Leeds School Uniform Exchange - which aims to make school uniform reuse the norm right across Leeds.
 
 With funding from [Leeds City Council](https://www.leeds.gov.uk/childfriendlyleeds) and [Leeds Community Foundation](https://leedscf.org.uk/), our aim is to make it as easy as possible for people across Leeds to find out about school uniform reuse schemes at their school or in their local community.
 
