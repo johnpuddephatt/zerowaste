@@ -1,12 +1,12 @@
 ---
 layout: layouts/post.njk
-title: Donating and buying secondhand stuff
+title: Donating, borrowing and buying secondhand stuff
 date: 2020-05-26T16:34:52.004Z
 tags:
   - stuff
 image: /uploads/secondhandfurniture.png
 ---
-With so many options to buy and donate secondhand stuff in Leeds, there's really very little need to buy new!
+With so many options to borrow, buy and donate secondhand stuff in Leeds, there's really very little need to buy new!
 
 Many reuse organisations in Leeds are run by charities or social enterprises, so by buying from them, not only are you saving precious environmental resources, but you are also often supporting a really good cause.
 
