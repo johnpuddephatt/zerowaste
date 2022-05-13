@@ -11,19 +11,17 @@ We are doing all we can to make it as easy as possible for people in Leeds to sh
 
 With support from funders including Leeds City Council and [Leeds Community Foundation](https://leedscf.org.uk/)'s Jimbo's Fund we have developed Leeds School Uniform Exchange - supporting people, community groups and schools across Leeds to set up online or pop-up school uniform exchanges.
 
-We're delighted to say that one year on from the launch of Leeds School Uniform Exchange, there are now 100 exchanges active in our city - a mix of Facebook groups organised by parents, lost property redistribution schemes run by schools, and pop up exchanges run by local community groups.
+We're delighted to say that two years on from the launch of Leeds School Uniform Exchange, there are now 276 exchanges active in our city covering 93% of schools in Leeds - a mix of Facebook groups organised by parents, lost property redistribution schemes run by schools, and pop up exchanges run by local community groups.
 
 ![We love second hand ](/uploads/artboard-4-100.jpg "Our aim is to make second hand school uniform first choice")
 
 To find out if there's an exchange for your school, have a look at [our Leeds School Uniform Exchange website](https://leedsuniformexchange.org.uk/) - where you'll find [a searchable map](https://leedsuniformexchange.org.uk/map/).  
 
-As well as lots of [Facebook groups](https://leedsuniformexchange.org.uk/places/category/facebook-pages/) for specific schools, we've got a [Leeds School Uniform Exchange Facebook group](https://x.facebook.com/groups/603050533660854?bac=MTYyMDExNTMzMDo3OTU3MDcyMDEwNjE4NTI6Nzk1NzA3MjAxMDYxODUyLDAsMDoyMDpLdz09&multi_permalinks) - which has over 1500 members.  That's a great place for asking for, or offering, free, good quality school uniform - particularly if either there isn't an exchange for your school, or if you haven't been able to find what you need through your local exchange.
+As well as lots of [Facebook groups](https://leedsuniformexchange.org.uk/places/category/facebook-pages/) for specific schools, we've got a [Leeds School Uniform Exchange Facebook group](https://x.facebook.com/groups/603050533660854?bac=MTYyMDExNTMzMDo3OTU3MDcyMDEwNjE4NTI6Nzk1NzA3MjAxMDYxODUyLDAsMDoyMDpLdz09&multi_permalinks) - which has over 2400 members.  That's a great place for asking for, or offering, free, good quality school uniform - particularly if either there isn't an exchange for your school, or if you haven't been able to find what you need through your local exchange.
 
 Gill Coupland from Zero Waste Leeds recently featured on BBC Radio Five Live Breakfast on 25th June 2021, talking to Nicky Campbell about how second hand uniform saves money and cuts waste. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pc3PmhbeYgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 # Nothing at your school?  Can we help you to set something up?
 
