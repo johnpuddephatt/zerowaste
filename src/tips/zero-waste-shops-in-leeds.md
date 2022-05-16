@@ -14,7 +14,7 @@ To make it easy for you to support these local, sustainable and ethical business
 
 **[Cleen-Bees Eco Refill Station](https://www.facebook.com/Cleen-Bees-Eco-Refill-Station-103193431482344/?ref=page_internal)** – Located on Town Street in **Farsley**. A place to refill household, laundry detergents, soaps, shampoos, with bamboo and bee inspired products too.  There’s also a refillable dried food section.
 
-**[EcoTopia](https://www.facebook.com/ecotopialeeds)** – In **Leeds' Central Arcade,** Ecotopia was one of the city’s first zero waste shops. Selling dry foods, gluten free foods, pet food, home, health & beauty, reusables. No single use plastics. And If you can’t get into the shop, they also do [online deliveries](https://linktr.ee/ecoTopialeeds).  \
+**[EcoTopia](https://www.facebook.com/ecotopialeeds)** – Has two shops in Leeds, one at **Leeds' Central Arcade** and the other at **Bramley Shopping Centre.** Ecotopia was one of the city’s first zero waste shops. Selling dry foods, gluten free foods, pet food, home, health & beauty, reusables. No single use plastics. And If you can’t get into their shops, they also do [online deliveries](https://linktr.ee/ecoTopialeeds).  \
 \
 **[Leeds Refills Zero Waste Shop](https://www.facebook.com/leedsrefills/?hc_location=ufi)** – Ian from The Jar Tree (a favourite amongst zero-wasters) has moved to a new premises in **Hyde Park Corner**.  Selling refills of weigh and pay dry foods, toiletries, household cleaners, kitchen and homewares.
 
