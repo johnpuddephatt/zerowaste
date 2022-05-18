@@ -18,7 +18,9 @@ To make it easy for you to support these local, sustainable and ethical business
 \
 **[Leeds Refills Zero Waste Shop](https://www.facebook.com/leedsrefills/?hc_location=ufi)** – Ian from The Jar Tree (a favourite amongst zero-wasters) has moved to a new premises in **Hyde Park Corner**.  Selling refills of weigh and pay dry foods, toiletries, household cleaners, kitchen and homewares.
 
-**[Like Nana Did](https://www.facebook.com/likenanadid/)** –Orchard Gate, **Otley**.  A great zero waste shop in the centre of Otley selling plastic-free products and refill groceries - 'helping the community to reduce waste'.
+**[Like Nana Did](https://www.facebook.com/likenanadid/)** – Orchard Gate, **Otley**.  A great zero waste shop in the centre of Otley selling plastic-free products and refill groceries - 'helping the community to reduce waste'.
+
+**[Lovingly Green](https://www.facebook.com/lovinglygreenuk)** - an online shop offers eco-friendly and natural, body, beauty and wellness products, lovingly made by the best independent UK businesses. 
 
 **[Original Way](https://www.facebook.com/Originalwayshop/)** - an online #plasticfree shop that holds regular pop ups at various venues including Wetherby Market and Shadwell Market (see dates on their Facebook page) providing eco-friendly household, lifestyle and beauty products with a move to plastic free food refills in the near future. They offer free delivery to LS17. 
 
