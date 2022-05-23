@@ -58,35 +58,39 @@ Leeds Wood Recycling is a social enterprise that diverts wood from landfill, col
 
 [Website](http://www.leedswoodrecycling.co.uk/), [Eventbrite](https://www.eventbrite.co.uk/o/leeds-wood-recycling-cic-17821261660), [Facebook](https://www.facebook.com/leedswoodrecycling), [Twitter](https://www.twitter.com/leeds_wood)
 
-*Contact: [leedswoodrecycling.community@gmail.com](mailto:leedswoodrecycling.community@gmail.com) (for workshop classes information), [0113 4505275](<tel:0113 4505275>), [0759 5646501](<tel:0759 5646501>)*
+*Contact: [leedswoodrecycling.community@gmail.com](mailto:leedswoodrecycling.community@gmail.com) (for workshop classes information), [0113 450 5275](<tel:0113 4505275>), [0759 5646501](<tel:0759 5646501>)*
 
 ### Scrap Creative Reuse Art Project
 
 Scrap Creative Reuse Art Project are a social enterprise focused on helping the environment by reusing waste materials from businesses as resources for art and play. They offer a variety of workshops and activities open to the public – either drop-in or pre-booked. They promote these in store and on their social media pages. The Community Craft Cafe also has regular craft activities. You can also [get in touch with SCRAP](mailto:admin@scrapstuff.co.uk) to arrange a workshop for your group or organisation.
 
-*The Spinning Mill, Sunnybank Mills, Farsley, [LS28 5UJ](https://www.google.co.uk/maps/place/Town+St,+Farsley,+Pudsey+LS28+5UJ/@53.8142273,-1.6739252,17z/data=!3m1!4b1!4m5!3m4!1s0x487be21d171292ab:0x654c3c825fef2406!8m2!3d53.8140806!4d-1.6714749)*
+Scrap Creative Reuse Art Project, *The Spinning Mill, Sunnybank Mills, Farsley, [LS28 5UJ](https://www.google.co.uk/maps/place/Town+St,+Farsley,+Pudsey+LS28+5UJ/@53.8142273,-1.6739252,17z/data=!3m1!4b1!4m5!3m4!1s0x487be21d171292ab:0x654c3c825fef2406!8m2!3d53.8140806!4d-1.6714749)*
 
-* [Website](https://scrapstuff.co.uk/), [Facebook](https://www.facebook.com/scrapleeds/events), [Twitter](https://twitter.com/scrapleeds), [Instagram](https://www.instagram.com/scrapleeds/), [Email](mailto:hello@scrapstuff.co.uk), [Phone](tel:01133452627)*
+*[Website](https://scrapstuff.co.uk/), [Facebook](https://www.facebook.com/scrapleeds/events), [Twitter](https://twitter.com/scrapleeds), [Instagram](https://www.instagram.com/scrapleeds/)*
 
-### [Adam and Eco](https://www.adamandeco.com/pages/traditional-soap-making-workshops) 
+*Contact:* [hello@scrapstuff.co.uk](mailto:hello@scrapstuff.co.uk),[0113 345 2627](tel:01133452627)
+
+### Adam and Eco 
 
 Adam and Eco are an eco-friendly shop in Leeds Kirkgate Market specialising in natural, handmade soaps and shampoos. They offer traditional soap-making workshops that you can book on their [website](https://www.adamandeco.com/products/soap-making-workshops).
 
-[Website](https://www.adamandeco.com/pages/traditional-soap-making-workshops), [Facebook](https://www.facebook.com/adamandeco), [Twitter](https://twitter.com/adamandecouk)
+Adam & Eco, No. 19 Kirkgate Market Hall (Top Row 1904 Hall), Vicar Lane, Leeds, [LS2 7HP](https://www.google.com/maps?q=LS2+7HP&rlz=1C5CHFA_enGB820GB820&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiw2N7w1PX3AhXMEcAKHUzaAOsQ_AUoAXoECAEQAw)
+
+[Website](https://www.adamandeco.com/pages/traditional-soap-making-workshops), [Facebook](https://www.facebook.com/adamandeco), [Twitter](https://twitter.com/adamandecouk), [Instagram](https://www.instagram.com/adamandeco/)
 
 Contact: [life@adamandeco.com](mailto:life@adamandeco.com)
 
-### [Ecotopia](https://www.facebook.com/ecotopialeeds/events) 
+## Clothes exchanges
 
-Ecotopia occasionally post workshops on their FB
+### Leeds Community Clothes Exchange 
 
- Website, Eventbrite, Facebook, Twitter
+Leeds Community Clothes Exchange is a community project encouraging the recycling and exchange of clothes and accessories in order to develop community spirit, reduce consumption, divert fabric from landfill and raise awareness of unethical consumer habits. 
 
+Website, [Eventbrite](https://www.eventbrite.co.uk/o/leeds-community-clothes-exchange-17833858223), [Facebook](https://www.facebook.com/LeedsCommunityClothesExchange), Twitter, Instagram
 
+Contact: 
 
-## Clothes exchange 
-
-[Leeds Community Clothes Exchange](https://www.eventbrite.co.uk/o/leeds-community-clothes-exchange-17833858223) - Woodhouse Community Centre, 197 Woodhouse Street, Woodhouse, LS6 2NY. Leeds. Community Clothes Exchange is a community project encouraging the recycling and exchange of clothes and accessories in order to develop community spirit, reduce consumption, divert fabric from landfill and raise awareness of unethical consumer habits. 
+*Woodhouse Community Centre, 197 Woodhouse Street, Woodhouse, [LS6 2NY](https://www.google.com/maps/place/Woodhouse+St,+Woodhouse,+Leeds+LS6+2NY/@53.8140377,-1.5574107,17z/data=!3m1!4b1!4m5!3m4!1s0x48795955319cd927:0xa5c8c56a04cffaa9!8m2!3d53.8141021!4d-1.5551975)*
 
 [Bramley Community Clothing Exchange](https://www.facebook.com/BramleyCommunityClothingExchange/) - Bramley Community Clothing Exchange is a movement created and run by volunteers which aims to develop, promote and manage clothing exchange events in Bramley for the benefit of the community and in aid of (and cooperation with) various charitable groups. See less
 
