@@ -120,7 +120,7 @@ Stitch-Up is an innovative social enterprise dedicated to teaching, showcasing a
 
 ### [Worth the Weight](https://www.eventbrite.co.uk/o/worth-the-weight-20070183683) 
 
-Worth The Weight travel the length and breadth of the country with tonnes of amazing vintage stock every weekend. They hold regular vintage fairs at Left Bank Leeds.
+Worth The Weight travels the length and breadth of the country with tonnes of amazing vintage stock every weekend. They hold regular vintage fairs at Left Bank Leeds.
 
 
 
@@ -130,62 +130,76 @@ Worth The Weight travel the length and breadth of the country with tonnes of ama
 
 [EZ Stitch Studio](https://ez-stitch-studio.square.site/) runs sewing workshops
 
-25 Newhall Road, [LS10 3QU](https://www.google.com/maps/place/Newhall+Rd,+Leeds+LS10+3QU/@53.7528577,-1.5345285,17z/data=!3m1!4b1!4m5!3m4!1s0x48795dc3a3a5c761:0x6a5353f33eb31347!8m2!3d53.7527155!4d-1.5319745)
+*25 Newhall Road, [LS10 3QU](https://www.google.com/maps/place/Newhall+Rd,+Leeds+LS10+3QU/@53.7528577,-1.5345285,17z/data=!3m1!4b1!4m5!3m4!1s0x48795dc3a3a5c761:0x6a5353f33eb31347!8m2!3d53.7527155!4d-1.5319745)*
 
 
 
-[Fabrication Crafts](https://www.fabric-ation.co.uk/) - 79 Albion St, Leeds, LS1 5AP - runs sewing workshops
+### [Fabrication Crafts](https://www.fabric-ation.co.uk/)
 
-[Fabrication Crafts](https://www.fabric-ation.co.uk/) - 79 Albion St, Leeds, LS1 5AP - runs sewing workshops
+[Fabrication Crafts](https://www.fabric-ation.co.uk/)
 
-
-
-[Fabrication2](https://www.fabric-ation.co.uk/) - Hereford House, Edward Street, Leeds, LS2 7NU - runs sewing workshops
-
-[Fabrication2](https://www.fabric-ation.co.uk/) - Hereford House, Edward Street, Leeds, LS2 7NU - runs sewing workshops
+*79 Albion Street, Leeds, [LS1 5AP](https://www.google.com/maps/place/Albion+St,+Leeds+LS1+5AP/@53.7988012,-1.54744,17z/data=!3m1!4b1!4m5!3m4!1s0x48795c1c0b86374f:0x2d6f4ba502bef21f!8m2!3d53.7987493!4d-1.5452636)*
 
 
 
-[Inkwell Arts](https://www.inkwellarts.org.uk/) - 31 Potternewton Ln, Leeds, LS7 3LW - runs sewing workshops
+### [Fabrication2](https://www.fabric-ation.co.uk/) 
 
-[Inkwell Arts](https://www.inkwellarts.org.uk/) - 31 Potternewton Ln, Leeds, LS7 3LW - runs sewing workshops
+[Fabrication2](https://www.fabric-ation.co.uk/)
 
-
-
-[School of Sew](http://schoolofsew.com/) - No 1 The Spinning Mill, Sunny Bank Mills, Farsley, Leeds, LS28 5UJ - runs sewing workshops
-
-[School of Sew](http://schoolofsew.com/) - No 1 The Spinning Mill, Sunny Bank Mills, Farsley, Leeds, LS28 5UJ - runs sewing workshops
+*Hereford House, Edward Street, Leeds, [LS2 7NU](https://www.google.com/maps/place/Templar+St,+Leeds+LS2+7NU/@53.8001324,-1.5407531,17z/data=!3m1!4b1!4m5!3m4!1s0x48795c1a7ebf3ba5:0xee915e235a05e20!8m2!3d53.8000459!4d-1.5388272)*
 
 
 
-[The Sewing Sessions Studio](https://thesewingsessions.wordpress.com/) - 40 Rock Lane, Leeds, LS13 1DX - runs sewing workshops
+### [Inkwell Arts](https://www.inkwellarts.org.uk/)
 
-[The Sewing Sessions Studio](https://thesewingsessions.wordpress.com/) - 40 Rock Lane, Leeds, LS13 1DX - runs sewing workshops
+[Inkwell Arts](https://www.inkwellarts.org.uk/)
+
+*31 Potternewton Lane, Leeds, [LS7 3LW](https://www.google.com/maps/place/Potternewton+Ln,+Leeds+LS7+3LW/@53.8246176,-1.5381792,17z/data=!3m1!4b1!4m5!3m4!1s0x48795bf1d60e632f:0xd687d7ed456f0640!8m2!3d53.8247522!4d-1.5360194)*
+
+
+
+### [School of Sew](http://schoolofsew.com/)
+
+[School of Sew](http://schoolofsew.com/)
+
+*No 1 The Spinning Mill, Sunny Bank Mills, Farsley, Leeds, [LS28 5UJ](https://www.google.com/maps/place/Town+St,+Farsley,+Pudsey+LS28+5UJ/@53.8142242,-1.6739252,17z/data=!3m1!4b1!4m5!3m4!1s0x487be21d171292ab:0x654c3c825fef2406!8m2!3d53.8140806!4d-1.6714749)*
+
+
+
+### [The Sewing Sessions Studio](https://thesewingsessions.wordpress.com/)
+
+[The Sewing Sessions Studio](https://thesewingsessions.wordpress.com/)
+
+*40 Rock Lane, Leeds, [LS13 1DX ](https://www.google.com/maps/place/Rock+Ln,+Bramley,+Leeds+LS13+1DX/@53.818263,-1.6428387,17z/data=!3m1!4b1!4m5!3m4!1s0x487958b3cd8ae539:0x9ad61619a1eee2fd!8m2!3d53.817292!4d-1.6409658)*
 
 
 
 ### [The Skep Farsley](https://www.facebook.com/skepknitquilt/)
 
-[The Skep Farsley](https://www.facebook.com/skepknitquilt/) - Gate 1, Springfield Commercial Centre Bagley Lane, Farsley, Leeds, LS28 5LY - runs sewing workshops
+[The Skep Farsley](https://www.facebook.com/skepknitquilt/)
+
+*Gate 1, Springfield Commercial Centre Bagley Lane, Farsley, Leeds, [LS28 5LY](https://www.google.com/maps/place/Bagley+Ln,+Farsley,+Pudsey+LS28+5LY/@53.8169672,-1.6670746,17z/data=!3m1!4b1!4m5!3m4!1s0x487be203fbcddcb5:0xc1b1a6a81c5f6fb9!8m2!3d53.8172711!4d-1.6648734)*
 
 
 
 ### [Yorkshire School of Sewing](https://yorkshireschoolofsewing.wordpress.com/)
 
-[Yorkshire School of Sewing](https://yorkshireschoolofsewing.wordpress.com/) - 41 The Croft, Asket Hill, Leeds, LS8 2LY - runs sewing workshops
+[Yorkshire School of Sewing](https://yorkshireschoolofsewing.wordpress.com/)
+
+*41 The Croft, Asket Hill, Leeds, [LS8 2LY](https://www.google.com/maps/place/Asket+Hill,+Roundhay,+Leeds+LS8+2LY/@53.8256186,-1.4884697,17z/data=!3m1!4b1!4m5!3m4!1s0x48795b6ff6c16963:0xff47eda7067e711b!8m2!3d53.8257095!4d-1.4863006)*
 
 
 
 ### [Workshop](https://helloworkshop.co.uk/)
 
-[Workshop](https://helloworkshop.co.uk/) - 
+[Workshop](https://helloworkshop.co.uk/)
 
-24 Otley Rd, Leeds, LS6 2AD
+*24 Otley Rd, Leeds, [LS6 2AD](https://www.google.com/maps/place/Otley+Rd,+Headingley,+Leeds+LS6+2AD/@53.821442,-1.5792124,17z/data=!3m1!4b1!4m5!3m4!1s0x48795949ba1bcbad:0xb666994730742b8f!8m2!3d53.8208412!4d-1.5770299)*
 
 
 
 ### [Bowery Cafe](https://www.thebowery.org/)
 
-[Bowery Cafe](https://www.thebowery.org/) - 
+[Bowery Cafe](https://www.thebowery.org/)
 
 *54 Otley Road, Headingley, Leeds, [LS6 2AL](https://www.google.com/maps/place/Otley+Rd,+Headingley,+Leeds+LS6+2AL/@53.8233381,-1.5820496,17z/data=!3m1!4b1!4m5!3m4!1s0x48795937e3a1678d:0xbda6ac2f44040858!8m2!3d53.8233756!4d-1.5795261)*
