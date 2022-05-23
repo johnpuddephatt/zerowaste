@@ -10,7 +10,7 @@ Leeds is fortunate to be home to so many charities and social enterprises that h
 
 ## Repair
 
-### Leeds Repair Cafe (clothes, jewellery, electricals, computers etc.)
+### Leeds Repair Cafe
 
 Leeds Repair Cafe run monthly-ish events in various venues. Together with skilled volunteers and their tools, people can start making their repairs. The cafe usually has volunteers on hand who are expert fixers of clothes, jewellery, electricals and computers. If you want to check before you bring something along, post it on the [Facebook group](https://www.facebook.com/groups/252645815067316/) or event page. If you have nothing to repair, you can enjoy a drink or snack, or you can lend a hand with someone else’s repair job. You can also get inspired at the reading table – by leafing through books on repairs and DIY.
 
@@ -18,17 +18,15 @@ Leeds Repair Cafe run monthly-ish events in various venues. Together with skille
 
 *[Website](https://therestartproject.org/groups/repair-cafe-leeds/), [Eventbrite](https://www.eventbrite.co.uk/o/leeds-repair-cafe-29184288933), [Facebook](https://www.facebook.com/groups/252645815067316/), [Twitter](https://twitter.com/repaircafeleeds), [Instagram](https://www.instagram.com/repaircafeleeds/)*
 
-
-
 ### Pedallers Arms (bikes)
 
 The Pedallers’ Arms is a place to come and learn how to repair your bike in a friendly atmosphere. They are a co-operative of people, all [volunteers](https://pedallers-arms.org/volunteering/ "Volunteering"), who want to help people fix up their own bikes. They hold regular drop-in sessions (subject to space in the workshop) or you can [book an appointment](https://pedallers-arms.org/sessions/). You can make a £2-10 donation on a one-off basis or [become a member](https://pedallers-arms.org/membership/). See their website for up to date details.
 
 *Pedallers Arms, 37 Mabgate Green, Leeds, [LS9 7DS](https://www.google.co.uk/maps/place/Leeds+LS9+7DS/@53.8009965,-1.535034,17z/data=!3m1!4b1!4m5!3m4!1s0x48795c118485938f:0xb9409d3ca65e8c18!8m2!3d53.8009116!4d-1.5325926)*
 
-*[Website](https://pedallers-arms.org/), [Facebook](https://www.facebook.com/Pedallers/), [Twitter](https://twitter.com/pedallersarms), [Email](mailto:info@pedallers-arms.org)*
+*[Website](https://pedallers-arms.org/), [Facebook](https://www.facebook.com/Pedallers/), [Twitter](https://twitter.com/pedallersarms)*
 
-
+*Contact: [info@pedallers-arms.org](mailto:info@pedallers-arms.org), [0113 245 7274](tel:01132457274)*
 
 ### Leeds Bike Mill / Cycle North - Leeds (bikes)
 
@@ -36,11 +34,11 @@ Leeds Bike Mill is offering bike maintenance courses in partnership with [Cycle
 
 *Leeds Bike Mill, 37 Mabgate Green, Leeds, [LS9 7DS](https://www.google.co.uk/maps/place/Leeds+LS9+7DS/@53.8009965,-1.535034,17z/data=!3m1!4b1!4m5!3m4!1s0x48795c118485938f:0xb9409d3ca65e8c18!8m2!3d53.8009116!4d-1.5325926)*
 
-*[Website](https://leedsbikemill.org/training-courses/), [Eventbrite](https://www.eventbrite.co.uk/o/cycle-north-leeds-33326835183), [Facebook](https://www.facebook.com/LeedsBikeMill/), [Twitter](https://twitter.com/LeedsBikeMill), [Instagram](https://www.instagram.com/leedsbikemill/), [Email](mailto:info@leedsbikemill.org), [Phone](07729895510)*
+*[Website](https://leedsbikemill.org/training-courses/), [Eventbrite](https://www.eventbrite.co.uk/o/cycle-north-leeds-33326835183), [Facebook](https://www.facebook.com/LeedsBikeMill/), [Twitter](https://twitter.com/LeedsBikeMill), [Instagram](https://www.instagram.com/leedsbikemill/),* 
 
+*Contact: [info@leedsbikemill.org](mailto:info@leedsbikemill.org), [07729 895510](tel:07729895510)*
 
-
-## **Reuse and upcycling**
+## **Reuse, upcycling and craft**
 
 ### **Seagulls** 
 
@@ -48,7 +46,9 @@ Seagulls is a social enterprise that aims to promote the reuse and repurposing o
 
 *Seagulls Reuse, 103 Kirkstall Road, Aire Place Mills, Leeds, [LS3 1JL](https://www.google.co.uk/maps/place/Kirkstall+Rd,+Leeds+LS3+1JL/@53.800862,-1.5748179,17z/data=!3m1!4b1!4m5!3m4!1s0x48795eb9f8669167:0x230d49e9fa658c75!8m2!3d53.8014725!4d-1.5721078)*
 
-*[Website](https://seagullsreuse.org.uk/lifehouse/), [Eventbrite](https://www.eventbrite.co.uk/o/seagulls-13123520058), [Facebook](https://www.facebook.com/seagullspaint),[Twitter](https://twitter.com/seagullspaint)*
+*[Website](https://seagullsreuse.org.uk/lifehouse/), [Eventbrite](https://www.eventbrite.co.uk/o/seagulls-13123520058), [Facebook](https://www.facebook.com/seagullspaint), [Twitter](https://twitter.com/seagullspaint), [Instagram](https://www.instagram.com/seagullsworkshops/)*
+
+*Contact: [info@seagullsreuse.org.uk](mailto:info@seagullsreuse.org.uk), [0113 246 7510](<tel:0113 246 7510>)*
 
 ### Leeds Wood Recycling CIC
 
@@ -56,9 +56,9 @@ Leeds Wood Recycling is a social enterprise that diverts wood from landfill, col
 
 *Leeds Wood Recycling, 24 Croydon Street, Unit 6 Croydon Street, Leeds, [LS11 9RT](https://www.google.co.uk/maps/place/Croydon+St,+Holbeck,+Leeds+LS11+9RT/@53.7876394,-1.5680495,17z/data=!3m1!4b1!4m5!3m4!1s0x48795e9715c48607:0x5419a7ad994c58c5!8m2!3d53.7877258!4d-1.5660096)*
 
-*[Wesbite](http://www.leedswoodrecycling.co.uk/), [Eventbrite](https://www.eventbrite.co.uk/o/leeds-wood-recycling-cic-17821261660), [Facebook](https://www.facebook.com/leedswoodrecycling), [Twitter](https://www.twitter.com/leeds_wood)*
+[Website](http://www.leedswoodrecycling.co.uk/), [Eventbrite](https://www.eventbrite.co.uk/o/leeds-wood-recycling-cic-17821261660), [Facebook](https://www.facebook.com/leedswoodrecycling), [Twitter](https://www.twitter.com/leeds_wood)
 
-
+*Contact: [leedswoodrecycling.community@gmail.com](mailto:leedswoodrecycling.community@gmail.com) (for workshop classes information), [0113 4505275](<tel:0113 4505275>), [0759 5646501](<tel:0759 5646501>)*
 
 ### Scrap Creative Reuse Art Project
 
@@ -70,9 +70,11 @@ Scrap Creative Reuse Art Project are a social enterprise focused on helping the
 
 ### [Adam and Eco](https://www.adamandeco.com/pages/traditional-soap-making-workshops) 
 
-Adam and Eco offer traditional soap making workshops 
+Adam and Eco are an eco-friendly shop in Leeds Kirkgate Market specialising in natural, handmade soaps and shampoos. They offer traditional soap-making workshops that you can book on their [website](https://www.adamandeco.com/products/soap-making-workshops).
 
- Website, Eventbrite, Facebook, Twitter
+[Website](https://www.adamandeco.com/pages/traditional-soap-making-workshops), [Facebook](https://www.facebook.com/adamandeco), [Twitter](https://twitter.com/adamandecouk)
+
+Contact: [life@adamandeco.com](mailto:life@adamandeco.com)
 
 ### [Ecotopia](https://www.facebook.com/ecotopialeeds/events) 
 
