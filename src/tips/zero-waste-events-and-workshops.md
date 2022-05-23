@@ -8,23 +8,43 @@ image: /uploads/workshop.png
 ---
 Leeds is fortunate to be home to so many charities and social enterprises that help us to live a less wasteful life. Many of these organisations run regular events and workshops. Why not check them out and show your support.
 
-## Reuse, upcycling, and repair
+## Repair
 
-
-
-### Leeds Repair Cafe
+### Leeds Repair Cafe (clothes, jewellery, electricals, computers etc.)
 
 Leeds Repair Cafe run monthly-ish events in various venues. Together with skilled volunteers and their tools, people can start making their repairs. The cafe usually has volunteers on hand who are expert fixers of clothes, jewellery, electricals and computers. If you want to check before you bring something along, post it on the [Facebook group](https://www.facebook.com/groups/252645815067316/) or event page. If you have nothing to repair, you can enjoy a drink or snack, or you can lend a hand with someone else’s repair job. You can also get inspired at the reading table – by leafing through books on repairs and DIY.
 
 *Various locations \[NB: They are looking for a permanent venue, so please get in touch with them if you can think of anywhere suitable near central Leeds].*
 
-*[Website](https://therestartproject.org/groups/repair-cafe-leeds/), [Eventbrite](https://www.eventbrite.co.uk/o/leeds-repair-cafe-29184288933), [Facebook](https://www.facebook.com/groups/252645815067316/), [Twitter](https://twitter.com/repaircafeleeds)*
+*[Website](https://therestartproject.org/groups/repair-cafe-leeds/), [Eventbrite](https://www.eventbrite.co.uk/o/leeds-repair-cafe-29184288933), [Facebook](https://www.facebook.com/groups/252645815067316/), [Twitter](https://twitter.com/repaircafeleeds), [Instagram](https://www.instagram.com/repaircafeleeds/)*
 
 
 
-### **Seagulls (reuse and upcycling)**
+### Pedallers Arms (bikes)
 
-Seagulls is a social enterprise that aim to promote the reuse and repurposing of unwanted materials and sustainable living solutions whilst providing volunteering, training and job opportunities for marginalised people. Seagulls offer a range of [workshops and courses](https://seagullsreuse.org.uk/lifehouse/) from mosaic to decorating, silversmithing to upcycling.
+The Pedallers’ Arms is a place to come and learn how to repair your bike in a friendly atmosphere. They are a co-operative of people, all [volunteers](https://pedallers-arms.org/volunteering/ "Volunteering"), who want to help people fix up their own bikes. They hold regular drop-in sessions (subject to space in the workshop) or you can [book an appointment](https://pedallers-arms.org/sessions/). You can make a £2-10 donation on a one-off basis or [become a member](https://pedallers-arms.org/membership/). See their website for up to date details.
+
+*Pedallers Arms, 37 Mabgate Green, Leeds, [LS9 7DS](https://www.google.co.uk/maps/place/Leeds+LS9+7DS/@53.8009965,-1.535034,17z/data=!3m1!4b1!4m5!3m4!1s0x48795c118485938f:0xb9409d3ca65e8c18!8m2!3d53.8009116!4d-1.5325926)*
+
+*[Website](https://pedallers-arms.org/), [Facebook](https://www.facebook.com/Pedallers/), [Twitter](https://twitter.com/pedallersarms), [Email](mailto:info@pedallers-arms.org)*
+
+
+
+### Leeds Bike Mill / Cycle North - Leeds (bikes)
+
+Leeds Bike Mill is offering bike maintenance courses in partnership with [Cycle North](https://www.cyclenorth.co.uk/), with funding from [CityConnect](https://www.cyclecityconnect.co.uk/). Courses are available at basic and intermediate levels. The courses are  free of charge and open to anyone aged over 16. See Leeds Bike Mill's [website](https://leedsbikemill.org/training-courses/) for up to date details. Cycle North - Leeds also offers [free cycle training](https://www.cyclenorth.co.uk/adults).
+
+*Leeds Bike Mill, 37 Mabgate Green, Leeds, [LS9 7DS](https://www.google.co.uk/maps/place/Leeds+LS9+7DS/@53.8009965,-1.535034,17z/data=!3m1!4b1!4m5!3m4!1s0x48795c118485938f:0xb9409d3ca65e8c18!8m2!3d53.8009116!4d-1.5325926)*
+
+*[Website](https://leedsbikemill.org/training-courses/), [Eventbrite](https://www.eventbrite.co.uk/o/cycle-north-leeds-33326835183), [Facebook](https://www.facebook.com/LeedsBikeMill/), [Twitter](https://twitter.com/LeedsBikeMill), [Instagram](https://www.instagram.com/leedsbikemill/), [Email](mailto:info@leedsbikemill.org), [Phone](07729895510)*
+
+
+
+## **Reuse and upcycling**
+
+### **Seagulls** 
+
+Seagulls is a social enterprise that aims to promote the reuse and repurposing of unwanted materials and sustainable living solutions whilst providing volunteering, training and job opportunities for marginalised people. Seagulls offer a range of [workshops and courses](https://seagullsreuse.org.uk/lifehouse/) from mosaic to decorating, silversmithing to upcycling.
 
 *Seagulls Reuse, 103 Kirkstall Road, Aire Place Mills, Leeds, [LS3 1JL](https://www.google.co.uk/maps/place/Kirkstall+Rd,+Leeds+LS3+1JL/@53.800862,-1.5748179,17z/data=!3m1!4b1!4m5!3m4!1s0x48795eb9f8669167:0x230d49e9fa658c75!8m2!3d53.8014725!4d-1.5721078)*
 
@@ -40,33 +60,13 @@ Leeds Wood Recycling is a social enterprise that diverts wood from landfill, col
 
 
 
-### Pedallers Arms (bike maintenance and repair)
-
-The Pedallers’ Arms is a place to come and learn how to repair your bike in a friendly atmosphere. They are a co-operative of people, all [volunteers](https://pedallers-arms.org/volunteering/ "Volunteering"), who want to help people fix up their own bikes. They hold regular drop-in sessions (subject to space in the workshop) or you can [book an appoinment](https://pedallers-arms.org/sessions/). You can make a £2-10 donation on a one-off basis or [become a member](https://pedallers-arms.org/membership/). See their website for up to date details.
-
-*Pedallers Arms, 37 Mabgate Green, Leeds, [LS9 7DS](https://www.google.co.uk/maps/place/Leeds+LS9+7DS/@53.8009965,-1.535034,17z/data=!3m1!4b1!4m5!3m4!1s0x48795c118485938f:0xb9409d3ca65e8c18!8m2!3d53.8009116!4d-1.5325926)*
-
-*[Website](https://pedallers-arms.org/), [Facebook](https://www.facebook.com/Pedallers/), [Twitter](https://twitter.com/pedallersarms), [Email](mailto:info@pedallers-arms.org)*
-
-### Leeds Bike Mill / Cycle North - Leeds (bike maintenance and cycle training)
-
-Leeds Bike Mill are offering bike maintenance courses in partnership with [Cycle North](https://www.cyclenorth.co.uk/), with funding from [CityConnect](https://www.cyclecityconnect.co.uk/). Courses are available at basic and intermediate levels. The courses are  free of charge and open to anyone aged over 16. See Leeds Bike Mill's [website](https://leedsbikemill.org/training-courses/) for up to date details. Cycle North - Leeds also offers [free cycle training](https://www.cyclenorth.co.uk/adults).
-
-*Leeds Bike Mill, 37 Mabgate Green, Leeds, [LS9 7DS](https://www.google.co.uk/maps/place/Leeds+LS9+7DS/@53.8009965,-1.535034,17z/data=!3m1!4b1!4m5!3m4!1s0x48795c118485938f:0xb9409d3ca65e8c18!8m2!3d53.8009116!4d-1.5325926)*
-
-*[Website](https://leedsbikemill.org/training-courses/), [Eventbrite](https://www.eventbrite.co.uk/o/cycle-north-leeds-33326835183), [Facebook](https://www.facebook.com/LeedsBikeMill/), [Twitter](https://twitter.com/LeedsBikeMill), [Email](mailto:info@leedsbikemill.org), [Phone](07729895510)*
-
-
-
-### Scrap Creative Reuse Art Project (upcycling, reuse and crafts)
+### Scrap Creative Reuse Art Project
 
 Scrap Creative Reuse Art Project are a social enterprise focused on helping the environment by reusing waste materials from businesses as resources for art and play. They offer a variety of workshops and activities open to the public – either drop-in or pre-booked. They promote these in store and on their social media pages. The Community Craft Cafe also has regular craft activities. You can also [get in touch with SCRAP](mailto:admin@scrapstuff.co.uk) to arrange a workshop for your group or organisation.
 
 *The Spinning Mill, Sunnybank Mills, Farsley, [LS28 5UJ](https://www.google.co.uk/maps/place/Town+St,+Farsley,+Pudsey+LS28+5UJ/@53.8142273,-1.6739252,17z/data=!3m1!4b1!4m5!3m4!1s0x487be21d171292ab:0x654c3c825fef2406!8m2!3d53.8140806!4d-1.6714749)*
 
 * [Website](https://scrapstuff.co.uk/), [Facebook](https://www.facebook.com/scrapleeds/events), [Twitter](https://twitter.com/scrapleeds), [Instagram](https://www.instagram.com/scrapleeds/), [Email](mailto:hello@scrapstuff.co.uk), [Phone](tel:01133452627)*
-
-## Zero waste workshops
 
 ### [Adam and Eco](https://www.adamandeco.com/pages/traditional-soap-making-workshops) 
 
@@ -82,11 +82,15 @@ Ecotopia occasionally post workshops on their FB
 
 
 
-## Clothes and sewing
+## Clothes exchange 
 
 [Leeds Community Clothes Exchange](https://www.eventbrite.co.uk/o/leeds-community-clothes-exchange-17833858223) - Woodhouse Community Centre, 197 Woodhouse Street, Woodhouse, LS6 2NY. Leeds. Community Clothes Exchange is a community project encouraging the recycling and exchange of clothes and accessories in order to develop community spirit, reduce consumption, divert fabric from landfill and raise awareness of unethical consumer habits. 
 
 [Bramley Community Clothing Exchange](https://www.facebook.com/BramleyCommunityClothingExchange/) - Bramley Community Clothing Exchange is a movement created and run by volunteers which aims to develop, promote and manage clothing exchange events in Bramley for the benefit of the community and in aid of (and cooperation with) various charitable groups. See less
+
+
+
+## Vintage fairs
 
 [Advintageous Vintage Fairs](https://www.eventbrite.co.uk/o/advintageous-vintage-fairs-42719416213) - hosts Leeds Vintage Market at Leeds Kirkgate Market on the first Saturday of each month from 10am-4.30pm
 
@@ -95,6 +99,10 @@ Ecotopia occasionally post workshops on their FB
 [Lou Lou's Vintage Fair](https://www.eventbrite.co.uk/o/lou-lous-vintage-fair-42182906753) - holds regular vintage fairs at Left Bank Leeds 
 
 [Worth the Weight](https://www.eventbrite.co.uk/o/worth-the-weight-20070183683) - Worth The Weight travel the length and breadth of the country with tonnes of amazing vintage stock every weekend. They hold regular vintage fairs at Left Bank Leeds.
+
+
+
+## Sewing workshops
 
 [EZ Stitch Studio](https://ez-stitch-studio.square.site/) - 25 Newhall Road, LS10 3QU - runs sewing workshops
 
