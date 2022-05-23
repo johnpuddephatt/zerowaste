@@ -68,17 +68,17 @@ Scrap Creative Reuse Art Project, *The Spinning Mill, Sunnybank Mills, Farsley, 
 
 *[Website](https://scrapstuff.co.uk/), [Facebook](https://www.facebook.com/scrapleeds/events), [Twitter](https://twitter.com/scrapleeds), [Instagram](https://www.instagram.com/scrapleeds/)*
 
-*Contact:* [hello@scrapstuff.co.uk](mailto:hello@scrapstuff.co.uk),[0113 345 2627](tel:01133452627)
+*Contact: [hello@scrapstuff.co.uk](mailto:hello@scrapstuff.co.uk), [0113 345 2627](tel:01133452627)[](tel:01133452627)*
 
 ### Adam and Eco 
 
 Adam and Eco are an eco-friendly shop in Leeds Kirkgate Market specialising in natural, handmade soaps and shampoos. They offer traditional soap-making workshops that you can book on their [website](https://www.adamandeco.com/products/soap-making-workshops).
 
-Adam & Eco, No. 19 Kirkgate Market Hall (Top Row 1904 Hall), Vicar Lane, Leeds, [LS2 7HP](https://www.google.com/maps?q=LS2+7HP&rlz=1C5CHFA_enGB820GB820&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiw2N7w1PX3AhXMEcAKHUzaAOsQ_AUoAXoECAEQAw)
+*Adam & Eco, No. 19 Kirkgate Market Hall (Top Row 1904 Hall), Vicar Lane, Leeds, [LS2 7HP](https://www.google.com/maps?q=LS2+7HP&rlz=1C5CHFA_enGB820GB820&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiw2N7w1PX3AhXMEcAKHUzaAOsQ_AUoAXoECAEQAw)*
 
-[Website](https://www.adamandeco.com/pages/traditional-soap-making-workshops), [Facebook](https://www.facebook.com/adamandeco), [Twitter](https://twitter.com/adamandecouk), [Instagram](https://www.instagram.com/adamandeco/)
+*[Website](https://www.adamandeco.com/pages/traditional-soap-making-workshops), [Facebook](https://www.facebook.com/adamandeco), [Twitter](https://twitter.com/adamandecouk), [Instagram](https://www.instagram.com/adamandeco/)*
 
-Contact: [life@adamandeco.com](mailto:life@adamandeco.com)
+*Contact: [life@adamandeco.com](mailto:life@adamandeco.com)*
 
 ## Clothes exchanges
 
@@ -86,46 +86,106 @@ Contact: [life@adamandeco.com](mailto:life@adamandeco.com)
 
 Leeds Community Clothes Exchange is a community project encouraging the recycling and exchange of clothes and accessories in order to develop community spirit, reduce consumption, divert fabric from landfill and raise awareness of unethical consumer habits. 
 
-Website, [Eventbrite](https://www.eventbrite.co.uk/o/leeds-community-clothes-exchange-17833858223), [Facebook](https://www.facebook.com/LeedsCommunityClothesExchange), Twitter, Instagram
-
-Contact: 
-
 *Woodhouse Community Centre, 197 Woodhouse Street, Woodhouse, [LS6 2NY](https://www.google.com/maps/place/Woodhouse+St,+Woodhouse,+Leeds+LS6+2NY/@53.8140377,-1.5574107,17z/data=!3m1!4b1!4m5!3m4!1s0x48795955319cd927:0xa5c8c56a04cffaa9!8m2!3d53.8141021!4d-1.5551975)*
 
-[Bramley Community Clothing Exchange](https://www.facebook.com/BramleyCommunityClothingExchange/) - Bramley Community Clothing Exchange is a movement created and run by volunteers which aims to develop, promote and manage clothing exchange events in Bramley for the benefit of the community and in aid of (and cooperation with) various charitable groups. See less
+*[Website](https://leedscommunityclothesexchange.com/), [Eventbrite](https://www.eventbrite.co.uk/o/leeds-community-clothes-exchange-17833858223), [Facebook](https://www.facebook.com/LeedsCommunityClothesExchange), [Twitter](https://twitter.com/LDSCCE), [Instagram](https://www.instagram.com/leedscommunityclothingexchange/)*
 
+*Contact: [leedscommunityclothesexchange@hotmail.co.uk](mailto:leedscommunityclothesexchange@hotmail.co.uk)*
 
+### [Bramley Community Clothing Exchange](https://www.facebook.com/BramleyCommunityClothingExchange/) 
+
+Bramley Community Clothing Exchange is a movement created and run by volunteers which aims to develop, promote and manage clothing exchange events in Bramley for the benefit of the community and in aid of (and cooperation with) various charitable groups. 
+
+*Bramley Community Centre, Waterloo Lane, Bramley, Leeds, [LS13 2JB](https://www.google.com/maps/place/Waterloo+Ln,+Bramley,+Leeds+LS13+2JB/@53.8129781,-1.6291141,17z/data=!3m1!4b1!4m5!3m4!1s0x487958cb31a08473:0x1fd518a7ae4745ce!8m2!3d53.813115!4d-1.6269521)*
+
+*[Facebook](https://www.facebook.com/BramleyCommunityClothingExchange/), [Twitter](https://twitter.com/BramleyClothing), [Instagram](https://www.instagram.com/bramleyclothingexchange/)*
+
+*Contact: [jamiesonvickie@hotmail.com](mailto:jamiesonvickie@hotmail.com)*
 
 ## Vintage fairs
 
-[Advintageous Vintage Fairs](https://www.eventbrite.co.uk/o/advintageous-vintage-fairs-42719416213) - hosts Leeds Vintage Market at Leeds Kirkgate Market on the first Saturday of each month from 10am-4.30pm
+### [Advintageous Vintage Fairs](https://www.eventbrite.co.uk/o/advintageous-vintage-fairs-42719416213) 
 
-[Stitch-Up](https://www.eventbrite.co.uk/o/stitch-up-8556093319) - Stitch-Up Community Hub, Meanwood Community Centre, Stainbeck Ave, Meanwood, Leeds, LS7 2QU. Stitch-Up is an innovative social enterprise dedicated to teaching, showcasing and promoting textile craft and makers in a modern world.
+[Advintageous Vintage Fairs](https://www.eventbrite.co.uk/o/advintageous-vintage-fairs-42719416213) hosts Leeds Vintage Market at Leeds Kirkgate Market on the first Saturday of each month from 10am-4.30pm
 
-[Lou Lou's Vintage Fair](https://www.eventbrite.co.uk/o/lou-lous-vintage-fair-42182906753) - holds regular vintage fairs at Left Bank Leeds 
+### [Stitch-Up](https://www.eventbrite.co.uk/o/stitch-up-8556093319) 
 
-[Worth the Weight](https://www.eventbrite.co.uk/o/worth-the-weight-20070183683) - Worth The Weight travel the length and breadth of the country with tonnes of amazing vintage stock every weekend. They hold regular vintage fairs at Left Bank Leeds.
+Stitch-Up is an innovative social enterprise dedicated to teaching, showcasing and promoting textile craft and makers in a modern world.
+
+*Stitch-Up Community Hub, Meanwood Community Centre, Stainbeck Ave, Meanwood, Leeds, LS7 2QU*
+
+### [Lou Lou's Vintage Fair](https://www.eventbrite.co.uk/o/lou-lous-vintage-fair-42182906753)
+
+[Lou Lou's Vintage Fair](https://www.eventbrite.co.uk/o/lou-lous-vintage-fair-42182906753) holds regular vintage fairs at Left Bank Leeds 
+
+### [Worth the Weight](https://www.eventbrite.co.uk/o/worth-the-weight-20070183683) 
+
+Worth The Weight travel the length and breadth of the country with tonnes of amazing vintage stock every weekend. They hold regular vintage fairs at Left Bank Leeds.
 
 
 
 ## Sewing workshops
 
-[EZ Stitch Studio](https://ez-stitch-studio.square.site/) - 25 Newhall Road, LS10 3QU - runs sewing workshops
+### [EZ Stitch Studio](https://ez-stitch-studio.square.site/)
+
+[EZ Stitch Studio](https://ez-stitch-studio.square.site/) runs sewing workshops
+
+25 Newhall Road, [LS10 3QU](https://www.google.com/maps/place/Newhall+Rd,+Leeds+LS10+3QU/@53.7528577,-1.5345285,17z/data=!3m1!4b1!4m5!3m4!1s0x48795dc3a3a5c761:0x6a5353f33eb31347!8m2!3d53.7527155!4d-1.5319745)
+
+
 
 [Fabrication Crafts](https://www.fabric-ation.co.uk/) - 79 Albion St, Leeds, LS1 5AP - runs sewing workshops
 
+[Fabrication Crafts](https://www.fabric-ation.co.uk/) - 79 Albion St, Leeds, LS1 5AP - runs sewing workshops
+
+
+
 [Fabrication2](https://www.fabric-ation.co.uk/) - Hereford House, Edward Street, Leeds, LS2 7NU - runs sewing workshops
+
+[Fabrication2](https://www.fabric-ation.co.uk/) - Hereford House, Edward Street, Leeds, LS2 7NU - runs sewing workshops
+
+
 
 [Inkwell Arts](https://www.inkwellarts.org.uk/) - 31 Potternewton Ln, Leeds, LS7 3LW - runs sewing workshops
 
+[Inkwell Arts](https://www.inkwellarts.org.uk/) - 31 Potternewton Ln, Leeds, LS7 3LW - runs sewing workshops
+
+
+
 [School of Sew](http://schoolofsew.com/) - No 1 The Spinning Mill, Sunny Bank Mills, Farsley, Leeds, LS28 5UJ - runs sewing workshops
+
+[School of Sew](http://schoolofsew.com/) - No 1 The Spinning Mill, Sunny Bank Mills, Farsley, Leeds, LS28 5UJ - runs sewing workshops
+
+
 
 [The Sewing Sessions Studio](https://thesewingsessions.wordpress.com/) - 40 Rock Lane, Leeds, LS13 1DX - runs sewing workshops
 
+[The Sewing Sessions Studio](https://thesewingsessions.wordpress.com/) - 40 Rock Lane, Leeds, LS13 1DX - runs sewing workshops
+
+
+
+### [The Skep Farsley](https://www.facebook.com/skepknitquilt/)
+
 [The Skep Farsley](https://www.facebook.com/skepknitquilt/) - Gate 1, Springfield Commercial Centre Bagley Lane, Farsley, Leeds, LS28 5LY - runs sewing workshops
+
+
+
+### [Yorkshire School of Sewing](https://yorkshireschoolofsewing.wordpress.com/)
 
 [Yorkshire School of Sewing](https://yorkshireschoolofsewing.wordpress.com/) - 41 The Croft, Asket Hill, Leeds, LS8 2LY - runs sewing workshops
 
-[Workshop](https://helloworkshop.co.uk/) - 24 Otley Rd, Leeds, LS6 2AD - runs sewing workshops
 
-[Bowery Cafe](https://www.thebowery.org/) - 54 Otley Road, Headingley, Leeds, LS6 2AL - runs sewing workshops
+
+### [Workshop](https://helloworkshop.co.uk/)
+
+[Workshop](https://helloworkshop.co.uk/) - 
+
+24 Otley Rd, Leeds, LS6 2AD
+
+
+
+### [Bowery Cafe](https://www.thebowery.org/)
+
+[Bowery Cafe](https://www.thebowery.org/) - 
+
+*54 Otley Road, Headingley, Leeds, [LS6 2AL](https://www.google.com/maps/place/Otley+Rd,+Headingley,+Leeds+LS6+2AL/@53.8233381,-1.5820496,17z/data=!3m1!4b1!4m5!3m4!1s0x48795937e3a1678d:0xbda6ac2f44040858!8m2!3d53.8233756!4d-1.5795261)*
