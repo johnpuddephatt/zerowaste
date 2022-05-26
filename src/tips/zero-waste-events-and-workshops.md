@@ -40,7 +40,7 @@ Leeds Bike Mill is offering bike maintenance courses in partnership with [Cycle
 
 ## **Reuse, upcycling and craft**
 
-### **Seagulls** 
+### **Seagulls**
 
 Seagulls is a social enterprise that aims to promote the reuse and repurposing of unwanted materials and sustainable living solutions whilst providing volunteering, training and job opportunities for marginalised people. Seagulls offer a range of [workshops and courses](https://seagullsreuse.org.uk/lifehouse/) from mosaic to decorating, silversmithing to upcycling.
 
@@ -68,9 +68,9 @@ Scrap Creative Reuse Art Project, *The Spinning Mill, Sunnybank Mills, Farsley, 
 
 *[Website](https://scrapstuff.co.uk/), [Facebook](https://www.facebook.com/scrapleeds/events), [Twitter](https://twitter.com/scrapleeds), [Instagram](https://www.instagram.com/scrapleeds/)*
 
-*Contact: [hello@scrapstuff.co.uk](mailto:hello@scrapstuff.co.uk), [0113 345 2627](tel:01133452627)[](tel:01133452627)*
+*Contact: [hello@scrapstuff.co.uk](mailto:hello@scrapstuff.co.uk), [0113 345 2627](tel:01133452627)*[](tel:01133452627)
 
-### Adam and Eco 
+### Adam and Eco
 
 Adam and Eco are an eco-friendly shop in Leeds Kirkgate Market specialising in natural, handmade soaps and shampoos. They offer traditional soap-making workshops that you can book on their [website](https://www.adamandeco.com/products/soap-making-workshops).
 
@@ -82,7 +82,7 @@ Adam and Eco are an eco-friendly shop in Leeds Kirkgate Market specialising in n
 
 ## Clothes exchanges
 
-### Leeds Community Clothes Exchange 
+### Leeds Community Clothes Exchange
 
 Leeds Community Clothes Exchange is a community project encouraging the recycling and exchange of clothes and accessories in order to develop community spirit, reduce consumption, divert fabric from landfill and raise awareness of unethical consumer habits. 
 
@@ -92,7 +92,7 @@ Leeds Community Clothes Exchange is a community project encouraging the recyclin
 
 *Contact: [leedscommunityclothesexchange@hotmail.co.uk](mailto:leedscommunityclothesexchange@hotmail.co.uk)*
 
-### [Bramley Community Clothing Exchange](https://www.facebook.com/BramleyCommunityClothingExchange/) 
+### [Bramley Community Clothing Exchange](https://www.facebook.com/BramleyCommunityClothingExchange/)
 
 Bramley Community Clothing Exchange is a movement created and run by volunteers which aims to develop, promote and manage clothing exchange events in Bramley for the benefit of the community and in aid of (and cooperation with) various charitable groups. 
 
@@ -104,35 +104,43 @@ Bramley Community Clothing Exchange is a movement created and run by volunteers 
 
 ## Vintage fairs
 
-### [Advintageous Vintage Fairs](https://www.eventbrite.co.uk/o/advintageous-vintage-fairs-42719416213) 
+### AdVintageous Vintage Fairs
 
-[Advintageous Vintage Fairs](https://www.eventbrite.co.uk/o/advintageous-vintage-fairs-42719416213) hosts Leeds Vintage Market at Leeds Kirkgate Market on the first Saturday of each month from 10am-4.30pm
+AdVintageous Vintage Fairs hosts a Vintage Market at Leeds Kirkgate Market on the first Saturday of each month from 10am-4.30pm. The event is free to enter. Alongside the Vintage Stallholders, there’s an array of World Food Pods on offer along with a dedicated entertainment space. You might find a Vintage DJ, a vocalist or you can come and do some social dancing with The Andresons!
 
-### [Stitch-Up](https://www.eventbrite.co.uk/o/stitch-up-8556093319) 
+[Website](https://www.advintageous.co.uk/), [Eventbrite](https://www.eventbrite.co.uk/o/advintageous-vintage-fairs-42719416213), [Facebook](https://www.facebook.com/AdVintageousVintageFairsEvents/), [Twitter](https://twitter.com/advintageousuk), [Instragram](https://www.instagram.com/advintageousvintagefairs/)
 
-Stitch-Up is an innovative social enterprise dedicated to teaching, showcasing and promoting textile craft and makers in a modern world.
-
-*Stitch-Up Community Hub, Meanwood Community Centre, Stainbeck Ave, Meanwood, Leeds, LS7 2QU*
+Contact: [info@advintageous.co.uk](mailto:info@advintageous.co.uk), Debi: [07946 729243](<tel:07946 729243>), Katrina: [07742 522276](<tel:07742 522276>)
 
 ### [Lou Lou's Vintage Fair](https://www.eventbrite.co.uk/o/lou-lous-vintage-fair-42182906753)
 
 [Lou Lou's Vintage Fair](https://www.eventbrite.co.uk/o/lou-lous-vintage-fair-42182906753) holds regular vintage fairs at Left Bank Leeds 
 
-### [Worth the Weight](https://www.eventbrite.co.uk/o/worth-the-weight-20070183683) 
+[Website](http://www.loulousvintagefair.com/), [Eventbrite](https://www.eventbrite.co.uk/o/lou-lous-vintage-fair-42182906753), [Facebook](https://www.facebook.com/1506080846360655), [Twitter](https://twitter.com/vintagefair), [Instagram](https://www.instagram.com/loulousvintagefair/)
+
+Contact: [info@thevintagefair.com](mailto:info@thevintagefair.com)
+
+
+
+### [Worth the Weight](https://www.eventbrite.co.uk/o/worth-the-weight-20070183683)
 
 Worth The Weight travels the length and breadth of the country with tonnes of amazing vintage stock every weekend. They hold regular vintage fairs at Left Bank Leeds.
 
-
-
 ## Sewing workshops
 
-### [EZ Stitch Studio](https://ez-stitch-studio.square.site/)
+### [Stitch-Up](https://www.eventbrite.co.uk/o/stitch-up-8556093319)
+
+Stitch-Up is an innovative social enterprise dedicated to teaching, showcasing and promoting textile craft and makers in a modern world.
+
+*Stitch-Up Community Hub, Meanwood Community Centre, Stainbeck Ave, Meanwood, Leeds, LS7 2QU*
+
+
+
+[EZ Stitch Studio](https://ez-stitch-studio.square.site/)
 
 [EZ Stitch Studio](https://ez-stitch-studio.square.site/) runs sewing workshops
 
 *25 Newhall Road, [LS10 3QU](https://www.google.com/maps/place/Newhall+Rd,+Leeds+LS10+3QU/@53.7528577,-1.5345285,17z/data=!3m1!4b1!4m5!3m4!1s0x48795dc3a3a5c761:0x6a5353f33eb31347!8m2!3d53.7527155!4d-1.5319745)*
-
-
 
 ### [Fabrication Crafts](https://www.fabric-ation.co.uk/)
 
@@ -140,15 +148,11 @@ Worth The Weight travels the length and breadth of the country with tonnes of am
 
 *79 Albion Street, Leeds, [LS1 5AP](https://www.google.com/maps/place/Albion+St,+Leeds+LS1+5AP/@53.7988012,-1.54744,17z/data=!3m1!4b1!4m5!3m4!1s0x48795c1c0b86374f:0x2d6f4ba502bef21f!8m2!3d53.7987493!4d-1.5452636)*
 
-
-
-### [Fabrication2](https://www.fabric-ation.co.uk/) 
+### [Fabrication2](https://www.fabric-ation.co.uk/)
 
 [Fabrication2](https://www.fabric-ation.co.uk/)
 
 *Hereford House, Edward Street, Leeds, [LS2 7NU](https://www.google.com/maps/place/Templar+St,+Leeds+LS2+7NU/@53.8001324,-1.5407531,17z/data=!3m1!4b1!4m5!3m4!1s0x48795c1a7ebf3ba5:0xee915e235a05e20!8m2!3d53.8000459!4d-1.5388272)*
-
-
 
 ### [Inkwell Arts](https://www.inkwellarts.org.uk/)
 
@@ -156,15 +160,11 @@ Worth The Weight travels the length and breadth of the country with tonnes of am
 
 *31 Potternewton Lane, Leeds, [LS7 3LW](https://www.google.com/maps/place/Potternewton+Ln,+Leeds+LS7+3LW/@53.8246176,-1.5381792,17z/data=!3m1!4b1!4m5!3m4!1s0x48795bf1d60e632f:0xd687d7ed456f0640!8m2!3d53.8247522!4d-1.5360194)*
 
-
-
 ### [School of Sew](http://schoolofsew.com/)
 
 [School of Sew](http://schoolofsew.com/)
 
 *No 1 The Spinning Mill, Sunny Bank Mills, Farsley, Leeds, [LS28 5UJ](https://www.google.com/maps/place/Town+St,+Farsley,+Pudsey+LS28+5UJ/@53.8142242,-1.6739252,17z/data=!3m1!4b1!4m5!3m4!1s0x487be21d171292ab:0x654c3c825fef2406!8m2!3d53.8140806!4d-1.6714749)*
-
-
 
 ### [The Sewing Sessions Studio](https://thesewingsessions.wordpress.com/)
 
@@ -172,15 +172,11 @@ Worth The Weight travels the length and breadth of the country with tonnes of am
 
 *40 Rock Lane, Leeds, [LS13 1DX ](https://www.google.com/maps/place/Rock+Ln,+Bramley,+Leeds+LS13+1DX/@53.818263,-1.6428387,17z/data=!3m1!4b1!4m5!3m4!1s0x487958b3cd8ae539:0x9ad61619a1eee2fd!8m2!3d53.817292!4d-1.6409658)*
 
-
-
 ### [The Skep Farsley](https://www.facebook.com/skepknitquilt/)
 
 [The Skep Farsley](https://www.facebook.com/skepknitquilt/)
 
 *Gate 1, Springfield Commercial Centre Bagley Lane, Farsley, Leeds, [LS28 5LY](https://www.google.com/maps/place/Bagley+Ln,+Farsley,+Pudsey+LS28+5LY/@53.8169672,-1.6670746,17z/data=!3m1!4b1!4m5!3m4!1s0x487be203fbcddcb5:0xc1b1a6a81c5f6fb9!8m2!3d53.8172711!4d-1.6648734)*
-
-
 
 ### [Yorkshire School of Sewing](https://yorkshireschoolofsewing.wordpress.com/)
 
@@ -188,15 +184,11 @@ Worth The Weight travels the length and breadth of the country with tonnes of am
 
 *41 The Croft, Asket Hill, Leeds, [LS8 2LY](https://www.google.com/maps/place/Asket+Hill,+Roundhay,+Leeds+LS8+2LY/@53.8256186,-1.4884697,17z/data=!3m1!4b1!4m5!3m4!1s0x48795b6ff6c16963:0xff47eda7067e711b!8m2!3d53.8257095!4d-1.4863006)*
 
-
-
 ### [Workshop](https://helloworkshop.co.uk/)
 
 [Workshop](https://helloworkshop.co.uk/)
 
 *24 Otley Rd, Leeds, [LS6 2AD](https://www.google.com/maps/place/Otley+Rd,+Headingley,+Leeds+LS6+2AD/@53.821442,-1.5792124,17z/data=!3m1!4b1!4m5!3m4!1s0x48795949ba1bcbad:0xb666994730742b8f!8m2!3d53.8208412!4d-1.5770299)*
-
-
 
 ### [Bowery Cafe](https://www.thebowery.org/)
 
