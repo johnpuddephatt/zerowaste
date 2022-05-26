@@ -112,9 +112,9 @@ AdVintageous Vintage Fairs hosts a Vintage Market at Leeds Kirkgate Market on th
 
 Contact: [info@advintageous.co.uk](mailto:info@advintageous.co.uk), Debi: [07946 729243](<tel:07946 729243>), Katrina: [07742 522276](<tel:07742 522276>)
 
-### [Lou Lou's Vintage Fair](https://www.eventbrite.co.uk/o/lou-lous-vintage-fair-42182906753)
+### Lou Lou's Vintage Fair
 
-[Lou Lou's Vintage Fair](https://www.eventbrite.co.uk/o/lou-lous-vintage-fair-42182906753) holds regular vintage fairs at Left Bank Leeds 
+Lou Lou's Vintage Fair holds regular vintage fairs at Left Bank Leeds. The fair offers vintage women’s wear, menswear, jewellery, collectables and homewares sourced from far and wide by specialist independent traders. 
 
 [Website](http://www.loulousvintagefair.com/), [Eventbrite](https://www.eventbrite.co.uk/o/lou-lous-vintage-fair-42182906753), [Facebook](https://www.facebook.com/1506080846360655), [Twitter](https://twitter.com/vintagefair), [Instagram](https://www.instagram.com/loulousvintagefair/)
 
