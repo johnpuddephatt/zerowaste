@@ -102,45 +102,63 @@ Bramley Community Clothing Exchange is a movement created and run by volunteers 
 
 *Contact: [jamiesonvickie@hotmail.com](mailto:jamiesonvickie@hotmail.com)*
 
+
+
 ## Vintage fairs
 
 ### AdVintageous Vintage Fairs
 
 AdVintageous Vintage Fairs hosts a Vintage Market at Leeds Kirkgate Market on the first Saturday of each month from 10am-4.30pm. The event is free to enter. Alongside the Vintage Stallholders, there’s an array of World Food Pods on offer along with a dedicated entertainment space. You might find a Vintage DJ, a vocalist or you can come and do some social dancing with The Andresons!
 
-[Website](https://www.advintageous.co.uk/), [Eventbrite](https://www.eventbrite.co.uk/o/advintageous-vintage-fairs-42719416213), [Facebook](https://www.facebook.com/AdVintageousVintageFairsEvents/), [Twitter](https://twitter.com/advintageousuk), [Instragram](https://www.instagram.com/advintageousvintagefairs/)
+*Leeds Kirkgate Market, Vicar Lane, Leeds City Centre, [LS2 7HY](https://www.google.com/maps/place/George+St,+Leeds+LS2+7HY/@53.7977521,-1.5404421,17z/data=!3m1!4b1!4m5!3m4!1s0x48795c1a01dde947:0xeaca15466606dd0d!8m2!3d53.797635!4d-1.5382768)*
 
-Contact: [info@advintageous.co.uk](mailto:info@advintageous.co.uk), Debi: [07946 729243](<tel:07946 729243>), Katrina: [07742 522276](<tel:07742 522276>)
+*[Website](https://www.advintageous.co.uk/), [Eventbrite](https://www.eventbrite.co.uk/o/advintageous-vintage-fairs-42719416213), [Facebook](https://www.facebook.com/AdVintageousVintageFairsEvents/), [Twitter](https://twitter.com/advintageousuk), [Instragram](https://www.instagram.com/advintageousvintagefairs/)*
+
+*Contact: [info@advintageous.co.uk](mailto:info@advintageous.co.uk), Debi: [07946 729243](<tel:07946 729243>), Katrina: [07742 522276](<tel:07742 522276>)*
 
 ### Lou Lou's Vintage Fair
 
 Lou Lou's Vintage Fair holds regular vintage fairs at Left Bank Leeds. The fair offers vintage women’s wear, menswear, jewellery, collectables and homewares sourced from far and wide by specialist independent traders. 
 
-[Website](http://www.loulousvintagefair.com/), [Eventbrite](https://www.eventbrite.co.uk/o/lou-lous-vintage-fair-42182906753), [Facebook](https://www.facebook.com/1506080846360655), [Twitter](https://twitter.com/vintagefair), [Instagram](https://www.instagram.com/loulousvintagefair/)
+*Left Bank Leeds, Cardigan Road, Burley, Leeds, [LS6 1LJ](https://www.google.com/maps/place/Cardigan+Rd,+Burley,+Leeds+LS6+1LJ/data=!4m2!3m1!1s0x48795eb448c299ff:0x753198cb06354d30?sa=X&ved=2ahUKEwiz04mp0P_3AhXtSUEAHf7JAtUQ8gF6BAhPEAE)*
 
-Contact: [info@thevintagefair.com](mailto:info@thevintagefair.com)
+*[Website](http://www.loulousvintagefair.com/), [Eventbrite](https://www.eventbrite.co.uk/o/lou-lous-vintage-fair-42182906753), [Facebook](https://www.facebook.com/1506080846360655), [Twitter](https://twitter.com/vintagefair), [Instagram](https://www.instagram.com/loulousvintagefair/)*
 
+*Contact: [info@thevintagefair.com](mailto:info@thevintagefair.com)*
 
-
-### [Worth the Weight](https://www.eventbrite.co.uk/o/worth-the-weight-20070183683)
+### Worth the Weight
 
 Worth The Weight travels the length and breadth of the country with tonnes of amazing vintage stock every weekend. They hold regular vintage fairs at Left Bank Leeds.
 
+*Left Bank Leeds, Cardigan Road, Burley, Leeds, [LS6 1LJ](https://www.google.com/maps/place/Cardigan+Rd,+Burley,+Leeds+LS6+1LJ/data=!4m2!3m1!1s0x48795eb448c299ff:0x753198cb06354d30?sa=X&ved=2ahUKEwiz04mp0P_3AhXtSUEAHf7JAtUQ8gF6BAhPEAE)*
+
+*[](https://www.google.com/maps/place/Cardigan+Rd,+Burley,+Leeds+LS6+1LJ/data=!4m2!3m1!1s0x48795eb448c299ff:0x753198cb06354d30?sa=X&ved=2ahUKEwiz04mp0P_3AhXtSUEAHf7JAtUQ8gF6BAhPEAE)[Website](https://www.worththeweightvintage.com/), [Eventbrite](https://www.eventbrite.co.uk/o/worth-the-weight-20070183683), [Facebook](https://www.facebook.com/worththeweightvintage/), [Instagram](https://www.instagram.com/worththeweightvintage)*
+
+*Contact: [hello@worththeweightvintage.com](mailto:hello@worththeweightvintage.com)*
+
+
+
 ## Sewing workshops
 
-### [Stitch-Up](https://www.eventbrite.co.uk/o/stitch-up-8556093319)
+### Stitch-Up
 
-Stitch-Up is an innovative social enterprise dedicated to teaching, showcasing and promoting textile craft and makers in a modern world.
+Stitch-Up is a social enterprise dedicated to teaching, showcasing and promoting textile craft and makers. They hold regular workshops, events and community projects to engage and inspire people of all ages and abilities to learn valuable new craft skills. As a community interest company they reinvest any surplus profit back into community projects so every workshop ticket you buy you are supporting them to do this.
 
 *Stitch-Up Community Hub, Meanwood Community Centre, Stainbeck Ave, Meanwood, Leeds, LS7 2QU*
 
+*[Website](https://stitch-up.org.uk/), [Eventbrite](https://www.eventbrite.co.uk/o/stitch-up-8556093319), [Facebook](https://www.facebook.com/Stitchupleeds/), [Instagram](https://www.instagram.com/stitch_up/)*
 
+*Contact:* [jen@stitch-up.org.uk](mailto:jen@stitch-up.org.uk), [07944 787964](<tel:07944 787964>)
 
-[EZ Stitch Studio](https://ez-stitch-studio.square.site/)
+### [EZ Stitch Studio](https://ez-stitch-studio.square.site/)
 
 [EZ Stitch Studio](https://ez-stitch-studio.square.site/) runs sewing workshops
 
 *25 Newhall Road, [LS10 3QU](https://www.google.com/maps/place/Newhall+Rd,+Leeds+LS10+3QU/@53.7528577,-1.5345285,17z/data=!3m1!4b1!4m5!3m4!1s0x48795dc3a3a5c761:0x6a5353f33eb31347!8m2!3d53.7527155!4d-1.5319745)*
+
+*[Website](https://ez-stitch-studio.square.site/), Eventbrite, Facebook, Twitter, Instagram*
+
+*Contact:*
 
 ### [Fabrication Crafts](https://www.fabric-ation.co.uk/)
 
@@ -148,11 +166,19 @@ Stitch-Up is an innovative social enterprise dedicated to teaching, showcasing a
 
 *79 Albion Street, Leeds, [LS1 5AP](https://www.google.com/maps/place/Albion+St,+Leeds+LS1+5AP/@53.7988012,-1.54744,17z/data=!3m1!4b1!4m5!3m4!1s0x48795c1c0b86374f:0x2d6f4ba502bef21f!8m2!3d53.7987493!4d-1.5452636)*
 
+*Website, Eventbrite, Facebook, Twitter, Instagram*
+
+*Contact:*
+
 ### [Fabrication2](https://www.fabric-ation.co.uk/)
 
 [Fabrication2](https://www.fabric-ation.co.uk/)
 
 *Hereford House, Edward Street, Leeds, [LS2 7NU](https://www.google.com/maps/place/Templar+St,+Leeds+LS2+7NU/@53.8001324,-1.5407531,17z/data=!3m1!4b1!4m5!3m4!1s0x48795c1a7ebf3ba5:0xee915e235a05e20!8m2!3d53.8000459!4d-1.5388272)*
+
+*Website, Eventbrite, Facebook, Twitter, Instagram*
+
+*Contact:*
 
 ### [Inkwell Arts](https://www.inkwellarts.org.uk/)
 
@@ -160,11 +186,19 @@ Stitch-Up is an innovative social enterprise dedicated to teaching, showcasing a
 
 *31 Potternewton Lane, Leeds, [LS7 3LW](https://www.google.com/maps/place/Potternewton+Ln,+Leeds+LS7+3LW/@53.8246176,-1.5381792,17z/data=!3m1!4b1!4m5!3m4!1s0x48795bf1d60e632f:0xd687d7ed456f0640!8m2!3d53.8247522!4d-1.5360194)*
 
+*Website, Eventbrite, Facebook, Twitter, Instagram*
+
+*Contact:*
+
 ### [School of Sew](http://schoolofsew.com/)
 
 [School of Sew](http://schoolofsew.com/)
 
 *No 1 The Spinning Mill, Sunny Bank Mills, Farsley, Leeds, [LS28 5UJ](https://www.google.com/maps/place/Town+St,+Farsley,+Pudsey+LS28+5UJ/@53.8142242,-1.6739252,17z/data=!3m1!4b1!4m5!3m4!1s0x487be21d171292ab:0x654c3c825fef2406!8m2!3d53.8140806!4d-1.6714749)*
+
+*Website, Eventbrite, Facebook, Twitter, Instagram*
+
+*Contact:*
 
 ### [The Sewing Sessions Studio](https://thesewingsessions.wordpress.com/)
 
@@ -172,11 +206,19 @@ Stitch-Up is an innovative social enterprise dedicated to teaching, showcasing a
 
 *40 Rock Lane, Leeds, [LS13 1DX ](https://www.google.com/maps/place/Rock+Ln,+Bramley,+Leeds+LS13+1DX/@53.818263,-1.6428387,17z/data=!3m1!4b1!4m5!3m4!1s0x487958b3cd8ae539:0x9ad61619a1eee2fd!8m2!3d53.817292!4d-1.6409658)*
 
+*Website, Eventbrite, Facebook, Twitter, Instagram*
+
+*Contact:*
+
 ### [The Skep Farsley](https://www.facebook.com/skepknitquilt/)
 
 [The Skep Farsley](https://www.facebook.com/skepknitquilt/)
 
 *Gate 1, Springfield Commercial Centre Bagley Lane, Farsley, Leeds, [LS28 5LY](https://www.google.com/maps/place/Bagley+Ln,+Farsley,+Pudsey+LS28+5LY/@53.8169672,-1.6670746,17z/data=!3m1!4b1!4m5!3m4!1s0x487be203fbcddcb5:0xc1b1a6a81c5f6fb9!8m2!3d53.8172711!4d-1.6648734)*
+
+*Website, Eventbrite, Facebook, Twitter, Instagram*
+
+*Contact:*
 
 ### [Yorkshire School of Sewing](https://yorkshireschoolofsewing.wordpress.com/)
 
@@ -184,14 +226,26 @@ Stitch-Up is an innovative social enterprise dedicated to teaching, showcasing a
 
 *41 The Croft, Asket Hill, Leeds, [LS8 2LY](https://www.google.com/maps/place/Asket+Hill,+Roundhay,+Leeds+LS8+2LY/@53.8256186,-1.4884697,17z/data=!3m1!4b1!4m5!3m4!1s0x48795b6ff6c16963:0xff47eda7067e711b!8m2!3d53.8257095!4d-1.4863006)*
 
+*Website, Eventbrite, Facebook, Twitter, Instagram*
+
+*Contact:*
+
 ### [Workshop](https://helloworkshop.co.uk/)
 
 [Workshop](https://helloworkshop.co.uk/)
 
 *24 Otley Rd, Leeds, [LS6 2AD](https://www.google.com/maps/place/Otley+Rd,+Headingley,+Leeds+LS6+2AD/@53.821442,-1.5792124,17z/data=!3m1!4b1!4m5!3m4!1s0x48795949ba1bcbad:0xb666994730742b8f!8m2!3d53.8208412!4d-1.5770299)*
 
+*Website, Eventbrite, Facebook, Twitter, Instagram*
+
+*Contact:*
+
 ### [Bowery Cafe](https://www.thebowery.org/)
 
 [Bowery Cafe](https://www.thebowery.org/)
 
 *54 Otley Road, Headingley, Leeds, [LS6 2AL](https://www.google.com/maps/place/Otley+Rd,+Headingley,+Leeds+LS6+2AL/@53.8233381,-1.5820496,17z/data=!3m1!4b1!4m5!3m4!1s0x48795937e3a1678d:0xbda6ac2f44040858!8m2!3d53.8233756!4d-1.5795261)*
+
+*Website, Eventbrite, Facebook, Twitter, Instagram*
+
+*Contact:*
