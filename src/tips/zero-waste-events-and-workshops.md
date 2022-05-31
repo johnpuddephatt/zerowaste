@@ -102,8 +102,6 @@ Bramley Community Clothing Exchange is a movement created and run by volunteers 
 
 *Contact: [jamiesonvickie@hotmail.com](mailto:jamiesonvickie@hotmail.com)*
 
-
-
 ## Vintage fairs
 
 ### AdVintageous Vintage Fairs
@@ -132,11 +130,9 @@ Worth The Weight travels the length and breadth of the country with tonnes of am
 
 *Left Bank Leeds, Cardigan Road, Burley, Leeds, [LS6 1LJ](https://www.google.com/maps/place/Cardigan+Rd,+Burley,+Leeds+LS6+1LJ/data=!4m2!3m1!1s0x48795eb448c299ff:0x753198cb06354d30?sa=X&ved=2ahUKEwiz04mp0P_3AhXtSUEAHf7JAtUQ8gF6BAhPEAE)*
 
-*[](https://www.google.com/maps/place/Cardigan+Rd,+Burley,+Leeds+LS6+1LJ/data=!4m2!3m1!1s0x48795eb448c299ff:0x753198cb06354d30?sa=X&ved=2ahUKEwiz04mp0P_3AhXtSUEAHf7JAtUQ8gF6BAhPEAE)[Website](https://www.worththeweightvintage.com/), [Eventbrite](https://www.eventbrite.co.uk/o/worth-the-weight-20070183683), [Facebook](https://www.facebook.com/worththeweightvintage/), [Instagram](https://www.instagram.com/worththeweightvintage)*
+[](https://www.google.com/maps/place/Cardigan+Rd,+Burley,+Leeds+LS6+1LJ/data=!4m2!3m1!1s0x48795eb448c299ff:0x753198cb06354d30?sa=X&ved=2ahUKEwiz04mp0P_3AhXtSUEAHf7JAtUQ8gF6BAhPEAE)*[Website](https://www.worththeweightvintage.com/), [Eventbrite](https://www.eventbrite.co.uk/o/worth-the-weight-20070183683), [Facebook](https://www.facebook.com/worththeweightvintage/), [Instagram](https://www.instagram.com/worththeweightvintage)*
 
 *Contact: [hello@worththeweightvintage.com](mailto:hello@worththeweightvintage.com)*
-
-
 
 ## Sewing workshops
 
@@ -152,31 +148,21 @@ Stitch-Up is a social enterprise dedicated to teaching, showcasing and promoting
 
 ### [EZ Stitch Studio](https://ez-stitch-studio.square.site/)
 
-[EZ Stitch Studio](https://ez-stitch-studio.square.site/) runs sewing workshops
+[EZ Stitch Studio](https://ez-stitch-studio.square.site/) is a small, local independent business that offers a range of 1 to 1 or small group classes for the fine arts of sewing, knitting or crochet; helping to start your project off; consultation on how to read a pattern; and help to thread, operate, maintain and service your sewing machine or overlocker. Get in touch with them below to find out more or book a class.
 
 *25 Newhall Road, [LS10 3QU](https://www.google.com/maps/place/Newhall+Rd,+Leeds+LS10+3QU/@53.7528577,-1.5345285,17z/data=!3m1!4b1!4m5!3m4!1s0x48795dc3a3a5c761:0x6a5353f33eb31347!8m2!3d53.7527155!4d-1.5319745)*
 
-*[Website](https://ez-stitch-studio.square.site/), Eventbrite, Facebook, Twitter, Instagram*
+*[Website](https://ez-stitch-studio.square.site/), [Facebook](https://www.facebook.com/ez.stitch.studio), [Instagram](https://www.instagram.com/EZ_stitch_studio)*
 
-*Contact:*
+*Contact: [evazln@yahoo.co.uk](mailto:evazln@yahoo.co.uk), [07935 232843](<tel:07935 232843>)*
 
 ### [Fabrication Crafts](https://www.fabric-ation.co.uk/)
 
-[Fabrication Crafts](https://www.fabric-ation.co.uk/)
-
-*79 Albion Street, Leeds, [LS1 5AP](https://www.google.com/maps/place/Albion+St,+Leeds+LS1+5AP/@53.7988012,-1.54744,17z/data=!3m1!4b1!4m5!3m4!1s0x48795c1c0b86374f:0x2d6f4ba502bef21f!8m2!3d53.7987493!4d-1.5452636)*
-
-*Website, Eventbrite, Facebook, Twitter, Instagram*
-
-*Contact:*
-
-### [Fabrication2](https://www.fabric-ation.co.uk/)
-
-[Fabrication2](https://www.fabric-ation.co.uk/)
+Fabrication Crafts is a Social Enterprise that supports micro crafts and design businesses with work and retail space in Leeds and York. They run a wide range of craft classes, workshops and parties, from textile printing to bookbinding, jewellery making, leatherwork and felting. They also have space to host exhibitions and events. All classes run at the [Fabrication2](https://www.fabric-ation.co.uk/location/fabrication2-2/) venue (address below).
 
 *Hereford House, Edward Street, Leeds, [LS2 7NU](https://www.google.com/maps/place/Templar+St,+Leeds+LS2+7NU/@53.8001324,-1.5407531,17z/data=!3m1!4b1!4m5!3m4!1s0x48795c1a7ebf3ba5:0xee915e235a05e20!8m2!3d53.8000459!4d-1.5388272)*
 
-*Website, Eventbrite, Facebook, Twitter, Instagram*
+*[Website](https://www.fabric-ation.co.uk/product-category/classes/), [Facebook](https://www.facebook.com/FabricationCrafts/), [Twitter](https://twitter.com/FabricationYo1), [Instagram](https://www.instagram.com/fabricationcrafts/)*
 
 *Contact:*
 
