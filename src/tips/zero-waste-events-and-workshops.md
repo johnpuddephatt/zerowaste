@@ -146,9 +146,9 @@ Stitch-Up is a social enterprise dedicated to teaching, showcasing and promoting
 
 *Contact:* [jen@stitch-up.org.uk](mailto:jen@stitch-up.org.uk), [07944 787964](<tel:07944 787964>)
 
-### [EZ Stitch Studio](https://ez-stitch-studio.square.site/)
+### EZ Stitch Studio
 
-[EZ Stitch Studio](https://ez-stitch-studio.square.site/) is a small, local independent business that offers a range of 1 to 1 or small group classes for the fine arts of sewing, knitting or crochet; helping to start your project off; consultation on how to read a pattern; and help to thread, operate, maintain and service your sewing machine or overlocker. Get in touch with them below to find out more or book a class.
+EZ Stitch Studio is a small, local independent business that offers a range of 1 to 1 or small group classes for the fine arts of sewing, knitting or crochet; helping to start your project off; consultation on how to read a pattern; and help to thread, operate, maintain and service your sewing machine or overlocker. Get in touch with them below to find out more or book a class.
 
 *25 Newhall Road, [LS10 3QU](https://www.google.com/maps/place/Newhall+Rd,+Leeds+LS10+3QU/@53.7528577,-1.5345285,17z/data=!3m1!4b1!4m5!3m4!1s0x48795dc3a3a5c761:0x6a5353f33eb31347!8m2!3d53.7527155!4d-1.5319745)*
 
@@ -156,7 +156,7 @@ Stitch-Up is a social enterprise dedicated to teaching, showcasing and promoting
 
 *Contact: [evazln@yahoo.co.uk](mailto:evazln@yahoo.co.uk), [07935 232843](<tel:07935 232843>)*
 
-### [Fabrication Crafts](https://www.fabric-ation.co.uk/)
+### Fabrication Crafts
 
 Fabrication Crafts is a Social Enterprise that supports micro crafts and design businesses with work and retail space in Leeds and York. They run a wide range of craft classes, workshops and parties, from textile printing to bookbinding, jewellery making, leatherwork and felting. They also have space to host exhibitions and events. All classes run at the [Fabrication2](https://www.fabric-ation.co.uk/location/fabrication2-2/) venue (address below).
 
@@ -164,7 +164,7 @@ Fabrication Crafts is a Social Enterprise that supports micro crafts and design 
 
 *[Website](https://www.fabric-ation.co.uk/product-category/classes/), [Facebook](https://www.facebook.com/FabricationCrafts/), [Twitter](https://twitter.com/FabricationYo1), [Instagram](https://www.instagram.com/fabricationcrafts/)*
 
-*Contact:*
+*Contact: [info@fabric-ation.co.uk](mailto:info@fabric-ation.co.uk), [0113 243 9140 ](<tel:0113 243 9140>)*
 
 ### [Inkwell Arts](https://www.inkwellarts.org.uk/)
 
