@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Together for sport - donation campaign 6th - 26th June
+title: Together for sport - donation campaign
 date: 2022-05-16T15:21:51.953Z
 tags:
   - sport
@@ -10,7 +10,7 @@ Through Together For Sport, we want to making it easy for people to share sports
 
 We know how much good it can do us to get outdoors and get active.  But sometimes the cost of kit can be a barrier to getting involved.  That’s where Together For Sport - and the people of Leeds - can help.
 
-From the **6th - 26th June** there will be donation points across Leeds for you to be able to donate sports kit and equipment knowing it will be distributed to the people that will benefit from it the most. 
+From the **6th June** there will be donation points across Leeds for you to be able to donate sports kit and equipment knowing it will be distributed to the people that will benefit from it the most. 
 
 If you have any donations of trainers, football boots, shin pads, hoodies and socks, in either adult or children's sizes, please drop them into the designated collection bins located in the reception area of the following leisure centres:
 
