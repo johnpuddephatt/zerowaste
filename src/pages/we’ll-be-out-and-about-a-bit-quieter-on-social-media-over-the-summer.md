@@ -11,15 +11,13 @@ We love the community that has built up around Zero Waste Leeds since we set it 
 
 We’ve built up a really-engaged, local community of over 25,000 followers across our social media, exploring ways that we can all waste less in our everyday lives.
 
-We’ve shared thousands of posts over that time, with loads of top tips on things like clothing, food waste and recycling.  And we’ve also run campaigns on all sorts of themes - including how to cut down on waste whilst we were all at home during lockdown, alongside campaigns on topics such as glass recycling & sustainable fashion.
+We’ve shared thousands of posts over that time, with loads of top tips on things like clothing, food waste and recycling.  And we’ve also run campaigns on all sorts of themes - including how to cut down on waste whilst we were all at home during the lockdown, alongside campaigns on topics such as glass recycling & sustainable fashion.
 
 We’ve also done all we can to share our platform with the individuals, community groups, social enterprises and local businesses that are doing great work in our city - helping us to move towards a more circular economy.  
 
 But, with our costs rising and income falling, our social enterprise is having to reflect on how we keep doing what we do.
 
 And the truth is that a lot of the community engagement that Zero Waste Leeds has done over the last four years - much of it on social media - has been unfunded. Our social enterprise has funded this activity through our reserves - because we think it’s important work in itself, particularly in the context of a climate emergency. 
-
-
 
 Our place-based work, which makes local connections and which makes the circular economy meaningful to people’s daily lives, is more vital than ever.  But we can’t fund it ourselves forever.  
 
@@ -33,7 +31,7 @@ So over July and August, we’re going to take a bit of a step back on social me
 
 We will still be sharing lots of information about our current campaigns, [Leeds School Uniform Exchange](https://www.zerowasteleeds.org.uk/projects/school-uniform-exchange/) and [Together For Sport](https://www.zerowasteleeds.org.uk/projects/together-for-sport/) - as both of those projects will be out and about across Leeds during the summer holidays.
 
-![](/uploads/untitled-design-6-.png)
+![Together for Sport and Leeds School Uniform Exchange](/uploads/untitled-design-6-.png)
 
 And we’ll keep sharing our platform - sharing posts from local organisations that are doing great work - to help them to reach more people.
 
@@ -49,4 +47,4 @@ And finally, thank you to all of you who are part of Zero Waste Leeds - sharing 
 
 In the meantime, please check our [useful links](https://www.zerowasteleeds.org.uk/pages/thank-you-for-getting-in-touch-here-are-some-useful-links-to-more-info/) page which may help to answer some of your queries. You could also join - and ask a question on - the [Leeds Zero Waste Living](https://www.facebook.com/groups/495949467411600) Facebook group.
 
-![](/uploads/copy-of-facebook-cover-2-.png)
+![We're building a zero waste movement](/uploads/copy-of-facebook-cover-2-.png)
