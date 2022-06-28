@@ -33,6 +33,8 @@ So over July and August we’re going to take a bit of a step back on social med
 
 We will still be sharing lots of information about our current campaigns, [Leeds School Uniform Exchange](https://www.zerowasteleeds.org.uk/projects/school-uniform-exchange/) and [Together For Sport](https://www.zerowasteleeds.org.uk/projects/together-for-sport/) - as both of those projects will be out and about across Leeds during the summer holidays.
 
+![](/uploads/untitled-design-6-.png)
+
 And we’ll keep sharing our platform - sharing posts from local organisations that are doing great work - to help them to reach more people.
 
 But we’ll be quieter in other ways - we won’t be sharing posts on how to waste less, or how to recycle better.  And unfortunately we won’t be able to respond to the many questions we get each week. 
