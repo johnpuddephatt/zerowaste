@@ -13,7 +13,7 @@ Additionally, here are some answers to some of the things people contact us abou
 
 ### Leeds School Uniform Exchange
 
-If you’d like to know more about [Leeds School Uniform Exchange](https://leedsuniformexchange.org.uk/), please have a look at our [website](https://leedsuniformexchange.org.uk/), and please join the [Facebook group](https://www.facebook.com/groups/leedsschooluniformexchange/).  
+If you’d like to know more about [Leeds School Uniform Exchange](https://leedsuniformexchange.org.uk/) or find your closest school uniform exchange and pop-up shops being held over the summer, have a look at our [website](https://leedsuniformexchange.org.uk/). You could also join our [Facebook group](https://www.facebook.com/groups/leedsschooluniformexchange/).  
 
 ![](/uploads/artboard-16-100.jpg)
 
