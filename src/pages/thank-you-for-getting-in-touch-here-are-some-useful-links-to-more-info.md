@@ -5,9 +5,11 @@ date: 2022-02-28T14:09:37.217Z
 ---
 ## Thank you for getting in touch with Zero Waste Leeds.
 
-We love the fact that so many people get in touch with us, but as we get lots of questions and enquiries it often takes us a few days to respond - as much of our work is currently unfunded. 
+We love the fact that so many people get in touch with us, but as we get lots of questions and enquiries and much of our social media work is currently unfunded we can't always respond. 
 
-In the meantime here are some answers to some of the things people contact us about most regularly.  
+If your question is about Council services such as bins, waste or recycling, please visit [their dedicated website](https://www.leeds.gov.uk/residents/bins-and-recycling) or contact [Leeds Recycles Facebook page](https://www.facebook.com/LeedsRecycles). 
+
+Additionally, here are some answers to some of the things people contact us about most regularly.  
 
 ### Leeds School Uniform Exchange
 
@@ -17,11 +19,11 @@ If you’d like to know more about [Leeds School Uniform Exchange](https://leeds
 
 ### Together For Sport
 
-If you’d like to know more about Together For Sport - our sports kit sharing project, please [visit our website](https://www.zerowasteleeds.org.uk/projects/together-for-sport/) or join the [Facebook group](https://www.facebook.com/groups/1362989497479061).  We have lots of [recycling tips](https://www.zerowasteleeds.org.uk/tag/recycling/) on our website too.  
+If you’d like to know more about Together For Sport - our sports kit sharing project, please [visit our website](https://www.zerowasteleeds.org.uk/projects/together-for-sport/) or join the [Facebook group](https://www.facebook.com/groups/1362989497479061). 
 
 ### Leeds City Council services - recycling etc
 
-Leeds City Council has information about recycling and other services on [their website](https://www.leeds.gov.uk/residents/bins-and-recycling).  You might also like to follow their [Leeds Recycles Facebook page](https://www.facebook.com/LeedsRecycles).
+Leeds City Council has information about recycling and other services on [their website](https://www.leeds.gov.uk/residents/bins-and-recycling).  You might also like to follow their [Leeds Recycles Facebook page](https://www.facebook.com/LeedsRecycles).  We have lots of [recycling tips](https://www.zerowasteleeds.org.uk/tag/recycling/) on our website too.  
 
 ### Leeds Zero Waste Living Facebook group
 
