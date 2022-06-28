@@ -3,7 +3,7 @@ layout: layouts/page.njk
 title: We’ll be out and about & a bit quieter on social media over the summer
 date: 2022-06-28T12:06:04.126Z
 ---
-During July and August, you might notice that we’ll be a bit quieter than usual on our Zero Waste Leeds Facebook, Instagram and Twitter accounts.
+During July and August, you might notice that we’ll be a bit quieter than usual on our Zero Waste Leeds [Facebook](https://www.facebook.com/zerowasteleeds), [Instagram](https://www.instagram.com/zerowasteleeds/) and [Twitter](https://twitter.com/ZeroWasteLeeds) accounts.
 
 We love the community that has built up around Zero Waste Leeds since we set it up, with nothing more than a Facebook page, in 2018.
 
@@ -27,7 +27,7 @@ We LOVE that people contact us with just about every question you could ever ima
 
 So over July and August we’re going to take a bit of a step back on social media.  
 
-We will still be sharing lots of information about our current campaigns, Leeds School Uniform Exchange and Together For Sport - as both of those projects will be out and about across Leeds during the summer holidays.
+We will still be sharing lots of information about our current campaigns, [Leeds School Uniform Exchange](https://www.zerowasteleeds.org.uk/projects/school-uniform-exchange/) and [Together For Sport](https://www.zerowasteleeds.org.uk/projects/together-for-sport/) - as both of those projects will be out and about across Leeds during the summer holidays.
 
 And we’ll keep sharing our platform - sharing posts from local organisations that are doing great work - to help them to reach more people.
 
