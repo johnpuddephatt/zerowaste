@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
-title: We will be out and about and a bit quieter on social media over the summer
+title: We will out and about and a bit quieter on social media over the summer
 date: 2022-06-28T12:06:04.126Z
 ---
 During July and August, you might notice that we’ll be a bit quieter than usual on our Zero Waste Leeds [Facebook](https://www.facebook.com/zerowasteleeds), [Instagram](https://www.instagram.com/zerowasteleeds/) and [Twitter](https://twitter.com/ZeroWasteLeeds) accounts.
