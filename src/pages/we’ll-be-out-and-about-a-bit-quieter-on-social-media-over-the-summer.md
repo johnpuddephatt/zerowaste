@@ -3,11 +3,17 @@ layout: layouts/page.njk
 title: We'll be out and about & a bit quieter on social media over the summer
 date: 2022-06-28T12:06:04.126Z
 ---
+
+
+![We're out and about so we'll be a bit quieter on social media over summer](/uploads/website.png)
+
 During July and August, you might notice that we’ll be a bit quieter than usual on our Zero Waste Leeds [Facebook](https://www.facebook.com/zerowasteleeds), [Instagram](https://www.instagram.com/zerowasteleeds/) and [Twitter](https://twitter.com/ZeroWasteLeeds) accounts.
 
 We love the community that has built up around Zero Waste Leeds since we set it up, with nothing more than a Facebook page, in 2018.
 
 We’ve built up a really-engaged, local community of over 25,000 followers across our social media, exploring ways that we can all waste less in our everyday lives.
+
+
 
 We’ve shared thousands of posts over that time, with loads of top tips on things like clothing, food waste and recycling.  And we’ve also run campaigns on all sorts of themes - including how to cut down on waste whilst we were all at home during lockdown, alongside campaigns on topics such as glass recycling & sustainable fashion.
 
@@ -22,8 +28,6 @@ Our place-based work, which makes local connections and which makes the circular
 However, we’re reaching a stage where we can’t do that any more.  Creating engaging social media posts takes time and money.  And responding to people’s queries on anything and everything to do with waste reduction, is time-consuming.  
 
 We LOVE that people contact us with just about every question you could ever imagine about recycling, reuse, repair and more!  But we are finding it hard to fund that work.
-
-![We're out and about so we'll be a bit quieter on social media over summer](/uploads/website.png)
 
 So over July and August we’re going to take a bit of a step back on social media.  
 
@@ -42,3 +46,9 @@ So we’re hopeful this is a pause, not a full stop.  And we’ll keep you upda
 And finally, thank you to all of you who are part of Zero Waste Leeds - sharing your enthusiasm, ideas and, of course, your stuff.  We think we’ve done some great things together and we are hopeful that we can continue to do that.    
 
 In the meantime, please check our [useful links](https://www.zerowasteleeds.org.uk/pages/thank-you-for-getting-in-touch-here-are-some-useful-links-to-more-info/) page which may help to answer some of your queries. You could also join - and ask a question on - the [Leeds Zero Waste Living](https://www.facebook.com/groups/495949467411600) Facebook group.
+
+
+
+
+
+![](/uploads/copy-of-facebook-cover-2-.png)
