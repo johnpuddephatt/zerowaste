@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="393.68" height="394.85" viewBox="0 0 393.68 394.85">
+    <defs>
+        <clipPath id="prefix__clip-path" transform="translate(-258.56 -384.02)">
+            <circle cx="469.13" cy="577.55" r="170.64" fill="none"/>
+        </clipPath>
+        <style>
+            .prefix__cls-13{fill:none;stroke:#fff}.prefix__cls-11,.prefix__cls-7,.prefix__cls-8{fill:#1d1d1b}.prefix__cls-11,.prefix__cls-7{stroke:#1d1d1b}.prefix__cls-11,.prefix__cls-13,.prefix__cls-7{stroke-miterlimit:10}.prefix__cls-7{stroke-width:.95px}.prefix__cls-11{stroke-width:1.15px}.prefix__cls-13{stroke-width:2.99px}
+        </style>
+    </defs>
+    <g style="isolation:isolate">
+        <g id="prefix__Layer_1" data-name="Layer 1">
+            <g clip-path="url(#prefix__clip-path)">
+                <circle cx="210.56" cy="193.53" r="170.64" fill="#4e98cb"/>
+                <path d="M128.93 393.98s203.72-52.2 169.38-169.75-228.68-37.92-228.68-37.92-39.19 12.18-64.19-38.62C-22.97 89.8 85.63-5.62 189.15 67.26S392.78.87 392.78.87" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.74" stroke-dasharray="10.46" stroke="#fff" fill="none"/>
+            </g>
+            <path d="M379.51 221.87l13.44 3s-11.08 28.11-21.81 31.84l-8.92-10.5z" stroke-width=".84" stroke-miterlimit="10" stroke="#1d1d1b" fill="#1d1d1b"/>
+            <path class="prefix__cls-7" d="M491 489.47l6.79-12.47s46.41-13.54 60.7 29.27c0 0 39.65-1.06 46.66 49.61 0 0 45.21 6.49 34.1 52.23 0 0 1.58 5.51-16.59 24.11a21.67 21.67 0 01-17.29 6.45c-16-1.3-45.23-7.9-51.25-38.3 0 0-35.25-21.68-30.5-51.47l-32.31-57.12M318.75 642.7L306 651s22.29 24.85 34.82 24.55l5.2-14.31z" transform="translate(-258.56 -384.02)"/>
+            <path class="prefix__cls-7" d="M427.58 496.49l-9.19-10.37s-47.14-2.56-51.22 41.32c0 0-37.95 7.8-33.36 57.54 0 0-41.55 16.21-20.83 57.24 0 0-.28 5.59 21.13 19.24a21.18 21.18 0 0017.87 2.3C366.9 659 393.24 646.2 392.22 616c0 0 28.71-28.44 17.57-55.72l18-61.49" transform="translate(-258.56 -384.02)"/>
+            <path class="prefix__cls-8" d="M410.61 525s-30.08 17.74-9.31 53.43c0 0-28.36 22.3 1.93 58.08 0 0-20.19 10.65-14.32 40.91s31.83 28.46 31.83 28.46 42.95 1 63.68-5l-22.86-198.37-48.23-15.86z" transform="translate(-258.56 -384.02)"/>
+            <path class="prefix__cls-8" d="M514 513.13s33.33 10.44 21.22 49.91c0 0 32.69 15.27 11.33 57 0 0 22.08 5.79 23.25 36.59 1.07 28.23-20.44 34.07-24 34.85l-1.21.28c-5.54 1.39-42.54 10.48-62.43 9.47l-22.87-198.45 43.36-26.42z" transform="translate(-258.56 -384.02)"/>
+            <path d="M567.24 641.83c.24 1.79.41 3.67.49 5.67 1.07 28.23-20.44 34.07-24 34.85l-1.21.28c-5.44 1.37-42.66 16.66-61.33-1-18.4 20.85-62.51 15.13-62.51 15.13s-22.34 1.53-30.25-22.41c.14 1 .31 2 .51 3.07 5.86 30.26 31.83 28.46 31.83 28.46s41.48 1 62.59-4.66c20.14.61 55.81-8.14 61.25-9.51l1.21-.28c3.59-.78 25.1-6.62 24-34.85a51.69 51.69 0 00-2.58-14.75z" transform="translate(-258.56 -384.02)" fill="#715e7e" opacity=".15"/>
+            <path class="prefix__cls-11" d="M400.2 493.57s-9.25-31.46 0-34.55 42.57-4.62 49.66 6.17 21 33.93 8 41.64-57.66-13.26-57.66-13.26z" transform="translate(-258.56 -384.02)"/>
+            <path class="prefix__cls-11" d="M517.56 482.72s3.91-32.56-5.72-34.07-42.74 2.49-47.95 14.35-15.07 36.93-1 42.39 54.67-22.67 54.67-22.67z" transform="translate(-258.56 -384.02)"/>
+            <circle cx="201.94" cy="118.35" r="8.71" stroke-width="2.65" stroke-miterlimit="10" stroke="#fff" fill="none"/>
+            <path class="prefix__cls-13" d="M410.61 525S462.3 552.7 514 513.13M397.71 578s65.92 20.71 143.29-16.63M403.23 636.55s66 20.82 143.34-16.52" transform="translate(-258.56 -384.02)"/>
+            <path class="prefix__cls-13" d="M201.94 127.06l22.82 190.18"/>
+        </g>
+    </g>
+</svg>

@@ -385,6 +385,12 @@ collections:
               widget: "text",
               required: false,
             }
+      - label: Frequently asked questions
+        name: faqs
+        widget: object
+        fields:
+          - { label: "Summary", name: "summary", widget: "string" }
+          - { label: "Details", name: "details", widget: "markdown" }
       - label: Facts
         name: facts
         widget: list

@@ -3,6 +3,7 @@ layout: /layouts/base.njk
 ---
 {% set related_posts_count = collections[posts.tag] | length %}
 {% set number_of_facts = facts | length %}
+{% set number_of_faqs = faqs | length %}
 
 <style>
   {% if color %}
@@ -36,6 +37,9 @@ layout: /layouts/base.njk
         {% endif %}
         {% if posts.tag and related_posts_count %}
           <li><a href="#related-posts">{{ posts.title or "Latest posts" }}</a></li>
+        {% endif %}
+        {% if number_of_faqs %}
+        <li><a href="#frequently-asked-questions">Frequently asked questions</a></li>
         {% endif %}
         {% if videos.playlist %}
           <li><a href="#project-videos">{{ videos.title or "Videos" }}</a></li>
@@ -110,6 +114,23 @@ layout: /layouts/base.njk
     </div>
   </section>
 {% endif %}
+{% endif %}
+
+{% if number_of_faqs %}
+  <section class="container projects--faqs" id="frequently-asked-questions">
+  <div class="projects--faqs--container">
+    <h2 class="section-title">Frequently asked questions</h2>
+    <p class="section-subtitle">Everything you need to know</p>
+    {% for faq in faqs %}
+      <details>
+      <summary>{{ faq.summary }}</summary>
+      <div>
+      {{ faq.details | markdownify | safe}}
+      </div>
+      </details>
+    {% endfor %}
+    </div>
+  </section>
 {% endif %}
 
 {% if videos.playlist %}

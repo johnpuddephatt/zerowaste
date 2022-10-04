@@ -30,7 +30,7 @@ body[class*="projects-"] {
 
     &--text {
       position: relative;
-      flex: 0 0 50%;
+      flex: 0 0 55%;
     }
 
     &--image {
@@ -173,6 +173,13 @@ body[class*="projects-"] {
       &__button {
         margin-top: $base-spacing;
       }
+    }
+  }
+
+  &--faqs {
+    &--container {
+      margin-top: 3 * $base-spacing;
+      margin-bottom: 3 * $base-spacing;
     }
   }
 

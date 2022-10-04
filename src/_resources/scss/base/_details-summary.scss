@@ -1,0 +1,17 @@
+details {
+  border-radius: $base-border-radius;
+  border: 2px solid black;
+  padding: 1rem;
+  margin-bottom: 0.75rem;
+
+  div {
+    margin-top: 1.25rem;
+    margin-left: 1.25rem;
+  }
+}
+
+summary {
+  cursor: pointer;
+  font-weight: 500;
+  font-size: modular-scale(1);
+}
