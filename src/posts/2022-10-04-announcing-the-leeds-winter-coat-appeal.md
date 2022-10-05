@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Announcing the Leeds Winter Coat Appeal
 date: 2022-10-04T14:11:40.113Z
 tags: coats
-image: /uploads/screenshot-2022-10-05-at-14.05.48.jpg
+image: /uploads/the-nix-company-4hmj9gkym6c-unsplash.jpg
 ---
 
 We're launching the Leeds Winter Coat Appeal again this year. Starting in October we aim to collect 2000 coats that we'll sort and redistribute to those that need them most in the city.
