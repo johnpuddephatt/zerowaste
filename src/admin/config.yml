@@ -221,7 +221,7 @@ collections:
   - name: "tips"
     label: "Tips"
     folder: "src/tips"
-    summary: "[{{tags}}] {{title}}  ({{day}}.{{month}}.{{year}})"
+    summary: "[{{tags | join(', ') }}] {{title}}  ({{day}}.{{month}}.{{year}})"
     preview_path: tips/{{slug}}
     create: true
     editor:

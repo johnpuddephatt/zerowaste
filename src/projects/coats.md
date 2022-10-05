@@ -1,13 +1,22 @@
 ---
 color: "#6196c6"
 title: "**Leeds** *Winter* coat **appeal**"
-subtitle: TBC
+subtitle: The Leeds Winter Coat Appeal aims to collect and redistribute great quality, second-hand winter coats to people across Leeds for free, helping to save money and reduce waste.
 intro:
   - title: What we’re doing
     content: >-
-      TBC
+      Last year we ran a small but successful winter coat donation and distribution campaign giving out 500 good quality, second hand coats for children - for free. This year has seen demand go through the roof. 
+
+      We’ve set up Leeds Winter Coat Appeal to make it easy for people across Leeds to donate, share and collect good quality second hand winter coats. We aim to collect and distribute 2000 coats this winter and need your help.
+
+      [Find your nearest donation point here](#map)
+
   - title: Why we’re doing it
-    content: TBC
+    content: >-
+      Leeds is a generous city, people are willing to share what they have. Last summer we distributed over 12,000 items of second hand, donated school uniform to over 1,000 families, saving them over £200,000 - which they can then spend on other essentials. Now we want to do the same with coats, hats, scarves and gloves. 
+
+      By redistributing winter coats across the city we will help to ensure that fewer people in Leeds go without a coat this winter. We will also help to ensure that we reduce waste by encouraging people to share the coats they no longer use rather than throwing them away - it makes sense and is good for the environment.
+
 posts:
   title: Updates
   subtitle: Our latest posts about the winter coat appeal
