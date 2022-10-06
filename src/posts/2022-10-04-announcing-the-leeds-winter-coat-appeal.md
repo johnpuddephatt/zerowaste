@@ -22,7 +22,7 @@ Donating coats will also help to reduce clothing waste. Too many items of clothi
 
 ## How can you get involved?
 
-The appeal will launch on October 10th and it will run until November 14th. During that time, you will be able to donate your unwanted coats (and gloves, hats and scarfs) at the following donation points located across the city
+The appeal will launch on October 10th and it will run until November 14th. During that time, you will be able to donate your unwanted coats (and gloves, hats and scarfs) at the following donation points located across the city -
 
 * Holt Park Leisure Centre, Holtdale Approach, Leeds LS16 7RX
 * Wetherby Leisure Centre, Lodge Lane, Wetherby LS22 5FN
@@ -32,6 +32,8 @@ The appeal will launch on October 10th and it will run until November 14th. Duri
 * Morrisons Rothwell, 1 Jail Yard Parade, Rothwell, LS26 0QJ
 * LS14 Trust, 45 Ramshead Hill, LS14 1BT
 * Welcome In Community Centre, 55 Bedford Drive, LS16 6D
+
+Y﻿ou can find your nearest donation point on [our map here](https://www.zerowasteleeds.org.uk/projects/leeds-winter-coat-appeal/#map).
 
 In addition to donating your coats, you can help us to raise awareness about the appeal with your friends, colleagues and neighbours. Look our for posts about the appeal on social media ([Twitter](https://twitter.com/ZeroWasteLeeds), [Instagram](https://www.instagram.com/zerowasteleeds/) and [Facebook](https://www.facebook.com/zerowasteleeds)).
 
