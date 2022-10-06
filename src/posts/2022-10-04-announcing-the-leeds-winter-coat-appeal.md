@@ -31,6 +31,7 @@ The appeal will launch on October 10th and it will run until November 13th. Duri
 * Morrisons Rothwell, 1 Jail Yard Parade, Rothwell, LS26 0QJ
 * LS14 Trust, 45 Ramshead Hill, LS14 1BT
 * Welcome In Community Centre, 55 Bedford Drive, LS16 6D
+* BiTMO (Belle Isle Tenant Management Organisation Ltd),Aberfield Gate, Belle Isle, LS10 3QH
 
 Y﻿ou can find your nearest donation point on [our map here](https://www.zerowasteleeds.org.uk/projects/leeds-winter-coat-appeal/#map).
 
