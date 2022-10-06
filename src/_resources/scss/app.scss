@@ -25,11 +25,14 @@
 //   text-transform: none !important;
 // }
 
-.overlay {
+.relative {
   position: relative;
+}
+
+.overlay {
+  position: absolute;
   width: 100%;
   height: 85vh;
-  top: 85vh;
-  margin-top: -85vh;
+  top: 0;
   z-index: 1;
 }
