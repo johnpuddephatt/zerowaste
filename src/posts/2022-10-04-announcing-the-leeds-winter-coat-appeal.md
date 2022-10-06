@@ -22,9 +22,8 @@ Donating coats will also help to reduce clothing waste. Too many items of clothi
 
 ## How can you get involved?
 
-The appeal will launch on October 10th and it will run until November 14th. During that time, you will be able to donate your unwanted coats (and gloves, hats and scarfs) at the following donation points located across the city -
+The appeal will launch on October 10th and it will run until November 13th. During that time, you will be able to donate your unwanted coats (and gloves, hats and scarfs) at the following donation points located across the city -Holt Park Leisure Centre, Holtdale Approach, Leeds LS16 7RX
 
-* Holt Park Leisure Centre, Holtdale Approach, Leeds LS16 7RX
 * Wetherby Leisure Centre, Lodge Lane, Wetherby LS22 5FN
 * Garforth Leisure Centre, Ninelands Lane, Garforth LS25 1NX
 * Morley Leisure Centre, Queensway, LS27 9JP
@@ -32,11 +31,12 @@ The appeal will launch on October 10th and it will run until November 14th. Duri
 * Morrisons Rothwell, 1 Jail Yard Parade, Rothwell, LS26 0QJ
 * LS14 Trust, 45 Ramshead Hill, LS14 1BT
 * Welcome In Community Centre, 55 Bedford Drive, LS16 6D
+* BiTMO (Belle Isle Tenant Management Organisation Ltd),Aberfield Gate, Belle Isle, LS10 3QH
 
 Y﻿ou can find your nearest donation point on [our map here](https://www.zerowasteleeds.org.uk/projects/leeds-winter-coat-appeal/#map).
 
-In addition to donating your coats, you can help us to raise awareness about the appeal with your friends, colleagues and neighbours. Look our for posts about the appeal on social media ([Twitter](https://twitter.com/ZeroWasteLeeds), [Instagram](https://www.instagram.com/zerowasteleeds/) and [Facebook](https://www.facebook.com/zerowasteleeds)).
+In addition to donating your coats, you can help us to raise awareness about the appeal with your friends, colleagues and neighbours. Look out for posts about the appeal on social media ([Twitter](https://twitter.com/ZeroWasteLeeds), [Instagram](https://www.instagram.com/zerowasteleeds/) and [Facebook](https://www.facebook.com/zerowasteleeds)).
 
-We will be encouraging businesses in Leeds to collect coats. if you work in Leeds and think your workplace might like to get involved, get in touch with us.
+We are also working with businesses in Leeds who are collecting coats from their employees on our behalf. 
 
 If you have any other questions about the appeal, or have an idea for how to spread the word, please get in touch with our team - info@zerowasteleeds.org.uk
