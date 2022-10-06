@@ -7,11 +7,6 @@
     "title": "Join our movement",
     "description": "Every step of our journey we’re uncovering more people in Leeds who are curious, serious or passionate about reducing their waste. If you’re one of those people, join us."
   },
-  "projects": [
-    "**Together** *for sport*",
-    "**School** *uniform* exchange",
-    "**Zero** *waste* clothing"
-  ],
   "intro": {
     "title": "Our projects",
     "subtitle": "What we’re currently working on",
@@ -46,6 +41,11 @@
     "title": "Our top tips",
     "subtitle": "Ways to start reducing your waste"
   },
+  "projects": [
+    "**Leeds** *Winter* coat **appeal**",
+    "**Together** *for sport*",
+    "**School** *uniform* exchange"
+  ],
   "hero": {
     "link_text": "",
     "link_url": ""
