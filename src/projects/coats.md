@@ -41,6 +41,11 @@ faqs:
       See the map on this page to find your nearest donation point. Full details of donation points are also listed below:
 
 
+      **BITMO (Belle Isle Tenant Management Organisation), BITMOs GATE, Aberfield Gate, Belle Isle, Leeds, LS10 3QH**
+
+      Opening Hours: Mon, Tue  & Fri 9am-12pm & 1pm-4pm, Wed 9am-12pm, Thur 9am-12pm & 1pm-6:30pm
+
+
       **Holt Park Leisure Centre, Holtdale Approach, Leeds LS16 7RX**
 
       Opening Hours: Mon, Tue & Thur 7am-10pm, Wed & Fri 7am-9:30pm, Sat 8am-6pm, Sun 8am-8pm
