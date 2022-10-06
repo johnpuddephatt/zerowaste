@@ -32,9 +32,9 @@ The appeal will launch on October 10th and it will run until November 14th. Duri
 * LS14 Trust, 45 Ramshead Hill, LS14 1BT
 * Welcome In Community Centre, 55 Bedford Drive, LS16 6D
 
-![](/uploads/donation-point-map.png "Click on the Google map above to see the donation points.")
+![](/uploads/donation-point-map.png)
 
-***Click on the Google map above to see the donation points.*** 
+***Click on [Google map](https://goo.gl/maps/RSUch1irNRYMtQ7w7) above to see the donation points.*** 
 
 In addition to donating your coats, you can help us to raise awareness about the appeal with your friends, colleagues and neighbours. Look our for posts about the appeal on social media (Twitter, Instagram and Facebook). 
 
