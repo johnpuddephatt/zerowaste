@@ -5,7 +5,6 @@ date: 2022-10-04T14:11:40.113Z
 tags: coats
 image: /uploads/the-nix-company-4hmj9gkym6c-unsplash.jpg
 ---
-
 We're launching the Leeds Winter Coat Appeal again this year. Starting in October we aim to collect 2000 coats that we'll sort and redistribute to those that need them most in the city.
 
 ## Why are we launching this appeal?
@@ -23,18 +22,20 @@ Donating coats will also help to reduce clothing waste. Too many items of clothi
 
 ## How can you get involved?
 
-The appeal will launch on October 10th and it will run until November 14th. During that period, you will be able to donate your unwanted coats (and gloves, hats and scarfs) at our donation points, of which there are 5 located across the city:
+The appeal will launch on October 10th and it will run until November 14th. During that time, you will be able to donate your unwanted coats (and gloves, hats and scarfs) at the following donation points located across the city -
 
-- Holt Park Leisure Centre, Holtdale Approach, Leeds LS16 7RX
-- Wetherby Leisure Centre, Lodge Lane, Wetherby LS22 5FN
-- Garforth Leisure Centre, Ninelands Lane, Garforth LS25 1NX
-- Morley Leisure Centre, Queensway, LS27 9JP
-- Cottingley Children’s Centre, Cottingley Drive, LS110JP
-- Morrisons Rothwell, 1 Jail Yard Parade, Rothwell, LS26 0QJ
-- LS14 Trust, 45 Ramshead Hill, LS14 1BT
-- Welcome In Community Centre, 55 Bedford Drive, LS16 6D
+* Holt Park Leisure Centre, Holtdale Approach, Leeds LS16 7RX
+* Wetherby Leisure Centre, Lodge Lane, Wetherby LS22 5FN
+* Garforth Leisure Centre, Ninelands Lane, Garforth LS25 1NX
+* Morley Leisure Centre, Queensway, LS27 9JP
+* Cottingley Children’s Centre, Cottingley Drive, LS110JP
+* Morrisons Rothwell, 1 Jail Yard Parade, Rothwell, LS26 0QJ
+* LS14 Trust, 45 Ramshead Hill, LS14 1BT
+* Welcome In Community Centre, 55 Bedford Drive, LS16 6D
 
-In addition to donating your coats, you can help us to raise awareness about the appeal with your friends, colleagues and neighbours. Look our for posts about the appeal on social media (Twitter, Instagram and Facebook).
+Y﻿ou can find your nearest donation point on [our map here](https://www.zerowasteleeds.org.uk/projects/leeds-winter-coat-appeal/#map).
+
+In addition to donating your coats, you can help us to raise awareness about the appeal with your friends, colleagues and neighbours. Look our for posts about the appeal on social media ([Twitter](https://twitter.com/ZeroWasteLeeds), [Instagram](https://www.instagram.com/zerowasteleeds/) and [Facebook](https://www.facebook.com/zerowasteleeds)).
 
 We will be encouraging businesses in Leeds to collect coats. if you work in Leeds and think your workplace might like to get involved, get in touch with us.
 
