@@ -16,7 +16,11 @@ intro:
       Leeds is a generous city, people are willing to share what they have. Last summer we distributed over 12,000 items of second hand, donated school uniform to over 1,000 families, saving them over £200,000 - which they can then spend on other essentials. Now we want to do the same with coats, hats, scarves and gloves. 
 
       By redistributing winter coats across the city we will help to ensure that fewer people in Leeds go without a coat this winter. We will also help to ensure that we reduce waste by encouraging people to share the coats they no longer use rather than throwing them away - it makes sense and is good for the environment.
-
+map:
+  title: Map of donation points
+  iframe: >
+    <div class="overlay" onclick="style.pointerEvents='none'"></div>
+    <iframe scrolling="false" style="height: 85vh; width: 100%;" src="https://www.google.com/maps/d/embed?mid=1Mw7Fpa8vpSB69LFngB_Ogqf0O9qpv-o&ehbc=2E312F" width="640" height="480"></iframe>
 posts:
   title: Updates
   subtitle: Our latest posts about the winter coat appeal

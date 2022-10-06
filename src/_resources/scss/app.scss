@@ -24,3 +24,12 @@
 //   font-family: Mukta !important;
 //   text-transform: none !important;
 // }
+
+.overlay {
+  position: relative;
+  width: 100%;
+  height: 85vh;
+  top: 85vh;
+  margin-top: -85vh;
+  z-index: 1;
+}
