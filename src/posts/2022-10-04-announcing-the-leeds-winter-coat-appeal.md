@@ -35,8 +35,8 @@ The appeal will launch on October 10th and it will run until November 13th. Duri
 
 Y﻿ou can find your nearest donation point on [our map here](https://www.zerowasteleeds.org.uk/projects/leeds-winter-coat-appeal/#map).
 
-In addition to donating your coats, you can help us to raise awareness about the appeal with your friends, colleagues and neighbours. Look our for posts about the appeal on social media ([Twitter](https://twitter.com/ZeroWasteLeeds), [Instagram](https://www.instagram.com/zerowasteleeds/) and [Facebook](https://www.facebook.com/zerowasteleeds)).
+In addition to donating your coats, you can help us to raise awareness about the appeal with your friends, colleagues and neighbours. Look out for posts about the appeal on social media ([Twitter](https://twitter.com/ZeroWasteLeeds), [Instagram](https://www.instagram.com/zerowasteleeds/) and [Facebook](https://www.facebook.com/zerowasteleeds)).
 
-We will be encouraging businesses in Leeds to collect coats. if you work in Leeds and think your workplace might like to get involved, get in touch with us.
+We are also working with businesses in Leeds who are collecting coats from their employees on our behalf. 
 
 If you have any other questions about the appeal, or have an idea for how to spread the word, please get in touch with our team - info@zerowasteleeds.org.uk
