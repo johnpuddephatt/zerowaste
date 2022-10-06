@@ -22,9 +22,8 @@ Donating coats will also help to reduce clothing waste. Too many items of clothi
 
 ## How can you get involved?
 
-The appeal will launch on October 10th and it will run until November 14th. During that time, you will be able to donate your unwanted coats (and gloves, hats and scarfs) at the following donation points located across the city -
+The appeal will launch on October 10th and it will run until November 13th. During that time, you will be able to donate your unwanted coats (and gloves, hats and scarfs) at the following donation points located across the city -Holt Park Leisure Centre, Holtdale Approach, Leeds LS16 7RX
 
-* Holt Park Leisure Centre, Holtdale Approach, Leeds LS16 7RX
 * Wetherby Leisure Centre, Lodge Lane, Wetherby LS22 5FN
 * Garforth Leisure Centre, Ninelands Lane, Garforth LS25 1NX
 * Morley Leisure Centre, Queensway, LS27 9JP
