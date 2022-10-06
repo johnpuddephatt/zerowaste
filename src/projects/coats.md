@@ -105,10 +105,7 @@ faqs:
       No, we are not in a position to accept sleeping bags.
   - summary: What happens to the coats once they have been donated?
     details: >-
-      All coats will be collected, sorted and redistributed to our collection points.
-  - summary: What happens to the coats once they have been donated?
-    details: >-
-      All coats will be collected, sorted and redistributed to our collection points.
+      All coats will be collected, sorted and redistributed to our collection points. From there they will be passed onto people who need them to help keep them warm this winter.
   - summary: Where can I get a coat?
     details: >-
       **St Vincent’s Centre, 4 Berking Avenue, Leeds LS9 9LF**
