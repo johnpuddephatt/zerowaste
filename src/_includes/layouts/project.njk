@@ -35,12 +35,13 @@ layout: /layouts/base.njk
         {% if map.iframe %}
           <li><a href="#map">{{ map.title or "Map" }}</a></li>
         {% endif %}
-        {% if posts.tag and related_posts_count %}
-          <li><a href="#related-posts">{{ posts.title or "Latest posts" }}</a></li>
-        {% endif %}
         {% if number_of_faqs %}
         <li><a href="#frequently-asked-questions">Frequently asked questions</a></li>
         {% endif %}
+        {% if posts.tag and related_posts_count %}
+          <li><a href="#related-posts">{{ posts.title or "Latest posts" }}</a></li>
+        {% endif %}
+        
         {% if videos.playlist %}
           <li><a href="#project-videos">{{ videos.title or "Videos" }}</a></li>
         {% endif %}
@@ -77,6 +78,24 @@ layout: /layouts/base.njk
     {{ map.iframe | safe }}
   </section>
 {% endif %}
+{% if number_of_faqs %}
+  <section class="container projects--faqs" id="frequently-asked-questions">
+  <div class="projects--faqs--container">
+    <h2 class="section-title">Frequently asked questions</h2>
+    <p class="section-subtitle">Everything you need to know</p>
+    {% for faq in faqs %}
+      <details>
+      <summary>{{ faq.summary }}</summary>
+      <div>
+      {{ faq.details | markdownify | safe}}
+      </div>
+      </details>
+    {% endfor %}
+    </div>
+  </section>
+{% endif %}
+
+
 {% if posts.tag and related_posts_count %}
   <section class="section__home-pipeline" id="related-posts">
 
@@ -114,23 +133,6 @@ layout: /layouts/base.njk
     </div>
   </section>
 {% endif %}
-{% endif %}
-
-{% if number_of_faqs %}
-  <section class="container projects--faqs" id="frequently-asked-questions">
-  <div class="projects--faqs--container">
-    <h2 class="section-title">Frequently asked questions</h2>
-    <p class="section-subtitle">Everything you need to know</p>
-    {% for faq in faqs %}
-      <details>
-      <summary>{{ faq.summary }}</summary>
-      <div>
-      {{ faq.details | markdownify | safe}}
-      </div>
-      </details>
-    {% endfor %}
-    </div>
-  </section>
 {% endif %}
 
 {% if videos.playlist %}

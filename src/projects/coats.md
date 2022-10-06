@@ -97,40 +97,12 @@ faqs:
   - summary: Do you accept hats, scarves and gloves?
     details: >-
       Yes. They must be clean and in good condition and the gloves should be folded into pairs.
-  - summary: Do you accept blankets?
-    details: >-
-      Yes. They must be clean and in good condition.
-  - summary: Do you accept sleeping bags?
-    details: >-
-      No, we are not in a position to accept sleeping bags.
   - summary: What happens to the coats once they have been donated?
     details: >-
-      All coats will be collected, sorted and redistributed to our collection points. From there they will be passed onto people who need them to help keep them warm this winter.
-  - summary: Where can I get a coat?
+      All coats will be collected, sorted and redistributed to a number of community groups across the city. From there they will be passed onto people who need them to stay warm this winter.
+  - summary: Where and when can I get a coat?'
     details: >-
-      **St Vincent’s Centre, 4 Berking Avenue, Leeds LS9 9LF**
-
-      Opening Hours: TBC
-
-
-      **Cottingley Children’s Centre, Cottingley Drive, LS11 0JP**
-
-      Opening Hours: Wed & Thurs 8:30am-4pm
-
-
-      **LS14 Trust, 45 Ramshead Hill, LS14 1BT**
-
-      Opening Hours: TBC
-
-
-      **Welcome In Community Centre, 55 Bedford Drive, LS16 6DJ**
-
-      Opening Hours: TBC
-
-
-      **LS26 Community Food Bank, Blackburn Hall, Commercial Street, Leeds, LS26 0AW**
-
-      Opening Hours: Every Wednesday 10.30am – 12pm and 3 – 5pm
+      We're working with a number of community groups in the city who are in the process of finalising the details for coat collections. We expect coats to be available from mid to late November.
   - summary: Do I have to pay for the coat?
     details: >-
       No, all coats in the appeal are free.
