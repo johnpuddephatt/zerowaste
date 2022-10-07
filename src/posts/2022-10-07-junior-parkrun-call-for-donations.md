@@ -15,6 +15,4 @@ There will be a collection points at the following 6 Junior Park Run events acro
 ![](/uploads/all-events-square-format-instagram-etc.-1-.png)
 
 \
-Please make sure that any donations are washed, clean and bagged before donating.  We’d also love you to tell all your friends about it.  
-
-T﻿o find out more, follow us on [Facebook](www.facebook.com/ZeroWasteLeeds), [Twitter](www.twitter.com/ZeroWasteLeeds) or [Instagram](www.Instagram.com/ZeroWasteLeeds).
+Please make sure that any donations are washed, clean and bagged before donating.  We’d also love you to tell all your friends about it so please share our posts on [Facebook](www.facebook.com/ZeroWasteLeeds), [Twitter](www.twitter.com/ZeroWasteLeeds) and [Instagram](www.Instagram.com/ZeroWasteLeeds).
