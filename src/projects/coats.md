@@ -105,7 +105,7 @@ faqs:
       We're working with a number of community groups in the city who are in the process of finalising the details for coat collections. We expect coats to be available from mid to late November.
   - summary: Do I have to pay for the coat?
     details: >-
-      No, all coats in the appeal are free.
+      People across Leeds have generously donated all these coats for free and so we will be offering them for free. 
 
 custom_css: >
   .projects--header::before {
