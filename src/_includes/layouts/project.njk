@@ -78,6 +78,7 @@ layout: /layouts/base.njk
     {{ map.iframe | safe }}
   </section>
 {% endif %}
+
 {% if number_of_faqs %}
   <section class="container projects--faqs" id="frequently-asked-questions">
   <div class="projects--faqs--container">
@@ -93,6 +94,17 @@ layout: /layouts/base.njk
     {% endfor %}
     </div>
   </section>
+  {% if number_of_facts >= 2 %}
+  <section class="projects__fact">
+    <div class="container projects__fact__container">
+      <img class="projects__fact__image" src="{{ facts[1].image }}">
+      <div class="projects__fact__text">
+        <h2 class="projects__fact__title section-title">{{ facts[1].title | markdowninline | safe }}</h2>
+        {{ facts[1].description | markdownify | safe}}
+      </div>
+    </div>
+  </section>
+{% endif %}
 {% endif %}
 
 
@@ -122,17 +134,8 @@ layout: /layouts/base.njk
       <a href="/tag/{{ posts.tag }}/" class="button_alt button_alt__large">See more of our thinking</a>
     </div>
   </section>
-{% if number_of_facts >= 2 %}
-  <section class="projects__fact">
-    <div class="container projects__fact__container">
-      <img class="projects__fact__image" src="{{ facts[1].image }}">
-      <div class="projects__fact__text">
-        <h2 class="projects__fact__title section-title">{{ facts[1].title | markdowninline | safe }}</h2>
-        {{ facts[1].description | markdownify | safe}}
-      </div>
-    </div>
-  </section>
-{% endif %}
+
+
 {% endif %}
 
 {% if videos.playlist %}
