@@ -77,6 +77,17 @@ layout: /layouts/base.njk
   <section id="map" class="relative">
     {{ map.iframe | safe }}
   </section>
+   {% if number_of_facts >= 2 %}
+  <section class="projects__fact">
+    <div class="container projects__fact__container">
+      <img class="projects__fact__image" src="{{ facts[1].image }}">
+      <div class="projects__fact__text">
+        <h2 class="projects__fact__title section-title">{{ facts[1].title | markdowninline | safe }}</h2>
+        {{ facts[1].description | markdownify | safe}}
+      </div>
+    </div>
+  </section>
+{% endif %}
 {% endif %}
 
 {% if number_of_faqs %}
@@ -94,17 +105,7 @@ layout: /layouts/base.njk
     {% endfor %}
     </div>
   </section>
-  {% if number_of_facts >= 2 %}
-  <section class="projects__fact">
-    <div class="container projects__fact__container">
-      <img class="projects__fact__image" src="{{ facts[1].image }}">
-      <div class="projects__fact__text">
-        <h2 class="projects__fact__title section-title">{{ facts[1].title | markdowninline | safe }}</h2>
-        {{ facts[1].description | markdownify | safe}}
-      </div>
-    </div>
-  </section>
-{% endif %}
+ 
 {% endif %}
 
 
