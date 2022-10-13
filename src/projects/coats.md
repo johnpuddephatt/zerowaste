@@ -73,7 +73,12 @@ faqs:
 
       **LS14 Trust, 45 Ramshead Hill, LS14 1BT**
 
-      Opening Hours: tbc
+      Opening Hours: Mon - Thurs 9am-4pm
+
+
+      **Reduce, Reuse Kids Clothes - Pudsey Community Project, Fartown, Pudsey, LS28 8LT**
+
+      Opening Hours:   Mon-Sat 10am-12noon and Wed 6-8pm 
 
 
       **Cottingley Children’s Centre, Cottingley Drive, LS11 0JP**
