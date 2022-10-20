@@ -78,7 +78,7 @@ faqs:
 
       **Reduce, Reuse Kids Clothes - Pudsey Community Project, Fartown, Pudsey, LS28 8LT**
 
-      Opening Hours:   Mon-Sat 10am-12noon and Wed 6-8pm 
+      Opening Hours:  Mon-Sat 10am-12noon and Wed 6-8pm 
 
 
       **Cottingley Children’s Centre, Cottingley Drive, LS11 0JP**
@@ -89,6 +89,30 @@ faqs:
       **Welcome In Community Centre, 55 Bedford Drive, LS16 6DJ**
 
       Opening Hours: Wed - Fri 9am-4pm
+
+      **Holt Park Health Centre, Ground Floor, Holt Road,LS16 7QD**
+
+      Opening Hours: Mon - Thurs 8:30AM - 5:00PM, Fri 8:30AM - 4:30pm
+
+
+      **Middleton Community Health Centre, Middleton Park Avenue, LS10 4HT**
+
+      Opening Hours: Mon - Thurs 8:30AM - 5:00PM, Fri 8:30AM - 4:30pm
+
+
+      **Armley Moor Health Centre 95 Town Street, LS12 3HD**
+
+      Opening Hours: Mon - Thurs 8:30AM - 5:00PM, Fri 8:30AM - 4:30pm
+
+
+      **Wetherby Health Centre Hallfield Lane, LS22 6JT**
+
+      Opening Hours:  Mon - Thurs 8:30AM - 5:00PM, Fri 8:30AM - 4:30pm 
+
+
+      **Halton Clinic,  2 Primrose Lane, LS15 7HR**
+
+      Opening Hours:  Mon - Thurs 8:30AM - 5:00PM, Fri 8:30AM - 4:30pm  
 
   - summary: What types of coats are you collecting?
     details: >-
