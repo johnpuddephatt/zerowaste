@@ -112,7 +112,12 @@ faqs:
 
       **Halton Clinic,  2 Primrose Lane, LS15 7HR**
 
-      Opening Hours:  Mon - Thurs 8:30AM - 5:00PM, Fri 8:30AM - 4:30pm  
+      Opening Hours:  Mon - Thurs 8:30AM - 5:00PM, Fri 8:30AM - 4:30pm
+
+
+      **Aireborough Leisure Centre, The Green Guiseley LS20 9BT**
+
+      Opening Hours: Mon, Tue & Thurs 6:30AM - 9:30PM, Wed 6:30AM - 9:45PM, Fri 6:30AM - 9:00PM, Sat 8:00AM - 5:30PM, Sun 7:45AM - 8:00PM 
 
   - summary: What types of coats are you collecting?
     details: >-
