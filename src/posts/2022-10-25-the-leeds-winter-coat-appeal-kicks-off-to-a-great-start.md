@@ -5,7 +5,7 @@ date: 2022-10-25T14:09:51.115Z
 tags: coats
 image: /uploads/screenshot-2022-10-25-at-15.18.21.jpg
 ---
-The 2022 Leeds Winter Coat Appeal launched just two weeks ago and already hundreds of coats have been donated by people across the city. Thank you! 
+The 2022 Leeds Winter Coat Appeal launched just over two weeks ago and already hundreds of coats have been donated by people across the city. Thank you! 
 
 The cost of living crisis is taking its toll on people across Leeds and we are incredibly grateful to everyone who has dug deep into the back of their wardrobe and donated a coat. \
 \
