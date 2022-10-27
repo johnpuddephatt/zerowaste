@@ -38,14 +38,13 @@ The Leeds Winter Coat Appeal would not be possible without the support of organi
 > Mott MacDonald\
 > NG Bailey\
 > Northern Estate Agency Group - Manning Stainton\
+> Pinsent Masons LLP\
 > Reduce Reuse Kids Clothes\
 > Slimming World, Bramley\
 > Sulzer Pumps UK\
 > Walker Morris LLP\
 > Welcome in Community Centre\
 > Wetherby Leisure Centre
-
-
 
 We are aiming to collect and distribute at least 2000 winter coats. If you would like to donate good quality winter coats in child or adult sizes, [find your closest donation point here](https://www.zerowasteleeds.org.uk/projects/leeds-winter-coat-appeal/#map) 
 
