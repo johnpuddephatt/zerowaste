@@ -15,6 +15,38 @@ The Leeds Winter Coat Appeal would not be possible without the support of organi
 
 ![Coat donations have already begun](/uploads/screenshot-2022-10-25-at-15.16.09.jpg "Coat donations have already begun")
 
+> Our thanks to all these organisations - \
+> \
+> Aireborough Leisure Centre\
+> BAM Nuttall Ltd\
+> BITMO (Belle Isle Tenant Management Organisation Ltd)\
+> Blueberry Marketing\
+> British Gas\
+> Clockwise\
+> Cottingley Children’s Centre\
+> Ernst & Young LLP\
+> Garforth Leisure Centre\
+> Holt Park Leisure Centre\
+> Ison Harrison Solicitors\
+> Leeds Community Healthcare NHS Trust\
+> Leeds Hotels & Venues Association\
+> LLoyds Bank\
+> LS14 Trust\
+> Merrion House\
+> Morley Leisure Centre\
+> Morrisons Rothwell\
+> Mott MacDonald\
+> NG Bailey\
+> Northern Estate Agency Group - Manning Stainton\
+> Reduce Reuse Kids Clothes\
+> Slimming World, Bramley\
+> Sulzer Pumps UK\
+> Walker Morris LLP\
+> Welcome in Community Centre\
+> Wetherby Leisure Centre
+
+
+
 We are aiming to collect and distribute at least 2000 winter coats. If you would like to donate good quality winter coats in child or adult sizes, [find your closest donation point here](https://www.zerowasteleeds.org.uk/projects/leeds-winter-coat-appeal/#map) 
 
 Donations are accepted until Sunday 13th November.
