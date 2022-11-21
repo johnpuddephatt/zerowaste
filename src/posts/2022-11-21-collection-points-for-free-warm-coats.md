@@ -5,19 +5,21 @@ date: 2022-11-21T12:38:19.152Z
 tags: coats
 image: /uploads/img-20221107-wa0000.jpg
 ---
-Our heartfelt thanks to everyone who took part in our 2022 Leeds Winter Coat Appeal.  Thanks to you we smashed our target of collecting 2000 warm coats for those that need them this Winter - we received 3,428 coats!   
+Our heartfelt thanks to everyone who took part in our 2022 Leeds Winter Coat Appeal.  Thanks to you we smashed our target of collecting 2000 warm coats for those that need them this Winter - we received an amazing 3,428 coats!   
 
 > **The people of Leeds donated 3,428 coats for children and adults**
 
-After a very busy 5 days, counting, sorting and batching them they are now available at 20 collection points across the city.   Families can go and help themselves to the coats they need for FREE. 
+After a very busy few days, counting, sorting and batching them they are now available at 20 collection points across the city.   Families can go and help themselves to the coats they need for FREE. 
 
-**Where can I pick up Winter coat for free?**
+**Where can I pick up a Winter coat for free?**
+
+Warm Winter coats are available for free at all the collection points below.  Please check the opening times before turning up.  
 
 <!--StartFragment-->
 
 |                                                       |                                                           |                                                                                                                    |
 | ----------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| Organisation                                          | Address                                                   | Opening times                                                                                                      |
+| **Organisation**                                      | **Address**                                               | **Opening times**                                                                                                  |
 | City Centre Hub (Merrion House)                       | Merrion House, Merrion Way, LS2 8BB                       | Mon – Thurs: 9:00am – 8:00pm Fri: 9:00am – 5:00pm Sat: 10:00am - 4:00pm                                            |
 | St Stephen's Church Hall                              | Norman Street, LS5 3JN                                    | Mon - Fri 9:00am - 3:00pm                                                                                          |
 | Woodhouse Medical Practice                            | Cambridge Road, LS6 2SF                                   | Mon, Tue, Wed & Fri 8:00 am – 6:00 pm Thurs: 8:00 am – 12:00 pm                                                    |
