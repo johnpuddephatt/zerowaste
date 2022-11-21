@@ -36,140 +36,218 @@ facts:
     description:
     image: /assets/images/coat-1.svg
 faqs:
-  - summary: Where and when can I get a coat?'
+  - summary: Where and when can I get a coat?
     details: >-
       Confirmed collection points along with opening hours are listed below.
 
       **City Centre Hub (Merrion House)**
+
       Merrion House, Merrion Way, LS2 8BB 
+
       Mon – Thurs: 9:00am – 8:00pm ​
+
       Fri: 9:00am – 5:00pm ​
+
       Sat: 10:00am - 4:00pm 
 
 
       **St Stephen's Church Hall**  
+
       Norman Street, LS5 3JN 
+
       Mon - Fri 9:00am - 3:00pm 
 
 
       **Woodhouse Medical Practice**
+
       Cambridge Road, LS6 2SF 
-      Mon, Tue, Wed & Fri 8:00 am – 6:00 pm 
+
+      Mon, Tue, Wed & Fri 8:00am – 6:00pm 
+
       Thurs: 8:00 am – 12:00 pm 
 
 
       **Meanwood Community Centre** 
+
       Stainbeck Avenue, LS7 2QU 
+
       Mon: 9:00am – 7:00pm 
+
       Tue: 9.00am – 6:00pm 
+
       Wed, Thurs & Fri: 9.00am – 7:00pm  
+
       Sat: 10.00am - 12.00pm 
 
       **Reginald Centre Community Hub - Fusion Cafe** 
+
       263 Chapeltown Road, LS7 3EX 
+
       Mon – Fri: 10:30am - 3:00pm 
 
 
       **Compton Centre Hub** 
+
       322 Harehills Lane, Harehills, 
+
       Cowper Terrace, LS9 7BG 
+
       Mon: 9:00am - 7:00pm​
+
       Tue: 10:00am – 7:00pm​
+
       Wed & Thurs: 9:00am – 7:00pm​
+
       Fri: 9:00am – 5:00pm ​
+
       Sat: 10:00am – 4:00pm 
 
 
       **BITMO (Belle Isle Tenant Management Organisation Ltd)** 
+
       BITMOs GATE, Aberfield Gate, 
+
       Belle Isle, LS10 3QH 
+
       Mon, Tue & Fri 9:00am - 12:00pm & 1:00pm – 4:00pm 
+
       Wed: 9:00am – 12:00pm 
+
       Thurs: 9:00am – 12:00pm & 1:00pm – 6:30pm 
 
 
       **Cottingley Children's Centre** 
+
       Cottingley Drive, LS11 0JP 
+
       Wed & Thurs: 8.30am-4:00pm  
 
 
       **New Wortley Community Association** 
+
       40 Tong Road, LS12 1LZ 
+
       Mon, Wed & Fri: 9:00am – 2:00pm​
+
       Tues: 3:00pm – 5:00pm​
+
       Thurs: 9:00am – 2:00pm & 5:00pm – 7:00pm 
 
 
       **Armley Community Hub** 
+
       2 Stocks Hill, Armley, LS12 1UQ 
+
       Mon, Wed & Thurs: 9:00am - 7:00pm​
+
       Tue: 10:00am - 7:00pm ​
+
       Fri: 9:00am - 5:00pm ​
+
       Sat: 10:00am - 4:00pm  
 
 
       **Bramley Community Hub** 
+
       Hough Lane, Bramley, LS13 3ND 
+
       Mon, Thurs & Fri: 09:00am - 5:00pm ​
+
       Tue: 10:00am - 5:00pm ​
+
       Wed: 09:00am - 7:00pm ​
+
       Sat: 10:00am - 4:00pm 
 
 
       **Seacroft Community Hub** 
+
       1 Seacroft Avenue, LS14 6JD 
+
       Mon, Thurs & Fri: 09:00am – 5:00pm ​
+
       Tue: 10:00am – 5:00pm​
+
       Wed: 09:00am – 7:00pm​
+
       Sat: 10:00am – 4:00pm 
 
 
       **Halton Library** 
+
       273 Selby Road, LS15 7JR 
+
       Mon, Thurs & Fri: 09:00am – 5:00pm ​
+
       Tue: 10:00am – 5:00pm​
+
       Wed: 09:00am – 7:00pm​
+
       Sat: 10:00am – 4:00pm 
 
 
       **Welcome In Community Centre**
+
       55 Bedford Drive, LS16 6DJ 
+
       Mon – Fri: 9:00am – 4:00pm
 
 
       **Yeadon Community Hub**
+
       Town Hall Square, Yeadon, LS19 7PP 
+
       Mon, Thurs & Fri: 09:00am – 5:00pm ​
+
       Tue: 10:00am – 5:00pm​
+
       Wed: 09:00am – 7:00pm​
+
       Sat: 10:00am – 4:00pm 
 
 
       **Garforth Library and One Stop Centre**
+
       Lidgett Lane, Garforth, LS25 1EH 
+
       Mon, Thurs & Fri: 9:00am - 5:00pm 
+
       Tue: 10:00am – 5:00pm 
+
       Wed: 9:00am – 7:00pm 
+
       Sat: 10:00am – 4:00pm 
 
 
       **LS26 Community Foodbank**
+
       Blackburn Hall, Commercial Street, LS26 0AW 
+
       Wed 10.30am -12:00pm & 3:00pm – 5:00pm and at the hug in a mug cafe on 
       the 1st Saturday of the month 
 
 
       **Morley Community Hub and Library**
+
       Commercial Street, Morley, LS27 8FZ 
+
       Mon, Thurs & Fri: 09:00am – 5:00pm ​
+
       Tue: 10:00am – 5:00pm​
+
       Wed: 09:00am – 7:00pm​
+
       Sat: 10:00am – 4:00pm 
 
+
       **Reduce, Reuse Kids Clothes**
+
       Pudsey Community Project, 
+
       Fartown, Pudsey, LS28 8LT 
+
       Mon & Tue: 9:00am – 11:00am 
+
       Wed – Fri: 10:00am – 12:00pm
   - summary: What types of coats are you collecting?
     details: >-
