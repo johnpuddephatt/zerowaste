@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Collection points for free warm coats
 date: 2022-11-21T12:38:19.152Z
 tags: coats
-image: /uploads/img-20221107-wa0000.jpg
+image: /uploads/collect-a-coat.jpg
 ---
 Our heartfelt thanks to everyone who took part in our 2022 Leeds Winter Coat Appeal.  Thanks to you we smashed our target of collecting 2000 warm coats for those that need them this Winter - we received an amazing 3,428 coats!   
 
