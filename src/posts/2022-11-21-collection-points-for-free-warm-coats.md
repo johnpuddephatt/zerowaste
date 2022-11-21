@@ -5,9 +5,9 @@ date: 2022-11-21T12:38:19.152Z
 tags: coats
 image: /uploads/img-20221107-wa0000.jpg
 ---
-Our heartfelt thanks to everyone who took part in our 2022 Leeds Winter Coat Appeal.  Thanks to you we smashed our target of collecting 2000 warm coats for those that need them this Winter.   
+Our heartfelt thanks to everyone who took part in our 2022 Leeds Winter Coat Appeal.  Thanks to you we smashed our target of collecting 2000 warm coats for those that need them this Winter - we received 3,428 coats!   
 
-> **The people of Leeds donated 3,428 coats for children and adults!**
+> **The people of Leeds donated 3,428 coats for children and adults**
 
 After a very busy 5 days, counting, sorting and batching them they are now available at 20 collection points across the city.   Families can go and help themselves to the coats they need for FREE. 
 
