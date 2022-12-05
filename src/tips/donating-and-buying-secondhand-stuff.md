@@ -76,6 +76,8 @@ There are plenty of online sharing communities that help you to give away unwant
 
 ##### Facebook groups
 
+[C.R.A.P. West Leeds LS5 & LS6 Headingley, Meanwood, Hyde Park, & Kirkstall](https://www.facebook.com/groups/278762654201605/)
+
 [Buy Now't LS6 - Library of Things](https://www.facebook.com/BuynowtLS6)
 
 C.R.A.P (Conserving Resources Associating People) [](https://www.facebook.com/groups/449919929757315/?hc_location=ufi)[LS6](https://www.facebook.com/groups/2007182396093415), [LS10 & LS11](https://www.facebook.com/groups/449919929757315/?hc_location=ufi), [LS12](https://www.facebook.com/groups/435646784511468), [LS15](https://www.facebook.com/groups/129211562264818), [](https://www.facebook.com/groups/129211562264818)[LS16](https://www.facebook.com/groups/223351169325622), [LS17](https://www.facebook.com/groups/2897575800475613/) and [LS25](https://www.facebook.com/groups/153089699914831) 
