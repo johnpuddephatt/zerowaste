@@ -13,4 +13,6 @@ We're delighted to announce that we are reopening the donations campaign from to
 
 As before, all donations will be made available in community hubs and designated warm hubs readily available to be picked up by people who need them.  
 
-So if you have any unwanted children or adult sized winter coats, fleeces or hoodies, please drop them into your nearest donation point below:
+Where can I donate a warm coat, fleece or hoodie? 
+
+At the following community and warm hubs -
