@@ -9,8 +9,8 @@ Demand has been so high for warm Winter coats this year that we're extending our
 
 We had such an amazing response last time - collecting 3,600 warm coats that have now been rehomed, saving families around £70,000 this winter.  
 
-We're delighted to announce that we are reopening the donations campaign from today and in partnership with Leeds City Council.  This time we'll be expanding it to include the collection of fleeces and hoodies, as well as warm coats in child and adult sizes.
+We're delighted to announce that we are reopening the donations campaign from today, in partnership with Leeds City Council.  This time we're also looking for donations of fleeces and hoodies, as well as warm coats in child and adult sizes.
 
-As before, all collections will be made available in community hubs and designated warm hubs readily available to people who need them most.  
+As before, all donations will be made available in community hubs and designated warm hubs readily available to be picked up by people who need them.  
 
 So if you have any unwanted children or adult sized winter coats, fleeces or hoodies, please drop them into your nearest donation point below:
