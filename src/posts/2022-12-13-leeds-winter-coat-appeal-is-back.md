@@ -13,6 +13,8 @@ We're delighted to announce that we are reopening the donations campaign from to
 
 As before, all donations will be made available in community hubs and designated warm hubs readily available to be picked up by people who need them.  
 
-Where can I donate a warm coat, fleece or hoodie? 
+All we ask is that the items are in good condition, clean and with a functioning zip. 
+
+### Where can I donate a warm coat, fleece or hoodie? 
 
 At the following community and warm hubs -
