@@ -1,12 +1,12 @@
 ---
 layout: layouts/post.njk
-title: Donating and buying secondhand stuff
+title: Donating, borrowing and buying secondhand stuff
 date: 2020-05-26T16:34:52.004Z
 tags:
   - stuff
 image: /uploads/secondhandfurniture.png
 ---
-With so many options to buy and donate secondhand stuff in Leeds, there's really very little need to buy new!
+With so many options to borrow, buy and donate secondhand stuff in Leeds, there's really very little need to buy new!
 
 Many reuse organisations in Leeds are run by charities or social enterprises, so by buying from them, not only are you saving precious environmental resources, but you are also often supporting a really good cause.
 
@@ -75,6 +75,8 @@ There are plenty of online sharing communities that help you to give away unwant
 [Next Door](https://nextdoor.co.uk/)
 
 ##### Facebook groups
+
+[C.R.A.P. West Leeds LS5 & LS6 Headingley, Meanwood, Hyde Park, & Kirkstall](https://www.facebook.com/groups/278762654201605/)
 
 [Buy Now't LS6 - Library of Things](https://www.facebook.com/BuynowtLS6)
 
