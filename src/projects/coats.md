@@ -5,17 +5,15 @@ subtitle: The Leeds Winter Coat Appeal aims to collect and redistribute great qu
 intro:
   - title: What we’re doing
     content: >-
-      Last year we ran a small but successful winter coat donation and distribution campaign giving out 500 good quality, second hand coats for children - for free. This year has seen demand go through the roof. 
-
-      We’ve set up Leeds Winter Coat Appeal to make it easy for people across Leeds to donate, share and collect good quality second hand winter coats. We aim to collect and distribute 2000 coats this winter and need your help.
+      We’ve set up Leeds Winter Coat Appeal to make it easy for people across Leeds to donate, share and collect good quality second hand winter coats. So far this winter we've collected and distributed 3600 coats. Demand is really high so we need your help to collect more.  
 
       [Find your nearest drop-off point here](https://docs.google.com/document/d/1_0oFHkBiYuTxEmwgCjGbrbQ0SMWOM7J-rRmuTpRMFmY/view)
 
   - title: Why we’re doing it
     content: >-
-      Leeds is a generous city, people are willing to share what they have. Last summer we distributed over 12,000 items of second hand, donated school uniform to over 1,000 families, saving them over £200,000 - which they can then spend on other essentials. Now we want to do the same with coats, hats, scarves and gloves. 
+      Leeds is a generous city, people are willing to share what they have. Last summer we distributed over 12,000 items of second hand, donated school uniform to over 1,000 families, saving them over £200,000 - which they can then spend on other essentials. Now we want to do the same with coats, hats, scarves and gloves.
 
-      By redistributing winter coats across the city we will help to ensure that fewer people in Leeds go without a coat this winter. We will also help to ensure that we reduce waste by encouraging people to share the coats they no longer use rather than throwing them away - it makes sense and is good for the environment.
+      By redistributing winter coats across the city we will help to ensure that fewer people in Leeds go without a warm coat this winter. We will also help to reduce waste by encouraging people to share the coats they no longer use rather than throwing them away - it makes sense and is good for the environment.
 # map:
 #   title: Map of collection points
 #   iframe: >
