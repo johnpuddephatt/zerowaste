@@ -52,6 +52,9 @@ faqs:
   - summary: What happens to the coats, fleeces & hoodies once they have been donated?
     details: >-
       Once they have had a quick quality check, donations will be made available to the public as soon as they come in. Coats, fleeces & hoodies that have been donated to the Leisure Centres will be collected and distributed to the participating Community Hubs.
+  - summary: Where can I get a free coat, fleece or hoodie?
+    details: >-
+    Take a look at [the list of collection points](https://docs.google.com/document/d/1IHaWKPcB9e6xTMy7-z7L1xR9t5-857W4xaB0dlI92u4/edit) to see where you can get a free coat, fleece or hoodie.
   - summary: Do I have to pay for the coat?
     details: >-
       People across Leeds have generously donated all these coats for free and so we will be offering them for free. 
