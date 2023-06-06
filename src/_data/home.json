@@ -1,7 +1,7 @@
 {
   "blog": {
-    "title": "Our thinking",
-    "subtitle": "Our latest thoughts on current issues"
+    "title": "Latest news",
+    "subtitle": "Our thoughts on current issues"
   },
   "join": {
     "title": "Join our movement",
@@ -23,7 +23,7 @@
   },
   "hire": {
     "title": "Need help? \n Hire us!",
-    "description": "Our expertise lies in developing behaviour change campaigns that help people and organisations to waste less.\n\nAre you interested in us working with you? \n\nWe have a strong track record for developing engaging, impactful campaigns that create change.  Our 10 week #stayathome waste reduction campaign - developed at the start of lockdown in March and delivered for Leeds City Council - is the latest example of this.  You can read our impact report [here](https://drive.google.com/file/d/19LPgf0gzOOzYTYmitXUZje8d2BwdeAXG/view).",
+    "description": "Our expertise lies in developing behaviour change campaigns that help people and organisations to waste less.\n\nAre you interested in us working with you?",
     "link": {
       "text": "Talk to us to find out more",
       "url": "mailto:info@zerowasteleeds.org.uk"
@@ -42,9 +42,9 @@
     "subtitle": "Ways to start reducing your waste"
   },
   "projects": [
-    "**Leeds** *Winter* coat **appeal**",
+    "**School** *uniform* exchange",
     "**Together** *for sport*",
-    "**School** *uniform* exchange"
+    "**Leeds** *Winter* coat **appeal**"
   ],
   "hero": {
     "link_text": "",

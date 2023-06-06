@@ -39,7 +39,7 @@ layout: layouts/base.njk
 </section>
 
 
-
+{#
 <section class="section__home-ideas" id="home-ideas">
   <div class="container">
     {% include "lightbulb.svg" %}
@@ -47,6 +47,18 @@ layout: layouts/base.njk
       <h2 class="section-title">{{ home.ideas.title | nl2br | safe }}!</h2>
       {{ home.ideas.description | markdownify | safe}}
       <a class="button button__large button__inverted type-4" href="{{ home.ideas.link.url }}">{{ home.ideas.link.text }}</a>
+    </div>
+  </div>
+</section>
+#}
+
+<section class="section__home-hire" id="home-hire">
+  <div class="container">
+    {% include "hire.svg" %}
+    <div class="hire__text">
+      <h2 class="section-title">{{ home.hire.title | nl2br | safe }}</h2>
+      {{ home.hire.description | markdownify | safe}}
+      <a class="button button__large button__inverted type-2" href="{{ home.hire.link.url }}">{{ home.hire.link.text }}</a>
     </div>
   </div>
 </section>
@@ -123,17 +135,9 @@ layout: layouts/base.njk
   </div>
 </section>
 
-<section class="section__home-hire" id="home-hire">
-  <div class="container">
-    {% include "hire.svg" %}
-    <div class="hire__text">
-      <h2 class="section-title">{{ home.hire.title | nl2br | safe }}</h2>
-      {{ home.hire.description | markdownify | safe}}
-      <a class="button button__large button__inverted type-2" href="{{ home.hire.link.url }}">{{ home.hire.link.text }}</a>
-    </div>
-  </div>
-</section>
 
+
+{#
 <section class="section__home-pipeline" id="home-pipeline">
 
   <h2 class="section-title section-title__large">{{ home.get_involved.title }}</h2>
@@ -155,5 +159,5 @@ layout: layouts/base.njk
       </a>
     {% endfor %}
   </div>
-
 </section>
+#}
