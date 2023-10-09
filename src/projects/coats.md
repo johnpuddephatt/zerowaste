@@ -65,13 +65,14 @@ faqs:
       and so we will be offering them for free. "
 facts:
   - title: "**30% of clothing** in wardrobes hasn’t been worn in a year"
-    description: 30% of clothing in wardrobes hasn't been worn in a year
+    description: Have you got any winter items you haven't worn for a while that you
+      could donate?
     image: /assets/images/coat-1.svg
   - title: "**About £1,200 of unworn clothing** sits in every UK home "
-    description: About £1,200 of unworn clothing sits in every UK home
+    description: That's a scary stat
     image: /assets/images/coat-2.svg
   - title: Unused clothing in UK wardrobes is worth **around £30 billion**
-    description: Unused clothing in UK wardrobes is worth around £30 billion
+    description: That's mind blowing!
     image: /assets/images/coat-1.svg
 call_to_action:
   title: Support our work
