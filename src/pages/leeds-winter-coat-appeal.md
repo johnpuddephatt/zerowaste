@@ -7,7 +7,7 @@ W﻿e're launching the Leeds Winter Coat Appeal again this year. Starting in Oct
 
 ![](/uploads/zwl-coats-edited.png)
 
-Why are we launching this appeal?\
+Why are we launching this appeal?
 
 Last year we ran a small but successful winter coat donation and distribution campaign giving out 500 good quality, second hand coats for children - for free.  This year has seen demand go through the roof and we are being contacted regularly by schools worried that their children won't have a warm winter coat this winter. 
 
