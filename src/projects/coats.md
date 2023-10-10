@@ -37,8 +37,7 @@ faqs:
   - summary: Where can I donate the coats, fleeces and hoodies?
     details: >-
       [See the full list of donation points
-      here](https://docs.google.com/document/d/1_0oFHkBiYuTxEmwgCjGbrbQ0SMWOM7J
-      \-rRmuTpRMFmY/view)
+      here](https://docs.google.com/document/d/1_0oFHkBiYuTxEmwgCjGbrbQ0SMWOM7J-rRmuTpRMFmY/view)
   - summary: What types of coats are you collecting?
     details:
       Ideally warm winter coats for all ages groups i.e. childrens through to
