@@ -13,7 +13,7 @@ intro:
       Leeds to donate, share and collect good quality second hand winter coats. 
 
 
-      Last year's Appeal was a huge success thanks to the many businesses, individuals and community groups that got involved donating and distributing coats.  We were able to give out over 6,500 items of winter clothing to families for free.  That saved people over £132,000 - money that stayed within the family budget and could be spent on other essentials.  The rising cost of food, utilities and other living costs is hitting people hard and it's especially difficult over the cold winter months.
+      Last year's Appeal was a huge success thanks to the many businesses, individuals and community groups that got involved donating and distributing coats.  We were able to give out over 6,500 items of winter clothing to families for free.  That saved people over £132,000 - money that stayed within the family budget and could be spent on other essentials.  The rising cost of food, utilities and other living costs is hitting people hard and it's especially difficult over the cold winter months.
 
 
       [Find your nearest drop-off point here](https://docs.google.com/document/d/1_0oFHkBiYuTxEmwgCjGbrbQ0SMWOM7J-rRmuTpRMFmY/view)
@@ -22,22 +22,23 @@ intro:
   - title: Why we’re doing it
     content: >-
       Leeds is a very generous city and we are so thankful that people can and
-      want to help.  This summer we distributed over 16,700 items of second
+      want to help.  This summer we distributed over 16,700 items of second
       hand, donated school uniform to over 2,900 families, saving them over
       £284,000 - which they can then spend on other essentials. Now we want to
       do the same with coats, hats, scarves and gloves.
 
 
-      This year we'd like people to share the winter coats they no longer want or need.  It's such a great way to come together as a community and share the things we have.  By redistributing winter coats across the city we will help to ensure that fewer people in Leeds go without a warm coat this winter. We will also help to reduce waste by encouraging people to share the coats they no longer use rather than throwing them away - it makes sense and is good for the environment.
+      This year we'd like people to share the winter coats they no longer want or need.  It's such a great way to come together as a community and share the things we have.  By redistributing winter coats across the city we will help to ensure that fewer people in Leeds go without a warm coat this winter. We will also help to reduce waste by encouraging people to share the coats they no longer use rather than throwing them away - it makes sense and is good for the environment.
 posts:
   title: Updates
   subtitle: Our latest posts about the winter coat appeal
   tag: coats
 faqs:
   - summary: Where can I donate the coats, fleeces and hoodies?
-    details: >
-      [See the full list of donation points
-      here](https://docs.google.com/document/d/1_0oFHkBiYuTxEmwgCjGbrbQ0SMWOM7J-rRmuTpRMFmY/view)
+    details: >-
+      "[See the full list of donation points
+      here](https://docs.google.com/document/d/1_0oFHkBiYuTxEmwgCjGbrbQ0SMWOM7J\
+      -rRmuTpRMFmY/view)"
   - summary: What types of coats are you collecting?
     details:
       Ideally warm winter coats for all ages groups i.e. childrens through to
@@ -59,8 +60,7 @@ faqs:
       that have been donated to the Leisure Centres will be collected and
       distributed to the participating Community Hubs.
   - summary: Where can I get a free coat, fleece or hoodie?
-    details: >
-      Take a look at [the list of collection
+    details: Take a look at [the list of collection
       points](https://docs.google.com/document/d/1IHaWKPcB9e6xTMy7-z7L1xR9t5-857W4xaB0dlI92u4/edit)
       to see where you can get a free coat, fleece or hoodie.
   - summary: Do I have to pay for the coat?
