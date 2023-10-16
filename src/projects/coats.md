@@ -1,9 +1,9 @@
 ---
 color: "#6196c6"
 title: "**Leeds** *Winter* coat **appeal**"
-subtitle: The Leeds Winter Coat Appeal aims to collect and redistribute great
+subtitle: "The Leeds Winter Coat Appeal aims to collect and redistribute great
   quality, second-hand winter coats to people across Leeds for free, helping to
-  save money and reduce waste.
+  save money and reduce waste."
 image: /assets/images/coats.svg
 icon: /assets/images/coat-icon.svg
 intro:
