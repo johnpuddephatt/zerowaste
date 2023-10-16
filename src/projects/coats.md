@@ -34,11 +34,6 @@ posts:
   subtitle: Our latest posts about the winter coat appeal
   tag: coats
 faqs:
-  - summary: Where can I donate the coats, fleeces and hoodies?
-    details: >-
-      "[See the full list of donation points
-      here](https://docs.google.com/document/d/1_0oFHkBiYuTxEmwgCjGbrbQ0SMWOM7J\
-      -rRmuTpRMFmY/view)"
   - summary: What types of coats are you collecting?
     details:
       Ideally warm winter coats for all ages groups i.e. childrens through to
@@ -59,10 +54,6 @@ faqs:
       available to the public as soon as they come in. Coats, fleeces & hoodies
       that have been donated to the Leisure Centres will be collected and
       distributed to the participating Community Hubs.
-  - summary: Where can I get a free coat, fleece or hoodie?
-    details: Take a look at [the list of collection
-      points](https://docs.google.com/document/d/1IHaWKPcB9e6xTMy7-z7L1xR9t5-857W4xaB0dlI92u4/edit)
-      to see where you can get a free coat, fleece or hoodie.
   - summary: Do I have to pay for the coat?
     details:
       "People across Leeds have generously donated all these coats for free
