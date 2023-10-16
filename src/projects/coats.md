@@ -35,33 +35,31 @@ posts:
   tag: coats
 faqs:
   - summary: What types of coats are you collecting?
-    details:
-      Ideally warm winter coats for all ages groups i.e. childrens through to
-      adult sizes. Fur coats or lightweight rain coats are not accepted. We ask
-      that all coats be clean, in good condition and with a functioning zip.
+    details: Ideally warm winter coats for all ages groups i.e. baby, children
+      through to adult sizes. Fur coats or lightweight rain coats are not
+      accepted. We are also collecting fleeces, waterproofs, baby cot sleeping
+      bags, snow suits for babies and young children, pram footmuffs and hats,
+      scarves and gloves. We ask that all coats be clean, in good condition and
+      with a functioning zip.
   - summary: Can I post my coat to you?
     details: No, this is not possible for this appeal.
   - summary: When is the closing date for donations?
-    details: The appeal has been extended until the end of March 2023, but
-      temperatures have recently dropped so coats, fleeces & hoodies are needed
-      now.
+    details: The appeal launches on 16th October 2023 with the final date for
+      donations on Friday 26th January 2024.  All coats will have been
+      distributed by the end February 2024.
   - summary: Do you accept hats, scarves and gloves?
-    details:
-      Yes. They must be clean and in good condition and the gloves should be
+    details: Yes. They must be clean and in good condition and the gloves should be
       folded into pairs.
   - summary: What happens to the coats, fleeces & hoodies once they have been donated?
     details: Once they have had a quick quality check, donations will be made
-      available to the public as soon as they come in. Coats, fleeces & hoodies
-      that have been donated to the Leisure Centres will be collected and
-      distributed to the participating Community Hubs.
+      available to the public as soon as they come in. Details of where you can
+      get a coat will be confirmed shortly.
   - summary: Do I have to pay for the coat?
-    details:
-      "People across Leeds have generously donated all these coats for free
+    details: "People across Leeds have generously donated all these coats for free
       and so we will be offering them for free. "
 facts:
   - title: "**30% of clothing** in wardrobes hasn’t been worn in a year"
-    description:
-      Have you got any winter items you haven't worn for a while that you
+    description: Have you got any winter items you haven't worn for a while that you
       could donate?
     image: /assets/images/coat-1.svg
   - title: "**About £1,200 of unworn clothing** sits in every UK home "
