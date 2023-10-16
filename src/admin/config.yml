@@ -339,6 +339,7 @@ collections:
         name: "color"
         widget: "select"
         options:
+          - { label: "Dark blue", value: "#6196c6" }
           - { label: "Blue", value: "#377780" }
           - { label: "Orange", value: "#f89d33" }
           - { label: "Pink", value: "#F8BDD4" }
