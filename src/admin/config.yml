@@ -387,7 +387,7 @@ collections:
             }
       - label: Frequently asked questions
         name: faqs
-        widget: object
+        widget: list
         fields:
           - { label: "Summary", name: "summary", widget: "string" }
           - { label: "Details", name: "details", widget: "markdown" }
