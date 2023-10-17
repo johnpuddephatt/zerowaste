@@ -50,7 +50,7 @@ faqs:
   - summary: Do you accept hats, scarves and gloves?
     details: Yes. They must be clean and in good condition and the gloves should be
       folded into pairs.
-  - summary: What happens to the coats, fleeces & hoodies once they have been donated?
+  - summary: What happens to the coats and other items once they have been donated?
     details: Once they have had a quick quality check, donations will be made
       available to the public as soon as they come in. Details of where you can
       get a coat will be confirmed shortly.
