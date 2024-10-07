@@ -50,7 +50,7 @@ faqs:
   - summary: When is the closing date for donations?
     details: The appeal launches on 21 October 2024 with the final date for
       donations on Friday 31 January 2025.  All coats will have been distributed
-      by the end February 2024.
+      by the end February 2025.
   - summary: Do you accept hats, scarves and gloves?
     details: Yes. They must be clean and in good condition and the gloves should be
       folded into pairs.
