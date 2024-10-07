@@ -21,7 +21,7 @@ intro:
 
       [Find your nearest drop-off point here](https://docs.google.com/document/d/1F08UeFw0pxEW2CuWIHKc8UWeDNsFr5tQ/edit?usp=sharing&ouid=111174684810694430309&rtpof=true&sd=true)
 
-      [Find your nearest collection point here](https://docs.google.com/document/d/1IHaWKPcB9e6xTMy7-z7L1xR9t5-857W4xaB0dlI92u4/view)
+      [Find your nearest collection point here](https://docs.google.com/document/d/1Wvrv4qIub561Q71WLciZZ1RC5etxzeQl/edit?usp=sharing&ouid=111174684810694430309&rtpof=true&sd=true)
   - title: Why we’re doing it
     content: >-
       Leeds is a very generous city and we are so thankful that people can and
