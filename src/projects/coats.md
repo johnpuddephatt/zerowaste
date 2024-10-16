@@ -16,7 +16,7 @@ intro:
       end of February 2025.
 
 
-      Last year's Appeal was a huge success thanks to the many businesses, individuals and community groups that got involved donating and distributing coats.  We were able to give out over 7,600 items of winter clothing to families for free.  That saved people over £144,00 - money that stayed within the family budget and could be spent on other essentials.  The rising cost of food, utilities and other living costs is hitting people hard and it's especially difficult over the cold winter months.
+      Last year's Appeal was a huge success thanks to the many businesses, individuals and community groups that got involved donating and distributing coats.  We were able to give out over 7,600 items of winter clothing to families for free.  That saved people over £144,000 - money that stayed within the family budget and could be spent on other essentials.  The rising cost of food, utilities and other living costs is hitting people hard and it's especially difficult over the cold winter months.
 
 
       **Donations welcome from 21 October 2024 - 31 January 2025. [Find your nearest drop-off point here](https://docs.google.com/document/d/1F08UeFw0pxEW2CuWIHKc8UWeDNsFr5tQ/edit?usp=sharing&ouid=111174684810694430309&rtpof=true&sd=true)**
