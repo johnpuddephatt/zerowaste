@@ -11,26 +11,26 @@ intro:
     content: >-
       We’ve set up Leeds Winter Coat Appeal to make it easy for people across
       Leeds to donate, share and collect good quality second hand winter coats.
-      The appeal launches on 21 October 2024 and will continue until the end of
-      January 2025 - with all coats being distributed to local families by the
-      end of February 2025.
+      The appeal launched on 20 October 2025 and will continue until the end of
+      January 2026 - with all coats being distributed to local families by the
+      end of February 2026.
 
 
-      Last year's Appeal was a huge success thanks to the many businesses, individuals and community groups that got involved donating and distributing coats.  We were able to give out over 7,600 items of winter clothing to families for free.  That saved people over £144,000 - money that stayed within the family budget and could be spent on other essentials.  The rising cost of food, utilities and other living costs is hitting people hard and it's especially difficult over the cold winter months.
+      Last year's Appeal was a huge success thanks to the many businesses, individuals and community groups that got involved donating and distributing coats.  Last year we were able to give out 8,900 items of winter clothing to families in Leeds for FREE.  That saved people over £272,800 - money that stayed in the family budget and could be spent on other essentials. The rising cost of food, utilities and other living costs is hitting people hard and it's especially difficult over the cold winter months.
 
 
-      **Donations welcome from 21 October 2024 - 31 January 2025. [Find your nearest drop-off point here](https://docs.google.com/document/d/1F08UeFw0pxEW2CuWIHKc8UWeDNsFr5tQ/edit?usp=sharing&ouid=111174684810694430309&rtpof=true&sd=true)**
+      **Donations welcome from 20 October 2025 - 30 January 2026.** [Find your nearest drop-off point here](https://drive.google.com/drive/folders/1VvlVIPEkKCfaKLwdKzmAYRpE0uu_DSE3)
 
       [](https://docs.google.com/document/d/1Wvrv4qIub561Q71WLciZZ1RC5etxzeQl/edit?usp=sharing&ouid=111174684810694430309&rtpof=true&sd=true)
 
 
-      Free coats will be available from 4 November 2024 until 28 February 2025. [Find your nearest collection point here](https://docs.google.com/document/d/1Wvrv4qIub561Q71WLciZZ1RC5etxzeQl/edit?usp=sharing&ouid=111174684810694430309&rtpof=true&sd=true)
+      Free coats will be available a various distribution points across Leeds in early November 2025. A full list will be uploaded shortly.
   - title: Why we’re doing it
     content: >-
       Leeds is a very generous city and we are so thankful that people can and
-      want to help.  From September 2023 to September 2024 we distributed over
-      22,800 items of second hand, donated school uniform to over 3,600
-      families, saving them over £388,900 - which they can then spend on other
+      want to help.  From September 2024 to September 2025 we distributed over
+      26,850 items of second hand, donated school uniform to over 3,800
+      families, saving them over £402,750 - which they can then spend on other
       essentials. Now we want to do the same with coats, hats, scarves and
       gloves.
 
@@ -51,16 +51,16 @@ faqs:
   - summary: Can I post my coat to you?
     details: No, this is not possible for this appeal.
   - summary: When is the closing date for donations?
-    details: The appeal launches on 21 October 2024 with the final date for
-      donations on Friday 31 January 2025.  All coats will have been distributed
-      by the end February 2025.
+    details: The appeal launches on 20 October 2025 with the final date for
+      donations on Friday 30 January 2026.  All coats will have been distributed
+      by the end February 2026.
   - summary: Do you accept hats, scarves and gloves?
     details: Yes. They must be clean and in good condition and the gloves should be
       folded into pairs.
   - summary: What happens to the coats and other items once they have been donated?
     details: Once they have had a quick quality check, donations will be made
       available to the public as soon as they come in. A link to the full list
-      of collection points can be found above.
+      of distribution points will be uploaded shortly.
   - summary: Do I have to pay for the coat?
     details: "People across Leeds have generously donated all these coats for free
       and so we will be offering them for free. "
@@ -78,12 +78,12 @@ facts:
 call_to_action:
   title: Support our work
   content: >
-    Last year 28 local businesses supported us and we'd love more businesses to
+    Last year 34 local businesses supported us and we'd love more businesses to
     get involved this year.  Could you support us by asking your staff to pass
     on the coats they no longer want or need. We also have volunteering
     opportunities to sort through the donations. If you'd like to support our
     work or collaborate with us, please get in touch by emailing
-    info@zerowasteleeds.org.uk.
+    info@wearandshareleeds.org.uk
 custom_css: >
   .projects--header::before {
     content: '';
